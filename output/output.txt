@@ -1,0 +1,100 @@
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Training Component 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ TrainingComponent ---
+Justin Bieber	m.06w2sn5
+Natalie Portman	m.09l3p
+Selena Gomez	m.0gs6vr
+Grand Bahama	m.03st9j
+The Bahamas	m.0160w
+John Noble	m.02fgm7
+Joakim Noah	m.0c2yrf
+Washington Redskins	m.084l5
+Saki	m.05f54gx
+Sacha Baron Cohen	m.0c9c0
+Poland	m.05qhw
+Cleveland Ohio	m.01sn3
+Draco Malfoy	m.0c2m4
+United States	m.09c7w0
+Rome	m.06c62
+Nina Dobrev	m.027nwk2
+Iceland	m.03rj0
+John F Kennedy	m.01q1wc
+Beverly Cleary	m.018rv0
+Philippines	m.05v8c
+Bali	m.01bkb
+Ethiopia	m.019pcs
+Sedona	m.0ny57
+Bill Clinton	m.0157m
+Russia	m.06bnz
+Taylor Lautner	m.07ldhs
+Lebron James	m.01jz6d
+German Language	m.02h40lc
+Adriana Lima	m.03qvwf
+Thai Language	m.07f1x
+Wives Of Henry Viii	m.0m9vr
+Ishmael	m.01ghr4
+Malcolm X	m.03f2h01
+Netherlands	m.059j2
+Brazil	m.015fr
+France	m.0f8l9c
+Esther	m.01dpg
+Toronto Maple Leafs	m.0j6tr
+Nicholas Ii Of Russia	m.05hks
+Essex	m.02ly_
+Cher	m.01vtj38
+Martin Cooper	m.0bt6kc
+Andrew Jackson	m.0rlz
+Medicare	m.01fl8x
+Hampton	m.04wlz2
+Harry Potter	m.02676m4
+William Shakespeare	m.081k8
+London Heathrow Airport	m.03jn4
+Dmitri Mendeleev	m.0gglj
+Josh Hutcherson	m.08wjf4
+Laredo	m.010bnr
+Tony Soprano	m.02kj45
+San Francisco Giants	m.0713r
+William Jennings Bryan	m.0b3tf
+Frederick Douglass	m.02zg0
+Victoria Of The United Kingdom	m.0cw10
+Sally Field	m.01jw4r
+Sherlock Holmes	m.06rkl
+Michael Weston	m.06jczl
+Lena River	m.0203mm
+Portuguese	m.05r4w
+Pittsburgh	m.068p2
+Walt Disney	m.09b3v
+Bush	m.09b6zr
+Tupac Shakur	m.07pzc
+Austraila	m.0chghy
+Maggie Grace	m.03_wpf
+Louis Armstrong	m.04n32
+Sydney	m.06y57
+Joey Lawrence	m.01pr9kj
+Denver	m.02cl1
+Brian Austin Green	m.01npcy7
+Jackie French	m.0c9xl9
+Sparta	m.03j76b
+Colorado Rockies	m.01ync
+Peter Parker Spider Man	m.06ys2
+Matt Lauer	m.049_zz
+London	m.04jpl
+Joan Miro	m.0g_6k
+France	m.0f8l9c
+Vincent Van Gogh	m.07_m2
+Jacksonville	m.0ggh3
+Michigan	m.04rrx
+New York Knicks	m.0jm3v
+China	m.0d05w3
+Woodrow Wilson	m.083q7
+Jack Daniels	m.05msq8z
+Pakistan	m.05sb1
+Santa Clara University	m.027xx3
+Korea	m.06qd3
+Timothy Mcveigh	m.07rp8
+Yangtze River	m.01y4t
