@@ -47,7 +47,8 @@ public class APIReader {
 		      for (Object element : elements) {
 		    	  String scoreString = JsonPath.read(element, "$.resultScore").toString();
 	    		  double tmpScore = Double.parseDouble(scoreString);
-		    	  if (counter == 0 || Double.compare(tmpScore, score) > 0) {
+	    		  String type = JsonPath.read(element, "$.result.@type").toString();
+		    	  if ((counter == 0 || Double.compare(tmpScore, score) > 0) && type.indexOf("Event") < 0) {
 		    		  score = tmpScore;
 		    		  idString = JsonPath.read(element, "$.result.@id").toString();
 		    	  }

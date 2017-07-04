@@ -43,12 +43,12 @@ public class TrainingComponentService {
 			String[] substrings = line.split("\t");
 			String id = ar.getIdByNoun(substrings[1]);
 			if (substrings.length < 3) {
-				System.out.println(substrings[1] + "\t" + id);
+				System.out.println(substrings[1] + "\t" + id + "\tN/A");
 			} else {
 				String originalId = substrings[2].replace("http://rdf.freebase.com/ns/", "");
 				System.out.print(substrings[1] + "\t" + id + "\t" + originalId);
 				if (!originalId.equals(id)) {
-					System.out.println("  ----------");
+					System.out.println("\t----------");
 				} else {
 					System.out.println("");
 				}
@@ -59,7 +59,6 @@ public class TrainingComponentService {
 	
 	protected String formatString(String input) {
 		String newString = input;
-		int i = 0;
 		
 		if (input.indexOf("http://www.freebase.com") >= 0) {
 			String[] substrings = input.split(" ");
