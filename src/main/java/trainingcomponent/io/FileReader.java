@@ -34,4 +34,24 @@ public class FileReader {
 		
 		return nouns.toArray(new String[0]);
 	}
+	
+	public String[] getWholeLine() {
+		ArrayList<String> nouns = new ArrayList<String>();
+		
+		File file = new File(this.filePath);
+		try {
+			BufferedReader br = new BufferedReader(new java.io.FileReader(file));
+			String line = "";
+			
+			while ((line = br.readLine()) != null) {
+				nouns.add(line);
+			}
+			
+			br.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		return nouns.toArray(new String[0]);
+	}
 }
