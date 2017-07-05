@@ -10,7 +10,7 @@ public class FileReader {
 	protected String filePath = "";
 	
 	public FileReader() {
-		this.filePath = INPUT_PATH + INPUT_FILE_NAME2;
+		this.filePath = INPUT_PATH + INPUT_FILE_NAME;
 	}
 	
 	public String[] read() {
