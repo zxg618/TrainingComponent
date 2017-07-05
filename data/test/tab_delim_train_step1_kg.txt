@@ -1,0 +1,801 @@
+Justin Bieber	[m.06w2sn5, m.0j263y3, m.02wz8_7]	m.06w2sn5
+Natalie Portman	[m.09l3p, m.024tzvd, m.0tx7h17]	m.09l3p
+Selena Gomez	[m.0gs6vr, m.09rt83f, g.11b87h0bfz]	m.0gs6vr
+Grand Bahama	[m.03st9j, m.03t1dv, m.07jwh6]	m.03st9j
+The Bahamas	[m.0160w, m.09q374, m.07ffm5]	m.05dgq_3	----------
+John Noble	[m.02fgm7, m.059_x2l, m.03995f]	m.02fgm7
+Joakim Noah	[m.0c2yrf]	m.0c2yrf
+Washington Redskins	[m.084l5]	m.084l5
+Saki	[m.05f54gx, m.07484, m.02_98f]	m.07484
+Sacha Baron Cohen	[m.0c9c0, g.11ckkskty0, g.11clw935pd]	m.0c9c0
+Poland	[m.05qhw, m.03pn9]	m.05qhw
+Cleveland Ohio	[m.01sn3, m.01_d4, m.08pnxj]	m.01cj3cp	----------
+Draco Malfoy	[m.0c2m4, m.01cwj2w, m.0dy1hfz]	m.0c2m4
+United States	[m.09c7w0, m.01bqks, m.07wg3]	m.0dvxqk	----------
+Rome	[m.06c62, m.04jr87, m.02l341]	m.06c62
+Nina Dobrev	[m.027nwk2, m.0whfqp3, g.11c0rgfwrs]	m.027nwk2
+Iceland	[m.03rj0, m.03yv67, m.026wgq]	m.03rj0
+John F Kennedy	[m.0d3k14, m.0p1l2]	m.03t0qkg	----------
+Beverly Cleary	[m.018rv0, m.0cc5jxl, m.06kxfm2]	m.018rv0
+Philippines	[m.05v8c, m.019rl6]	m.05v8c
+Bali	[m.01bkb, m.04y9jwq]	m.03fj2b4	----------
+Ethiopia	[m.019pcs, m.02y_9cf]	m.019pcs
+Sedona	[m.0ny57, m.02ty7n, m.02qswpp]	m.0ny57
+Bill Clinton	[m.0157m]	m.0157m
+Russia	[m.06bnz, m.0cdbq]	m.06bnz
+Taylor Lautner	[m.07ldhs, g.11cmp9_th6, m.0dl567]	m.07ldhs
+Lebron James	[m.01jz6d, m.02_n34, g.1q5j7dg6s]	m.063r8c_	----------
+German Language	[m.02h40lc, m.0345h, m.09hgk]	m.04306rv	----------
+Adriana Lima	[m.03qvwf, m.027z0_6, m.05p3ww8]	m.03qvwf
+Thai Language	[m.07f1x, m.07c9s, g.11cmcd2mgt]	m.0c_v2	----------
+Wives Of Henry Viii	[m.0m9vr, m.03p77, m.01jp464]	N/A
+Ishmael	[m.01ghr4, m.01ghsc, m.0pwb]	m.0g_7x	----------
+Malcolm X	[m.03f2h01, m.01rwyq, m.04hwsb]	m.03f2h01
+Netherlands	[m.059j2, m.02ltg3, m.09b500]	m.059j2
+Brazil	[m.015fr, m.01352_, m.02rp9tg]	m.015fr
+France	[m.0f8l9c, m.01l3vx]	m.0f8l9c
+Esther	[m.01dpg, m.02pn7, m.01vs_v8]	m.0qb5mjj	----------
+Toronto Maple Leafs	[m.0j6tr, m.0616j5, m.07wzr_]	m.0j6tr
+Nicholas Ii Of Russia	[m.05hks, m.06bnz]	N/A
+Essex	[m.02ly_, m.05hdzj, m.0dfnj]	m.02ly_
+Cher	[m.01vtj38, m.0kw03, m.0kw0m]	m.01vtj38
+Martin Cooper	[m.0bt6kc, m.03h_m8m, m.03mfqv6]	m.03h_m8m
+Andrew Jackson	[m.0rlz, m.018t4c, m.03f53ld]	m.0rlz
+Medicare	[m.01fl8x, m.0cp69y9, m.0cp7p8v]	m.0mfz_m	----------
+Hampton	[m.04wlz2, m.0dx9r, m.0n9rn]	m.0mnsf	----------
+Harry Potter	[m.02676m4, m.078ffw, m.03bkkv]	m.06xltj	----------
+William Shakespeare	[m.081k8, m.05mdd, m.03j9w]	m.081k8
+London Heathrow Airport	[m.03jn4, m.04jpl, m.0bgtnh]	m.03jn4
+Dmitri Mendeleev	[m.0gglj, m.02ck1, m.04ydfhk]	m.0gglj
+Josh Hutcherson	[m.08wjf4, m.0kbb5vv, m.07y296]	m.08wjf4
+Laredo	[m.010bnr, m.051f5x, m.05bsnr]	m.010bnr
+Tony Soprano	[m.02kj45, m.0xhsp6, m.0wdq1l]	m.02kj45
+San Francisco Giants	[m.0713r, m.0d6lp]	m.0713r
+William Jennings Bryan	[m.0b3tf, m.07wxmh, m.07dx3f]	m.0b3tf
+Frederick Douglass	[m.02zg0, m.04kh2k, m.04qfd3]	m.02zg0
+Victoria Of The United Kingdom	[m.0cw10, m.01mqj1, m.01ww1f]	N/A
+Sally Field	[m.01jw4r, m.011hxs3, m.0wb684t]	m.01jw4r
+Sherlock Holmes	[m.06rkl, m.08gzlg, m.025xclc]	m.04n52p6	----------
+Michael Weston	[m.06jczl, m.0dc587, m.05wd4l9]	m.06jczl
+Lena River	[m.0203mm, m.068ghwd, m.016b8y6]	m.0203mm
+Portuguese	[m.05r4w, m.01hk04, m.03n_lr]	m.06q8tnj	----------
+Pittsburgh	[m.068p2, m.061xq, m.05tfm]	m.068p2
+Walt Disney	[m.09b3v, m.081nh, m.04rcl7]	m.081nh
+Bush	[m.09b6zr, m.034ls, m.019x9z]	m.01727v	----------
+Tupac Shakur	[m.07pzc, m.0gjwtd]	m.07pzc
+Austraila	[m.0chghy, m.03mv_7, m.06km172]	N/A
+Maggie Grace	[m.03_wpf, g.11bxc65kjv, m.0b75rx1]	m.03_wpf
+Louis Armstrong	[m.04n32, m.01n2ws, m.0ccvx]	m.04n32
+Sydney	[m.06y57, m.077cg]	m.06y57
+Joey Lawrence	[m.01pr9kj, m.03g3lm3, m.03cgq7_]	m.01pr9kj
+Denver	[m.02cl1, m.0289q, m.0jmdb]	m.02cl1
+Brian Austin Green	[m.01npcy7, m.0bh8yn3, m.026nsw4]	m.01npcy7
+Jackie French	[m.0c9xl9, m.02qm54x, g.11b7vdy796]	m.0c9xl9
+Sparta	[m.03j76b, m.09472, m.0kq9l]	m.09472
+Colorado Rockies	[m.01ync, m.01n4w]	m.01ync
+Peter Parker Spider Man	[m.06ys2, m.03f3r9, m.04g400]	N/A
+Matt Lauer	[m.049_zz, m.01h1bf, g.1s05qj2np]	m.049_zz
+London	[m.04jpl, m.01_c4]	m.04jpl
+Joan Miro	[m.0g_6k, m.09pnpz, g.1z0spk2m9]	m.08whf92	----------
+France	[m.0f8l9c, m.01l3vx]	m.0f8l9c
+Vincent Van Gogh	[m.07_m2, m.0bqtb1n]	m.02nw8hw	----------
+Jacksonville	[m.0ggh3, m.0ck1r7, m.043vc]	m.0ggh3
+Michigan	[m.04rrx, m.07szy, m.0fsb_6]	m.04rrx
+New York Knicks	[m.0jm3v, m.02_286, m.0cc56]	m.0jm3v
+China	[m.0d05w3, m.06f32]	m.0d05w3
+Woodrow Wilson	[m.083q7, m.05hfj3, m.08v7t1]	m.083q7
+Jack Daniels	[m.05msq8z, m.021znp, g.1q5jzq6m4]	m.055043	----------
+Pakistan	[m.05sb1, m.038_0z, m.069kbv]	m.05sb1
+Santa Clara University	[m.027xx3, m.0gmgqkz, m.041zxw]	m.027xx3
+Korea	[m.06qd3, m.05b7q]	m.048fz	----------
+Timothy Mcveigh	[m.07rp8, m.06rmg4, m.0_wsz7c]	m.0j5m2wt	----------
+Yangtze River	[m.01y4t, m.01kjw5, m.04r25l]	m.01y4t
+Miley Cyrus	[m.0bdxs5, m.02r0m0_, m.0wxst8t]	m.0bdxs5
+Charles Darwin	[m.01lwx, m.01rng2, m.05258fr]	m.01lwx
+Roanoke Colony	[m.02p0w8z, m.019vh6]	m.02p0w8z
+Jamaica	[m.03_r3, m.03zbg0, m.0541mw]	m.03_r3
+Robert Downey Jr	[m.016z2j, m.011hxqc, m.0dv5655]	m.0dv5655
+New York Rangers	[m.0hmtk, m.02_286, m.0cc56]	m.0hmtk
+Jefferson Davis	[m.043q0, m.0p4gk, m.069qj0]	m.043q0
+Stephenie Meyer	[m.0c4_9m, m.06ljsr4, m.0v22vd2]	m.0c4_9m
+Oscar Pistorius	[m.0f1lfn, m.06w7v9t]	m.0f1lfn
+Dallas Cowboys	[m.02896]	m.02896
+Louis Sachar	[m.01bq8d, m.06c_xv2, m.0f8d9g]	m.01bq8d
+Missouri	[m.04ych, m.0187nd, m.06wxw]	m.04ych
+John F Kennedy	[m.0d3k14, m.0p1l2]	m.03t0qkg	----------
+Egypt	[m.02k54, m.03_3z4]	m.02k54
+United Kingdom	[m.07ssc, m.04jpl, m.0d1_f]	m.07ssc
+United States Navy	[m.07wg3, m.09c7w0, m.09j2x]	m.07wg3
+Benjamin Franklin	[m.019fz, m.036ncz, m.01h123]	m.019fz
+Northern Ireland	[m.0272vm, m.07ssc]	m.05bcl	----------
+Cancun	[m.01q98m, m.05fkzs, m.06w1smw]	m.05dlvmd	----------
+Israel	[m.03spz, m.039_ym]	m.03spz
+United States Air Force Academy	[m.0k9wp, m.0d2m7m, m.02rjqfl]	m.0k9wp
+Puerto Rico	[m.05r7t, m.02hl0_, m.05kns5]	m.05r7t
+Russia	[m.06bnz, m.0cdbq]	m.06bnz
+Shawnee Smith	[m.06t3nj, m.0403wgz, m.03cjx8n]	m.06t3nj
+Victoria Of The United Kingdom	[m.0cw10, m.01mqj1, m.01ww1f]	N/A
+Dr Seuss	[m.02g3w, m.087wc7n, m.0crrc8]	N/A
+Luis Suarez	[m.026f4lr, m.04z74h, m.043jx1f]	m.06stlq4	----------
+Spain	[m.06mkj, m.02w64f]	m.06mkj
+Meg Griffin	[m.035szd, m.07kcz9n, m.0zpb00j]	m.035szd
+Tim Allen	[m.019vgs, m.03j0779, m.0gjb826]	m.019vgs
+Dubai	[m.01f08r, m.0147lg, m.084qcy]	m.01f08r
+Asiana Airlines	[m.01wykn]	m.01wykn
+Angelina Jolie	[m.0f4vbz, m.0f7ljqx, m.0fwf77m]	m.0f4vbz
+Martin Luther King Jr	[m.051cc, m.050my1]	m.06lwmyx	----------
+Bangkok	[m.0fn2g, m.01_dp0, m.0f593y]	m.0fn2g
+Christina Milian	[m.030bq5, m.01lj06s, m.0126y2]	m.030bq5
+Tutankhamun	[m.07hcc, g.11c1r0bm3p, m.01qg6m]	m.07hcc
+Dominican Republic	[m.027rn, m.026b432]	m.027rn
+Julia Roberts	[m.046zh, m.09dc3_, m.01cz7r]	m.046zh
+Baltimore Ravens	[m.01ct6]	m.01ct6
+United Staff	[m.09c7w0, m.05yg8kx, m.07wg3]	N/A
+Brandon Dubinsky	[m.02863hf, m.0jnm2]	m.02863hf
+Taylor Swift	[m.0dl567, m.03g7rsz, m.0l8mh7y]	m.0dl567
+Israel	[m.03spz, m.039_ym]	m.03spz
+Nigeria	[m.05cgv, m.03ylxn, m.0284t04]	m.05cgv
+Benjamin Franklin	[m.019fz, m.036ncz, m.01h123]	m.019fz
+Catholicism	[m.0c8wxp, m.04399, m.02zdsd]	m.0c8wxp
+Lola Bunny	[m.0534r8, m.076wdhk, m.0d9kl]	m.0534r8
+Arizona Cardinals	[m.0ws7]	m.0ws7
+Rufus Wainwright	[m.02_t2t, m.01lbmcm, m.0__h68w]	m.02_t2t
+C S Lewis	[m.01wd02c, m.07k55v3, m.0b6s7w]	N/A
+Nick Clegg	[m.036547, m.0hrb3br, m.0bmd73b]	m.036547
+European Union	[m.0_6t_z8]	m.02jxk	----------
+Cassie Bernall	[m.0219mf, m.01rfcfk, m.021djq]	m.0219mf
+James Frey	[m.06w054, g.11clvx6wn6, m.0j476tk]	m.06w054
+Rob Kardashian	[m.043n6dp, m.0261x8t, m.043p2f2]	m.043n6dp
+Gospel Of Matthew	[m.038v8, m.05_cc_, m.06dqrhc]	N/A
+Harry Potter	[m.02676m4, m.078ffw, m.03bkkv]	m.06xltj	----------
+Nelson Mandela	[m.05g7q, m.03lcbp, m.0k33p]	m.05g7q
+National Hockey League	[m.05gwr, m.03hz2c, m.09qlhp]	m.05gwr
+Henry Clay	[m.0ct18, m.07xqkb, m.026yq2]	m.0ct18
+Axl Rose	[m.01vv6xv, m.01mm_k5, m.0wywtwd]	m.01vv6xv
+Brett Favre	[m.0cv72h, m.04wg9kg, m.0h2bcbx]	m.0cv72h
+Spain	[m.06mkj, m.02w64f]	m.06mkj
+Sunbeam Products	[m.067m_y, m.08z0yt, m.04zz7h3]	m.067m_y
+Philippines	[m.05v8c, m.019rl6]	m.05v8c
+Ryanair	[m.01m_zd, m.027lpy0]	m.01m_zd
+Oklahoma	[m.05mph, m.0g0z58, m.01vs5c]	m.05mph
+Paul Of Tarsus	[m.060nc, m.06fxcd8, m.05yfx]	N/A
+Ontario	[m.05kr_, m.0h7h6, m.05ksh]	m.05kr_
+Justin Bieber	[m.06w2sn5, m.0j263y3, m.02wz8_7]	m.06w2sn5
+Shaquille Oneal	[m.012xdf, m.03d8zv0, m.02rpzhq]	N/A
+John F Kennedy	[m.0d3k14, m.0p1l2]	m.03t0qkg	----------
+Derek Fisher	[m.04lvwk, m.010ql_c5, m.0v2j05]	m.04lvwk
+Caylee Anthony Homicide	[m.0bmh1h6]	N/A
+Bill Clinton	[m.0157m]	m.0157m
+Seattle	[m.0d9jr, m.070xg, m.0370vy]	m.0d9jr
+Charles Cornwallis 1st Marquess Cornwallis	[m.09jrf, g.11c604tfd2, m.02c4s]	N/A
+England	[m.02pp1, m.02jx1, m.0333v_]	m.02jx1
+Texas Rangers	[m.07l8x, m.07b_l]	m.07l8x
+Tennessee Titans	[m.07l2m]	m.07l2m
+Spanish	[m.06mkj, m.01s47p]	m.02pm9vw	----------
+Pauley Perrette	[m.06z8cv, m.09gc9r8, m.03m8sg]	m.06z8cv
+Niles Crane	[m.02c81m, g.1q5jzm4bt, m.0s7t_3]	m.02c81m
+Gabriel Faure	[m.0jn7y, g.1s05sqh85, m.05xrwml]	m.05xrwml
+Kentucky	[m.0498y, m.03by7wc, m.01ptt7]	m.0498y
+United States	[m.09c7w0, m.01bqks, m.07wg3]	m.0dvxqk	----------
+France	[m.0f8l9c, m.01l3vx]	m.0f8l9c
+United Kingdom	[m.07ssc, m.04jpl, m.0d1_f]	m.07ssc
+London	[m.04jpl, m.01_c4]	m.04jpl
+Vincent Chin	[m.01fjg_, m.04zxpwq]	N/A
+Jules Verne	[m.04093, m.0dcxll, m.03wcj0x]	m.04093
+Brazil	[m.015fr, m.01352_, m.02rp9tg]	m.015fr
+Fiji	[m.02wt0, m.09slj_, m.043q3n]	m.02wt0
+Percy Jackson The Olympians	[m.07s5hrw, m.0642xf3, m.0d31rqr]	N/A
+Gregor Mendel	[m.039c5, m.01pjlc, m.0c3td6x]	m.039c5
+Jon Gosselin	[m.046s1z1, m.02qnkkr, m.05qbc_9]	m.046s1z1
+Mitsubishi	[m.0czgc, m.04yv6, m.02bght]	m.03hcy1d	----------
+Jay Cutler 1983	[m.097hft]	N/A
+European Union	[m.0_6t_z8]	m.02jxk	----------
+Vincent Van Gogh	[m.07_m2, m.0bqtb1n]	m.02nw8hw	----------
+United States	[m.09c7w0, m.01bqks, m.07wg3]	m.0dvxqk	----------
+United States	[m.09c7w0, m.01bqks, m.07wg3]	m.0dvxqk	----------
+Austraila	[m.0chghy, m.03mv_7, m.06km172]	N/A
+Ben Stiller	[m.0mdqp, m.02tjns, m.0w4grwk]	m.0mdqp
+Victoria Of The United Kingdom	[m.0cw10, m.01mqj1, m.01ww1f]	N/A
+Betty White	[m.025mb_, m.027fbhx, m.03f6k68]	m.025mb_
+Jeff Dunham	[m.0ch_0g, m.076vswn, m.0h4ysvl]	m.0ch_0g
+Kevjumba	[m.047p6rh, g.124217tc7, m.0w7n1f4]	N/A
+David James	[m.038m_v, m.0k60, m.03lmz4]	m.03f3h72	----------
+Tonkin	[m.0j0b_, g.11b77kbt7p]	m.0j0b_
+Diana Ross	[m.012wjr, m.01wrcxr, m.07bdw0]	m.01wrcxr
+Minneapolis	[m.0fpzwf, m.0py_0, m.01n2q0]	m.0fpzwf
+West Bank	[m.082pc, m.02059_, m.01k0p4]	m.082pc
+European Golden Boot	[m.05fsrv, m.086p40]	N/A
+Jayne Mansfield	[m.024y6w, m.04lhsy8, m.01d9wd]	m.024y6w
+River Thames	[m.0d2kt, m.0fl1st, m.0b6mb36]	m.0d2kt
+Stanley Cup	[m.0hn79]	m.0hn79
+William Shakespeare	[m.081k8, m.05mdd, m.03j9w]	m.081k8
+Chile	[m.01p1v, m.033nzk, m.0jtt9]	m.01p1v
+Peyton Manning	[m.027jv8, m.010f574n]	m.027jv8
+National Football League	[m.059yj, m.08126g, m.034tbp]	m.059yj
+Jlo	[m.043zg, m.03f6hd_, m.0x1k249]	N/A
+Portland	[m.02frhbc, m.0c4kv, m.041_3z]	m.02frhbc
+Ellen Degeneres	[m.0528kc, m.01gbbz, m.03m82mk]	m.0nd1w22	----------
+New York Giants	[m.05gg4, m.0713r]	m.05gg4
+Harry Potter	[m.02676m4, m.078ffw, m.03bkkv]	m.06xltj	----------
+Nick Cannon	[m.01d1st, m.07dnxj, m.01nrdrf]	m.01d1st
+Brazil	[m.015fr, m.01352_, m.02rp9tg]	m.015fr
+Milan Italy	[m.03rjj, m.0947l, m.09rhh]	N/A
+Matthias Jakob Schleiden	[m.0dd3q, m.02q2mdf, m.07lcnl]	m.0dd3q
+Riannah	[m.06mt91]	N/A
+Daddy Yankee	[m.01wbl_r, m.07k5bg_, g.12ckhrwtx]	m.01wbl_r
+Balkans	[m.01jjk]	m.01jjk
+South Dakota	[m.06mz5, m.0kf7h, m.01ngz1]	m.06mz5
+Spain	[m.06mkj, m.02w64f]	m.06mkj
+Wolfgang Amadeus Mozart	[m.082db, m.0bf5rc8]	m.082db
+Thai Language	[m.07f1x, m.07c9s, g.11cmcd2mgt]	m.0c_v2	----------
+Montana	[m.050l8, m.02x9cv, m.02x9g_]	m.050l8
+Rome	[m.06c62, m.04jr87, m.02l341]	m.06c62
+Pompeii	[m.0632h, m.0swn3ym, m.02d0vq]	m.0632h
+Afghanistan	[m.0jdd]	m.0jdd
+Brazil	[m.015fr, m.01352_, m.02rp9tg]	m.015fr
+California	[m.01n7q, m.02zd460, m.09f2j]	m.01n7q
+Princess Leia Organa	[m.0ddqw, m.02pjq2c, m.066m9f]	N/A
+Pittsburgh Steelers	[m.05tfm]	m.05tfm
+Canada	[m.0d060g, m.0h7h6, m.052p7]	m.0d060g
+Minneapolis Lakers	[m.0jmk7]	N/A
+San Francisco	[m.0d6lp, m.0713r, m.06pvr]	m.0d6lp
+France	[m.0f8l9c, m.01l3vx]	m.0f8l9c
+Patrick Swayze	[m.02h3tp, m.014y7pm, m.010jbwwk]	m.02h3tp
+Salvador Dali	[m.09_xn, m.06bv9k, m.05c20x]	m.0lqjtm	----------
+Leonardo Da Vinci	[m.01ky5r, m.04lg6, m.03ccx9x]	m.06q_46v	----------
+George V Of The United Kingdom	[m.0cmpn, m.01194hy2, m.01c9x]	N/A
+South America	[m.06n3y, m.07c5l, m.015fr]	m.06n3y
+Isaac Newton	[m.03s9v, m.036_xh, m.07jkvl]	m.03s9v
+Pixar	[m.0kk9v, m.02qm_f, m.0ck9j5]	m.0kk9v
+Tamera Mowry	[m.075kfb, m.0706t_, m.054xvs]	m.075kfb
+Abraham Lincoln	[m.0gzh, m.064lz0k]	m.0gzh
+Germany	[m.0345h, m.059z0, m.01l3wr]	m.0345h
+China	[m.0d05w3, m.06f32]	m.0d05w3
+Greece	[m.035qy, m.035qgm]	m.035qy
+Mexico	[m.0b90_r, m.04sqj, m.03dj48]	m.0b90_r
+New York	[m.02_286, m.0cc56, m.059rby]	m.059rby
+English	[m.02h40lc, m.02jx1, m.02_tc]	m.0skp3	----------
+Rafael Furcal	[m.03jtzg, m.094lyw]	m.03jtzg
+United States	[m.09c7w0, m.01bqks, m.07wg3]	m.0dvxqk	----------
+Kellie Martin	[m.03kcyd, g.11dxbhnkcr, m.0wpnsj5]	m.03kcyd
+Riannah	[m.06mt91]	N/A
+Whistler	[m.01sz4b, m.018b9p, m.0jt1_]	m.01sz4b
+Cuba	[m.0d04z6, m.0d6hn]	m.0d04z6
+James Cook	[m.03_j8, m.0bhb_d1, m.0k19c]	m.03_j8
+Julia Roberts	[m.046zh, m.09dc3_, m.01cz7r]	m.046zh
+Rebecca Adlington	[m.047tr42, m.03wh1ct, m.0djxl3]	m.047tr42
+Christchurch	[m.02yc5b, m.01dg2n]	m.02yc5b
+Canada	[m.0d060g, m.0h7h6, m.052p7]	m.0d060g
+Singapore	[m.06t2t, m.04h54p]	m.06t2t
+Julia Wainwright Capwell	[m.03wf4qf, m.047rzgk, m.038_0m]	m.03wf4qf
+James Madison	[m.0424m, m.0438f, m.03nwvdw]	m.0424m
+Maccabees	[m.01tx24, m.015q16, m.0gwqz9]	m.015q16
+Antietam Creek	[m.0656fx, m.04f3j7y]	m.0656fx
+Abraham Lincoln	[m.0gzh, m.064lz0k]	m.0gzh
+William Shakespeare	[m.081k8, m.05mdd, m.03j9w]	m.081k8
+Shakira	[m.01wj18h, m.0_fs1sv, m.05z7jy]	m.01wj18h
+James T Kirk	[m.0crtw, m.04gv1lw, m.0q2gbcq]	N/A
+Hera	[m.07g41h, m.0cqj_8p, m.03c9z_9]	m.01pv9l8	----------
+Kirk Hammett	[m.0489w, m.024q5bw, m.01vzkdm]	m.0489w
+Philippines	[m.05v8c, m.019rl6]	m.05v8c
+Kakadu National Park	[m.0psgs, m.0q19f, m.04d_dgf]	m.0psgs
+Denver	[m.02cl1, m.0289q, m.0jmdb]	m.02cl1
+Jamaica	[m.03_r3, m.03zbg0, m.0541mw]	m.03_r3
+William Mckinley	[m.083p7, m.036kh6]	m.0761jjm	----------
+John F Kennedy	[m.0d3k14, m.0p1l2]	m.03t0qkg	----------
+Colorado	[m.01n4w, m.02cl1, m.01qd_r]	m.01n4w
+Aston Martin	[m.0ywc, m.02zs4, m.0h5wtfh]	m.0h5wtfh
+Jack Osbourne	[m.02348n, m.0bl2zy, m.0k5kh7f]	m.02348n
+Islam	[m.0kj34, m.04s9n]	m.0flw86	----------
+David Beckham	[m.02d9k, m.0czd66s, m.04dylr8]	m.02d9k
+Chinese Taipei	[m.06f32, m.0117b9qt, m.0ftkx]	N/A
+Toronto Maple Leafs	[m.0j6tr, m.0616j5, m.07wzr_]	m.0j6tr
+Novato	[m.0r1hb, m.03h30n6, m.0cv3y7]	m.0r1hb
+Sikhism	[m.06d6pf2, m.08_qd5, g.11c60nbbg5]	m.06yyp	----------
+Hernan Cortes	[m.03m_h, m.04q1y]	m.04ml462	----------
+Elizabeth Taylor	[m.0bmh4, m.0q53f, m.01x2bq4]	m.0bmh4
+Mesopotamia	[m.0524v, m.05fj_n]	m.0524v
+Brandi Glanville	[m.0h94rm6, m.0ryv9dd, m.0bmcc_y]	m.0h94rm6
+Charlotte Bobcats	[m.01k8vh]	m.01k8vh
+Adolf Hitler	[m.07_m9_, m.04z1z]	m.07_m9_
+Ottoman Empire	[m.05kyr, m.01znc_]	m.05kyr
+Olympic Games	[m.05nd_]	m.05nd_
+Green Bay Packers	[m.03b3j]	m.03b3j
+Langston Hughes	[m.0bv62, m.07sbyqg, m.06_3wf6]	m.0bv62
+Switzerland	[m.06mzp, m.032jlh, m.018p7t]	m.06mzp
+Baltimore Orioles	[m.01d6g]	m.01d6g
+Austraila	[m.0chghy, m.03mv_7, m.06km172]	N/A
+Henry Knox	[m.01hx16, m.0k4yq, m.06znyt4]	m.01hx16
+Iceni	[m.01y74g, m.01fz6, m.0w31lp_]	m.01y74g
+Islam	[m.0kj34, m.04s9n]	m.0flw86	----------
+Garry Trudeau	[m.037w1, m.0c3xh5t, m.0g2mf1]	m.037w1
+Norway	[m.05b4w]	m.05b4w
+Northern Ireland	[m.0272vm, m.07ssc]	m.05bcl	----------
+Europe	[m.02j9z, m.01lkr]	m.02j9z
+Abrahamic Religion	[m.01yzd, m.043ksmx, m.082m94]	N/A
+Johnny Crawford	[m.01qmb2r, m.0h2j5q7, m.02wwvn0]	m.01qmb2r
+Abraham Lincoln	[m.0gzh, m.064lz0k]	m.0gzh
+Sally Mclellan	[m.0287hgn, m.02qwbmk, m.0vxf7p4]	N/A
+Atlanta Texas	[m.07b_l, m.0_ztb, m.0cf_k2]	N/A
+Elton John	[m.01vrz41, m.067scs, m.01hf7_9]	m.01vrz41
+Tom Cruise	[m.07r1h, m.0gwn3n6, m.01zh29]	m.07r1h
+Madonna	[m.01vs_v8, m.04n7gc6, m.076znjw]	m.01vs_v8
+Leland Chapman	[m.05yqrl, m.01kzw8, m.0h2gn9]	N/A
+Roman Empire	[m.017cw, m.06cmp]	m.06cmp
+Abraham Lincoln	[m.0gzh, m.064lz0k]	m.0gzh
+Henry Ford	[m.02zs4, m.03xdml, m.03gxm]	m.03gxm
+New York	[m.02_286, m.0cc56, m.059rby]	m.059rby
+Maya Civilization	[m.06qdx6d, m.0c475c1]	N/A
+Adolf Hitler	[m.07_m9_, m.04z1z]	m.07_m9_
+Meg Griffin	[m.035szd, m.07kcz9n, m.0zpb00j]	m.035szd
+Albert Einstein	[m.0jcx, m.0gwyfkh, m.04xmkm]	m.0jcx
+Bashar Al-assad	[m.01_vwx, m.06g0rbt, m.0jb5n]	N/A
+Lois Lane	[m.04pzy, m.01nst8_, m.02p3xrq]	m.04pzy
+Joseph Lister 1st Baron Lister	[m.046tt, g.11bwyxvqjh, m.09wnv]	N/A
+Stewie Griffin	[m.02m29p, m.0gfzfj, m.0yt2tv0]	m.02m29p
+King James Version Of The Bible	[m.048lc]	N/A
+Charlie Chaplin	[m.01lc5, m.01m7bv6, m.0627zr]	m.01lc5
+Lea Michele	[m.02qw2xb, m.05f4vxd]	m.02qw2xb
+Joe Walsh	[m.01sb5r, m.0b76qwv, m.0c3wjxr]	m.01sb5r
+Annie	[m.01_1m4, m.06510x, m.02x6dqb]	m.01vxl9w	----------
+London	[m.04jpl, m.01_c4]	m.04jpl
+Billy Beane	[m.01tvwb, m.0c0nhgl, m.01q60s]	m.01tvwb
+J J Thomson	[m.0j68z, m.06r376, m.07svc3]	N/A
+Taylor Lautner	[m.07ldhs, g.11cmp9_th6, m.0dl567]	m.07ldhs
+Darth Vader	[m.0f2y0, m.0h51wcs, m.07gwf5]	m.0f2y0
+Natalie	[m.063h9r, m.026spg, m.09l3p]	m.01vwm8g	----------
+Aladdin 1992	[m.0jnwx, m.0167bh, m.0dtyh9]	N/A
+Dale Earnhardt	[m.026fx, m.014x8j, m.070kvd]	m.026fx
+Miami Heat	[m.0jm2v]	m.0jm2v
+Benito Mussolini	[m.0177g, m.098z1n]	m.0177g
+Diocletian	[m.02d0k, m.05yvld]	m.02d0k
+Chelsea Staub	[m.02vydtw, m.02741d8, m.064k4sj]	N/A
+Charles Darwin	[m.01lwx, m.01rng2, m.05258fr]	m.01lwx
+Barack Obama	[m.02mjmr, m.05c3l59]	m.02mjmr
+Deion Sanders	[m.03n69x, m.04_7nnb, m.04wg9pg]	m.03n69x
+Oregon	[m.05kj_, m.0fbq2n, m.01n6r0]	m.05kj_
+South Africa	[m.0hzlz, m.0210tk]	m.0hzlz
+Michael Jackson	[m.09889g]	m.09889g
+Taylor Lautner	[m.07ldhs, g.11cmp9_th6, m.0dl567]	m.07ldhs
+Austraila	[m.0chghy, m.03mv_7, m.06km172]	N/A
+Kate Winslet	[m.0dvld, m.0h2pz2q, m.0134z2bn]	m.0dvld
+Henry Ford	[m.02zs4, m.03xdml, m.03gxm]	m.03gxm
+Thomas Cromwell 1st Earl Of Essex	[m.0d05q, m.0jh0h, m.05m0h]	N/A
+Indian Ocean	[m.03rz4]	m.03rz4
+United States Navy	[m.07wg3, m.09c7w0, m.09j2x]	m.07wg3
+Baltimore Orioles	[m.01d6g]	m.01d6g
+Our Lady Of Penafrancia	[m.04n7gc6, m.010f4q6f, m.0dt_ny]	N/A
+American Express	[m.01w6dw, m.041m7v, m.077qlb]	m.01w6dw
+China	[m.0d05w3, m.06f32]	m.0d05w3
+Spain	[m.06mkj, m.02w64f]	m.06mkj
+Howard University	[m.0217m9, m.0b753py, m.05q4j_q]	m.0217m9
+Terrell Owens	[m.027ddp, m.0w24kgr, m.03ctgr2]	m.027ddp
+Catholicism	[m.0c8wxp, m.04399, m.02zdsd]	m.0c8wxp
+Alaska	[m.0hjy, m.0bfcxq]	m.0hjy
+Soviet Union	[m.05vz3zq]	m.05vz3zq
+Jeff Corwin	[m.03xsv3, m.05s473, m.0j24cbr]	m.03xsv3
+Persian Language	[m.05b6vmh, m.02hxcvy, m.07c9s]	m.032f6	----------
+Neptune	[m.02hf73, m.0c31h]	m.0c31h
+Russia	[m.06bnz, m.0cdbq]	m.06bnz
+Corey Haim	[m.01kyn0, m.0nncd2m, g.1q5jzqyzb]	m.01kyn0
+Pavlova	[m.0hp3n, m.0g_pl, m.058kg2]	m.0hp3n
+Nathaniel Hawthorne	[m.05gpy, m.080r95, m.01m976]	m.05gpy
+Jack Johnson	[m.01lbj_2, m.02h7gb, m.0jg6v]	m.02h7gb
+Maxie Jones	[m.0fbppx, m.0fhmp5, m.02896x1]	m.0fbppx
+Edgar Allan Poe	[m.02lt8, m.0117tm_y]	m.02lt8
+Buddhism	[m.0s99fhq, g.11c1lvg2p7, m.0cwvbq]	m.092bf5	----------
+Wolfgang Amadeus Mozart	[m.082db, m.0bf5rc8]	m.082db
+Dallas Cowboys	[m.02896]	m.02896
+Iceland	[m.03rj0, m.03yv67, m.026wgq]	m.03rj0
+Kateri Tekakwitha	[m.01zql6, m.03cph6r, m.0g56z2f]	m.01zql6
+Bali	[m.01bkb, m.04y9jwq]	m.03fj2b4	----------
+South Africa	[m.0hzlz, m.0210tk]	m.0hzlz
+Croatia	[m.01pj7, m.0356gk, m.0b7lb3]	m.01pj7
+Joe Montana	[m.01r6hc, m.013b07kr, m.043tz1h]	m.01r6hc
+Supreme Court Of The United States	[m.07sz1, m.09c7w0, m.020d5]	N/A
+Palestine	[m.0h44w, m.047876]	m.0_xhv	----------
+Titan	[m.0gtxdb2, m.0crcf, m.0gy1_]	m.05qg3k5	----------
+English	[m.02h40lc, m.02jx1, m.02_tc]	m.0skp3	----------
+Missouri River	[m.04ykz, m.03mhkfg]	m.04ykz
+Liverpool	[m.04ltf, m.04lh6, m.0fryyl]	m.04lh6
+Harvard College	[m.03ksy, g.122z2wpb, m.014zws]	m.01mpwj	----------
+Leonardo Da Vinci	[m.01ky5r, m.04lg6, m.03ccx9x]	m.06q_46v	----------
+Japan	[m.03_3d, m.03xh50]	m.03_3d
+Oklahoma City	[m.0fvzg, m.0jm6n]	m.0fvzg
+Whitney Houston	[m.086qd, m.01hqds2, m.011x2wyc]	m.086qd
+Mali	[m.04v09, m.0416f1]	m.04v09
+Israel	[m.03spz, m.039_ym]	m.03spz
+Mount St Helens	[m.094xz, m.03jztc]	N/A
+Saint Lucia	[m.06s0l, m.01r0zd, m.048cvl]	m.06s0l
+United States	[m.09c7w0, m.01bqks, m.07wg3]	m.0dvxqk	----------
+Gordon Hayward	[m.0bbtpmy, m.0rff49v, m.05y4sym]	m.0bbtpmy
+Russia	[m.06bnz, m.0cdbq]	m.06bnz
+Netherlands	[m.059j2, m.02ltg3, m.09b500]	m.059j2
+China	[m.0d05w3, m.06f32]	m.0d05w3
+French	[m.0f8l9c, m.01frh0]	m.034rwln	----------
+Esther Hicks	[m.06_0rt, m.0bbwldt, m.05x3l62]	m.06_0rt
+Michael Vick	[m.027f42, m.09k64f6]	m.027f42
+Johannesburg	[m.0g284, m.0qn2v, m.06ytvs]	m.0g284
+John Lennon	[m.01vsl3_, m.015x8d]	m.01vsl3_
+Atlantic City New Jersey	[m.0qlrh, m.05k8n1, m.05fjf]	N/A
+Al Gore	[m.0d05fv, m.025wp3, m.0bhwhj]	m.0d05fv
+Darth Vader	[m.0f2y0, m.0h51wcs, m.07gwf5]	m.0f2y0
+Henri Matisse	[m.0gct_, m.08_cpc, g.11dxdy13p6]	m.0gct_
+Laughlin	[m.020bkmh, m.07t6_h, m.02pf0wy]	m.020bkmh
+Padme Amidala	[m.0drf_, m.0ddp2, m.0g_rg]	N/A
+Andorra	[m.0hg5, m.0dsd7k_, m.0300nb]	m.0hg5
+Louis Riel	[m.04qqn, m.026ny3g, m.05l1w6]	m.04qqn
+United Kingdom	[m.07ssc, m.04jpl, m.0d1_f]	m.07ssc
+Judy Garland	[m.0g10g, m.02m0tt, m.02q52q]	m.0g10g
+Abraham Lincoln	[m.0gzh, m.064lz0k]	m.0gzh
+Helen Keller	[m.03ppx, m.04x0jz, m.026_5nh]	m.03ppx
+Brazil	[m.015fr, m.01352_, m.02rp9tg]	m.015fr
+Minneapolis Lakers	[m.0jmk7]	N/A
+Calvin Coolidge	[m.01vbl, m.07n7fc, m.04gl3tc]	m.01vbl
+Atlanta Braves	[m.0x2p]	m.0x2p
+England	[m.02pp1, m.02jx1, m.0333v_]	m.02jx1
+Albus Dumbledore	[m.0cb2r, g.11b808ctwk, m.017hqby]	N/A
+Greenpeace	[m.036qv, m.012zv3fg]	m.036qv
+Roger The Alien	[m.08w10t, m.0fx6__n, g.1q5j52r8q]	N/A
+London	[m.04jpl, m.01_c4]	m.04jpl
+Washington Redskins	[m.084l5]	m.084l5
+Canada	[m.0d060g, m.0h7h6, m.052p7]	m.0d060g
+American Football League	[m.059yj, m.04155cm, m.04156d5]	m.0ysy	----------
+Arizona Cardinals	[m.0ws7]	m.0ws7
+Tamu	[m.0f8fsl, m.0wzxft1, m.0gcktc9]	m.0mwgn_	----------
+Battle Of Waterloo	[m.013cd3c6]	m.0nmh32w	----------
+Marilyn Monroe	[m.04wqr, m.01qq_lp]	m.04wqr
+Barack Obama	[m.02mjmr, m.05c3l59]	m.02mjmr
+Staff Intel	[m.03s7h]	N/A
+Lee Corso	[m.04znbt, m.012krmfc, m.0z89gpl]	m.04znbt
+Colorado Eagles	[m.068_gr, m.01n4w]	m.068_gr
+Jesus	[m.04399, m.04n7gc6]	m.042g53r	----------
+Alani Vasquez	[m.05r3c3, m.02zj44, m.0bpfnk]	N/A
+Kenya	[m.019rg5, m.046fz5, m.04n2n7j]	m.019rg5
+Henry Hudson	[m.0c065, m.07c4tz, m.0bh7y1r]	m.0c065
+Switzerland	[m.06mzp, m.032jlh, m.018p7t]	m.06mzp
+Iran	[m.03shp, m.01n_2f]	m.03shp
+Ayrton Senna	[m.012pxw, m.0874tj]	m.012pxw
+Madonna	[m.01vs_v8, m.04n7gc6, m.076znjw]	m.01vs_v8
+Dominican Republic	[m.027rn, m.026b432]	m.027rn
+Rome	[m.06c62, m.04jr87, m.02l341]	m.06c62
+Brad Pitt	[m.0c6qh, m.0t_5p_m, m.01vw8k]	m.0c6qh
+Vernon Davis	[m.0br8m3, m.0k2dxjh, g.11c5w4f014]	m.0br8m3
+Euro	[]	m.02l6h	----------
+Texas	[m.07b_l, m.07w0v, m.0118b5s5]	m.07b_l
+Malta	[m.04v3q, m.026pz9s]	m.04v3q
+Dolly Parton	[m.02f1c, m.01l1_1, m.01h_8xd]	m.02f1c
+Rick Santorum	[m.01fgd3, m.06dlvk4]	m.01fgd3
+Elizabeth Ii Of The United Kingdom	[m.0d1_f, m.07ssc]	N/A
+Aurora	[m.0r8hc, m.0j2c3]	m.0s69k	----------
+Jonas Brothers	[m.0cbm64, m.03jlgx6, m.0djb8hx]	m.0cbm64
+Henri Matisse	[m.0gct_, m.08_cpc, g.11dxdy13p6]	m.0gct_
+Germany	[m.0345h, m.059z0, m.01l3wr]	m.0345h
+Kobe Bryant	[m.01kmd4, m.0fx3ps]	m.01kmd4
+Saudi Arabia	[m.01z215, m.03__0t, m.01pk8b]	m.01z215
+Czechoslovakia	[m.01mk6]	m.01mk6
+Richard Marx	[m.03t852, m.01hc453, m.04n2z1x]	m.03t852
+Ryan Dunn	[m.04sdsv, m.0zb20r0, m.0gb_4gc]	m.04sdsv
+George Washington	[m.034rd, m.01nnsv, m.03d0l76]	m.034rd
+Zachary Taylor	[m.08959, m.05mx39, m.0fdjm2]	m.08959
+Kris Humphries	[m.0730b4, m.043rcw4]	m.0730b4
+Tupac Shakur	[m.07pzc, m.0gjwtd]	m.07pzc
+Al Capone	[m.014gr, m.09rz68v, m.09cxc2]	m.014gr
+Richardwagner	[m.06c44]	N/A
+Brazil	[m.015fr, m.01352_, m.02rp9tg]	m.015fr
+Tim Tebow	[m.0g7km1, g.11c82ppr9b, m.012tyl3h]	m.0g7km1
+Paris	[m.05qtj, m.0lk0l, m.01cb6r]	m.05qtj
+Andy Williams	[m.02lvtb, m.029_3d, m.02rlw1]	m.02lvtb
+Mathew Brady	[m.028vw5, m.0h4_wzz, m.0c1y9dj]	m.028vw5
+Rickie Fowler	[m.02x1mv2, m.03c8h8d, m.0dxcwq]	m.02x1mv2
+Denver Broncos	[m.0289q, m.02cl1]	m.0289q
+Japan	[m.03_3d, m.03xh50]	m.03_3d
+Basque Language	[m.032n5l, m.0dwvx1, m.0c4r15s]	m.017k6	----------
+Belgium	[m.0154j, m.0grsrs, m.0329gm]	m.0154j
+Russia	[m.06bnz, m.0cdbq]	m.06bnz
+North Korea	[m.05b7q, m.040whs]	m.05b7q
+Albert Einstein	[m.0jcx, m.0gwyfkh, m.04xmkm]	m.0jcx
+Amsterdam	[m.0k3p, m.073j2, m.02nq10]	m.0k3p
+United States	[m.09c7w0, m.01bqks, m.07wg3]	m.0dvxqk	----------
+Martin Luther King Jr	[m.051cc, m.050my1]	m.06lwmyx	----------
+Ernest Shackleton	[m.0gbcz, m.0fgxpq, m.02q_x_l]	m.04w9t11	----------
+Jimi Hendrix	[m.01vsy3q, m.012vfn, m.03c37z2]	m.01vsy3q
+Aaron Rodgers	[m.04q06_, g.11bysjgypp, g.11c1plqwd5]	m.04q06_
+Nathan Scott	[m.09p1z3, m.01vh89z, m.083yv8]	m.01vh89z
+Houston Rockets	[m.0jmfb, m.03l2n]	m.0jmfb
+Mount Whitney	[m.01jlyt, m.03hpf4, m.02x321g]	m.01jlyt
+Romeo Montague	[m.02qnhw1, m.06fsr, m.0279vly]	m.02qnhw1
+New York	[m.02_286, m.0cc56, m.059rby]	m.059rby
+Central America	[m.01tzh, m.07c5l, m.04pnx]	m.01tzh
+Puntland	[m.01hywq, m.03c_z04]	m.01hywq
+Western Australia	[m.0847q, m.062qg, m.0chghy]	m.0847q
+Drew Stanton	[m.0bmqgn, m.03lk18, m.0fhpsr]	m.0bmqgn
+Kareem Abdul-jabbar	[m.049sb, m.03m851l, m.0tm1mqh]	N/A
+Eastern Europe	[m.09b69, m.02j9z]	m.09b69
+Taylor Swift	[m.0dl567, m.03g7rsz, m.0l8mh7y]	m.0dl567
+Ethiopia	[m.019pcs, m.02y_9cf]	m.019pcs
+Mary Poppins 1964	[m.0kcn7, g.1s05t6ysh, m.09yn5x]	N/A
+Edward Vi Of England	[m.02s82, m.0cm03, m.01nq16]	N/A
+Robert Boyle	[m.0d98m, m.0289794, m.0bwlps2]	m.0d98m
+Johnny Bench	[m.0476l, g.11c2pf9m0_, m.06h9mtn]	m.0476l
+Islam	[m.0kj34, m.04s9n]	m.0flw86	----------
+Napoleon I Of France	[m.0j5b8, m.01flgk, m.04pwg]	N/A
+Iceland	[m.03rj0, m.03yv67, m.026wgq]	m.03rj0
+Mtv	[m.04rqd, m.090ypc, m.03j194]	m.015t2ll	----------
+Houston Aeros	[m.01tz_d, m.068hn0, g.11byvkddy2]	m.01tz_d
+New York Knicks	[m.0jm3v, m.02_286, m.0cc56]	m.0jm3v
+Galway	[m.0845vm, m.0m__z, m.01798p]	m.0m__z
+Brandon Roy	[m.0cf_p_, m.01345jkw, m.0j8579f]	m.0cf_p_
+Michael Jackson	[m.09889g]	m.09889g
+Pennsylvania	[m.05tbn, m.07tds, m.0dclg]	m.05tbn
+Niccolo Machiavelli	[m.05cvs, m.0prr3, m.02rq5ch]	m.0bc71_d	----------
+Austraila	[m.0chghy, m.03mv_7, m.06km172]	N/A
+Drew Bledsoe	[m.03mswq, g.11bwsfgdph]	m.03mswq
+Mtv	[m.04rqd, m.090ypc, m.03j194]	m.015t2ll	----------
+Michael Vick	[m.027f42, m.09k64f6]	m.027f42
+Guatemala	[m.0345_, m.0346h, m.03_kh0]	m.0345_
+Anderson Silva	[m.0djnt1, m.09v5t_4, m.08pzns]	m.0djnt1
+Asia	[m.0j0k, m.073q1, m.023ptn]	m.0j0k
+Russia	[m.06bnz, m.0cdbq]	m.06bnz
+Brooke Burke	[m.015dx, m.07cj0yk, m.0bj1kt]	m.06xy92f	----------
+Pixar	[m.0kk9v, m.02qm_f, m.0ck9j5]	m.0kk9v
+Emily Dickinson	[m.01509d, m.0d5923, m.0x1y7]	m.01509d
+James I Of England	[m.01nq16, m.0d9nm6]	N/A
+Lois Lane	[m.04pzy, m.01nst8_, m.02p3xrq]	m.04pzy
+Elie Wiesel	[m.02vsp, m.0crxndm, m.04t0cm2]	m.02vsp
+Vincent De Paul	[m.022nxk, m.03gwbym, m.01dbxr]	m.0276l4b	----------
+Fiji	[m.02wt0, m.09slj_, m.043q3n]	m.02wt0
+Victoria Beckham	[m.0cgfb, m.0ftvkdg, m.02vwy2l]	m.0cgfb
+New York	[m.02_286, m.0cc56, m.059rby]	m.059rby
+France	[m.0f8l9c, m.01l3vx]	m.0f8l9c
+Jim Valvano	[m.04wb5r, m.0c7d9x, m.078xq3]	m.04wb5r
+Charles Barkley	[m.01ck_1, m.013816b6, m.0fd03j9]	m.01ck_1
+Bill Clinton	[m.0157m]	m.0157m
+Giovanni Pierluigi Da Palestrina	[m.03bx_, m.0hzjtt3, g.11bwh4cvz9]	N/A
+Almadina	[m.09rs61x, m.0h2jt2, m.0gd2chg]	m.03wb9qm	----------
+Michael Jordan	[m.054c1, m.0h54ss7, m.027kyy1]	m.054c1
+Philippines	[m.05v8c, m.019rl6]	m.05v8c
+Dorothy Gale	[m.020hj1, m.04rqd_, m.0200pr]	m.020hj1
+Marion Barber	[m.07yzk2, m.092z6_, m.03c3_hm]	N/A
+James Franco	[m.05bnp0, m.02wz8_7, m.0123mmjs]	m.05bnp0
+National Collegiate Athletic Association	[m.0gh43, m.02jp2w, m.02p5tk]	m.0gh43
+Bobby Garrett	[m.027yw_p, m.0gx0547, m.0121m3k8]	m.01vl8m0	----------
+Mexico	[m.0b90_r, m.04sqj, m.03dj48]	m.0b90_r
+Lucille Ball	[m.04nw9, m.02qw9g7, m.01rgtk]	m.04nw9
+John F Kennedy	[m.0d3k14, m.0p1l2]	m.03t0qkg	----------
+Chile	[m.01p1v, m.033nzk, m.0jtt9]	m.01p1v
+Andy Warhol	[m.0kc6, m.04n7k0b, m.0crqhy]	m.0kc6
+Ron Howard	[m.0g2lq, m.0gg6dcx, m.03c8j18]	m.0g2lq
+Charlotte	[m.0fsb8, m.01n5hh, m.01k8vh]	m.0fsb8
+United States	[m.09c7w0, m.01bqks, m.07wg3]	m.0dvxqk	----------
+Michelle Obama	[m.025s5v9, m.02mjmr, m.0gyxqp0]	m.025s5v9
+Kate Middleton	[m.05mnc3, m.011l25g1]	m.0tlllcq	----------
+Nigeria	[m.05cgv, m.03ylxn, m.0284t04]	m.05cgv
+Hans Christian Orsted	[m.0265qkf, m.0138wm2h, g.121fl1xr]	N/A
+Harry Potter	[m.02676m4, m.078ffw, m.03bkkv]	m.06xltj	----------
+Kourtney Kardashian	[m.043ttm7, m.03cgq24, m.0261x8t]	m.043ttm7
+Lion	[m.096mb, m.0906pq, m.0m63c]	m.096mb
+Chile	[m.01p1v, m.033nzk, m.0jtt9]	m.01p1v
+Richard Arkwright	[m.01tglh, m.06pf3b, m.02p_cq]	m.01tglh
+Luke Skywalker	[m.0f1bg, m.0f325, m.0cw05h]	m.0f1bg
+Taylor Lautner	[m.07ldhs, g.11cmp9_th6, m.0dl567]	m.07ldhs
+Sam Bradford	[m.02qjht0, m.0k203gm, m.02p_hf9]	m.02qjht0
+Vietnam	[m.01crd5]	m.01crd5
+Austraila	[m.0chghy, m.03mv_7, m.06km172]	N/A
+London Borough Of Hackney	[m.0n96z, m.04jpl]	N/A
+St Louis Rams	[m.06x76, m.01188ryd, m.06wxw]	N/A
+Scottie Pippen	[m.01vpgl, m.0cdq6h, m.0y9w7sc]	m.01vpgl
+Zagreb	[m.0fhzy, m.031zm1, m.0d7gb6]	m.0fhzy
+Fifa World Cup	[m.030q7]	N/A
+Selena Gomez	[m.0gs6vr, m.09rt83f, g.11b87h0bfz]	m.0gs6vr
+Dominic Monaghan	[m.01kwld, m.0vsb8d4, m.0w8cx5y]	m.01kwld
+South Africa	[m.0hzlz, m.0210tk]	m.0hzlz
+Pink Floyd	[m.01wv9xn, m.058ymm]	m.01wv9xn
+John Connor	[m.06nsv4, m.0rfgxy2, m.027nqzz]	m.06nsv4
+Lagos	[m.0lnfy, m.02y31x, m.028jxj]	m.0lnfy
+Henry Winkler	[m.024jwt, m.0668p6x, m.0g1mygc]	m.024jwt
+Texaco	[m.0g499, m.01pvx3, m.058q_]	m.0g499
+China	[m.0d05w3, m.06f32]	m.0d05w3
+Connecticut	[m.01x73, m.01jsn5, m.0167q3]	m.01x73
+Dallas Cowboys	[m.02896]	m.02896
+Rukia Kuchiki	[m.0765hg, m.02rlw6w, m.07tqjt]	m.0765hg
+Brazil	[m.015fr, m.01352_, m.02rp9tg]	m.015fr
+Gospel Of John	[m.038vs, m.0bg1bn, g.11bw82g4n3]	N/A
+Czech Republic	[m.01mjq, m.05ywg, m.036b7l]	m.01mjq
+Bruno Mars	[m.0bs1g5r, m.0bwj_d1, m.04f34ff]	m.0bs1g5r
+Tex Beneke	[m.076yxy, m.0g65g4q, g.1q5jc1nmm]	m.076yxy
+Thomas Edison	[m.07bty, m.01r4ld, m.06sw5p]	m.07bty
+Albania	[m.0jdx, m.03z1c5, m.02y_7v4]	m.0jdx
+Shakira	[m.01wj18h, m.0_fs1sv, m.05z7jy]	m.01wj18h
+Ottoman Empire	[m.05kyr, m.01znc_]	m.05kyr
+Bilbo Baggins	[m.0g6z1, m.0n4ck66, m.02fz3w]	m.0g6z1
+George Washington	[m.034rd, m.01nnsv, m.03d0l76]	m.034rd
+National Collegiate Athletic Association	[m.0gh43, m.02jp2w, m.02p5tk]	m.0gh43
+Caitlin Todd	[m.07wp6d, m.0fy5qz, m.03z1cn]	m.07wp6d
+Seneca Nation	[m.03x1x, m.0fr3k]	N/A
+Mohammed Farah	[m.0g5576, m.0djfx, m.0857c8]	N/A
+Matt Barnes	[m.07dr3v, m.0j6689p, m.0j650jw]	m.07dr3v
+Jordan River	[m.0cvy5, m.02fl_m, m.0b1zc5]	m.0cvy5
+D Carter	[m.016kjs, m.05_6kl, m.042r2r]	N/A
+Riannah	[m.06mt91]	N/A
+Kurt Busch	[m.02llzy, g.1q5bfcqg6]	m.02llzy
+New York Knicks	[m.0jm3v, m.02_286, m.0cc56]	m.0jm3v
+United Kingdom	[m.07ssc, m.04jpl, m.0d1_f]	m.07ssc
+Dustin Diamond	[m.02v_gd, g.11b_2hx516, g.11c45nk7d0]	m.02v_gd
+Thomas Jefferson	[m.07cbs, m.0l4qb, m.0drl1]	m.07cbs
+Google	[m.045c7b, m.04j7cyf, m.0hhrhd0]	m.045c7b
+Princess Leia Organa	[m.0ddqw, m.02pjq2c, m.066m9f]	N/A
+Richard Wright	[m.0bv6k, m.032t2z, m.032t4_]	m.032t2z
+Nascar Hall Of Fame	[m.0635_7, m.0599y, m.06fhs4]	N/A
+Austraila	[m.0chghy, m.03mv_7, m.06km172]	N/A
+Wright Brothers	[m.073ty0, m.0416n2, m.0fp0hz]	m.04w7201	----------
+University Of Leeds	[m.01bzs9, m.0344jl, m.03gqgdy]	N/A
+Gilbert Gottfried	[m.02y0yt, m.0cry8d7, g.11c30q5cbz]	m.02y0yt
+Denmark	[g.121p5z1h, m.02s2lg]	m.0k6nt	----------
+Martin Luther	[m.051cc, m.035yzw]	m.04yd_	----------
+Grover Cleveland Alexander	[m.01zt27, m.0lr2vs0, m.02pmhsd]	m.01zt27
+Eli Whitney	[m.02ncr, m.06ptj5, m.02vqbs3]	m.02ncr
+Christiaan Barnard	[m.02092, m.0h5jrr2, g.11ckw5y8p3]	m.02092
+Dwight D Eisenhower	[m.028rk, m.01bgbg, m.062jdz]	m.0763j2k	----------
+Audi	[m.0k50, m.0b8jj5, m.0h5z20c]	m.0h5z20c
+Chris Paul	[m.0cymln, m.027_wg8, m.0pw2fzn]	m.0cymln
+Washington United States	[m.081yw, m.09c7w0, m.0d9jr]	N/A
+Singapore	[m.06t2t, m.04h54p]	m.06t2t
+Sanjay Gupta	[m.02yyk6, m.0b4jlm, m.064qfy5]	m.02yyk6
+Singapore	[m.06t2t, m.04h54p]	m.06t2t
+Luke Perry	[m.01g65g, g.11b6b492x1, m.0g9wzmv]	m.01g65g
+Gospel Of John	[m.038vs, m.0bg1bn, g.11bw82g4n3]	N/A
+Kobe Bryant	[m.01kmd4, m.0fx3ps]	m.01kmd4
+Israel	[m.03spz, m.039_ym]	m.03spz
+Albania	[m.0jdx, m.03z1c5, m.02y_7v4]	m.0jdx
+Thomas Jefferson	[m.07cbs, m.0l4qb, m.0drl1]	m.07cbs
+Wentworth Miller	[m.06p426, m.0gxsc06, m.0whfn4r]	m.06p426
+Spain	[m.06mkj, m.02w64f]	m.06mkj
+Harvey Milk	[m.01brc5, m.03hkch7, m.01vbtcl]	m.01vbtcl
+Dr Seuss	[m.02g3w, m.087wc7n, m.0crrc8]	N/A
+Nissan Motors	[m.05b4c, m.030znb, g.122jr69z]	N/A
+University Of West Alabama	[m.07c5fv, m.0ll4z9w, m.01wdl3]	N/A
+Kenny Everett	[m.01m0gh, m.07cgck4, m.07cgzdz]	m.01m0gh
+Brazil	[m.015fr, m.01352_, m.02rp9tg]	m.015fr
+Joey King	[m.03yk4pb, m.0w52cnq, m.05psr41]	m.03yk4pb
+Justin Bieber	[m.06w2sn5, m.0j263y3, m.02wz8_7]	m.06w2sn5
+Austraila	[m.0chghy, m.03mv_7, m.06km172]	N/A
+Manchester United Fc	[m.050fh, m.02prml3, m.0crkfl]	N/A
+Hawaii	[m.03gh4, m.0jbt3, m.02hrh0_]	m.03gh4
+Herbert Hoover	[m.03kdl, m.04pb7q, m.0jvhh]	m.03kdl
+Elvis Presley	[m.02jq1, m.01hzgbw, m.0129g582]	m.02jq1
+Vince Mcmahon	[m.01s7z0, m.032969, m.0_gm544]	N/A
+Harriet Tubman	[m.098yd, m.03b_s55, m.0s8v8x2]	m.098yd
+Unesco	[m.05yg8kx, m.01k0p4, m.09ydxm]	m.04d2h0z	----------
+Canada	[m.0d060g, m.0h7h6, m.052p7]	m.0d060g
+David	[m.02cvn, m.01vsy7t, m.0266lb]	m.0gftgq1	----------
+Amanda Seyfried	[m.03zz8b, m.0dr_xmk, m.0wcgs31]	m.03zz8b
+Iran	[m.03shp, m.01n_2f]	m.03shp
+Supreme Court Of The United States	[m.07sz1, m.09c7w0, m.020d5]	N/A
+Hank Azaria	[m.0sw6g, m.0wgf_2h, m.04ms52]	m.0sw6g
+Japan	[m.03_3d, m.03xh50]	m.03_3d
+United Kingdom	[m.07ssc, m.04jpl, m.0d1_f]	m.07ssc
+Bela Fleck	[m.017f9r, m.017mf4, m.012zcmg7]	m.0xxs9z	----------
+Ray Allen	[m.03lh3v, m.09bhts, m.067_pd]	m.03lh3v
+United States House Of Representatives	[]	N/A
+Kurdish People	[m.0329by, m.0kwd9, m.03m_n0]	N/A
+Battle Of Chancellorsville	[]	N/A
+Chicago Cubs	[m.01yjl]	m.01yjl
+Hawkeye	[m.034qd2, m.0fjqh, m.03ttn0]	m.0szbs	----------
+English	[m.02h40lc, m.02jx1, m.02_tc]	m.0skp3	----------
+Victoria Of The United Kingdom	[m.0cw10, m.01mqj1, m.01ww1f]	N/A
+Riannah	[m.06mt91]	N/A
+Oakland Raiders	[m.05l71]	m.05l71
+Mary Todd Lincoln	[m.01ypl0, m.0fy0tj, m.05n7j2y]	m.01ypl0
+United States House Of Representatives	[]	N/A
+Jason Kidd	[m.02cg2v, m.0nhz1m8, m.0j2jmv8]	m.02cg2v
+Verizon Communications	[m.07_dn, m.05mxkp]	m.07_dn
+Cyprus	[m.01ppq, m.01nx28]	m.01ppq
+Dell	[m.0py9b, m.0d_n__, m.03p_lr]	m.075nvkf	----------
+Morgan Freeman	[m.055c8, m.0c3twds, g.11cmp9l3v9]	m.055c8
+Bob Barker	[m.01ydhd, m.09v1hn_, m.05jn_s]	m.01ydhd
+Cavalier King Charles Spaniel	[m.01xtxb, m.06gfzq9, m.04nmst]	m.01xtxb
+Chinese Language	[m.0d05w3, m.02h40lc, m.0gjqqm]	N/A
+Boston Terrier	[m.02x9dk, g.11b822ntr0, m.02w6n9g]	m.02x9dk
+Albert Einstein	[m.0jcx, m.0gwyfkh, m.04xmkm]	m.0jcx
+Juni Cortez	[m.02ql73, m.042ldz, m.02ql50]	m.02ql73
+New York Mets	[m.05g76, m.02_286]	m.05g76
+Neil Gaiman	[m.05jm7, m.018x_s, m.04w4mt9]	m.05jm7
+Aristotle	[m.0gz_, m.03564p, m.014902]	m.0gz_
+European Union	[m.0_6t_z8]	m.02jxk	----------
+Cornelia Marie	[m.02qn24x, m.0xm8msg, g.11dynvbb5b]	N/A
+John Muir	[m.01fhry, m.07ndzr, m.084wvj]	m.01fhry
+Selena Gomez	[m.0gs6vr, m.09rt83f, g.11b87h0bfz]	m.0gs6vr
+Andean Community Of Nations	[m.0qnfv, m.02774tm, m.0tkdt5l]	N/A
+English	[m.02h40lc, m.02jx1, m.02_tc]	m.0skp3	----------
+San Francisco Giants	[m.0713r, m.0d6lp]	m.0713r
+Destin	[m.0c296, m.0rp8x, m.02qzm7_]	m.0rp8x
+Charlie-o	[m.01lwx, m.01w695, m.0f99bxv]	N/A
+George Washington	[m.034rd, m.01nnsv, m.03d0l76]	m.034rd
+Pete Rose	[m.0dxg6, m.06wh_t, m.02919h]	m.0dxg6
+Kyla Ross	[m.09glsjp, m.0yq9lj2, m.0r4qn8j]	m.09glsjp
+Allen Iverson	[m.01sg7_, m.0g9w76s, m.04wg9fz]	m.01sg7_
+Jackson Browne	[m.0136pk, m.044x94, m.01hsjlj]	m.0136pk
+Ferris Buellers Day Off	[m.0m491, m.0g717pq, m.0fdcvw0]	N/A
+Anna Kendrick	[m.04066xj, m.0tlzx0z, g.11dzhc7zpr]	m.04066xj
+United States	[m.09c7w0, m.01bqks, m.07wg3]	m.0dvxqk	----------
+Pittsburgh Steelers	[m.05tfm]	m.05tfm
+France	[m.0f8l9c, m.01l3vx]	m.0f8l9c
+Roy Rogers	[m.01mc6h1, m.022rl8, m.024ftt]	m.01mc6h1
+Calabria	[m.0c61p, m.0c7h7, m.04_xb7]	m.0c61p
+New Orleans Oklahoma City Hornets	[m.0jm6n, m.0f2tj]	N/A
+Israel	[m.03spz, m.039_ym]	m.03spz
+Jamaica	[m.03_r3, m.03zbg0, m.0541mw]	m.03_r3
+Andrew Jackson	[m.0rlz, m.018t4c, m.03f53ld]	m.0rlz
+Great Britain	[m.07ssc, m.034cm, m.03sv8f]	m.034cm
+Bernard L Madoff	[m.051znky, m.05kmqfn]	N/A
+Philippines	[m.05v8c, m.019rl6]	m.05v8c
+Monifa	[m.0gyvrmq, m.01m2q8d, m.011gbl9g]	m.0ndd8n7	----------
+Heinrich Himmler	[m.03hfz, m.0h0vrtd, m.04wc0cx]	m.03hfz
+Sherwin-williams Company	[m.073wzx, m.09m4tj4, m.0ds2lw5]	N/A
+Josh Groban	[m.02bc74, m.01lys5f, m.03g0xk_]	m.02bc74
+Columbia University	[m.01w5m, m.03p7gb, m.0187nd]	m.01w5m
+Kris Humphries	[m.0730b4, m.043rcw4]	m.0730b4
+J J Thomson	[m.0j68z, m.06r376, m.07svc3]	N/A
+John Boehner	[m.039rwf, g.11bzq3w4w9, g.11bzs3brkj]	m.039rwf
+Martin Luther King Jr	[m.051cc, m.050my1]	m.06lwmyx	----------
+Carrie Underwood	[m.058s57, m.01rtdvx]	m.058s57
+Lois Griffin	[m.03pcqz, m.0dqlct, m.03n6jv]	m.03pcqz
+Julian Fellowes	[m.05mcjs, m.063yj8y, m.0h4p3bm]	m.05mcjs
+Selena Gomez	[m.0gs6vr, m.09rt83f, g.11b87h0bfz]	m.0gs6vr
+Islam	[m.0kj34, m.04s9n]	m.0flw86	----------
+Lance Armstrong	[m.0hfwb, m.073pzb, m.0zthcnr]	m.0hfwb
+Venus	[m.09bcm, m.01t4bh, m.02yrx3]	m.0zm0zl	----------
+John Fox 1955	[m.06_73l]	N/A
+United Kingdom	[m.07ssc, m.04jpl, m.0d1_f]	m.07ssc
+Los Angeles Dodgers	[m.04mjl, m.030qb3t]	m.04mjl
+Farrah Fawcett	[m.01j851, g.1q5j7t3rg, m.0sd3t3]	m.01j851
+Soviet Union	[m.05vz3zq]	m.05vz3zq
+John Beck	[m.09v6p4, m.0h337y, m.09v6rk]	m.09v6p4
+Catholicism	[m.0c8wxp, m.04399, m.02zdsd]	m.0c8wxp
+Kenya Moore	[m.08cpnf, m.0bs6h1q, m.0d57l9]	m.08cpnf
+Robbie Hummel	[m.03ygblk, m.026w398]	m.03ygblk
+Cleveland Indians	[m.01yhm]	m.01yhm
+Cleveland Browns	[m.01xvb]	m.01xvb
+Jew	[m.041rx]	m.09hb4xp	----------
+Germany	[m.0345h, m.059z0, m.01l3wr]	m.0345h
+Danneel Harris	[m.0dphkz, m.0gz7l2s, m.0h944f1]	m.0gz7l2s
+Michelangelo	[m.058w5, m.020bg, m.02mx55]	m.058w5
+Germany	[m.0345h, m.059z0, m.01l3wr]	m.0345h
+Indianapolis Colts	[m.03wnh]	m.03wnh
+Houston	[m.03l2n, m.03m1n, m.07l2m]	m.03l2n
+Liz Mclarnon	[m.067j97]	N/A
+Fc Schalke 04	[m.024_ql, m.0sgh2ph, m.09k6msy]	N/A
+South Korea	[m.06qd3, m.03zrhb, m.0dgqwl_]	m.06qd3
+Giovanni Di Cosimo De Medici	[m.026vygj, m.026c29h, m.01fgdy]	N/A
+Daytona Beach	[m.0rsjf, m.07jwl0, m.027rnt]	m.0rsjf
+Omar Epps	[m.02_tv5, m.04zx33c, m.03qhxn_]	m.02_tv5
+Baltimore Ravens	[m.01ct6]	m.01ct6
+Puerto Rico	[m.05r7t, m.02hl0_, m.05kns5]	m.05r7t
+William Shakespeare	[m.081k8, m.05mdd, m.03j9w]	m.081k8
+Aubrey Oday	[m.0dpd2h, m.03j36xf]	N/A
+Joe Namath	[m.01p_3k, m.0pcg_21, m.0yc3qs_]	m.01p_3k
+Colorado	[m.01n4w, m.02cl1, m.01qd_r]	m.01n4w
+European Union	[m.0_6t_z8]	m.02jxk	----------
+New England	[m.05g3b, m.029jpy]	m.029jpy
+Arabic Language	[g.11bwd_sz5b, m.06f7qxq, m.09bnf]	m.0jzc	----------
+Lyndon B Johnson	[m.0f7fy, m.05ts4j, m.0182y2]	N/A
+Richardwagner	[m.06c44]	N/A
+Jew	[m.041rx]	m.09hb4xp	----------
+Michael Oher	[m.0h7q7b, m.07yd7_1, m.03ccsym]	m.0h7q7b
+Barry Bonds	[m.01dk_, m.03jjrr6]	m.01dk_
+Emma Frost	[m.033pl2, m.0whtmnr, m.0696h92]	m.033pl2
+Maya Civilization	[m.06qdx6d, m.0c475c1]	N/A
+Peter Crouch	[m.03y5_6, m.01wxhcs, g.11c5rp62h2]	m.03y5_6
+Hannah Montana	[m.0bdxs5, m.09yn84, m.02x3lt7]	m.09yn84
+Lamar Odom	[m.02_nkp, m.0glmhkq, m.043p2f2]	m.02_nkp
+Tom Brady	[m.01xyt7, m.0kt8vk, m.010f574n]	m.01xyt7
+Skywest	[m.01nhdy, m.096rj7, m.01n7kh]	m.03dvky	----------
+Michael Jordan	[m.054c1, m.0h54ss7, m.027kyy1]	m.054c1
+Syracuse University	[m.078bz, m.057xlyq, m.02q4ntp]	m.078bz
+Mario Lopez	[m.02w5q6, m.0c3zxqx, m.0ngtfgw]	m.0j946mm	----------
+Logan Browning	[m.02v_wvk, m.0n52mxx, m.01347w31]	m.02v_wvk
+Mcdonalds	[m.07gyp7, m.0c9p74, m.0fztqc]	m.04fj8x5	----------
+Terrell Owens	[m.027ddp, m.0w24kgr, m.03ctgr2]	m.027ddp
+City Of Halifax	[m.036k0s, m.02qjb7z]	N/A
+Lake Waynoka	[m.027_7y_, g.11bxd_h1d

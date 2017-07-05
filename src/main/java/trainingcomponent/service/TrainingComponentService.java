@@ -1,6 +1,8 @@
 package trainingcomponent.service;
 
 import java.util.ArrayList;
+
+import trainingcomponent.database.DBQuery;
 import trainingcomponent.io.APIReader;
 import trainingcomponent.io.FileReader;
 
@@ -8,6 +10,10 @@ public class TrainingComponentService {
 	public void getAllIds() {
 		//this.getAllNamesFromFile();
 		this.verifyCurrentIds();
+	}
+	
+	public void testQuery() {
+		DBQuery.dbQueryTest();
 	}
 	
 	public String[] getAllNamesFromFile() {
@@ -36,24 +42,23 @@ public class TrainingComponentService {
 		String[] nouns = fr.getWholeLine();
 		int length = nouns.length;
 		int i = 0;
-		ArrayList<String> idList = new ArrayList<String>();
 		
 		for (i = 0; i < length; i++) {
 			String line = nouns[i];
 			String[] substrings = line.split("\t");
-			String id = ar.getIdByNoun(substrings[1]);
+			String idsString = ar.getTopThreeIdsByNoun(substrings[1]);
+			
 			if (substrings.length < 3) {
-				System.out.println(substrings[1] + "\t" + id + "\tN/A");
+				System.out.println(substrings[1] + "\t" + idsString + "\tN/A");
 			} else {
 				String originalId = substrings[2].replace("http://rdf.freebase.com/ns/", "");
-				System.out.print(substrings[1] + "\t" + id + "\t" + originalId);
-				if (!originalId.equals(id)) {
+				System.out.print(substrings[1] + "\t" + idsString + "\t" + originalId);
+				if (idsString.indexOf(originalId) < 0) {
 					System.out.println("\t----------");
 				} else {
 					System.out.println("");
 				}
 			}
-			idList.add(id);
 		}
 	}
 	
