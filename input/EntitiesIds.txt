@@ -1,11 +1,3 @@
-[INFO] Error stacktraces are turned on.
-[INFO] Scanning for projects...
-[INFO] 
-[INFO] ------------------------------------------------------------------------
-[INFO] Building Training Component 0.0.1-SNAPSHOT
-[INFO] ------------------------------------------------------------------------
-[INFO] 
-[INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ TrainingComponent ---
 Justin Bieber	m.06w2sn5,m.0j263y3,m.02wz8_7	m.06w2sn5
 Natalie Portman	m.09l3p,m.024tzvd,m.0tx7h17	m.09l3p
 Selena Gomez	m.0gs6vr,m.09rt83f	m.0gs6vr
@@ -3784,14 +3776,3 @@ Catholicism	m.0c8wxp,m.04399,m.02zdsd	m.0c8wxp
 Denver Broncos	m.0289q,m.02cl1	m.0289q
 Russia	m.06bnz,m.0cdbq,m.04swd	m.06bnz
 United States	m.09c7w0,m.01bqks,m.07wg3	m.0dvxqk	----------
-findEntityByName: | Justin Bieber | http://rdf.freebase.com/ns/m.06w2sn5
-findBinaryRelationByValue | http://rdf.freebase.com/ns/m.06w2sn5 | http://rdf.freebase.com/ns/people.person.gender | http://rdf.freebase.com/ns/m.05zppz | http://rdf.freebase.com/ns/type.object.name | Male
-findUnaryRelationbyProperty | http://rdf.freebase.com/ns/m.06w2sn5 | http://rdf.freebase.com/ns/type.object.name | Justin Bieber
-findCVTRelationByValue | http://rdf.freebase.com/ns/m.06w2sn5 | http://rdf.freebase.com/ns/people.person.sibling_s | http://rdf.freebase.com/ns/m.0gxnnwp | http://rdf.freebase.com/ns/people.sibling_relationship.sibling | http://rdf.freebase.com/ns/m.0gxnnwq | http://rdf.freebase.com/ns/type.object.name | Jaxon Bieber
-[INFO] ------------------------------------------------------------------------
-[INFO] BUILD SUCCESS
-[INFO] ------------------------------------------------------------------------
-[INFO] Total time: 47:02 min
-[INFO] Finished at: 2017-07-05T15:29:02+10:00
-[INFO] Final Memory: 18M/164M
-[INFO] ------------------------------------------------------------------------

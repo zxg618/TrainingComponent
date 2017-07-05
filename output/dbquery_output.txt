@@ -1,0 +1,722 @@
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Training Component 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ TrainingComponent ---
+There are total 3778 trining data.
+1	what is the name of justin bieber brother?	Justin Bieber	http://rdf.freebase.com/ns/m.06w2sn5	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.06w2sn5|http://rdf.freebase.com/ns/people.person.sibling_s|http://rdf.freebase.com/ns/m.0gxnnwc|http://rdf.freebase.com/ns/people.sibling_relationship.sibling|http://rdf.freebase.com/ns/m.0gxnnwd|http://rdf.freebase.com/ns/type.object.name|Jazmyn Bieber
+	Jazmyn Bieber
+1	what is the name of justin bieber brother?	Justin Bieber	http://rdf.freebase.com/ns/m.06w2sn5	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.06w2sn5|http://rdf.freebase.com/ns/people.person.sibling_s|http://rdf.freebase.com/ns/m.0gxnnwp|http://rdf.freebase.com/ns/people.sibling_relationship.sibling|http://rdf.freebase.com/ns/m.0gxnnwq|http://rdf.freebase.com/ns/type.object.name|Jaxon Bieber
+	Jaxon Bieber
+1	what is the name of justin bieber brother?	Justin Bieber	http://rdf.freebase.com/ns/m.0j263y3	,,	Jazmyn Bieber
+1	what is the name of justin bieber brother?	Justin Bieber	http://rdf.freebase.com/ns/m.0j263y3	,,	Jaxon Bieber
+1	what is the name of justin bieber brother?	Justin Bieber	http://rdf.freebase.com/ns/m.02wz8_7	,,	Jazmyn Bieber
+1	what is the name of justin bieber brother?	Justin Bieber	http://rdf.freebase.com/ns/m.02wz8_7	,,	Jaxon Bieber
+1	what is the name of justin bieber brother?	Justin Bieber	http://rdf.freebase.com/ns/m.06w2sn5	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.06w2sn5|http://rdf.freebase.com/ns/people.person.sibling_s|http://rdf.freebase.com/ns/m.0gxnnwc|http://rdf.freebase.com/ns/people.sibling_relationship.sibling|http://rdf.freebase.com/ns/m.0gxnnwd|http://rdf.freebase.com/ns/type.object.name|Jazmyn Bieber
+	Jazmyn Bieber
+1	what is the name of justin bieber brother?	Justin Bieber	http://rdf.freebase.com/ns/m.06w2sn5	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.06w2sn5|http://rdf.freebase.com/ns/people.person.sibling_s|http://rdf.freebase.com/ns/m.0gxnnwp|http://rdf.freebase.com/ns/people.sibling_relationship.sibling|http://rdf.freebase.com/ns/m.0gxnnwq|http://rdf.freebase.com/ns/type.object.name|Jaxon Bieber
+	Jaxon Bieber
+2	what character did natalie portman play in star wars?	Natalie Portman	http://rdf.freebase.com/ns/m.09l3p	,,	Padm\u00e9 Amidala
+2	what character did natalie portman play in star wars?	Natalie Portman	http://rdf.freebase.com/ns/m.024tzvd	,,	Padm\u00e9 Amidala
+2	what character did natalie portman play in star wars?	Natalie Portman	http://rdf.freebase.com/ns/m.0tx7h17	,,	Padm\u00e9 Amidala
+2	what character did natalie portman play in star wars?	Natalie Portman	http://rdf.freebase.com/ns/m.09l3p	,,	Padm\u00e9 Amidala
+3	what state does selena gomez?	Selena Gomez	http://rdf.freebase.com/ns/m.0gs6vr	,,	New York City
+3	what state does selena gomez?	Selena Gomez	http://rdf.freebase.com/ns/m.09rt83f	,,	New York City
+3	what state does selena gomez?	Selena Gomez	http://rdf.freebase.com/ns/m.0gs6vr	,,	New York City
+4	what country is the grand bahama island in?	Grand Bahama	http://rdf.freebase.com/ns/m.03st9j	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03st9j|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.0160w|http://rdf.freebase.com/ns/type.object.name|Bahamas
+,	Bahamas
+4	what country is the grand bahama island in?	Grand Bahama	http://rdf.freebase.com/ns/m.03t1dv	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03t1dv|http://rdf.freebase.com/ns/location.administrative_division.country|http://rdf.freebase.com/ns/m.0160w|http://rdf.freebase.com/ns/type.object.name|Bahamas
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03t1dv|http://rdf.freebase.com/ns/location.administrative_division.first_level_division_of|http://rdf.freebase.com/ns/m.0160w|http://rdf.freebase.com/ns/type.object.name|Bahamas
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03t1dv|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.0160w|http://rdf.freebase.com/ns/type.object.name|Bahamas
+,	Bahamas
+4	what country is the grand bahama island in?	Grand Bahama	http://rdf.freebase.com/ns/m.07jwh6	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.07jwh6|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.0160w|http://rdf.freebase.com/ns/type.object.name|Bahamas
+,	Bahamas
+4	what country is the grand bahama island in?	Grand Bahama	http://rdf.freebase.com/ns/m.03st9j	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03st9j|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.0160w|http://rdf.freebase.com/ns/type.object.name|Bahamas
+,	Bahamas
+5	what kind of money to take to bahamas?	The Bahamas	http://rdf.freebase.com/ns/m.0160w	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0160w|http://rdf.freebase.com/ns/location.country.currency_used|http://rdf.freebase.com/ns/m.01l6dm|http://rdf.freebase.com/ns/type.object.name|Bahamian dollar
+,	Bahamian dollar
+5	what kind of money to take to bahamas?	The Bahamas	http://rdf.freebase.com/ns/m.09q374	,,	Bahamian dollar
+5	what kind of money to take to bahamas?	The Bahamas	http://rdf.freebase.com/ns/m.07ffm5	,,	Bahamian dollar
+5	what kind of money to take to bahamas?	The Bahamas	http://rdf.freebase.com/ns/m.05dgq_3	,,	Bahamian dollar
+6	what character did john noble play in lord of the rings?	John Noble	http://rdf.freebase.com/ns/m.02fgm7	,,	Denethor II
+6	what character did john noble play in lord of the rings?	John Noble	http://rdf.freebase.com/ns/m.059_x2l	,,	Denethor II
+6	what character did john noble play in lord of the rings?	John Noble	http://rdf.freebase.com/ns/m.03995f	,,	Denethor II
+6	what character did john noble play in lord of the rings?	John Noble	http://rdf.freebase.com/ns/m.02fgm7	,,	Denethor II
+7	who does joakim noah play for?	Joakim Noah	http://rdf.freebase.com/ns/m.0c2yrf	,,	Chicago Bulls
+7	who does joakim noah play for?	Joakim Noah	http://rdf.freebase.com/ns/m.05qr52	,,	Chicago Bulls
+7	who does joakim noah play for?	Joakim Noah	http://rdf.freebase.com/ns/m.0by122w	,,	Chicago Bulls
+7	who does joakim noah play for?	Joakim Noah	http://rdf.freebase.com/ns/m.0c2yrf	,,	Chicago Bulls
+8	where are the nfl redskins from?	Washington Redskins	http://rdf.freebase.com/ns/m.084l5	findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.084l5|http://rdf.freebase.com/ns/type.object.name|Washington Redskins
+,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.084l5|http://rdf.freebase.com/ns/user.szaijan.fantasy_football.player.nfl_team|http://rdf.freebase.com/ns/m.084l5|http://rdf.freebase.com/ns/type.object.name|Washington Redskins
+,	Washington Redskins
+8	where are the nfl redskins from?	Washington Redskins	http://rdf.freebase.com/ns/m.084l5	findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.084l5|http://rdf.freebase.com/ns/type.object.name|Washington Redskins
+,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.084l5|http://rdf.freebase.com/ns/user.szaijan.fantasy_football.player.nfl_team|http://rdf.freebase.com/ns/m.084l5|http://rdf.freebase.com/ns/type.object.name|Washington Redskins
+,	Washington Redskins
+9	where did saki live?	Saki	http://rdf.freebase.com/ns/m.05f54gx	,,	United Kingdom
+9	where did saki live?	Saki	http://rdf.freebase.com/ns/m.07484	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.07484|http://rdf.freebase.com/ns/people.person.nationality|http://rdf.freebase.com/ns/m.07ssc|http://rdf.freebase.com/ns/type.object.name|United Kingdom
+,	United Kingdom
+9	where did saki live?	Saki	http://rdf.freebase.com/ns/m.02_98f	,,	United Kingdom
+9	where did saki live?	Saki	http://rdf.freebase.com/ns/m.07484	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.07484|http://rdf.freebase.com/ns/people.person.nationality|http://rdf.freebase.com/ns/m.07ssc|http://rdf.freebase.com/ns/type.object.name|United Kingdom
+,	United Kingdom
+10	how old is sacha baron cohen?	Sacha Baron Cohen	http://rdf.freebase.com/ns/m.0c9c0	,,	http://justjared.buzznet.com/2009/01/12/sacha-baron-cohen-insults-madonna-at-golden-globes/
+10	how old is sacha baron cohen?	Sacha Baron Cohen	http://rdf.freebase.com/ns/m.07l86x	,,	http://justjared.buzznet.com/2009/01/12/sacha-baron-cohen-insults-madonna-at-golden-globes/
+10	how old is sacha baron cohen?	Sacha Baron Cohen	http://rdf.freebase.com/ns/m.03clv4y	,,	http://justjared.buzznet.com/2009/01/12/sacha-baron-cohen-insults-madonna-at-golden-globes/
+10	how old is sacha baron cohen?	Sacha Baron Cohen	http://rdf.freebase.com/ns/m.0c9c0	,,	http://justjared.buzznet.com/2009/01/12/sacha-baron-cohen-insults-madonna-at-golden-globes/
+11	what two countries invaded poland in the beginning of ww2?	Poland	http://rdf.freebase.com/ns/m.05qhw	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.05qhw|http://rdf.freebase.com/ns/location.location.adjoin_s|http://rdf.freebase.com/ns/m.02nxjlh|http://rdf.freebase.com/ns/location.adjoining_relationship.adjoins|http://rdf.freebase.com/ns/m.0345h|http://rdf.freebase.com/ns/type.object.name|Germany
+	Germany
+11	what two countries invaded poland in the beginning of ww2?	Poland	http://rdf.freebase.com/ns/m.03pn9	,,	Germany
+11	what two countries invaded poland in the beginning of ww2?	Poland	http://rdf.freebase.com/ns/m.01zs00	,,	Germany
+11	what two countries invaded poland in the beginning of ww2?	Poland	http://rdf.freebase.com/ns/m.05qhw	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.05qhw|http://rdf.freebase.com/ns/location.location.adjoin_s|http://rdf.freebase.com/ns/m.02nxjlh|http://rdf.freebase.com/ns/location.adjoining_relationship.adjoins|http://rdf.freebase.com/ns/m.0345h|http://rdf.freebase.com/ns/type.object.name|Germany
+	Germany
+12	what time zone am i in cleveland ohio?	Cleveland Ohio	http://rdf.freebase.com/ns/m.01sn3	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.01sn3|http://rdf.freebase.com/ns/location.location.time_zones|http://rdf.freebase.com/ns/m.02hcv8|http://rdf.freebase.com/ns/common.topic.alias|North American Eastern Time Zone
+,	North American Eastern Time Zone
+12	what time zone am i in cleveland ohio?	Cleveland Ohio	http://rdf.freebase.com/ns/m.01_d4	,,	North American Eastern Time Zone
+12	what time zone am i in cleveland ohio?	Cleveland Ohio	http://rdf.freebase.com/ns/m.08pnxj	,,	North American Eastern Time Zone
+12	what time zone am i in cleveland ohio?	Cleveland Ohio	http://rdf.freebase.com/ns/m.01cj3cp	,,	North American Eastern Time Zone
+13	who did draco malloy end up marrying?	Draco Malfoy	http://rdf.freebase.com/ns/m.0c2m4	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.0c2m4|http://rdf.freebase.com/ns/fictional_universe.fictional_character.married_to|http://rdf.freebase.com/ns/m.09k254w|http://rdf.freebase.com/ns/fictional_universe.marriage_of_fictional_characters.spouses|http://rdf.freebase.com/ns/m.09k254x|http://rdf.freebase.com/ns/type.object.name|Astoria Greengrass
+	Astoria Greengrass
+13	who did draco malloy end up marrying?	Draco Malfoy	http://rdf.freebase.com/ns/m.01cwj2w	,,	Astoria Greengrass
+13	who did draco malloy end up marrying?	Draco Malfoy	http://rdf.freebase.com/ns/m.0dy1hfz	,,	Astoria Greengrass
+13	who did draco malloy end up marrying?	Draco Malfoy	http://rdf.freebase.com/ns/m.0c2m4	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.0c2m4|http://rdf.freebase.com/ns/fictional_universe.fictional_character.married_to|http://rdf.freebase.com/ns/m.09k254w|http://rdf.freebase.com/ns/fictional_universe.marriage_of_fictional_characters.spouses|http://rdf.freebase.com/ns/m.09k254x|http://rdf.freebase.com/ns/type.object.name|Astoria Greengrass
+	Astoria Greengrass
+14	which countries border the us?	United States	http://rdf.freebase.com/ns/m.09c7w0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/m.0492fl3|http://rdf.freebase.com/ns/type.object.name|Canada
+,findCVTRelationByValue|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/location.location.adjoin_s|http://rdf.freebase.com/ns/m.02sjtvg|http://rdf.freebase.com/ns/location.adjoining_relationship.adjoins|http://rdf.freebase.com/ns/m.0d060g|http://rdf.freebase.com/ns/type.object.name|Canada
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.03z967f|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.0d060g|http://rdf.freebase.com/ns/type.object.name|Canada
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.04g9ysp|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.0d060g|http://rdf.freebase.com/ns/type.object.name|Canada
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.sharing.sharing_location.shared_here|http://rdf.freebase.com/ns/m.0gw7mgc|http://rdf.freebase.com/ns/base.sharing.sharing_relationship.locations|http://rdf.freebase.com/ns/m.0d060g|http://rdf.freebase.com/ns/type.object.name|Canada
+	Canada
+14	which countries border the us?	United States	http://rdf.freebase.com/ns/m.01bqks	,,	Canada
+14	which countries border the us?	United States	http://rdf.freebase.com/ns/m.07wg3	,,	Canada
+14	which countries border the us?	United States	http://rdf.freebase.com/ns/m.0dvxqk	,,	Canada
+15	where is rome italy located on a map?	Rome	http://rdf.freebase.com/ns/m.06c62	findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/type.object.name|Rome
+,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/m.04js6kc|http://rdf.freebase.com/ns/type.object.name|Rome
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/m.04mn0b4|http://rdf.freebase.com/ns/type.object.name|Rome
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/m.04mn0bt|http://rdf.freebase.com/ns/type.object.name|Rome
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/m.04js6kq|http://rdf.freebase.com/ns/type.object.name|Rome
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/m.04w9wnq|http://rdf.freebase.com/ns/type.object.name|Rome
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/user.narphorium.default_domain.base_equivalent_location.base|http://rdf.freebase.com/ns/m.04nvqdz|http://rdf.freebase.com/ns/type.object.name|Rome
+,	Rome
+15	where is rome italy located on a map?	Rome	http://rdf.freebase.com/ns/m.04jr87	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jr87|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/type.object.name|Rome
+,	Rome
+15	where is rome italy located on a map?	Rome	http://rdf.freebase.com/ns/m.02l341	,,	Rome
+15	where is rome italy located on a map?	Rome	http://rdf.freebase.com/ns/m.06c62	findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/type.object.name|Rome
+,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/m.04js6kc|http://rdf.freebase.com/ns/type.object.name|Rome
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/m.04mn0b4|http://rdf.freebase.com/ns/type.object.name|Rome
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/m.04mn0bt|http://rdf.freebase.com/ns/type.object.name|Rome
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/m.04js6kq|http://rdf.freebase.com/ns/type.object.name|Rome
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/m.04w9wnq|http://rdf.freebase.com/ns/type.object.name|Rome
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06c62|http://rdf.freebase.com/ns/user.narphorium.default_domain.base_equivalent_location.base|http://rdf.freebase.com/ns/m.04nvqdz|http://rdf.freebase.com/ns/type.object.name|Rome
+,	Rome
+16	what is nina dobrev nationality?	Nina Dobrev	http://rdf.freebase.com/ns/m.027nwk2	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.027nwk2|http://rdf.freebase.com/ns/people.person.nationality|http://rdf.freebase.com/ns/m.015qh|http://rdf.freebase.com/ns/type.object.name|Bulgaria
+,	Bulgaria
+16	what is nina dobrev nationality?	Nina Dobrev	http://rdf.freebase.com/ns/m.0whfqp3	,,	Bulgaria
+16	what is nina dobrev nationality?	Nina Dobrev	http://rdf.freebase.com/ns/m.05sy2k_	,,	Bulgaria
+16	what is nina dobrev nationality?	Nina Dobrev	http://rdf.freebase.com/ns/m.027nwk2	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.027nwk2|http://rdf.freebase.com/ns/people.person.nationality|http://rdf.freebase.com/ns/m.015qh|http://rdf.freebase.com/ns/type.object.name|Bulgaria
+,	Bulgaria
+17	what country does iceland belong to?	Iceland	http://rdf.freebase.com/ns/m.03rj0	findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.03rj0|http://rdf.freebase.com/ns/type.object.name|Iceland
+,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03rj0|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/m.04w67_t|http://rdf.freebase.com/ns/type.object.name|Iceland
+,	Iceland
+17	what country does iceland belong to?	Iceland	http://rdf.freebase.com/ns/m.03yv67	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03yv67|http://rdf.freebase.com/ns/sports.sports_team.location|http://rdf.freebase.com/ns/m.03rj0|http://rdf.freebase.com/ns/type.object.name|Iceland
+,	Iceland
+17	what country does iceland belong to?	Iceland	http://rdf.freebase.com/ns/m.026wgq	findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.026wgq|http://rdf.freebase.com/ns/type.object.name|Iceland
+,,	Iceland
+17	what country does iceland belong to?	Iceland	http://rdf.freebase.com/ns/m.03rj0	findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.03rj0|http://rdf.freebase.com/ns/type.object.name|Iceland
+,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03rj0|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/m.04w67_t|http://rdf.freebase.com/ns/type.object.name|Iceland
+,	Iceland
+18	which kennedy died first?	John F Kennedy	http://rdf.freebase.com/ns/m.0d3k14	findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.0d3k14|http://rdf.freebase.com/ns/type.object.name|John F. Kennedy
+,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0d3k14|http://rdf.freebase.com/ns/fictional_universe.person_in_fiction.representations_in_fiction|http://rdf.freebase.com/ns/m.0n340d2|http://rdf.freebase.com/ns/type.object.name|John F. Kennedy
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0d3k14|http://rdf.freebase.com/ns/fictional_universe.person_in_fiction.representations_in_fiction|http://rdf.freebase.com/ns/m.05kg3b2|http://rdf.freebase.com/ns/type.object.name|John F. Kennedy
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0d3k14|http://rdf.freebase.com/ns/visual_art.art_subject.artwork_on_the_subject|http://rdf.freebase.com/ns/m.059vwvb|http://rdf.freebase.com/ns/type.object.name|John F. Kennedy
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0d3k14|http://rdf.freebase.com/ns/fictional_universe.person_in_fiction.representations_in_fiction|http://rdf.freebase.com/ns/m.0glychy|http://rdf.freebase.com/ns/type.object.name|John F. Kennedy
+,	John F. Kennedy
+18	which kennedy died first?	John F Kennedy	http://rdf.freebase.com/ns/m.0p1l2	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0p1l2|http://rdf.freebase.com/ns/symbols.namesake.named_after|http://rdf.freebase.com/ns/m.0d3k14|http://rdf.freebase.com/ns/type.object.name|John F. Kennedy
+,	John F. Kennedy
+18	which kennedy died first?	John F Kennedy	http://rdf.freebase.com/ns/m.01_f90	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.01_f90|http://rdf.freebase.com/ns/symbols.namesake.named_after|http://rdf.freebase.com/ns/m.0d3k14|http://rdf.freebase.com/ns/type.object.name|John F. Kennedy
+,	John F. Kennedy
+18	which kennedy died first?	John F Kennedy	http://rdf.freebase.com/ns/m.03t0qkg	,,	John F. Kennedy
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.027jhr9|http://rdf.freebase.com/ns/type.object.name|Ramona\'s World
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028ykn_|http://rdf.freebase.com/ns/type.object.name|Ramona\'s World
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028ykwy|http://rdf.freebase.com/ns/type.object.name|Ramona\'s World
+,	Ramona's World
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.0fgq4n|http://rdf.freebase.com/ns/type.object.name|Ramona Quimby, Age 8
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04tv3d1|http://rdf.freebase.com/ns/type.object.name|Ramona Quimby, Age 8
+,	Ramona Quimby, Age 8
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028xxhr|http://rdf.freebase.com/ns/type.object.name|Ralph S. Mouse
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vbd19|http://rdf.freebase.com/ns/type.object.name|Ralph S. Mouse
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.06wytx|http://rdf.freebase.com/ns/type.object.name|Ralph S. Mouse
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vbd28|http://rdf.freebase.com/ns/type.object.name|Ralph S. Mouse
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vbc_w|http://rdf.freebase.com/ns/type.object.name|Ralph S. Mouse
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vbd1k|http://rdf.freebase.com/ns/type.object.name|Ralph S. Mouse
+,	Ralph S. Mouse
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028xwl9|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vfp|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vdc|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.0ftgff|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vdw|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vcq|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vdm|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vfy|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vf3|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vc0|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vbl|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vfd|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+,	Runaway Ralph
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.027_9rs|http://rdf.freebase.com/ns/type.object.name|Ribsy
+,	Ribsy
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcytm|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcytw|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.0bkdwj|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcysm|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcytc|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcyvs|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcyw0|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcyv3|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+,	Sister of the Bride
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.0f3nw6|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcgnm|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcgpv|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcgp9|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcgpl|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcgq2|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcgn2|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+,	Ellen Tebbits
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yr2|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yw1|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.06xz23|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04tv3sj|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yw9|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_ysv|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yv9|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yxp|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028xt1p|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_ysc|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_ys3|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yxd|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yvt|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_ywz|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yv1|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yyn|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+,	Dear Mr. Henshaw
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/film.film_story_contributor.film_story_credits|http://rdf.freebase.com/ns/m.05klgtn|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93wl|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.07392n|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93xc|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028xy3z|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93_5|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v9403|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93zn|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93zc|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93yw|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93ym|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+,	The Mouse and the Motorcycle
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.0282mb3|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06gn|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06gd|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06dr|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06gx|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06hd|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06k2|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06h4|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06g3|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028y2s9|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04tv3q3|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06hn|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+,	Beezus and Ramona
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.0cc5jxl	,,	Ramona's World
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.0cc5jxl	,,	Ramona Quimby, Age 8
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.0cc5jxl	,,	Ralph S. Mouse
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.0cc5jxl	,,	Runaway Ralph
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.0cc5jxl	,,	Ribsy
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.0cc5jxl	,,	Sister of the Bride
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.0cc5jxl	,,	Ellen Tebbits
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.0cc5jxl	,,	Dear Mr. Henshaw
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.0cc5jxl	,,	The Mouse and the Motorcycle
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.0cc5jxl	,,	Beezus and Ramona
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.06kxfm2	,,	Ramona's World
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.06kxfm2	,,	Ramona Quimby, Age 8
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.06kxfm2	,,	Ralph S. Mouse
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.06kxfm2	,,	Runaway Ralph
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.06kxfm2	,,	Ribsy
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.06kxfm2	,,	Sister of the Bride
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.06kxfm2	,,	Ellen Tebbits
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.06kxfm2	,,	Dear Mr. Henshaw
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.06kxfm2	,,	The Mouse and the Motorcycle
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.06kxfm2	,,	Beezus and Ramona
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.027jhr9|http://rdf.freebase.com/ns/type.object.name|Ramona\'s World
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028ykn_|http://rdf.freebase.com/ns/type.object.name|Ramona\'s World
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028ykwy|http://rdf.freebase.com/ns/type.object.name|Ramona\'s World
+,	Ramona's World
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.0fgq4n|http://rdf.freebase.com/ns/type.object.name|Ramona Quimby, Age 8
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04tv3d1|http://rdf.freebase.com/ns/type.object.name|Ramona Quimby, Age 8
+,	Ramona Quimby, Age 8
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028xxhr|http://rdf.freebase.com/ns/type.object.name|Ralph S. Mouse
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vbd19|http://rdf.freebase.com/ns/type.object.name|Ralph S. Mouse
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.06wytx|http://rdf.freebase.com/ns/type.object.name|Ralph S. Mouse
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vbd28|http://rdf.freebase.com/ns/type.object.name|Ralph S. Mouse
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vbc_w|http://rdf.freebase.com/ns/type.object.name|Ralph S. Mouse
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vbd1k|http://rdf.freebase.com/ns/type.object.name|Ralph S. Mouse
+,	Ralph S. Mouse
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028xwl9|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vfp|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vdc|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.0ftgff|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vdw|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vcq|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vdm|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vfy|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vf3|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vc0|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vbl|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v8vfd|http://rdf.freebase.com/ns/type.object.name|Runaway Ralph
+,	Runaway Ralph
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.027_9rs|http://rdf.freebase.com/ns/type.object.name|Ribsy
+,	Ribsy
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcytm|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcytw|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.0bkdwj|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcysm|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcytc|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcyvs|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcyw0|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcyv3|http://rdf.freebase.com/ns/type.object.name|Sister of the Bride
+,	Sister of the Bride
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.0f3nw6|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcgnm|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcgpv|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcgp9|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcgpl|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcgq2|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04vcgn2|http://rdf.freebase.com/ns/type.object.name|Ellen Tebbits
+,	Ellen Tebbits
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yr2|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yw1|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.06xz23|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04tv3sj|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yw9|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_ysv|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yv9|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yxp|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028xt1p|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_ysc|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_ys3|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yxd|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yvt|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_ywz|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yv1|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v_yyn|http://rdf.freebase.com/ns/type.object.name|Dear Mr. Henshaw
+,	Dear Mr. Henshaw
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/film.film_story_contributor.film_story_credits|http://rdf.freebase.com/ns/m.05klgtn|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93wl|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.07392n|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93xc|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028xy3z|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93_5|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v9403|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93zn|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93zc|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93yw|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04v93ym|http://rdf.freebase.com/ns/type.object.name|The Mouse and the Motorcycle
+,	The Mouse and the Motorcycle
+19	what books did beverly cleary right?	Beverly Cleary	http://rdf.freebase.com/ns/m.018rv0	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/m.0282mb3|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06gn|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06gd|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06dr|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06gx|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06hd|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06k2|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06h4|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06g3|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.028y2s9|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04tv3q3|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.018rv0|http://rdf.freebase.com/ns/book.author.book_editions_published|http://rdf.freebase.com/ns/m.04w06hn|http://rdf.freebase.com/ns/type.object.name|Beezus and Ramona
+,	Beezus and Ramona
+20	who did the philippines gain independence from?	Philippines	http://rdf.freebase.com/ns/m.05v8c	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.05h7c4r|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/type.object.name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.03z9671|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/type.object.name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.043wpn_|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/type.object.name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.05h989t|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/type.object.name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.04ypj3s|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/type.object.name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.04ypkrb|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/type.object.name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.05h7c4r|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.03z9671|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.043wpn_|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.05h989t|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.04ypj3s|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.04ypkrb|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name|United States of America
+	United States of America
+20	who did the philippines gain independence from?	Philippines	http://rdf.freebase.com/ns/m.019rl6	,,	United States of America
+20	who did the philippines gain independence from?	Philippines	http://rdf.freebase.com/ns/m.01b1pf	,,	United States of America
+20	who did the philippines gain independence from?	Philippines	http://rdf.freebase.com/ns/m.05v8c	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.05h7c4r|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/type.object.name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.03z9671|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/type.object.name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.043wpn_|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/type.object.name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.05h989t|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/type.object.name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.04ypj3s|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/type.object.name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.04ypkrb|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/type.object.name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.05h7c4r|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.03z9671|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.043wpn_|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.05h989t|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.04ypj3s|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name|United States of America
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.05v8c|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/m.04ypkrb|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/m.09c7w0|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name|United States of America
+	United States of America
+21	where to fly into bali?	Bali	http://rdf.freebase.com/ns/m.01bkb	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.01bkb|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/m.069hj8|http://rdf.freebase.com/ns/type.object.name|Ngurah Rai Airport
+,	Ngurah Rai Airport
+21	where to fly into bali?	Bali	http://rdf.freebase.com/ns/m.04y9jwq	,,	Ngurah Rai Airport
+21	where to fly into bali?	Bali	http://rdf.freebase.com/ns/m.055xk4	,,	Ngurah Rai Airport
+21	where to fly into bali?	Bali	http://rdf.freebase.com/ns/m.03fj2b4	,,	Ngurah Rai Airport
+22	who is the prime minister of ethiopia?	Ethiopia	http://rdf.freebase.com/ns/m.019pcs	,,	Hailemariam Desalegn
+22	who is the prime minister of ethiopia?	Ethiopia	http://rdf.freebase.com/ns/m.02y_9cf	,,	Hailemariam Desalegn
+22	who is the prime minister of ethiopia?	Ethiopia	http://rdf.freebase.com/ns/m.03_3d	,,	Hailemariam Desalegn
+22	who is the prime minister of ethiopia?	Ethiopia	http://rdf.freebase.com/ns/m.019pcs	,,	Hailemariam Desalegn
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.02ty7n|http://rdf.freebase.com/ns/type.object.name|Sedona Airport
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/location.location.nearby_airports|http://rdf.freebase.com/ns/m.02ty7n|http://rdf.freebase.com/ns/type.object.name|Sedona Airport
+,	Sedona Airport
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.0dlm2c7|http://rdf.freebase.com/ns/type.object.name|Red Rock State Park
+,	Red Rock State Park
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.04xgf_s|http://rdf.freebase.com/ns/type.object.name|Seven Canyons
+,	Seven Canyons
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.0g5qfch|http://rdf.freebase.com/ns/type.object.name|Honanki
+,	Honanki
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.0gj9fwx|http://rdf.freebase.com/ns/type.object.name|Cathedral Rock
+,	Cathedral Rock
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.07k8z2|http://rdf.freebase.com/ns/type.object.name|Chapel of the Holy Cross
+,	Chapel of the Holy Cross
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.026h8t6|http://rdf.freebase.com/ns/type.object.name|Sycamore Canyon
+,	Sycamore Canyon
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.0f44c_|http://rdf.freebase.com/ns/type.object.name|Oak Creek Canyon
+,	Oak Creek Canyon
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.0dqzqc|http://rdf.freebase.com/ns/type.object.name|Slide Rock State Park
+,	Slide Rock State Park
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.04crz42|http://rdf.freebase.com/ns/type.object.name|Bell Rock
+,	Bell Rock
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02ty7n	findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.02ty7n|http://rdf.freebase.com/ns/type.object.name|Sedona Airport
+,,	Sedona Airport
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02ty7n	,,	Red Rock State Park
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02ty7n	,,	Seven Canyons
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02ty7n	,,	Honanki
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02ty7n	,,	Cathedral Rock
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02ty7n	,,	Chapel of the Holy Cross
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02ty7n	,,	Sycamore Canyon
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02ty7n	,,	Oak Creek Canyon
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02ty7n	,,	Slide Rock State Park
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02ty7n	,,	Bell Rock
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02qswpp	,,	Sedona Airport
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02qswpp	,,	Red Rock State Park
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02qswpp	,,	Seven Canyons
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02qswpp	,,	Honanki
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02qswpp	,,	Cathedral Rock
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02qswpp	,,	Chapel of the Holy Cross
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02qswpp	,,	Sycamore Canyon
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02qswpp	,,	Oak Creek Canyon
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02qswpp	,,	Slide Rock State Park
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.02qswpp	,,	Bell Rock
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.02ty7n|http://rdf.freebase.com/ns/type.object.name|Sedona Airport
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/location.location.nearby_airports|http://rdf.freebase.com/ns/m.02ty7n|http://rdf.freebase.com/ns/type.object.name|Sedona Airport
+,	Sedona Airport
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.0dlm2c7|http://rdf.freebase.com/ns/type.object.name|Red Rock State Park
+,	Red Rock State Park
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.04xgf_s|http://rdf.freebase.com/ns/type.object.name|Seven Canyons
+,	Seven Canyons
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.0g5qfch|http://rdf.freebase.com/ns/type.object.name|Honanki
+,	Honanki
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.0gj9fwx|http://rdf.freebase.com/ns/type.object.name|Cathedral Rock
+,	Cathedral Rock
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.07k8z2|http://rdf.freebase.com/ns/type.object.name|Chapel of the Holy Cross
+,	Chapel of the Holy Cross
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.026h8t6|http://rdf.freebase.com/ns/type.object.name|Sycamore Canyon
+,	Sycamore Canyon
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.0f44c_|http://rdf.freebase.com/ns/type.object.name|Oak Creek Canyon
+,	Oak Creek Canyon
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.0dqzqc|http://rdf.freebase.com/ns/type.object.name|Slide Rock State Park
+,	Slide Rock State Park
+23	what to see near sedona arizona?	Sedona	http://rdf.freebase.com/ns/m.0ny57	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0ny57|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/m.04crz42|http://rdf.freebase.com/ns/type.object.name|Bell Rock
+,	Bell Rock
+24	what high school did president bill clinton attend?	Bill Clinton	http://rdf.freebase.com/ns/m.0157m	,,	Hot Springs High School
+24	what high school did president bill clinton attend?	Bill Clinton	http://rdf.freebase.com/ns/m.04d_ty	,,	Hot Springs High School
+24	what high school did president bill clinton attend?	Bill Clinton	http://rdf.freebase.com/ns/m.0d06m5	,,	Hot Springs High School
+24	what high school did president bill clinton attend?	Bill Clinton	http://rdf.freebase.com/ns/m.0157m	,,	Hot Springs High School
+25	what form of government does russia have today?	Russia	http://rdf.freebase.com/ns/m.06bnz	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06bnz|http://rdf.freebase.com/ns/location.country.form_of_government|http://rdf.freebase.com/ns/m.0c9rw5|http://rdf.freebase.com/ns/type.object.name|Constitutional republic
+,	Constitutional republic
+25	what form of government does russia have today?	Russia	http://rdf.freebase.com/ns/m.0cdbq	,,	Constitutional republic
+25	what form of government does russia have today?	Russia	http://rdf.freebase.com/ns/m.04swd	,,	Constitutional republic
+25	what form of government does russia have today?	Russia	http://rdf.freebase.com/ns/m.06bnz	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06bnz|http://rdf.freebase.com/ns/location.country.form_of_government|http://rdf.freebase.com/ns/m.0c9rw5|http://rdf.freebase.com/ns/type.object.name|Constitutional republic
+,	Constitutional republic
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.07ldhs	,,	Abduction
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.07ldhs	,,	Eclipse
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.07ldhs	,,	Valentine's Day
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.07ldhs	,,	The Twilight Saga: Breaking Dawn - Part 1
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.07ldhs	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_winner.awards_won|http://rdf.freebase.com/ns/m.0sglcdq|http://rdf.freebase.com/ns/award.award_honor.award_winner|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_winner.awards_won|http://rdf.freebase.com/ns/m.0nf3bp2|http://rdf.freebase.com/ns/award.award_honor.award_winner|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_winner.awards_won|http://rdf.freebase.com/ns/m.0g4t6qq|http://rdf.freebase.com/ns/award.award_honor.award_winner|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/m.09sftk2|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/m.0sgl9q8|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/m.09tz609|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/m.0pc68dv|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/m.0j2vj_g|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/m.0dlsl0_|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/celebrities.celebrity.celebrity_friends|http://rdf.freebase.com/ns/m.07z2msz|http://rdf.freebase.com/ns/celebrities.friendship.friend|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+	New Moon
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.0dl567	,,	Abduction
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.0dl567	,,	Eclipse
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.0dl567	,,	Valentine's Day
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.0dl567	,,	The Twilight Saga: Breaking Dawn - Part 1
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.0dl567	,,	New Moon
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.0kbb5vv	,,	Abduction
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.0kbb5vv	,,	Eclipse
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.0kbb5vv	,,	Valentine's Day
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.0kbb5vv	,,	The Twilight Saga: Breaking Dawn - Part 1
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.0kbb5vv	,,	New Moon
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.07ldhs	,,	Abduction
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.07ldhs	,,	Eclipse
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.07ldhs	,,	Valentine's Day
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.07ldhs	,,	The Twilight Saga: Breaking Dawn - Part 1
+26	what movies does taylor lautner play in?	Taylor Lautner	http://rdf.freebase.com/ns/m.07ldhs	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_winner.awards_won|http://rdf.freebase.com/ns/m.0sglcdq|http://rdf.freebase.com/ns/award.award_honor.award_winner|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_winner.awards_won|http://rdf.freebase.com/ns/m.0nf3bp2|http://rdf.freebase.com/ns/award.award_honor.award_winner|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_winner.awards_won|http://rdf.freebase.com/ns/m.0g4t6qq|http://rdf.freebase.com/ns/award.award_honor.award_winner|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/m.09sftk2|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/m.0sgl9q8|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/m.09tz609|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/m.0pc68dv|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/m.0j2vj_g|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/m.0dlsl0_|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+findCVTRelationByValue|http://rdf.freebase.com/ns/m.07ldhs|http://rdf.freebase.com/ns/celebrities.celebrity.celebrity_friends|http://rdf.freebase.com/ns/m.07z2msz|http://rdf.freebase.com/ns/celebrities.friendship.friend|http://rdf.freebase.com/ns/m.07swvb|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for|New Moon
+	New Moon
+27	what year lebron james came to the nba?	Lebron James	http://rdf.freebase.com/ns/m.01jz6d	,,	2003\u201304 NBA season
+27	what year lebron james came to the nba?	Lebron James	http://rdf.freebase.com/ns/m.02_n34	,,	2003\u201304 NBA season
+27	what year lebron james came to the nba?	Lebron James	http://rdf.freebase.com/ns/m.06drft4	,,	2003\u201304 NBA season
+27	what year lebron james came to the nba?	Lebron James	http://rdf.freebase.com/ns/m.063r8c_	,,	2003\u201304 NBA season
+28	what did the german revolution lead to?	German Language	http://rdf.freebase.com/ns/m.02h40lc	,,	German Democratic Republic
+28	what did the german revolution lead to?	German Language	http://rdf.freebase.com/ns/m.0345h	,,	German Democratic Republic
+28	what did the german revolution lead to?	German Language	http://rdf.freebase.com/ns/m.09hgk	,,	German Democratic Republic
+28	what did the german revolution lead to?	German Language	http://rdf.freebase.com/ns/m.04306rv	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04306rv|http://rdf.freebase.com/ns/language.human_language.countries_spoken_in|http://rdf.freebase.com/ns/m.03f2w|http://rdf.freebase.com/ns/type.object.name|German Democratic Republic
+,	German Democratic Republic
+29	how much did adriana lima gain during pregnancy?	Adriana Lima	http://rdf.freebase.com/ns/m.03qvwf	,,	Spike Guys' Choice Awards
+29	how much did adriana lima gain during pregnancy?	Adriana Lima	http://rdf.freebase.com/ns/m.027z0_6	,,	Spike Guys' Choice Awards
+29	how much did adriana lima gain during pregnancy?	Adriana Lima	http://rdf.freebase.com/ns/m.05p3ww8	,,	Spike Guys' Choice Awards
+29	how much did adriana lima gain during pregnancy?	Adriana Lima	http://rdf.freebase.com/ns/m.03qvwf	,,	Spike Guys' Choice Awards
+30	what does thai mean?	Thai Language	http://rdf.freebase.com/ns/m.07f1x	,,	Language
+30	what does thai mean?	Thai Language	http://rdf.freebase.com/ns/m.07c9s	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.07c9s|http://rdf.freebase.com/ns/base.rosetta.languoid.languoid_class|http://rdf.freebase.com/ns/m.05kf4hf|http://rdf.freebase.com/ns/type.object.name|Language
+,	Language
+30	what does thai mean?	Thai Language	http://rdf.freebase.com/ns/m.0bqwg4x	,,	Language
+30	what does thai mean?	Thai Language	http://rdf.freebase.com/ns/m.0c_v2	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0c_v2|http://rdf.freebase.com/ns/base.rosetta.languoid.languoid_class|http://rdf.freebase.com/ns/m.05kf4hf|http://rdf.freebase.com/ns/type.object.name|Language
+,	Language
+31	which wife did king henry behead?	Wives Of Henry Viii	http://rdf.freebase.com/ns/m.0m9vr	,,	Anne of the Thousand Days
+31	which wife did king henry behead?	Wives Of Henry Viii	http://rdf.freebase.com/ns/m.03p77	,,	Anne of the Thousand Days
+31	which wife did king henry behead?	Wives Of Henry Viii	http://rdf.freebase.com/ns/m.01jp464	,,	Anne of the Thousand Days
+32	who was ishmael's mom?	Ishmael	http://rdf.freebase.com/ns/m.01ghr4	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.01ghr4|http://rdf.freebase.com/ns/people.person.parents|http://rdf.freebase.com/ns/m.01sq9c|http://rdf.freebase.com/ns/type.object.name|Hagar
+,	Hagar
+32	who was ishmael's mom?	Ishmael	http://rdf.freebase.com/ns/m.01ghsc	,,	Hagar
+32	who was ishmael's mom?	Ishmael	http://rdf.freebase.com/ns/m.0pwb	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.0pwb|http://rdf.freebase.com/ns/people.person.spouse_s|http://rdf.freebase.com/ns/m.048b266|http://rdf.freebase.com/ns/people.marriage.spouse|http://rdf.freebase.com/ns/m.01sq9c|http://rdf.freebase.com/ns/type.object.name|Hagar
+	Hagar
+32	who was ishmael's mom?	Ishmael	http://rdf.freebase.com/ns/m.0g_7x	,,	Hagar
+33	what was malcolm x trying to accomplish?	Malcolm X	http://rdf.freebase.com/ns/m.03f2h01	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03f2h01|http://rdf.freebase.com/ns/base.activism.activist.area_of_activism|http://rdf.freebase.com/ns/m.0g4pf68|http://rdf.freebase.com/ns/type.object.name|African Americans\' rights
+,	African Americans' rights
+33	what was malcolm x trying to accomplish?	Malcolm X	http://rdf.freebase.com/ns/m.03f2h01	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03f2h01|http://rdf.freebase.com/ns/base.activism.activist.area_of_activism|http://rdf.freebase.com/ns/m.074v_1j|http://rdf.freebase.com/ns/type.object.name|Black Liberation
+,	Black Liberation
+33	what was malcolm x trying to accomplish?	Malcolm X	http://rdf.freebase.com/ns/m.01rwyq	,,	African Americans' rights
+33	what was malcolm x trying to accomplish?	Malcolm X	http://rdf.freebase.com/ns/m.01rwyq	,,	Black Liberation
+33	what was malcolm x trying to accomplish?	Malcolm X	http://rdf.freebase.com/ns/m.04hwsb	,,	African Americans' rights
+33	what was malcolm x trying to accomplish?	Malcolm X	http://rdf.freebase.com/ns/m.04hwsb	,,	Black Liberation
+33	what was malcolm x trying to accomplish?	Malcolm X	http://rdf.freebase.com/ns/m.03f2h01	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03f2h01|http://rdf.freebase.com/ns/base.activism.activist.area_of_activism|http://rdf.freebase.com/ns/m.0g4pf68|http://rdf.freebase.com/ns/type.object.name|African Americans\' rights
+,	African Americans' rights
+33	what was malcolm x trying to accomplish?	Malcolm X	http://rdf.freebase.com/ns/m.03f2h01	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03f2h01|http://rdf.freebase.com/ns/base.activism.activist.area_of_activism|http://rdf.freebase.com/ns/m.074v_1j|http://rdf.freebase.com/ns/type.object.name|Black Liberation
+,	Black Liberation
+34	where are the netherlands on a world map?	Netherlands	http://rdf.freebase.com/ns/m.059j2	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.059j2|http://rdf.freebase.com/ns/location.administrative_division.first_level_division_of|http://rdf.freebase.com/ns/m.049nq|http://rdf.freebase.com/ns/type.object.name|Kingdom of the Netherlands
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.059j2|http://rdf.freebase.com/ns/base.aareas.schema.administrative_area.administrative_parent|http://rdf.freebase.com/ns/m.049nq|http://rdf.freebase.com/ns/type.object.name|Kingdom of the Netherlands
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.059j2|http://rdf.freebase.com/ns/base.aareas.schema.administrative_area.subdivides_place|http://rdf.freebase.com/ns/m.049nq|http://rdf.freebase.com/ns/type.object.name|Kingdom of the Netherlands
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.059j2|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.049nq|http://rdf.freebase.com/ns/type.object.name|Kingdom of the Netherlands
+,	Kingdom of the Netherlands
+34	where are the netherlands on a world map?	Netherlands	http://rdf.freebase.com/ns/m.02ltg3	,,	Kingdom of the Netherlands
+34	where are the netherlands on a world map?	Netherlands	http://rdf.freebase.com/ns/m.09b500	,,	Kingdom of the Netherlands
+34	where are the netherlands on a world map?	Netherlands	http://rdf.freebase.com/ns/m.059j2	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.059j2|http://rdf.freebase.com/ns/location.administrative_division.first_level_division_of|http://rdf.freebase.com/ns/m.049nq|http://rdf.freebase.com/ns/type.object.name|Kingdom of the Netherlands
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.059j2|http://rdf.freebase.com/ns/base.aareas.schema.administrative_area.administrative_parent|http://rdf.freebase.com/ns/m.049nq|http://rdf.freebase.com/ns/type.object.name|Kingdom of the Netherlands
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.059j2|http://rdf.freebase.com/ns/base.aareas.schema.administrative_area.subdivides_place|http://rdf.freebase.com/ns/m.049nq|http://rdf.freebase.com/ns/type.object.name|Kingdom of the Netherlands
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.059j2|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.049nq|http://rdf.freebase.com/ns/type.object.name|Kingdom of the Netherlands
+,	Kingdom of the Netherlands
+35	what is the president of brazil?	Brazil	http://rdf.freebase.com/ns/m.015fr	,,	Dilma Rousseff
+35	what is the president of brazil?	Brazil	http://rdf.freebase.com/ns/m.01352_	,,	Dilma Rousseff
+35	what is the president of brazil?	Brazil	http://rdf.freebase.com/ns/m.02rp9tg	,,	Dilma Rousseff
+35	what is the president of brazil?	Brazil	http://rdf.freebase.com/ns/m.015fr	,,	Dilma Rousseff
+36	what are the major cities in france?	France	http://rdf.freebase.com/ns/m.0f8l9c	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/m.0c0tx7|http://rdf.freebase.com/ns/common.topic.alias|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/location.country.administrative_divisions|http://rdf.freebase.com/ns/m.05qtj|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/m.05qtj|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/location.country.capital|http://rdf.freebase.com/ns/m.05qtj|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/location.country.second_level_divisions|http://rdf.freebase.com/ns/m.05qtj|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/base.locations.countries.cities_within|http://rdf.freebase.com/ns/m.05qtj|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/media_common.netflix_genre.titles|http://rdf.freebase.com/ns/m.0276jx2|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/m.04wg1z_|http://rdf.freebase.com/ns/type.object.name|Paris
+,	Paris
+36	what are the major cities in france?	France	http://rdf.freebase.com/ns/m.01l3vx	,,	Paris
+36	what are the major cities in france?	France	http://rdf.freebase.com/ns/m.01cb6r	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.01cb6r|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.05qtj|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.01cb6r|http://rdf.freebase.com/ns/base.arthist.int_zm_nyek.helynev|http://rdf.freebase.com/ns/m.05qtj|http://rdf.freebase.com/ns/type.object.name|Paris
+,	Paris
+36	what are the major cities in france?	France	http://rdf.freebase.com/ns/m.0f8l9c	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/m.0c0tx7|http://rdf.freebase.com/ns/common.topic.alias|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/location.country.administrative_divisions|http://rdf.freebase.com/ns/m.05qtj|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/m.05qtj|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/location.country.capital|http://rdf.freebase.com/ns/m.05qtj|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/location.country.second_level_divisions|http://rdf.freebase.com/ns/m.05qtj|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/base.locations.countries.cities_within|http://rdf.freebase.com/ns/m.05qtj|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/media_common.netflix_genre.titles|http://rdf.freebase.com/ns/m.0276jx2|http://rdf.freebase.com/ns/type.object.name|Paris
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0f8l9c|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/m.04wg1z_|http://rdf.freebase.com/ns/type.object.name|Paris
+,	Paris
+37	what city did esther live in?	Esther	http://rdf.freebase.com/ns/m.01dpg	,,	Susa
+37	what city did esther live in?	Esther	http://rdf.freebase.com/ns/m.02pn7	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.02pn7|http://rdf.freebase.com/ns/people.person.place_of_birth|http://rdf.freebase.com/ns/m.0gf0n|http://rdf.freebase.com/ns/type.object.name|Susa
+,	Susa
+37	what city did esther live in?	Esther	http://rdf.freebase.com/ns/m.01vs_v8	,,	Susa
+37	what city did esther live in?	Esther	http://rdf.freebase.com/ns/m.0qb5mjj	,,	Susa
+38	what sport do the toronto maple leafs play?	Toronto Maple Leafs	http://rdf.freebase.com/ns/m.0j6tr	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0j6tr|http://rdf.freebase.com/ns/sports.sports_team.sport|http://rdf.freebase.com/ns/m.03tmr|http://rdf.freebase.com/ns/type.object.name|Ice Hockey
+,	Ice Hockey
+38	what sport do the toronto maple leafs play?	Toronto Maple Leafs	http://rdf.freebase.com/ns/m.0616j5	,,	Ice Hockey
+38	what sport do the toronto maple leafs play?	Toronto Maple Leafs	http://rdf.freebase.com/ns/m.07wzr_	,,	Ice Hockey
+38	what sport do the toronto maple leafs play?	Toronto Maple Leafs	http://rdf.freebase.com/ns/m.0j6tr	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0j6tr|http://rdf.freebase.com/ns/sports.sports_team.sport|http://rdf.freebase.com/ns/m.03tmr|http://rdf.freebase.com/ns/type.object.name|Ice Hockey
+,	Ice Hockey
+39	what is saint nicholas known for?	Nicholas Ii Of Russia	http://rdf.freebase.com/ns/m.05hks	,,findCVTRelationByValue|http://rdf.freebase.com/ns/m.05hks|http://rdf.freebase.com/ns/people.person.sibling_s|http://rdf.freebase.com/ns/m.0663t5d|http://rdf.freebase.com/ns/people.sibling_relationship.sibling|http://rdf.freebase.com/ns/m.04zgbv|http://rdf.freebase.com/ns/type.object.name|Grand Duke Alexander Alexandrovich of Russia
+	Grand Duke Alexander Alexandrovich of Russia
+39	what is saint nicholas known for?	Nicholas Ii Of Russia	http://rdf.freebase.com/ns/m.06bnz	,,	Grand Duke Alexander Alexandrovich of Russia
+39	what is saint nicholas known for?	Nicholas Ii Of Russia	http://rdf.freebase.com/ns/m.0c1v2	,,	Grand Duke Alexander Alexandrovich of Russia
+40	when is the new series of the only way is essex starting?	Essex	http://rdf.freebase.com/ns/m.02ly_	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.02ly_|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/m.08cbfs|http://rdf.freebase.com/ns/type.object.name|West Horndon
+,	West Horndon
+40	when is the new series of the only way is essex starting?	Essex	http://rdf.freebase.com/ns/m.05hdzj	,,	West Horndon
+40	when is the new series of the only way is essex starting?	Essex	http://rdf.freebase.com/ns/m.0dfnj	,,	West Horndon
+40	when is the new series of the only way is essex starting?	Essex	http://rdf.freebase.com/ns/m.02ly_	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.02ly_|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/m.08cbfs|http://rdf.freebase.com/ns/type.object.name|West Horndon
+,	West Horndon
+41	what is cher's son's name?	Cher	http://rdf.freebase.com/ns/m.01vtj38	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.01vtj38|http://rdf.freebase.com/ns/people.person.children|http://rdf.freebase.com/ns/m.01w4bt1|http://rdf.freebase.com/ns/type.object.name|Elijah Blue Allman
+,	Elijah Blue Allman
+41	what is cher's son's name?	Cher	http://rdf.freebase.com/ns/m.01vtj38	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.01vtj38|http://rdf.freebase.com/ns/people.person.children|http://rdf.freebase.com/ns/m.0br66|http://rdf.freebase.com/ns/type.object.name|Chaz Bono
+,	Chaz Bono
+41	what is cher's son's name?	Cher	http://rdf.freebase.com/ns/m.0kw03	,,	Elijah Blue Allman
+41	what is cher's son's name?	Cher	http://rdf.freebase.com/ns/m.0kw03	,,	Chaz Bono
+41	what is cher's son's name?	Cher	http://rdf.freebase.com/ns/m.0kw0m	,,	Elijah Blue Allman
+41	what is cher's son's name?	Cher	http://rdf.freebase.com/ns/m.0kw0m	,,	Chaz Bono
+41	what is cher's son's name?	Cher	http://rdf.freebase.com/ns/m.01vtj38	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.01vtj38|http://rdf.freebase.com/ns/people.person.children|http://rdf.freebase.com/ns/m.01w4bt1|http://rdf.freebase.com/ns/type.object.name|Elijah Blue Allman
+,	Elijah Blue Allman
+41	what is cher's son's name?	Cher	http://rdf.freebase.com/ns/m.01vtj38	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.01vtj38|http://rdf.freebase.com/ns/people.person.children|http://rdf.freebase.com/ns/m.0br66|http://rdf.freebase.com/ns/type.object.name|Chaz Bono
+,	Chaz Bono
+42	what is martin cooper doing now?	Martin Cooper	http://rdf.freebase.com/ns/m.0bt6kc	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0bt6kc|http://rdf.freebase.com/ns/common.topic.notable_types|http://rdf.freebase.com/ns/base.argumentmaps.innovator|http://rdf.freebase.com/ns/common.topic.alias|Inventor
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0bt6kc|http://rdf.freebase.com/ns/type.object.type|http://rdf.freebase.com/ns/base.argumentmaps.innovator|http://rdf.freebase.com/ns/common.topic.alias|Inventor
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0bt6kc|http://rdf.freebase.com/ns/common.topic.notable_types|http://rdf.freebase.com/ns/law.inventor|http://rdf.freebase.com/ns/type.object.name|Inventor
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0bt6kc|http://rdf.freebase.com/ns/type.object.type|http://rdf.freebase.com/ns/law.inventor|http://rdf.freebase.com/ns/type.object.name|Inventor
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0bt6kc|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/m.03sbb|http://rdf.freebase.com/ns/type.object.name|Inventor
+,	Inventor
+42	what is martin cooper doing now?	Martin Cooper	http://rdf.freebase.com/ns/m.03h_m8m	,,	Inventor
+42	what is martin cooper doing now?	Martin Cooper	http://rdf.freebase.com/ns/m.03mfqv6	,,	Inventor
+42	what is martin cooper doing now?	Martin Cooper	http://rdf.freebase.com/ns/m.03h_m8m	,,	Inventor
+43	what party was andrew jackson?	Andrew Jackson	http://rdf.freebase.com/ns/m.0rlz	,,	Democratic-Republican Party
+43	what party was andrew jackson?	Andrew Jackson	http://rdf.freebase.com/ns/m.0rlz	,,	Democratic Party
+43	what party was andrew jackson?	Andrew Jackson	http://rdf.freebase.com/ns/m.0rlz	,,	Jacksonian Democratic Party
+43	what party was andrew jackson?	Andrew Jackson	http://rdf.freebase.com/ns/m.018t4c	,,	Democratic-Republican Party
+43	what party was andrew jackson?	Andrew Jackson	http://rdf.freebase.com/ns/m.018t4c	,,	Democratic Party
+43	what party was andrew jackson?	Andrew Jackson	http://rdf.freebase.com/ns/m.018t4c	,,	Jacksonian Democratic Party
+43	what party was andrew jackson?	Andrew Jackson	http://rdf.freebase.com/ns/m.03f53ld	,,	Democratic-Republican Party
+43	what party was andrew jackson?	Andrew Jackson	http://rdf.freebase.com/ns/m.03f53ld	,,	Democratic Party
+43	what party was andrew jackson?	Andrew Jackson	http://rdf.freebase.com/ns/m.03f53ld	,,	Jacksonian Democratic Party
+43	what party was andrew jackson?	Andrew Jackson	http://rdf.freebase.com/ns/m.0rlz	,,	Democratic-Republican Party
+43	what party was andrew jackson?	Andrew Jackson	http://rdf.freebase.com/ns/m.0rlz	,,	Democratic Party
+43	what party was andrew jackson?	Andrew Jackson	http://rdf.freebase.com/ns/m.0rlz	,,	Jacksonian Democratic Party
+44	what is medicare a?	Medicare	http://rdf.freebase.com/ns/m.01fl8x	findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.01fl8x|http://rdf.freebase.com/ns/type.object.name|Centers for Medicare and Medicaid Services
+,,	Centers for Medicare and Medicaid Services
+44	what is medicare a?	Medicare	http://rdf.freebase.com/ns/m.0cp69y9	,,	Centers for Medicare and Medicaid Services
+44	what is medicare a?	Medicare	http://rdf.freebase.com/ns/m.0cp7p8v	,,	Centers for Medicare and Medicaid Services
+44	what is medicare a?	Medicare	http://rdf.freebase.com/ns/m.0mfz_m	,,	Centers for Medicare and Medicaid Services
+45	what county is the city of hampton va in?	Hampton	http://rdf.freebase.com/ns/m.04wlz2	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04wlz2|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.0mnsf|http://rdf.freebase.com/ns/type.object.name|Hampton
+,	Hampton
+45	what county is the city of hampton va in?	Hampton	http://rdf.freebase.com/ns/m.0dx9r	,,	Hampton
+45	what county is the city of hampton va in?	Hampton	http://rdf.freebase.com/ns/m.0n9rn	,,	Hampton
+45	what county is the city of hampton va in?	Hampton	http://rdf.freebase.com/ns/m.0mnsf	findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.0mnsf|http://rdf.freebase.com/ns/type.object.name|Hampton
+,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0mnsf|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/m.0293c1f|http://rdf.freebase.com/ns/type.object.name|Hampton
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.0mnsf|http://rdf.freebase.com/ns/location.hud_county_place.place|http://rdf.freebase.com/ns/m.0mnsf|http://rdf.freebase.com/ns/type.object.name|Hampton
+,	Hampton
+46	what is the name of the first harry potter novel?	Harry Potter	http://rdf.freebase.com/ns/m.02676m4	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.02676m4|http://rdf.freebase.com/ns/film.film_series.films_in_series|http://rdf.freebase.com/ns/m.03176f|http://rdf.freebase.com/ns/type.object.name|Harry Potter and the Philosopher\'s Stone
+,	Harry Potter and the Philosopher's Stone
+46	what is the name of the first harry potter novel?	Harry Potter	http://rdf.freebase.com/ns/m.078ffw	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.078ffw|http://rdf.freebase.com/ns/book.literary_series.works_in_this_series|http://rdf.freebase.com/ns/m.0c_vk|http://rdf.freebase.com/ns/type.object.name|Harry Potter and the Philosopher\'s Stone
+,	Harry Potter and the Philosopher's Stone
+46	what is the name of the first harry potter novel?	Harry Potter	http://rdf.freebase.com/ns/m.03bkkv	,,	Harry Potter and the Philosopher's Stone
+46	what is the name of the first harry potter novel?	Harry Potter	http://rdf.freebase.com/ns/m.06xltj	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06xltj|http://rdf.freebase.com/ns/fictional_universe.fictional_universe.works_set_here|http://rdf.freebase.com/ns/m.03176f|http://rdf.freebase.com/ns/type.object.name|Harry Potter and the Philosopher\'s Stone
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.06xltj|http://rdf.freebase.com/ns/fictional_universe.fictional_universe.works_set_here|http://rdf.freebase.com/ns/m.0c_vk|http://rdf.freebase.com/ns/type.object.name|Harry Potter and the Philosopher\'s Stone
+,	Harry Potter and the Philosopher's Stone
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.081k8	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/m.05z96|http://rdf.freebase.com/ns/type.object.name|Poet
+,	Poet
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.081k8	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/m.02hv44_|http://rdf.freebase.com/ns/type.object.name|Playwright
+,	Playwright
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.081k8	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/m.02h6p47|http://rdf.freebase.com/ns/type.object.name|Dramatist
+,	Dramatist
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.081k8	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/common.topic.notable_types|http://rdf.freebase.com/ns/music.lyricist|http://rdf.freebase.com/ns/type.object.name|Lyricist
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/type.object.type|http://rdf.freebase.com/ns/music.lyricist|http://rdf.freebase.com/ns/type.object.name|Lyricist
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/m.025352|http://rdf.freebase.com/ns/type.object.name|Lyricist
+,	Lyricist
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.081k8	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/common.topic.notable_types|http://rdf.freebase.com/ns/book.author|http://rdf.freebase.com/ns/type.object.name|Author
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/type.object.type|http://rdf.freebase.com/ns/book.author|http://rdf.freebase.com/ns/type.object.name|Author
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/m.0kyk|http://rdf.freebase.com/ns/type.object.name|Author
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/common.topic.notable_types|http://rdf.freebase.com/ns/base.greatbooksofthewesternworld.author|http://rdf.freebase.com/ns/type.object.name|Author
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/type.object.type|http://rdf.freebase.com/ns/base.greatbooksofthewesternworld.author|http://rdf.freebase.com/ns/type.object.name|Author
+,	Author
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.05mdd	,,	Poet
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.05mdd	,,	Playwright
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.05mdd	,,	Dramatist
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.05mdd	,,	Lyricist
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.05mdd	,,	Author
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.03j9w	,,	Poet
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.03j9w	,,	Playwright
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.03j9w	,,	Dramatist
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.03j9w	,,	Lyricist
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.03j9w	,,	Author
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.081k8	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/m.05z96|http://rdf.freebase.com/ns/type.object.name|Poet
+,	Poet
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.081k8	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/m.02hv44_|http://rdf.freebase.com/ns/type.object.name|Playwright
+,	Playwright
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.081k8	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/m.02h6p47|http://rdf.freebase.com/ns/type.object.name|Dramatist
+,	Dramatist
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.081k8	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/common.topic.notable_types|http://rdf.freebase.com/ns/music.lyricist|http://rdf.freebase.com/ns/type.object.name|Lyricist
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/type.object.type|http://rdf.freebase.com/ns/music.lyricist|http://rdf.freebase.com/ns/type.object.name|Lyricist
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/m.025352|http://rdf.freebase.com/ns/type.object.name|Lyricist
+,	Lyricist
+47	what did william shakespeare do for a living?	William Shakespeare	http://rdf.freebase.com/ns/m.081k8	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/common.topic.notable_types|http://rdf.freebase.com/ns/book.author|http://rdf.freebase.com/ns/type.object.name|Author
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/type.object.type|http://rdf.freebase.com/ns/book.author|http://rdf.freebase.com/ns/type.object.name|Author
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/m.0kyk|http://rdf.freebase.com/ns/type.object.name|Author
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/common.topic.notable_types|http://rdf.freebase.com/ns/base.greatbooksofthewesternworld.author|http://rdf.freebase.com/ns/type.object.name|Author
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.081k8|http://rdf.freebase.com/ns/type.object.type|http://rdf.freebase.com/ns/base.greatbooksofthewesternworld.author|http://rdf.freebase.com/ns/type.object.name|Author
+,	Author
+48	what county is heathrow airport in?	London Heathrow Airport	http://rdf.freebase.com/ns/m.03jn4	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03jn4|http://rdf.freebase.com/ns/aviation.airport.serves|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03jn4|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03jn4|http://rdf.freebase.com/ns/aviation.airport.serves|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/base.arthist.helynevek.helynev|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03jn4|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/base.arthist.helynevek.helynev|London
+,	London
+48	what county is heathrow airport in?	London Heathrow Airport	http://rdf.freebase.com/ns/m.04jpl	findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/type.object.name|London
+findUnaryRelationbyProperty|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/base.arthist.helynevek.helynev|London
+,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/base.biblioness.bibs_topic.is_really|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/base.biblioness.bibs_topic.subsumes|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/visual_art.art_subject.artwork_on_the_subject|http://rdf.freebase.com/ns/m.03q6362|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/m.04w66vs|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/visual_art.art_subject.artwork_on_the_subject|http://rdf.freebase.com/ns/m.03q67p4|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/m.04wb0ws|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/m.04w9wlg|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/m.059c051|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/visual_art.art_subject.artwork_on_the_subject|http://rdf.freebase.com/ns/m.03q634t|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/visual_art.art_subject.artwork_on_the_subject|http://rdf.freebase.com/ns/m.03q62wv|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/visual_art.art_subject.artwork_on_the_subject|http://rdf.freebase.com/ns/m.03q64g_|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/visual_art.art_subject.artwork_on_the_subject|http://rdf.freebase.com/ns/m.03q67md|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/visual_art.art_subject.artwork_on_the_subject|http://rdf.freebase.com/ns/m.03q63s_|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/user.narphorium.default_domain.base_equivalent_location.base|http://rdf.freebase.com/ns/m.04swzb5|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/base.biblioness.bibs_topic.is_really|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/base.arthist.helynevek.helynev|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/base.biblioness.bibs_topic.subsumes|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/base.arthist.helynevek.helynev|London
+,	London
+48	what county is heathrow airport in?	London Heathrow Airport	http://rdf.freebase.com/ns/m.0bgtnh	,,	London
+48	what county is heathrow airport in?	London Heathrow Airport	http://rdf.freebase.com/ns/m.03jn4	,findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03jn4|http://rdf.freebase.com/ns/aviation.airport.serves|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03jn4|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/type.object.name|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03jn4|http://rdf.freebase.com/ns/aviation.airport.serves|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/base.arthist.helynevek.helynev|London
+findBinaryRelationByValue|http://rdf.freebase.com/ns/m.03jn4|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/m.04jpl|http://rdf.freebase.com/ns/base.arthist.helynevek.helynev|London
+,	London
+49	where did dmitri mendeleev study science?	Dmitri Mendeleev	http://rdf.freebase.com/ns/m.0gglj	,,	Saint Petersburg State University
+49	where did dmitri mendeleev study science?	Dmitri Mendeleev	http://rdf.freebase.com/ns/m.0gglj	,,	Ruprecht Karl University of Heidelberg
+49	where did dmitri mendeleev study science?	Dmitri Mendeleev	http://rdf.freebase.com/ns/m.02ck1	,,	Saint Petersburg State University
+49	where did dmitri mendeleev study science?	Dmitri Mendeleev	http://rdf.freebase.com/ns/m.02ck1	,,	Ruprecht Karl University of Heidelberg
+49	where did dmitri mendeleev study science?	Dmitri Mendeleev	http://rdf.freebase.com/ns/m.04ydfhk	,,	Saint Petersburg State University
+49	where did dmitri mendeleev study science?	Dmitri Mendeleev	http://rdf.freebase.com/ns/m.04ydfhk	,,	Ruprecht Karl University of Heidelberg
+49	where did dmitri mendeleev study science?	Dmitri Mendeleev	http://rdf.freebase.com/ns/m.0gglj	,,	Saint Petersburg State University
+49	where did dmitri mendeleev study science?	Dmitri Mendeleev	http://rdf.freebase.com/ns/m.0gglj	,,	Ruprecht Karl University of Heidelberg
+50	what movie is josh hutcherson in?	Josh Hutcherson	http://rdf.freebase.com/ns/m.08wjf4	,,	Cirque du Freak: The Vampire's Assistant
+50	what movie is josh hutcherson in?	Josh Hutcherson	http://rdf.freebase.com/ns/m.08wjf4	,,	The Hunger Games
+50	what movie is josh hutcherson in?	Josh Hutcherson	http://rdf.freebase.com/ns/m.08wjf4	,,	7 Days in Havana
+50	what movie is josh hutcherson in?	Josh Hutcherson	http://rdf.freebase.com/ns/m.08wjf4	,,	Journey to the Center of the Earth

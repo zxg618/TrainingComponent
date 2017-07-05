@@ -148,7 +148,7 @@ public class DBQuery {
 		while (results.hasNext()) {
 			QuerySolution sol = results.nextSolution();
 			String p = sol.get("p").toString();
-			System.out.println("findBinaryRelationById | " + entityIdOne + " | "+ p + " | " + entityIdTwo);
+			System.out.println("findBinaryRelationById|" + entityIdOne + " | "+ p + " | " + entityIdTwo);
 		}
 		qexec.close();
 		
@@ -175,7 +175,7 @@ public class DBQuery {
 		while (results.hasNext()) {
 			QuerySolution sol = results.nextSolution();
 			String p = sol.get("p").toString();
-			System.out.println("findUnaryRelationbyProperty | " + entityOneId + " | " + p + " | " + property);
+			System.out.println("findUnaryRelationbyProperty|" + entityOneId + "|" + p + "|" + property);
 		}
 		qexec.close();
 
@@ -217,7 +217,7 @@ public class DBQuery {
 			String p = sol.get("p").toString();
 			String o = sol.get("o").toString();
 			String p2 = sol.get("p2").toString();
-			System.out.println("findBinaryRelationByValue | " + entityOneId + " | " + p + " | " + o + " | " + p2 + " | "
+			System.out.println("findBinaryRelationByValue|" + entityOneId + "|" + p + "|" + o + "|" + p2 + "|"
 					+ entityTwoValue);
 		}
 		qexec.close();
@@ -316,8 +316,8 @@ public class DBQuery {
 			String s = sol.get("s").toString();		// Entity Two
 			String p3 = sol.get("p3").toString();	// Entity Two to EntityTwoValue
 			
-			System.out.println("findCVTRelationByValue | " + entityIdOne + " | " + p + " | " + o + " | " + p2 + " | "
-					+ s + " | " + p3 + " | " + entityTwoValue);
+			System.out.println("findCVTRelationByValue|" + entityIdOne + "|" + p + "|" + o + "|" + p2 + "|"
+					+ s + "|" + p3 + "|" + entityTwoValue);
 		}
 		qexec.close();
 		
