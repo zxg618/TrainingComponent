@@ -7,6 +7,7 @@ import trainingcomponent.io.APIReader;
 import trainingcomponent.io.FileReader;
 
 public class TrainingComponentService {
+	
 	public void getAllIds() {
 		//this.getAllNamesFromFile();
 		this.verifyCurrentIds();

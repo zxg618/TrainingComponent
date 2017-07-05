@@ -15,4 +15,5 @@ public final class Constant {
 	public static final String DATA_PATH = "./data/";
 	public static final String INPUT_FILE_NAME = "tab_delim_train_step1.txt";
 	public static final String INPUT_FILE_NAME2 = "tab_delim_test_step1.txt";
+	public static final String OUTPUT_ID_FILE_NAME = "EntitiesIds.txt";
 }
