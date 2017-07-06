@@ -2,6 +2,8 @@ package trainingcomponent.service;
 import static trainingcomponent.constant.Constant.*;
 import java.util.ArrayList;
 
+import org.apache.commons.lang3.StringEscapeUtils;
+
 import trainingcomponent.database.DBQuery;
 import trainingcomponent.io.APIReader;
 import trainingcomponent.io.FileReader;
@@ -27,7 +29,7 @@ public class TrainingComponentService {
 			System.out.println("There are total " + total + " trining data.");
 		}
 		
-		for (i = 0; i < total; i++) {
+		for (i = START; i < total; i++) {
 			this.runQueriesForOneData(entityIds[i], answers[i], i + 1);
 		}
 	}
@@ -38,35 +40,57 @@ public class TrainingComponentService {
 		String answers = answerString.split("\t")[1];
 		String[] answerSubStrings = answers.split("\\|");
 		String entityName = entityIdString.split("\t")[0];
+		//entityName = entityName.replace("\\", "\\\\");
+		entityName = StringEscapeUtils.unescapeJava(entityName);
 		int idLength = idList.length;
 		int answerLength = answerSubStrings.length;
 		int i = 0;
 		int j = 0;
-		
+		boolean printFlag = true;
 		
 		for (i = 0; i < idLength; i++) {
 			for (j = 0; j < answerLength; j++) {
-				System.out.print(index + "\t");
-				System.out.print(question + "\t");
-				System.out.print(entityName + "\t");
+				String line = "";
+				line += index + "\t";
+				line += question + "\t";
+				line += entityName + "\t";
 				String eid = PREFIX + idList[i];
-				System.out.print(eid + "\t");
+				line += eid + "\t";
 				String answer = answerSubStrings[j];
 				if (answer.indexOf("\'") >= 0) {
 					answer = answer.replace("\'", "\\'");
 				}
-				DBQuery.findUnaryRelationbyProperty(eid, answer);
-				System.out.print(",");
-				DBQuery.findBinaryRelationByValue(eid, answer);
-				System.out.print(",");
-				DBQuery.findCVTRelationByValue(eid, answer);
-				System.out.print("\t");
+				String relation = "";
+				//System.out.println("----------start querying------------");
+				relation += DBQuery.findUnaryRelationbyProperty(eid, answer);
+				relation += ",";
+				//System.out.println("----------unary done------------");
+				relation += DBQuery.findBinaryRelationByValue(eid, answer);
+				relation += ",";
+				//System.out.println("---------binary done-------------");
+				relation += DBQuery.findCVTRelationByValue(eid, answer);
+				//System.out.println("--------cvt done--------------");
+				if (relation.length() > 5) {
+					line += relation + "\t";	
+				} else {
+					printFlag = false;
+				}
+				
 				if (answer.indexOf("\\'") >= 0) {
 					answer = answer.replace("\\'", "\'");
 				}
-				System.out.println(answer);
+				line += answer;
+				if (printFlag) {
+					System.out.println(line);
+				} else {
+					//test purpose
+					//System.out.println(line);
+					printFlag = true;
+				}
 			}
 		}
+		
+		
 	}
 	
 	protected String[] getAllIdsFromCSVString(String input) {

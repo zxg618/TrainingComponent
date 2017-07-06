@@ -161,6 +161,8 @@ public class DBQuery {
 	 * 
 	 */
 	public static String findUnaryRelationbyProperty(String entityOneId, String property){
+		String relation = "";
+		
 		String sparqlQueryString = "PREFIX ns: <http://rdf.freebase.com/ns/>" + NEW_LINE_CHAR
 				+ "SELECT * " + NEW_LINE_CHAR
 				+ "WHERE {"  + NEW_LINE_CHAR
@@ -175,11 +177,11 @@ public class DBQuery {
 		while (results.hasNext()) {
 			QuerySolution sol = results.nextSolution();
 			String p = sol.get("p").toString();
-			System.out.println("findUnaryRelationbyProperty|" + entityOneId + "|" + p + "|" + property);
+			relation += "UnaryRelation|" + "|" + p;
 		}
 		qexec.close();
 
-		return "";
+		return relation;
 	}
 	
 	
@@ -199,6 +201,7 @@ public class DBQuery {
 	 * @return
 	 */
 	public static String findBinaryRelationByValue(String entityOneId, String entityTwoValue){
+		String relation = "";
 		
 		String sparqlQueryString = "PREFIX ns: <http://rdf.freebase.com/ns/>" + NEW_LINE_CHAR
 				+ "SELECT * " + NEW_LINE_CHAR
@@ -217,12 +220,11 @@ public class DBQuery {
 			String p = sol.get("p").toString();
 			String o = sol.get("o").toString();
 			String p2 = sol.get("p2").toString();
-			System.out.println("findBinaryRelationByValue|" + entityOneId + "|" + p + "|" + o + "|" + p2 + "|"
-					+ entityTwoValue);
+			relation += "BinaryRelation|" + "|" + p + "|" + o + "|" + p2;
 		}
 		qexec.close();
 		
-		return "";
+		return relation;
 	}
 	
 	
@@ -290,6 +292,7 @@ public class DBQuery {
 	}
 	
 	public static String findCVTRelationByValue(String entityIdOne, String entityTwoValue){
+		String relation = "";
 		
 		String sparqlQueryString = "PREFIX ns: <http://rdf.freebase.com/ns/>" + NEW_LINE_CHAR
 				+ "SELECT * " + NEW_LINE_CHAR
@@ -303,6 +306,8 @@ public class DBQuery {
 				+ "}" + NEW_LINE_CHAR
 				+ "LIMIT 1000";
 		
+		//test purpose, line 1499
+		//System.out.println(sparqlQueryString);
 		Query query = QueryFactory.create(sparqlQueryString);
 		QueryExecution qexec = QueryExecutionFactory.sparqlService(DB_URL, query);
 		ResultSet results = qexec.execSelect();
@@ -316,12 +321,12 @@ public class DBQuery {
 			String s = sol.get("s").toString();		// Entity Two
 			String p3 = sol.get("p3").toString();	// Entity Two to EntityTwoValue
 			
-			System.out.println("findCVTRelationByValue|" + entityIdOne + "|" + p + "|" + o + "|" + p2 + "|"
-					+ s + "|" + p3 + "|" + entityTwoValue);
+			relation += "CVTRelation|" + "|" + p + "|" + o + "|" + p2 + "|"
+					+ s + "|" + p3;
 		}
 		qexec.close();
 		
-		return "";
+		return relation;
 	}
 		
 	public static String findObjectViaCVTRelation(String entityId, String cvtRelation){

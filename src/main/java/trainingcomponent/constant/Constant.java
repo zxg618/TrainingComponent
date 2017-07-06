@@ -21,4 +21,6 @@ public final class Constant {
 	public static String PREFIX = "http://rdf.freebase.com/ns/";
 	
 	public static String QUESTION_TRAIN_FILE = "tab_delim_train.txt";
+	
+	public static int START = 1500;
 }
