@@ -1,0 +1,2032 @@
+http://www.freebase.com/view/en/jamaica	Jamaica	http://rdf.freebase.com/ns/m.03_r3
+http://www.freebase.com/view/en/james_k_polk	James K Polk	
+http://www.freebase.com/view/en/oregon_ducks	Oregon Ducks	http://rdf.freebase.com/ns/m.06k051
+http://www.freebase.com/view/en/ken_barlow	Ken Barlow	http://rdf.freebase.com/ns/m.015lwh
+http://www.freebase.com/view/en/chiune_sugihara	Chiune Sugihara	http://rdf.freebase.com/ns/m.02j8rx
+http://www.freebase.com/view/en/wolfgang_amadeus_mozart	Wolfgang Amadeus Mozart	http://rdf.freebase.com/ns/m.082db
+http://www.freebase.com/view/en/jamarcus_russell	Jamarcus Russell	
+http://www.freebase.com/view/en/george_washington_carver	George Washington Carver	http://rdf.freebase.com/ns/m.03djm
+http://www.freebase.com/view/en/benjamin_franklin	Benjamin Franklin	http://rdf.freebase.com/ns/m.019fz
+http://www.freebase.com/view/en/richard_nixon	Richard Nixon	http://rdf.freebase.com/ns/m.06c97
+http://www.freebase.com/view/en/germany	Germany	http://rdf.freebase.com/ns/m.0345h
+http://www.freebase.com/view/en/saint_lucia	Saint Lucia	http://rdf.freebase.com/ns/m.06s0l
+http://www.freebase.com/view/en/ohio	Ohio	http://rdf.freebase.com/ns/m.05kkh
+http://www.freebase.com/view/en/john_f_kennedy	John F Kennedy	http://rdf.freebase.com/ns/m.03t0qkg
+http://www.freebase.com/view/en/fukushima_i_nuclear_power_plant	Fukushima I Nuclear Power Plant	
+http://www.freebase.com/view/en/united_states_house_of_representatives	United States House Of Representatives	
+http://www.freebase.com/view/en/united_kingdom	United Kingdom	http://rdf.freebase.com/ns/m.07ssc
+http://www.freebase.com/view/en/bilbo_baggins	Bilbo Baggins	http://rdf.freebase.com/ns/m.0g6z1
+http://www.freebase.com/view/en/martin_luther_king_jr	Martin Luther King Jr	http://rdf.freebase.com/ns/m.06lwmyx
+http://www.freebase.com/view/en/louisiana	Louisiana	http://rdf.freebase.com/ns/m.04ly1
+http://www.freebase.com/view/en/st_augustin	St Augustin	
+http://www.freebase.com/view/en/keyshia_cole	Keyshia Cole	http://rdf.freebase.com/ns/m.01pkxs9
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/martin_luther_king_jr	Martin Luther King Jr	http://rdf.freebase.com/ns/m.06lwmyx
+http://www.freebase.com/view/en/edgar_allan_poe	Edgar Allan Poe	http://rdf.freebase.com/ns/m.02lt8
+http://www.freebase.com/view/en/charles_goodyear	Charles Goodyear	http://rdf.freebase.com/ns/m.01_02r
+http://www.freebase.com/view/en/atlanta	Atlanta	http://rdf.freebase.com/ns/m.013yq
+http://www.freebase.com/view/en/france	France	http://rdf.freebase.com/ns/m.0f8l9c
+http://www.freebase.com/view/en/anna_bligh	Anna Bligh	http://rdf.freebase.com/ns/m.072_m3
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/islam	Islam	http://rdf.freebase.com/ns/m.0flw86
+http://www.freebase.com/view/en/andrew_murray	Andrew Murray	http://rdf.freebase.com/ns/m.0620m7
+http://www.freebase.com/view/en/austraila	Austraila	
+http://www.freebase.com/view/en/sweden	Sweden	http://rdf.freebase.com/ns/m.0d0vqn
+http://www.freebase.com/view/en/cameron_newton	Cameron Newton	
+http://www.freebase.com/view/en/frederick	Frederick	http://rdf.freebase.com/ns/m.0dhml
+http://www.freebase.com/view/en/harper_lee	Harper Lee	http://rdf.freebase.com/ns/m.01bq7x
+http://www.freebase.com/view/en/utah	Utah	http://rdf.freebase.com/ns/m.07srw
+http://www.freebase.com/view/en/george_w_bush	George W Bush	http://rdf.freebase.com/ns/m.0f6ht1r
+http://www.freebase.com/view/en/niall_ferguson	Niall Ferguson	http://rdf.freebase.com/ns/m.033mkn
+http://www.freebase.com/view/en/soviet_union	Soviet Union	http://rdf.freebase.com/ns/m.05vz3zq
+http://www.freebase.com/view/en/galapagos_islands	Galapagos Islands	http://rdf.freebase.com/ns/m.0c8ktf8
+http://www.freebase.com/view/en/justin_bieber	Justin Bieber	http://rdf.freebase.com/ns/m.06w2sn5
+http://www.freebase.com/view/en/georges_clemenceau	Georges Clemenceau	http://rdf.freebase.com/ns/m.05vq35n
+http://www.freebase.com/view/en/arizona	Arizona	http://rdf.freebase.com/ns/m.0vmt
+http://www.freebase.com/view/en/riannah	Riannah	
+http://www.freebase.com/view/en/william_henry_harrison	William Henry Harrison	http://rdf.freebase.com/ns/m.0835q
+http://www.freebase.com/view/en/george_lopez	George Lopez	http://rdf.freebase.com/ns/m.02xfj0
+http://www.freebase.com/view/en/samsung_group	Samsung Group	http://rdf.freebase.com/ns/m.07gv72
+http://www.freebase.com/view/en/islam	Islam	http://rdf.freebase.com/ns/m.0flw86
+http://www.freebase.com/view/en/james_chadwick	James Chadwick	http://rdf.freebase.com/ns/m.017jtb
+http://www.freebase.com/view/en/grey	Grey	http://rdf.freebase.com/ns/m.01sw9dd
+http://www.freebase.com/view/en/george_orwell	George Orwell	http://rdf.freebase.com/ns/m.034bs
+http://www.freebase.com/view/en/battle_of_gettysburg	Battle Of Gettysburg	
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/michael_buble	Michael Buble	http://rdf.freebase.com/ns/m.06xy92r
+http://www.freebase.com/view/en/kansas_city_kansas	Kansas City Kansas	
+http://www.freebase.com/view/en/john_quincy_adams	John Quincy Adams	http://rdf.freebase.com/ns/m.03_nq
+http://www.freebase.com/view/en/jackie_robinson	Jackie Robinson	http://rdf.freebase.com/ns/m.0443c
+http://www.freebase.com/view/en/annie	Annie	http://rdf.freebase.com/ns/m.01vxl9w
+http://www.freebase.com/view/en/eleanor_roosevelt	Eleanor Roosevelt	http://rdf.freebase.com/ns/m.02n9k
+http://www.freebase.com/view/en/indonesia	Indonesia	http://rdf.freebase.com/ns/m.03ryn
+http://www.freebase.com/view/en/jesse_james	Jesse James	http://rdf.freebase.com/ns/m.02khjc
+http://www.freebase.com/view/en/abraham_lincoln	Abraham Lincoln	http://rdf.freebase.com/ns/m.0gzh
+http://www.freebase.com/view/en/charles_dickens	Charles Dickens	http://rdf.freebase.com/ns/m.01v9724
+http://www.freebase.com/view/en/soviet_union	Soviet Union	http://rdf.freebase.com/ns/m.05vz3zq
+http://www.freebase.com/view/en/puerto_rico	Puerto Rico	http://rdf.freebase.com/ns/m.05r7t
+http://www.freebase.com/view/en/carl_wilson	Carl Wilson	http://rdf.freebase.com/ns/m.01n9vwg
+http://www.freebase.com/view/en/kitt	Kitt	http://rdf.freebase.com/ns/m.03hl1_g
+http://www.freebase.com/view/en/brentwood	Brentwood	http://rdf.freebase.com/ns/m.0qylc
+http://www.freebase.com/view/en/moira_mactaggert	Moira Mactaggert	
+http://www.freebase.com/view/en/michael_j_fox	Michael J Fox	
+http://www.freebase.com/view/en/stonewall_jackson	Stonewall Jackson	http://rdf.freebase.com/ns/m.01jx2f4
+http://www.freebase.com/view/en/maasai	Maasai	http://rdf.freebase.com/ns/m.06rvvxy
+http://www.freebase.com/view/en/benjamin_franklin	Benjamin Franklin	http://rdf.freebase.com/ns/m.019fz
+http://www.freebase.com/view/en/patrick_swayze	Patrick Swayze	http://rdf.freebase.com/ns/m.02h3tp
+http://www.freebase.com/view/en/leonardo_da_vinci	Leonardo Da Vinci	http://rdf.freebase.com/ns/m.06q_46v
+http://www.freebase.com/view/en/austria	Austria	http://rdf.freebase.com/ns/m.0h7x
+http://www.freebase.com/view/en/eva_peron	Eva Peron	http://rdf.freebase.com/ns/m.08hh0nv
+http://www.freebase.com/view/en/gautama_buddha	Gautama Buddha	http://rdf.freebase.com/ns/m.015k7
+http://www.freebase.com/view/en/greeley	Greeley	http://rdf.freebase.com/ns/m.0rczx
+http://www.freebase.com/view/en/ellen_degeneres	Ellen Degeneres	http://rdf.freebase.com/ns/m.0nd1w22
+http://www.freebase.com/view/en/peter_tjajkovskij	Peter Tjajkovskij	
+http://www.freebase.com/view/en/german_language	German Language	http://rdf.freebase.com/ns/m.04306rv
+http://www.freebase.com/view/en/john_lennon	John Lennon	http://rdf.freebase.com/ns/m.01vsl3_
+http://www.freebase.com/view/en/colorado	Colorado	http://rdf.freebase.com/ns/m.01n4w
+http://www.freebase.com/view/en/greenland	Greenland	http://rdf.freebase.com/ns/m.035v3
+http://www.freebase.com/view/en/seattle	Seattle	http://rdf.freebase.com/ns/m.0d9jr
+http://www.freebase.com/view/en/willow_smith	Willow Smith	http://rdf.freebase.com/ns/m.03gq433
+http://www.freebase.com/view/en/chinese_language	Chinese Language	
+http://www.freebase.com/view/en/the_jeffersons	The Jeffersons	http://rdf.freebase.com/ns/m.02f8jf
+http://www.freebase.com/view/en/san_francisco	San Francisco	http://rdf.freebase.com/ns/m.0d6lp
+http://www.freebase.com/view/en/soviet_union	Soviet Union	http://rdf.freebase.com/ns/m.05vz3zq
+http://www.freebase.com/view/en/armenia	Armenia	http://rdf.freebase.com/ns/m.0jgx
+http://www.freebase.com/view/en/randy_savage	Randy Savage	http://rdf.freebase.com/ns/m.02p7_z
+http://www.freebase.com/view/en/charles_darwin	Charles Darwin	http://rdf.freebase.com/ns/m.01lwx
+http://www.freebase.com/view/en/richard_nixon	Richard Nixon	http://rdf.freebase.com/ns/m.06c97
+http://www.freebase.com/view/en/smokey_robinson	Smokey Robinson	http://rdf.freebase.com/ns/m.012_6c
+http://www.freebase.com/view/en/john_f_kennedy	John F Kennedy	http://rdf.freebase.com/ns/m.03t0qkg
+http://www.freebase.com/view/en/serbia	Serbia	http://rdf.freebase.com/ns/m.077qn
+http://www.freebase.com/view/en/haiti	Haiti	http://rdf.freebase.com/ns/m.03gyl
+http://www.freebase.com/view/en/greece	Greece	http://rdf.freebase.com/ns/m.035qy
+http://www.freebase.com/view/en/barbara_gordon	Barbara Gordon	http://rdf.freebase.com/ns/m.03hvfx
+http://www.freebase.com/view/en/shaquille_oneal	Shaquille Oneal	
+http://www.freebase.com/view/en/jay_leno	Jay Leno	http://rdf.freebase.com/ns/m.046lt
+http://www.freebase.com/view/en/thailand	Thailand	http://rdf.freebase.com/ns/m.07f1x
+http://www.freebase.com/view/en/armie_hammer	Armie Hammer	http://rdf.freebase.com/ns/m.03y9941
+http://www.freebase.com/view/en/thomas_jefferson	Thomas Jefferson	http://rdf.freebase.com/ns/m.07cbs
+http://www.freebase.com/view/en/charles_darwin	Charles Darwin	http://rdf.freebase.com/ns/m.01lwx
+http://www.freebase.com/view/en/tim_tebow	Tim Tebow	http://rdf.freebase.com/ns/m.0g7km1
+http://www.freebase.com/view/en/peyton_manning	Peyton Manning	http://rdf.freebase.com/ns/m.027jv8
+http://www.freebase.com/view/en/carpathian_mountains	Carpathian Mountains	http://rdf.freebase.com/ns/m.0cdsk
+http://www.freebase.com/view/en/robert_burns	Robert Burns	http://rdf.freebase.com/ns/m.09482
+http://www.freebase.com/view/en/anton_van_leeuwenhoek	Anton Van Leeuwenhoek	
+http://www.freebase.com/view/en/darth_vader	Darth Vader	http://rdf.freebase.com/ns/m.0f2y0
+http://www.freebase.com/view/en/peyton_manning	Peyton Manning	http://rdf.freebase.com/ns/m.027jv8
+http://www.freebase.com/view/en/justin_bieber	Justin Bieber	http://rdf.freebase.com/ns/m.06w2sn5
+http://www.freebase.com/view/en/yamaha_motor_company	Yamaha Motor Company	http://rdf.freebase.com/ns/m.01x1s6
+http://www.freebase.com/view/en/gulf_war	Gulf War	http://rdf.freebase.com/ns/m.018w0j
+http://www.freebase.com/view/en/london_tipton	London Tipton	http://rdf.freebase.com/ns/m.07g8r3
+http://www.freebase.com/view/en/chinese_language	Chinese Language	
+http://www.freebase.com/view/en/david_beckham	David Beckham	http://rdf.freebase.com/ns/m.02d9k
+http://www.freebase.com/view/en/francisco_vasquez_de_coronado	Francisco Vasquez De Coronado	
+http://www.freebase.com/view/en/google	Google	http://rdf.freebase.com/ns/m.045c7b
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/ibrahim	Ibrahim	http://rdf.freebase.com/ns/m.03bxp74
+http://www.freebase.com/view/en/jana_gana_mana	Jana Gana Mana	http://rdf.freebase.com/ns/m.04d3fnm
+http://www.freebase.com/view/en/gilda_radner	Gilda Radner	http://rdf.freebase.com/ns/m.0mj4n
+http://www.freebase.com/view/en/juni_cortez	Juni Cortez	http://rdf.freebase.com/ns/m.02ql73
+http://www.freebase.com/view/en/lucille_ball	Lucille Ball	http://rdf.freebase.com/ns/m.04nw9
+http://www.freebase.com/view/en/carrie_ann_inaba	Carrie Ann Inaba	http://rdf.freebase.com/ns/m.073plk
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/michael_j_fox	Michael J Fox	
+http://www.freebase.com/view/en/dolly_parton	Dolly Parton	http://rdf.freebase.com/ns/m.02f1c
+http://www.freebase.com/view/en/agatha_christie	Agatha Christie	http://rdf.freebase.com/ns/m.0ldd
+http://www.freebase.com/view/en/john_edwards	John Edwards	http://rdf.freebase.com/ns/m.01651q
+http://www.freebase.com/view/en/jimi_hendrix	Jimi Hendrix	http://rdf.freebase.com/ns/m.01vsy3q
+http://www.freebase.com/view/en/sacramento	Sacramento	http://rdf.freebase.com/ns/m.07bcn
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/national_rifle_association	National Rifle Association	http://rdf.freebase.com/ns/m.0j6f9
+http://www.freebase.com/view/en/anna_kendrick	Anna Kendrick	http://rdf.freebase.com/ns/m.04066xj
+http://www.freebase.com/view/en/gimli	Gimli	http://rdf.freebase.com/ns/m.01fmqg
+http://www.freebase.com/view/en/transmission_control_protocol	Transmission Control Protocol	http://rdf.freebase.com/ns/m.07hzk
+http://www.freebase.com/view/en/shenandoah_valley	Shenandoah Valley	http://rdf.freebase.com/ns/m.017x8n
+http://www.freebase.com/view/en/pittsburgh_steelers	Pittsburgh Steelers	http://rdf.freebase.com/ns/m.05tfm
+http://www.freebase.com/view/en/albert_einstein	Albert Einstein	http://rdf.freebase.com/ns/m.0jcx
+http://www.freebase.com/view/en/jordan	Jordan	http://rdf.freebase.com/ns/m.03__y
+http://www.freebase.com/view/en/tennesee	Tennesee	http://rdf.freebase.com/ns/m.0m0fvh
+http://www.freebase.com/view/en/eli_whitney	Eli Whitney	http://rdf.freebase.com/ns/m.02ncr
+http://www.freebase.com/view/en/portuguese	Portuguese	http://rdf.freebase.com/ns/m.06q8tnj
+http://www.freebase.com/view/en/cuba	Cuba	http://rdf.freebase.com/ns/m.0d04z6
+http://www.freebase.com/view/en/aaron_rodgers	Aaron Rodgers	http://rdf.freebase.com/ns/m.04q06_
+http://www.freebase.com/view/en/herman_cain	Herman Cain	http://rdf.freebase.com/ns/m.05972y
+http://www.freebase.com/view/en/madrid	Madrid	http://rdf.freebase.com/ns/m.056_y
+http://www.freebase.com/view/en/louis_armstrong	Louis Armstrong	http://rdf.freebase.com/ns/m.04n32
+http://www.freebase.com/view/en/george_w_bush	George W Bush	http://rdf.freebase.com/ns/m.0f6ht1r
+http://www.freebase.com/view/en/california	California	http://rdf.freebase.com/ns/m.01n7q
+http://www.freebase.com/view/en/mission_san_buenaventura	Mission San Buenaventura	http://rdf.freebase.com/ns/m.0gbsb
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/hilo	Hilo	http://rdf.freebase.com/ns/m.0r_ch
+http://www.freebase.com/view/en/rudolf_virchow	Rudolf Virchow	http://rdf.freebase.com/ns/m.011kz4
+http://www.freebase.com/view/en/gordon_brown	Gordon Brown	http://rdf.freebase.com/ns/m.03f77
+http://www.freebase.com/view/en/greece	Greece	http://rdf.freebase.com/ns/m.035qy
+http://www.freebase.com/view/en/seattle_seahawks	Seattle Seahawks	http://rdf.freebase.com/ns/m.070xg
+http://www.freebase.com/view/en/stephen_hawking	Stephen Hawking	http://rdf.freebase.com/ns/m.01tdnyh
+http://www.freebase.com/view/en/donna_noble	Donna Noble	http://rdf.freebase.com/ns/m.02pcf8b
+http://www.freebase.com/view/en/dr_seuss	Dr Seuss	
+http://www.freebase.com/view/en/queensland	Queensland	http://rdf.freebase.com/ns/m.0g39h
+http://www.freebase.com/view/en/james_madison	James Madison	http://rdf.freebase.com/ns/m.0424m
+http://www.freebase.com/view/en/belgium	Belgium	http://rdf.freebase.com/ns/m.0154j
+http://www.freebase.com/view/en/bilbo_baggins	Bilbo Baggins	http://rdf.freebase.com/ns/m.0g6z1
+http://www.freebase.com/view/en/destin	Destin	http://rdf.freebase.com/ns/m.0rp8x
+http://www.freebase.com/view/en/united_states_senate	United States Senate	http://rdf.freebase.com/ns/m.07t58
+http://www.freebase.com/view/en/baltic_countries	Baltic Countries	
+http://www.freebase.com/view/en/colin_kaepernick	Colin Kaepernick	http://rdf.freebase.com/ns/m.03cm6b3
+http://www.freebase.com/view/en/joe_flacco	Joe Flacco	http://rdf.freebase.com/ns/m.03d4lw7
+http://www.freebase.com/view/en/emily_stone	Emily Stone	http://rdf.freebase.com/ns/m.08ntnsz
+http://www.freebase.com/view/en/theodore_roosevelt	Theodore Roosevelt	http://rdf.freebase.com/ns/m.07hyk
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/henri_matisse	Henri Matisse	http://rdf.freebase.com/ns/m.0gct_
+http://www.freebase.com/view/en/missouri_river	Missouri River	http://rdf.freebase.com/ns/m.04ykz
+http://www.freebase.com/view/en/thailand	Thailand	http://rdf.freebase.com/ns/m.07f1x
+http://www.freebase.com/view/en/khloe_kardashian	Khloe Kardashian	http://rdf.freebase.com/ns/m.06wfq51
+http://www.freebase.com/view/en/mitt_romney	Mitt Romney	http://rdf.freebase.com/ns/m.0271_s
+http://www.freebase.com/view/en/mitt_romney	Mitt Romney	http://rdf.freebase.com/ns/m.0271_s
+http://www.freebase.com/view/en/france	France	http://rdf.freebase.com/ns/m.0f8l9c
+http://www.freebase.com/view/en/denmark	Denmark	http://rdf.freebase.com/ns/m.0k6nt
+http://www.freebase.com/view/en/stephen_hawking	Stephen Hawking	http://rdf.freebase.com/ns/m.01tdnyh
+http://www.freebase.com/view/en/bristol_palin	Bristol Palin	http://rdf.freebase.com/ns/m.04jg1kh
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/dr_seuss	Dr Seuss	
+http://www.freebase.com/view/en/drew_brees	Drew Brees	http://rdf.freebase.com/ns/m.030bdd
+http://www.freebase.com/view/en/republican_party	Republican Party	http://rdf.freebase.com/ns/m.07wbk
+http://www.freebase.com/view/en/ben_roethlisberger	Ben Roethlisberger	http://rdf.freebase.com/ns/m.033t8w
+http://www.freebase.com/view/en/iroquois	Iroquois	http://rdf.freebase.com/ns/m.03x1x
+http://www.freebase.com/view/en/george_harrison	George Harrison	http://rdf.freebase.com/ns/m.03bnv
+http://www.freebase.com/view/en/navajo_people	Navajo People	
+http://www.freebase.com/view/en/new_england	New England	http://rdf.freebase.com/ns/m.029jpy
+http://www.freebase.com/view/en/latin_america	Latin America	http://rdf.freebase.com/ns/m.04pnx
+http://www.freebase.com/view/en/iraq	Iraq	http://rdf.freebase.com/ns/m.0d05q4
+http://www.freebase.com/view/en/vietnam_war	Vietnam War	http://rdf.freebase.com/ns/m.07_nf
+http://www.freebase.com/view/en/gerald_ford	Gerald Ford	http://rdf.freebase.com/ns/m.0c_md_
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/jamie_little	Jamie Little	http://rdf.freebase.com/ns/m.02pz_8v
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/ernest_rutherford	Ernest Rutherford	http://rdf.freebase.com/ns/m.02m7r
+http://www.freebase.com/view/en/brandon_roy	Brandon Roy	http://rdf.freebase.com/ns/m.0cf_p_
+http://www.freebase.com/view/en/harvard_university	Harvard University	http://rdf.freebase.com/ns/m.03ksy
+http://www.freebase.com/view/en/janelle_corlass_brown	Janelle Corlass Brown	
+http://www.freebase.com/view/en/laos	Laos	http://rdf.freebase.com/ns/m.04hhv
+http://www.freebase.com/view/en/tyrese	Tyrese	http://rdf.freebase.com/ns/m.01l1b6v
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/colorado_river	Colorado River	http://rdf.freebase.com/ns/m.018qjq
+http://www.freebase.com/view/en/scarlett_johansson	Scarlett Johansson	http://rdf.freebase.com/ns/m.02114t
+http://www.freebase.com/view/en/roman_empire	Roman Empire	http://rdf.freebase.com/ns/m.06cmp
+http://www.freebase.com/view/en/elvis_costello	Elvis Costello	http://rdf.freebase.com/ns/m.02vr7
+http://www.freebase.com/view/en/gobi_desert	Gobi Desert	http://rdf.freebase.com/ns/m.0ff0d
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/germany	Germany	http://rdf.freebase.com/ns/m.0345h
+http://www.freebase.com/view/en/wright_brothers	Wright Brothers	http://rdf.freebase.com/ns/m.04w7201
+http://www.freebase.com/view/en/turkey	Turkey	http://rdf.freebase.com/ns/m.01znc_
+http://www.freebase.com/view/en/jeremy_lin	Jeremy Lin	http://rdf.freebase.com/ns/m.09k72lh
+http://www.freebase.com/view/en/seychelles	Seychelles	http://rdf.freebase.com/ns/m.06sw9
+http://www.freebase.com/view/en/phoenix	Phoenix	http://rdf.freebase.com/ns/m.0d35y
+http://www.freebase.com/view/en/william_morris	William Morris	http://rdf.freebase.com/ns/m.08304
+http://www.freebase.com/view/en/mount_st_helens	Mount St Helens	
+http://www.freebase.com/view/en/jimmy_savile	Jimmy Savile	http://rdf.freebase.com/ns/m.01wg0w
+http://www.freebase.com/view/en/seneca_nation	Seneca Nation	
+http://www.freebase.com/view/en/william_howard_taft	William Howard Taft	http://rdf.freebase.com/ns/m.083pr
+http://www.freebase.com/view/en/washington_united_states	Washington United States	
+http://www.freebase.com/view/en/new_york	New York	http://rdf.freebase.com/ns/m.059rby
+http://www.freebase.com/view/en/florida_marlins	Florida Marlins	http://rdf.freebase.com/ns/m.08nxr7p
+http://www.freebase.com/view/en/spanish	Spanish	http://rdf.freebase.com/ns/m.02pm9vw
+http://www.freebase.com/view/en/phoenix	Phoenix	http://rdf.freebase.com/ns/m.0d35y
+http://www.freebase.com/view/en/panama	Panama	http://rdf.freebase.com/ns/m.05qx1
+http://www.freebase.com/view/en/charlie_chaplin	Charlie Chaplin	http://rdf.freebase.com/ns/m.01lc5
+http://www.freebase.com/view/en/paul_revere	Paul Revere	http://rdf.freebase.com/ns/m.0db0x
+http://www.freebase.com/view/en/fred_durst	Fred Durst	http://rdf.freebase.com/ns/m.01q7cb_
+http://www.freebase.com/view/en/san_diego_chargers	San Diego Chargers	http://rdf.freebase.com/ns/m.06rpd
+http://www.freebase.com/view/en/american_bulldog	American Bulldog	http://rdf.freebase.com/ns/m.02z_05
+http://www.freebase.com/view/en/albert_einstein	Albert Einstein	http://rdf.freebase.com/ns/m.0jcx
+http://www.freebase.com/view/en/brian_griffin	Brian Griffin	http://rdf.freebase.com/ns/m.03pcvr
+http://www.freebase.com/view/en/steve_mcqueen	Steve Mcqueen	http://rdf.freebase.com/ns/m.06kz3hc
+http://www.freebase.com/view/en/george_w_bush	George W Bush	http://rdf.freebase.com/ns/m.0f6ht1r
+http://www.freebase.com/view/en/richard_dawkins	Richard Dawkins	http://rdf.freebase.com/ns/m.06g4_
+http://www.freebase.com/view/en/miss_america	Miss America	http://rdf.freebase.com/ns/m.01bk3n
+http://www.freebase.com/view/en/nikola_tesla	Nikola Tesla	http://rdf.freebase.com/ns/m.05d1y
+http://www.freebase.com/view/en/vlaams_language	Vlaams Language	
+http://www.freebase.com/view/en/new_york	New York	http://rdf.freebase.com/ns/m.059rby
+http://www.freebase.com/view/en/bruce_lee	Bruce Lee	http://rdf.freebase.com/ns/m.099d4
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/england	England	http://rdf.freebase.com/ns/m.02jx1
+http://www.freebase.com/view/en/benjamin_franklin	Benjamin Franklin	http://rdf.freebase.com/ns/m.019fz
+http://www.freebase.com/view/en/united_kingdom	United Kingdom	http://rdf.freebase.com/ns/m.07ssc
+http://www.freebase.com/view/en/chinese_language	Chinese Language	
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/china	China	http://rdf.freebase.com/ns/m.0d05w3
+http://www.freebase.com/view/en/soviet_union	Soviet Union	http://rdf.freebase.com/ns/m.05vz3zq
+http://www.freebase.com/view/en/austraila	Austraila	
+http://www.freebase.com/view/en/david_berkowitz	David Berkowitz	http://rdf.freebase.com/ns/m.04gpk75
+http://www.freebase.com/view/en/david	David	http://rdf.freebase.com/ns/m.0gftgq1
+http://www.freebase.com/view/en/cindy_sherman	Cindy Sherman	http://rdf.freebase.com/ns/m.074g02
+http://www.freebase.com/view/en/shawnee_smith	Shawnee Smith	http://rdf.freebase.com/ns/m.06t3nj
+http://www.freebase.com/view/en/aristotle	Aristotle	http://rdf.freebase.com/ns/m.0gz_
+http://www.freebase.com/view/en/austraila	Austraila	
+http://www.freebase.com/view/en/rome	Rome	http://rdf.freebase.com/ns/m.06c62
+http://www.freebase.com/view/en/kansas_city	Kansas City	http://rdf.freebase.com/ns/m.04f_d
+http://www.freebase.com/view/en/martin_luther_king_jr	Martin Luther King Jr	http://rdf.freebase.com/ns/m.06lwmyx
+http://www.freebase.com/view/en/lebron_james	Lebron James	http://rdf.freebase.com/ns/m.063r8c_
+http://www.freebase.com/view/en/delaware_river	Delaware River	http://rdf.freebase.com/ns/m.0dtzd
+http://www.freebase.com/view/en/japan	Japan	http://rdf.freebase.com/ns/m.03_3d
+http://www.freebase.com/view/en/mitt_romney	Mitt Romney	http://rdf.freebase.com/ns/m.0271_s
+http://www.freebase.com/view/en/japan	Japan	http://rdf.freebase.com/ns/m.03_3d
+http://www.freebase.com/view/en/michael_jordan	Michael Jordan	http://rdf.freebase.com/ns/m.054c1
+http://www.freebase.com/view/en/china	China	http://rdf.freebase.com/ns/m.0d05w3
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/san_rafael	San Rafael	http://rdf.freebase.com/ns/m.0r1jr
+http://www.freebase.com/view/en/esther	Esther	http://rdf.freebase.com/ns/m.0qb5mjj
+http://www.freebase.com/view/en/claire_danes	Claire Danes	http://rdf.freebase.com/ns/m.01gq0b
+http://www.freebase.com/view/en/st_paul_virginia	St Paul Virginia	
+http://www.freebase.com/view/en/florida	Florida	http://rdf.freebase.com/ns/m.02xry
+http://www.freebase.com/view/en/japan	Japan	http://rdf.freebase.com/ns/m.03_3d
+http://www.freebase.com/view/en/russia	Russia	http://rdf.freebase.com/ns/m.06bnz
+http://www.freebase.com/view/en/kf_drita	Kf Drita	
+http://www.freebase.com/view/en/latin	Latin	http://rdf.freebase.com/ns/m.0fvc4gz
+http://www.freebase.com/view/en/maya_civilization	Maya Civilization	
+http://www.freebase.com/view/en/karl_benz	Karl Benz	http://rdf.freebase.com/ns/m.049xg
+http://www.freebase.com/view/en/carmen_electra	Carmen Electra	http://rdf.freebase.com/ns/m.01lbp
+http://www.freebase.com/view/en/jew	Jew	http://rdf.freebase.com/ns/m.09hb4xp
+http://www.freebase.com/view/en/world_war_ii	World War Ii	http://rdf.freebase.com/ns/m.06v8k_l
+http://www.freebase.com/view/en/christian	Christian	http://rdf.freebase.com/ns/m.028m7c
+http://www.freebase.com/view/en/morgan_freeman	Morgan Freeman	http://rdf.freebase.com/ns/m.055c8
+http://www.freebase.com/view/en/elizabeth_i_of_england	Elizabeth I Of England	
+http://www.freebase.com/view/en/arabic_language	Arabic Language	http://rdf.freebase.com/ns/m.0jzc
+http://www.freebase.com/view/en/carolus_linnaeus	Carolus Linnaeus	http://rdf.freebase.com/ns/m.07r05pf
+http://www.freebase.com/view/en/germany	Germany	http://rdf.freebase.com/ns/m.0345h
+http://www.freebase.com/view/en/libya	Libya	http://rdf.freebase.com/ns/m.04gqr
+http://www.freebase.com/view/en/anaheim	Anaheim	http://rdf.freebase.com/ns/m.0k9p4
+http://www.freebase.com/view/en/baltimore_orioles	Baltimore Orioles	http://rdf.freebase.com/ns/m.01d6g
+http://www.freebase.com/view/en/zhao_xin	Zhao Xin	http://rdf.freebase.com/ns/m.0cnd7b
+http://www.freebase.com/view/en/francis_bacon	Francis Bacon	http://rdf.freebase.com/ns/m.030dr
+http://www.freebase.com/view/en/amelia_earhart	Amelia Earhart	http://rdf.freebase.com/ns/m.0lngf
+http://www.freebase.com/view/en/dallas_cowboys	Dallas Cowboys	http://rdf.freebase.com/ns/m.02896
+http://www.freebase.com/view/en/margaret_hoover	Margaret Hoover	http://rdf.freebase.com/ns/m.03m6921
+http://www.freebase.com/view/en/jamie_oliver	Jamie Oliver	http://rdf.freebase.com/ns/m.01myph
+http://www.freebase.com/view/en/bradley_walsh	Bradley Walsh	http://rdf.freebase.com/ns/m.05h48b
+http://www.freebase.com/view/en/fc_internazionale_milano	Fc Internazionale Milano	
+http://www.freebase.com/view/en/river_shannon	River Shannon	http://rdf.freebase.com/ns/m.0m_dt
+http://www.freebase.com/view/en/reese_witherspoon	Reese Witherspoon	http://rdf.freebase.com/ns/m.0n6f8
+http://www.freebase.com/view/en/dutch_people	Dutch People	
+http://www.freebase.com/view/en/costa_rica	Costa Rica	http://rdf.freebase.com/ns/m.01p8s
+http://www.freebase.com/view/en/ultimate_fighting_championship	Ultimate Fighting Championship	http://rdf.freebase.com/ns/m.016r3g
+http://www.freebase.com/view/en/james_t_kirk	James T Kirk	
+http://www.freebase.com/view/en/albert_pujols	Albert Pujols	http://rdf.freebase.com/ns/m.035gcb
+http://www.freebase.com/view/en/sweden	Sweden	http://rdf.freebase.com/ns/m.0d0vqn
+http://www.freebase.com/view/en/george_jones	George Jones	http://rdf.freebase.com/ns/m.01hb9p
+http://www.freebase.com/view/en/william_shakespeare	William Shakespeare	http://rdf.freebase.com/ns/m.081k8
+http://www.freebase.com/view/en/russia	Russia	http://rdf.freebase.com/ns/m.06bnz
+http://www.freebase.com/view/en/switzerland	Switzerland	http://rdf.freebase.com/ns/m.06mzp
+http://www.freebase.com/view/en/grand_canyon	Grand Canyon	http://rdf.freebase.com/ns/m.07w_vt
+http://www.freebase.com/view/en/jew	Jew	http://rdf.freebase.com/ns/m.09hb4xp
+http://www.freebase.com/view/en/austraila	Austraila	
+http://www.freebase.com/view/en/ian_somerhalder	Ian Somerhalder	http://rdf.freebase.com/ns/m.044mvs
+http://www.freebase.com/view/en/ron_howard	Ron Howard	http://rdf.freebase.com/ns/m.0g2lq
+http://www.freebase.com/view/en/alexander_hamilton	Alexander Hamilton	http://rdf.freebase.com/ns/m.0b3pq
+http://www.freebase.com/view/en/shakira	Shakira	http://rdf.freebase.com/ns/m.01wj18h
+http://www.freebase.com/view/en/gerald_ford	Gerald Ford	http://rdf.freebase.com/ns/m.0c_md_
+http://www.freebase.com/view/en/turkey	Turkey	http://rdf.freebase.com/ns/m.01znc_
+http://www.freebase.com/view/en/kevin_love_1988	Kevin Love 1988	
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/egyptians	Egyptians	http://rdf.freebase.com/ns/m.025tvhm
+http://www.freebase.com/view/en/karnak	Karnak	http://rdf.freebase.com/ns/m.01n5kny
+http://www.freebase.com/view/en/louisiana	Louisiana	http://rdf.freebase.com/ns/m.04ly1
+http://www.freebase.com/view/en/morgan_freeman	Morgan Freeman	http://rdf.freebase.com/ns/m.055c8
+http://www.freebase.com/view/en/john_f_kennedy	John F Kennedy	http://rdf.freebase.com/ns/m.03t0qkg
+http://www.freebase.com/view/en/cuba	Cuba	http://rdf.freebase.com/ns/m.0d04z6
+http://www.freebase.com/view/en/morocco	Morocco	http://rdf.freebase.com/ns/m.04wgh
+http://www.freebase.com/view/en/mary_mcleod_bethune	Mary Mcleod Bethune	
+http://www.freebase.com/view/en/japan	Japan	http://rdf.freebase.com/ns/m.03_3d
+http://www.freebase.com/view/en/mother_teresa	Mother Teresa	http://rdf.freebase.com/ns/m.01yv6p
+http://www.freebase.com/view/en/richard_pryor	Richard Pryor	http://rdf.freebase.com/ns/m.01hmk9
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/english	English	http://rdf.freebase.com/ns/m.0skp3
+http://www.freebase.com/view/en/china	China	http://rdf.freebase.com/ns/m.0d05w3
+http://www.freebase.com/view/en/west_st_paul	West St Paul	
+http://www.freebase.com/view/en/magic_johnson	Magic Johnson	http://rdf.freebase.com/ns/m.095nx
+http://www.freebase.com/view/en/donnie_wahlberg	Donnie Wahlberg	http://rdf.freebase.com/ns/m.02stwg
+http://www.freebase.com/view/en/charles_de_secondat_baron_de_montesquieu	Charles De Secondat Baron De Montesquieu	
+http://www.freebase.com/view/en/australian_people	Australian People	http://rdf.freebase.com/ns/m.05yxn_p
+http://www.freebase.com/view/en/carlos_boozer	Carlos Boozer	http://rdf.freebase.com/ns/m.03l2cs
+http://www.freebase.com/view/en/indonesia	Indonesia	http://rdf.freebase.com/ns/m.03ryn
+http://www.freebase.com/view/en/portland_press_herald	Portland Press Herald	http://rdf.freebase.com/ns/m.0852w8
+http://www.freebase.com/view/en/albert_speer	Albert Speer	http://rdf.freebase.com/ns/m.0l4t
+http://www.freebase.com/view/en/jordan_palmer_1984	Jordan Palmer 1984	
+http://www.freebase.com/view/en/leonardo_da_vinci	Leonardo Da Vinci	http://rdf.freebase.com/ns/m.06q_46v
+http://www.freebase.com/view/en/american_people_of_the_united_states	American People Of The United States	
+http://www.freebase.com/view/en/arlington_texas	Arlington Texas	
+http://www.freebase.com/view/en/vasco_da_gama	Vasco Da Gama	http://rdf.freebase.com/ns/m.032grvk
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/emile_heskey	Emile Heskey	http://rdf.freebase.com/ns/m.01yj16
+http://www.freebase.com/view/en/hirohito	Hirohito	http://rdf.freebase.com/ns/m.02sm8
+http://www.freebase.com/view/en/vienna	Vienna	http://rdf.freebase.com/ns/m.0fhp9
+http://www.freebase.com/view/en/ireland	Ireland	http://rdf.freebase.com/ns/m.03rt9
+http://www.freebase.com/view/en/minneapolis_lakers	Minneapolis Lakers	
+http://www.freebase.com/view/en/catholicism	Catholicism	http://rdf.freebase.com/ns/m.0c8wxp
+http://www.freebase.com/view/en/peoria	Peoria	http://rdf.freebase.com/ns/m.0sf9_
+http://www.freebase.com/view/en/briton	Briton	http://rdf.freebase.com/ns/m.07pmkp0
+http://www.freebase.com/view/en/elvis_presley	Elvis Presley	http://rdf.freebase.com/ns/m.02jq1
+http://www.freebase.com/view/en/d_carter	D Carter	
+http://www.freebase.com/view/en/washington_redskins	Washington Redskins	http://rdf.freebase.com/ns/m.084l5
+http://www.freebase.com/view/en/netherlands	Netherlands	http://rdf.freebase.com/ns/m.059j2
+http://www.freebase.com/view/en/greece	Greece	http://rdf.freebase.com/ns/m.035qy
+http://www.freebase.com/view/en/john_willams	John Willams	
+http://www.freebase.com/view/en/richardson	Richardson	http://rdf.freebase.com/ns/m.013m57
+http://www.freebase.com/view/en/henri_matisse	Henri Matisse	http://rdf.freebase.com/ns/m.0gct_
+http://www.freebase.com/view/en/charles_dickens	Charles Dickens	http://rdf.freebase.com/ns/m.01v9724
+http://www.freebase.com/view/en/agatha_christie	Agatha Christie	http://rdf.freebase.com/ns/m.0ldd
+http://www.freebase.com/view/en/michael_jordan	Michael Jordan	http://rdf.freebase.com/ns/m.054c1
+http://www.freebase.com/view/en/continental_congress	Continental Congress	http://rdf.freebase.com/ns/m.09k5k
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/mount_st_helens	Mount St Helens	
+http://www.freebase.com/view/en/new_york	New York	http://rdf.freebase.com/ns/m.059rby
+http://www.freebase.com/view/en/tupac_shakur	Tupac Shakur	http://rdf.freebase.com/ns/m.07pzc
+http://www.freebase.com/view/en/chinese_language	Chinese Language	
+http://www.freebase.com/view/en/robert_burns	Robert Burns	http://rdf.freebase.com/ns/m.09482
+http://www.freebase.com/view/en/william_mckinley	William Mckinley	http://rdf.freebase.com/ns/m.0761jjm
+http://www.freebase.com/view/en/lake_merritt	Lake Merritt	http://rdf.freebase.com/ns/m.06sqv1
+http://www.freebase.com/view/en/indiana	Indiana	http://rdf.freebase.com/ns/m.03v1s
+http://www.freebase.com/view/en/islam	Islam	http://rdf.freebase.com/ns/m.0flw86
+http://www.freebase.com/view/en/claude_debussy	Claude Debussy	http://rdf.freebase.com/ns/m.01vvy
+http://www.freebase.com/view/en/toronto_maple_leafs	Toronto Maple Leafs	http://rdf.freebase.com/ns/m.0j6tr
+http://www.freebase.com/view/en/russia	Russia	http://rdf.freebase.com/ns/m.06bnz
+http://www.freebase.com/view/en/hank_baskett	Hank Baskett	http://rdf.freebase.com/ns/m.0d81yf
+http://www.freebase.com/view/en/paraguay	Paraguay	http://rdf.freebase.com/ns/m.05v10
+http://www.freebase.com/view/en/hammurabi	Hammurabi	http://rdf.freebase.com/ns/m.03qlj
+http://www.freebase.com/view/en/pittsburgh_steelers	Pittsburgh Steelers	http://rdf.freebase.com/ns/m.05tfm
+http://www.freebase.com/view/en/isaac_newton	Isaac Newton	http://rdf.freebase.com/ns/m.03s9v
+http://www.freebase.com/view/en/harvard_university	Harvard University	http://rdf.freebase.com/ns/m.03ksy
+http://www.freebase.com/view/en/university_of_the_rockies	University Of The Rockies	
+http://www.freebase.com/view/en/robin_roberts	Robin Roberts	http://rdf.freebase.com/ns/m.06k3_t
+http://www.freebase.com/view/en/byzantine_empire	Byzantine Empire	http://rdf.freebase.com/ns/m.017cw
+http://www.freebase.com/view/en/edward_scissorhands	Edward Scissorhands	http://rdf.freebase.com/ns/m.01s3vk
+http://www.freebase.com/view/en/joey_jordison	Joey Jordison	http://rdf.freebase.com/ns/m.01wt4wc
+http://www.freebase.com/view/en/turkey	Turkey	http://rdf.freebase.com/ns/m.01znc_
+http://www.freebase.com/view/en/lebron_james	Lebron James	http://rdf.freebase.com/ns/m.063r8c_
+http://www.freebase.com/view/en/battle_of_gettysburg	Battle Of Gettysburg	
+http://www.freebase.com/view/en/san_francisco_giants	San Francisco Giants	http://rdf.freebase.com/ns/m.0713r
+http://www.freebase.com/view/en/united_kingdom	United Kingdom	http://rdf.freebase.com/ns/m.07ssc
+http://www.freebase.com/view/en/american_football_league	American Football League	http://rdf.freebase.com/ns/m.0ysy
+http://www.freebase.com/view/en/giuliana_depandi	Giuliana Depandi	
+http://www.freebase.com/view/en/ukraine	Ukraine	http://rdf.freebase.com/ns/m.07t21
+http://www.freebase.com/view/en/michael_bay	Michael Bay	http://rdf.freebase.com/ns/m.02qzjj
+http://www.freebase.com/view/en/victoria_of_the_united_kingdom	Victoria Of The United Kingdom	
+http://www.freebase.com/view/en/anthony_of_padua	Anthony Of Padua	http://rdf.freebase.com/ns/m.06dgfbh
+http://www.freebase.com/view/en/brian_dawkins	Brian Dawkins	http://rdf.freebase.com/ns/m.04m4p5
+http://www.freebase.com/view/en/tupac_shakur	Tupac Shakur	http://rdf.freebase.com/ns/m.07pzc
+http://www.freebase.com/view/en/china	China	http://rdf.freebase.com/ns/m.0d05w3
+http://www.freebase.com/view/en/kenneth_parcell	Kenneth Parcell	http://rdf.freebase.com/ns/m.0272jt5
+http://www.freebase.com/view/en/indianapolis_colts	Indianapolis Colts	http://rdf.freebase.com/ns/m.03wnh
+http://www.freebase.com/view/en/ferdinand_magellan	Ferdinand Magellan	http://rdf.freebase.com/ns/m.033ky
+http://www.freebase.com/view/en/perpignan	Perpignan	http://rdf.freebase.com/ns/m.09nkq
+http://www.freebase.com/view/en/kim_richards	Kim Richards	http://rdf.freebase.com/ns/m.08l257
+http://www.freebase.com/view/en/bosnia_and_herzegovina	Bosnia And Herzegovina	
+http://www.freebase.com/view/en/pittsburgh_steelers	Pittsburgh Steelers	http://rdf.freebase.com/ns/m.05tfm
+http://www.freebase.com/view/en/desmond_tutu	Desmond Tutu	http://rdf.freebase.com/ns/m.02d5w
+http://www.freebase.com/view/en/english	English	http://rdf.freebase.com/ns/m.0skp3
+http://www.freebase.com/view/en/giza	Giza	http://rdf.freebase.com/ns/m.012b0q
+http://www.freebase.com/view/en/midland	Midland	http://rdf.freebase.com/ns/m.013n2h
+http://www.freebase.com/view/en/midwestern_united_states	Midwestern United States	http://rdf.freebase.com/ns/m.0q76g
+http://www.freebase.com/view/en/florida_marlins	Florida Marlins	http://rdf.freebase.com/ns/m.08nxr7p
+http://www.freebase.com/view/en/justin_bieber	Justin Bieber	http://rdf.freebase.com/ns/m.06w2sn5
+http://www.freebase.com/view/en/australian_people	Australian People	http://rdf.freebase.com/ns/m.05yxn_p
+http://www.freebase.com/view/en/annie_oakley	Annie Oakley	http://rdf.freebase.com/ns/m.02rl_9
+http://www.freebase.com/view/en/lex_luthor	Lex Luthor	http://rdf.freebase.com/ns/m.04q78
+http://www.freebase.com/view/en/zambezi	Zambezi	http://rdf.freebase.com/ns/m.0p_70
+http://www.freebase.com/view/en/tim_tebow	Tim Tebow	http://rdf.freebase.com/ns/m.0g7km1
+http://www.freebase.com/view/en/nigeria	Nigeria	http://rdf.freebase.com/ns/m.05cgv
+http://www.freebase.com/view/en/jenni_rivera	Jenni Rivera	http://rdf.freebase.com/ns/m.01v5vfj
+http://www.freebase.com/view/en/mitt_romney	Mitt Romney	http://rdf.freebase.com/ns/m.0271_s
+http://www.freebase.com/view/en/south_dakota	South Dakota	http://rdf.freebase.com/ns/m.06mz5
+http://www.freebase.com/view/en/jason_mraz	Jason Mraz	http://rdf.freebase.com/ns/m.0259r0
+http://www.freebase.com/view/en/john_bonham	John Bonham	http://rdf.freebase.com/ns/m.015pvx
+http://www.freebase.com/view/en/wal-mart	Wal-mart	http://rdf.freebase.com/ns/m.0c3qkw_
+http://www.freebase.com/view/en/texarkana_arkansas	Texarkana Arkansas	
+http://www.freebase.com/view/en/chris_paul	Chris Paul	http://rdf.freebase.com/ns/m.0cymln
+http://www.freebase.com/view/en/slovakia	Slovakia	http://rdf.freebase.com/ns/m.06npd
+http://www.freebase.com/view/en/ludwig_van_beethoven	Ludwig Van Beethoven	http://rdf.freebase.com/ns/m.07jyxfs
+http://www.freebase.com/view/en/laura_ingalls_wilder	Laura Ingalls Wilder	http://rdf.freebase.com/ns/m.01bt87
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/john_irving	John Irving	http://rdf.freebase.com/ns/m.042v2
+http://www.freebase.com/view/en/hawaii	Hawaii	http://rdf.freebase.com/ns/m.03gh4
+http://www.freebase.com/view/en/alice_paul	Alice Paul	http://rdf.freebase.com/ns/m.012kyj6
+http://www.freebase.com/view/en/roanoke_colony	Roanoke Colony	http://rdf.freebase.com/ns/m.02p0w8z
+http://www.freebase.com/view/en/costa_rica	Costa Rica	http://rdf.freebase.com/ns/m.01p8s
+http://www.freebase.com/view/en/hank_marvin	Hank Marvin	http://rdf.freebase.com/ns/m.01x2fx0
+http://www.freebase.com/view/en/chipper_jones	Chipper Jones	http://rdf.freebase.com/ns/m.0crdkb
+http://www.freebase.com/view/en/winona_ryder	Winona Ryder	http://rdf.freebase.com/ns/m.086sj
+http://www.freebase.com/view/en/jimmy_carter	Jimmy Carter	http://rdf.freebase.com/ns/m.042kg
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/jovan_belcher	Jovan Belcher	http://rdf.freebase.com/ns/m.055d_1d
+http://www.freebase.com/view/en/chernobyl_disaster	Chernobyl Disaster	
+http://www.freebase.com/view/en/clay_matthews_iii	Clay Matthews Iii	
+http://www.freebase.com/view/en/houston	Houston	http://rdf.freebase.com/ns/m.03l2n
+http://www.freebase.com/view/en/princess_leia_organa	Princess Leia Organa	
+http://www.freebase.com/view/en/china	China	http://rdf.freebase.com/ns/m.0d05w3
+http://www.freebase.com/view/en/new_york	New York	http://rdf.freebase.com/ns/m.059rby
+http://www.freebase.com/view/en/brazil	Brazil	http://rdf.freebase.com/ns/m.015fr
+http://www.freebase.com/view/en/obi-wan_kenobi	Obi-wan Kenobi	
+http://www.freebase.com/view/en/venus_williams	Venus Williams	http://rdf.freebase.com/ns/m.016cff
+http://www.freebase.com/view/en/panama	Panama	http://rdf.freebase.com/ns/m.05qx1
+http://www.freebase.com/view/en/zambezi	Zambezi	http://rdf.freebase.com/ns/m.0p_70
+http://www.freebase.com/view/en/united_staff	United Staff	
+http://www.freebase.com/view/en/ronaldo	Ronaldo	http://rdf.freebase.com/ns/m.0hhqw
+http://www.freebase.com/view/en/robin_williams	Robin Williams	http://rdf.freebase.com/ns/m.0dzf_
+http://www.freebase.com/view/en/jacob_black	Jacob Black	http://rdf.freebase.com/ns/m.02qd_td
+http://www.freebase.com/view/en/john_adams	John Adams	http://rdf.freebase.com/ns/m.03_js
+http://www.freebase.com/view/en/lee_clark	Lee Clark	http://rdf.freebase.com/ns/m.041xst
+http://www.freebase.com/view/en/buenos_aires	Buenos Aires	http://rdf.freebase.com/ns/m.01ly5m
+http://www.freebase.com/view/en/long_island	Long Island	http://rdf.freebase.com/ns/m.04n3l
+http://www.freebase.com/view/en/adrian_peterson	Adrian Peterson	http://rdf.freebase.com/ns/m.095xk6
+http://www.freebase.com/view/en/pennsylvania	Pennsylvania	http://rdf.freebase.com/ns/m.05tbn
+http://www.freebase.com/view/en/germany	Germany	http://rdf.freebase.com/ns/m.0345h
+http://www.freebase.com/view/en/david_blaine	David Blaine	http://rdf.freebase.com/ns/m.0dynm
+http://www.freebase.com/view/en/james_chadwick	James Chadwick	http://rdf.freebase.com/ns/m.017jtb
+http://www.freebase.com/view/en/austraila	Austraila	
+http://www.freebase.com/view/en/vince_lombardi	Vince Lombardi	http://rdf.freebase.com/ns/m.07_xf
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/veronica_lake	Veronica Lake	http://rdf.freebase.com/ns/m.01xm6k
+http://www.freebase.com/view/en/francis_drake	Francis Drake	http://rdf.freebase.com/ns/m.031t2
+http://www.freebase.com/view/en/stephanie_plum	Stephanie Plum	http://rdf.freebase.com/ns/m.098by5
+http://www.freebase.com/view/en/roman_empire	Roman Empire	http://rdf.freebase.com/ns/m.06cmp
+http://www.freebase.com/view/en/ringo_starr	Ringo Starr	http://rdf.freebase.com/ns/m.01vrnsk
+http://www.freebase.com/view/en/saint_lucy	Saint Lucy	http://rdf.freebase.com/ns/m.01r0zd
+http://www.freebase.com/view/en/austraila	Austraila	
+http://www.freebase.com/view/en/university_of_maryland_baltimore	University Of Maryland Baltimore	
+http://www.freebase.com/view/en/galileo_galilei	Galileo Galilei	http://rdf.freebase.com/ns/m.034ks
+http://www.freebase.com/view/en/salvador_dali	Salvador Dali	http://rdf.freebase.com/ns/m.0lqjtm
+http://www.freebase.com/view/en/george_vi_of_the_united_kingdom	George Vi Of The United Kingdom	
+http://www.freebase.com/view/en/cristiano_ronaldo	Cristiano Ronaldo	http://rdf.freebase.com/ns/m.02xt6q
+http://www.freebase.com/view/en/oklahoma	Oklahoma	http://rdf.freebase.com/ns/m.05mph
+http://www.freebase.com/view/en/trenton	Trenton	http://rdf.freebase.com/ns/m.0fvxz
+http://www.freebase.com/view/en/ashley_greene	Ashley Greene	http://rdf.freebase.com/ns/m.03w9v1d
+http://www.freebase.com/view/en/al-qaeda	Al-qaeda	
+http://www.freebase.com/view/en/switzerland	Switzerland	http://rdf.freebase.com/ns/m.06mzp
+http://www.freebase.com/view/en/philip_the_apostle	Philip The Apostle	
+http://www.freebase.com/view/en/charles_darwin	Charles Darwin	http://rdf.freebase.com/ns/m.01lwx
+http://www.freebase.com/view/en/england	England	http://rdf.freebase.com/ns/m.02jx1
+http://www.freebase.com/view/en/epidermal_growth_factor_receptor	Epidermal Growth Factor Receptor	http://rdf.freebase.com/ns/m.04kkmmr
+http://www.freebase.com/view/en/turkey	Turkey	http://rdf.freebase.com/ns/m.01znc_
+http://www.freebase.com/view/en/nigeria	Nigeria	http://rdf.freebase.com/ns/m.05cgv
+http://www.freebase.com/view/en/alexander_graham_bell	Alexander Graham Bell	http://rdf.freebase.com/ns/m.0k70
+http://www.freebase.com/view/en/holly_madison	Holly Madison	http://rdf.freebase.com/ns/m.07xz75
+http://www.freebase.com/view/en/mary_shelley	Mary Shelley	http://rdf.freebase.com/ns/m.04_by
+http://www.freebase.com/view/en/australian_people	Australian People	http://rdf.freebase.com/ns/m.05yxn_p
+http://www.freebase.com/view/en/denmark	Denmark	http://rdf.freebase.com/ns/m.0k6nt
+http://www.freebase.com/view/en/theodore_roosevelt	Theodore Roosevelt	http://rdf.freebase.com/ns/m.07hyk
+http://www.freebase.com/view/en/malaysia	Malaysia	http://rdf.freebase.com/ns/m.09pmkv
+http://www.freebase.com/view/en/canada	Canada	http://rdf.freebase.com/ns/m.0d060g
+http://www.freebase.com/view/en/costa_rica	Costa Rica	http://rdf.freebase.com/ns/m.01p8s
+http://www.freebase.com/view/en/nashville_tennessee	Nashville Tennessee	http://rdf.freebase.com/ns/m.0rgptk1
+http://www.freebase.com/view/en/philippines	Philippines	http://rdf.freebase.com/ns/m.05v8c
+http://www.freebase.com/view/en/darth_vader	Darth Vader	http://rdf.freebase.com/ns/m.0f2y0
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/europe	Europe	http://rdf.freebase.com/ns/m.02j9z
+http://www.freebase.com/view/en/gulf_war	Gulf War	http://rdf.freebase.com/ns/m.018w0j
+http://www.freebase.com/view/en/virginia	Virginia	http://rdf.freebase.com/ns/m.07z1m
+http://www.freebase.com/view/en/george_clinton	George Clinton	http://rdf.freebase.com/ns/m.0ql36
+http://www.freebase.com/view/en/slovakia	Slovakia	http://rdf.freebase.com/ns/m.06npd
+http://www.freebase.com/view/en/james_garfield	James Garfield	http://rdf.freebase.com/ns/m.0cl6y52
+http://www.freebase.com/view/en/paula_deen	Paula Deen	http://rdf.freebase.com/ns/m.05dpch
+http://www.freebase.com/view/en/robert_irvine	Robert Irvine	http://rdf.freebase.com/ns/m.0272y2y
+http://www.freebase.com/view/en/michael_jackson	Michael Jackson	http://rdf.freebase.com/ns/m.09889g
+http://www.freebase.com/view/en/david_beckham	David Beckham	http://rdf.freebase.com/ns/m.02d9k
+http://www.freebase.com/view/en/julian_lennon	Julian Lennon	http://rdf.freebase.com/ns/m.01k4jy3
+http://www.freebase.com/view/en/milwaukee_brewers	Milwaukee Brewers	http://rdf.freebase.com/ns/m.051vz
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/mexican_army	Mexican Army	http://rdf.freebase.com/ns/m.025sjdv
+http://www.freebase.com/view/en/charlie_hunnam	Charlie Hunnam	http://rdf.freebase.com/ns/m.057yk8
+http://www.freebase.com/view/en/taylor_swift	Taylor Swift	http://rdf.freebase.com/ns/m.0dl567
+http://www.freebase.com/view/en/michael_jackson	Michael Jackson	http://rdf.freebase.com/ns/m.09889g
+http://www.freebase.com/view/en/brett_favre	Brett Favre	http://rdf.freebase.com/ns/m.0cv72h
+http://www.freebase.com/view/en/portland	Portland	http://rdf.freebase.com/ns/m.02frhbc
+http://www.freebase.com/view/en/alex_chilton	Alex Chilton	http://rdf.freebase.com/ns/m.024bwn
+http://www.freebase.com/view/en/martin_luther_king_jr	Martin Luther King Jr	http://rdf.freebase.com/ns/m.06lwmyx
+http://www.freebase.com/view/en/harley-davidson	Harley-davidson	
+http://www.freebase.com/view/en/farrah_fawcett	Farrah Fawcett	http://rdf.freebase.com/ns/m.01j851
+http://www.freebase.com/view/en/michael_j_fox	Michael J Fox	
+http://www.freebase.com/view/en/costa_rica	Costa Rica	http://rdf.freebase.com/ns/m.01p8s
+http://www.freebase.com/view/en/joe_walsh	Joe Walsh	http://rdf.freebase.com/ns/m.01sb5r
+http://www.freebase.com/view/en/european_union	European Union	http://rdf.freebase.com/ns/m.02jxk
+http://www.freebase.com/view/en/ryan_seacrest	Ryan Seacrest	http://rdf.freebase.com/ns/m.02b9g4
+http://www.freebase.com/view/en/african_american	African American	http://rdf.freebase.com/ns/m.0x67
+http://www.freebase.com/view/en/italian_people	Italian People	
+http://www.freebase.com/view/en/denver_broncos	Denver Broncos	http://rdf.freebase.com/ns/m.0289q
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/drew_barrymore	Drew Barrymore	http://rdf.freebase.com/ns/m.026c1
+http://www.freebase.com/view/en/st_georges_day	St Georges Day	
+http://www.freebase.com/view/en/roman_empire	Roman Empire	http://rdf.freebase.com/ns/m.06cmp
+http://www.freebase.com/view/en/crimean_war	Crimean War	http://rdf.freebase.com/ns/m.0cmc2
+http://www.freebase.com/view/en/robin_gibb	Robin Gibb	http://rdf.freebase.com/ns/m.0137hn
+http://www.freebase.com/view/en/darth_vader	Darth Vader	http://rdf.freebase.com/ns/m.0f2y0
+http://www.freebase.com/view/en/abraham_lincoln	Abraham Lincoln	http://rdf.freebase.com/ns/m.0gzh
+http://www.freebase.com/view/en/texas_rangers	Texas Rangers	http://rdf.freebase.com/ns/m.07l8x
+http://www.freebase.com/view/en/andrew_johnson	Andrew Johnson	http://rdf.freebase.com/ns/m.0rmg
+http://www.freebase.com/view/en/arkansas	Arkansas	http://rdf.freebase.com/ns/m.0vbk
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/vietnam	Vietnam	http://rdf.freebase.com/ns/m.01crd5
+http://www.freebase.com/view/en/nogales	Nogales	http://rdf.freebase.com/ns/m.0qqw9
+http://www.freebase.com/view/en/michael_vick	Michael Vick	http://rdf.freebase.com/ns/m.027f42
+http://www.freebase.com/view/en/kfc	Kfc	http://rdf.freebase.com/ns/m.0788rg7
+http://www.freebase.com/view/en/william_howard_taft	William Howard Taft	http://rdf.freebase.com/ns/m.083pr
+http://www.freebase.com/view/en/jesse_james	Jesse James	http://rdf.freebase.com/ns/m.02khjc
+http://www.freebase.com/view/en/robin_cook	Robin Cook	http://rdf.freebase.com/ns/m.02_5yp
+http://www.freebase.com/view/en/melba_beals	Melba Beals	
+http://www.freebase.com/view/en/joseph_kony	Joseph Kony	http://rdf.freebase.com/ns/m.026fkt
+http://www.freebase.com/view/en/louisiana	Louisiana	http://rdf.freebase.com/ns/m.04ly1
+http://www.freebase.com/view/en/central_america	Central America	http://rdf.freebase.com/ns/m.01tzh
+http://www.freebase.com/view/en/derek_fisher	Derek Fisher	http://rdf.freebase.com/ns/m.04lvwk
+http://www.freebase.com/view/en/kobe_bryant	Kobe Bryant	http://rdf.freebase.com/ns/m.01kmd4
+http://www.freebase.com/view/en/new_orleans_oklahoma_city_hornets	New Orleans Oklahoma City Hornets	
+http://www.freebase.com/view/en/algeria	Algeria	http://rdf.freebase.com/ns/m.0h3y
+http://www.freebase.com/view/en/anne_boleyn	Anne Boleyn	http://rdf.freebase.com/ns/m.09sxn
+http://www.freebase.com/view/en/galileo_galilei	Galileo Galilei	http://rdf.freebase.com/ns/m.034ks
+http://www.freebase.com/view/en/martin_luther_king_jr	Martin Luther King Jr	http://rdf.freebase.com/ns/m.06lwmyx
+http://www.freebase.com/view/en/gautama_buddha	Gautama Buddha	http://rdf.freebase.com/ns/m.015k7
+http://www.freebase.com/view/en/henry_viii_of_england	Henry Viii Of England	
+http://www.freebase.com/view/en/larry_hagman	Larry Hagman	http://rdf.freebase.com/ns/m.01vyv9
+http://www.freebase.com/view/en/byron_nelson	Byron Nelson	http://rdf.freebase.com/ns/m.02jhww
+http://www.freebase.com/view/en/robert_e_lee	Robert E Lee	http://rdf.freebase.com/ns/m.05v_45m
+http://www.freebase.com/view/en/russia	Russia	http://rdf.freebase.com/ns/m.06bnz
+http://www.freebase.com/view/en/libya	Libya	http://rdf.freebase.com/ns/m.04gqr
+http://www.freebase.com/view/en/austraila	Austraila	
+http://www.freebase.com/view/en/shays_rebellion	Shays Rebellion	
+http://www.freebase.com/view/en/montel_williams	Montel Williams	http://rdf.freebase.com/ns/m.018ptv
+http://www.freebase.com/view/en/vlaams_language	Vlaams Language	
+http://www.freebase.com/view/en/baltimore_ravens	Baltimore Ravens	http://rdf.freebase.com/ns/m.01ct6
+http://www.freebase.com/view/en/kansas_city_royals	Kansas City Royals	http://rdf.freebase.com/ns/m.049n7
+http://www.freebase.com/view/en/john_mayer	John Mayer	http://rdf.freebase.com/ns/m.01s21dg
+http://www.freebase.com/view/en/nathaniel_hawthorne	Nathaniel Hawthorne	http://rdf.freebase.com/ns/m.05gpy
+http://www.freebase.com/view/en/thomas_edison	Thomas Edison	http://rdf.freebase.com/ns/m.07bty
+http://www.freebase.com/view/en/novak_djokovic	Novak Djokovic	http://rdf.freebase.com/ns/m.09n70c
+http://www.freebase.com/view/en/arizona_cardinals	Arizona Cardinals	http://rdf.freebase.com/ns/m.0ws7
+http://www.freebase.com/view/en/new_england	New England	http://rdf.freebase.com/ns/m.029jpy
+http://www.freebase.com/view/en/turkey	Turkey	http://rdf.freebase.com/ns/m.01znc_
+http://www.freebase.com/view/en/jimi_hendrix	Jimi Hendrix	http://rdf.freebase.com/ns/m.01vsy3q
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/alexander_graham_bell	Alexander Graham Bell	http://rdf.freebase.com/ns/m.0k70
+http://www.freebase.com/view/en/tupac_shakur	Tupac Shakur	http://rdf.freebase.com/ns/m.07pzc
+http://www.freebase.com/view/en/liverpool_fc	Liverpool Fc	
+http://www.freebase.com/view/en/i_dream_of_jeannie	I Dream Of Jeannie	
+http://www.freebase.com/view/en/french	French	http://rdf.freebase.com/ns/m.034rwln
+http://www.freebase.com/view/en/saint_peter	Saint Peter	http://rdf.freebase.com/ns/m.071wp
+http://www.freebase.com/view/en/jeremy_shockey	Jeremy Shockey	http://rdf.freebase.com/ns/m.076ltd
+http://www.freebase.com/view/en/deion_sanders	Deion Sanders	http://rdf.freebase.com/ns/m.03n69x
+http://www.freebase.com/view/en/battle_of_the_alamo	Battle Of The Alamo	
+http://www.freebase.com/view/en/henry_viii_of_england	Henry Viii Of England	
+http://www.freebase.com/view/en/elizabeth_ii_of_the_united_kingdom	Elizabeth Ii Of The United Kingdom	
+http://www.freebase.com/view/en/tim_tebow	Tim Tebow	http://rdf.freebase.com/ns/m.0g7km1
+http://www.freebase.com/view/en/chesapeake_bay_bridge	Chesapeake Bay Bridge	http://rdf.freebase.com/ns/m.03xksb
+http://www.freebase.com/view/en/the_big_valley	The Big Valley	http://rdf.freebase.com/ns/m.030k44
+http://www.freebase.com/view/en/john_f_kennedy	John F Kennedy	http://rdf.freebase.com/ns/m.03t0qkg
+http://www.freebase.com/view/en/german_language	German Language	http://rdf.freebase.com/ns/m.04306rv
+http://www.freebase.com/view/en/taliban_movement	Taliban Movement	
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/elena_gilbert	Elena Gilbert	http://rdf.freebase.com/ns/m.0790rw8
+http://www.freebase.com/view/en/jill_valentine	Jill Valentine	http://rdf.freebase.com/ns/m.045r56
+http://www.freebase.com/view/en/missouri_river	Missouri River	http://rdf.freebase.com/ns/m.04ykz
+http://www.freebase.com/view/en/taylor_lautner	Taylor Lautner	http://rdf.freebase.com/ns/m.07ldhs
+http://www.freebase.com/view/en/california	California	http://rdf.freebase.com/ns/m.01n7q
+http://www.freebase.com/view/en/nike_inc	Nike Inc	
+http://www.freebase.com/view/en/colombia	Colombia	http://rdf.freebase.com/ns/m.01ls2
+http://www.freebase.com/view/en/ray_allen	Ray Allen	http://rdf.freebase.com/ns/m.03lh3v
+http://www.freebase.com/view/en/washington_redskins	Washington Redskins	http://rdf.freebase.com/ns/m.084l5
+http://www.freebase.com/view/en/claire_danes	Claire Danes	http://rdf.freebase.com/ns/m.01gq0b
+http://www.freebase.com/view/en/san_antonio	San Antonio	http://rdf.freebase.com/ns/m.0f2w0
+http://www.freebase.com/view/en/matt_stone	Matt Stone	http://rdf.freebase.com/ns/m.01_x6d
+http://www.freebase.com/view/en/michigan	Michigan	http://rdf.freebase.com/ns/m.04rrx
+http://www.freebase.com/view/en/soviet_union	Soviet Union	http://rdf.freebase.com/ns/m.05vz3zq
+http://www.freebase.com/view/en/japan	Japan	http://rdf.freebase.com/ns/m.03_3d
+http://www.freebase.com/view/en/dennis_rodman	Dennis Rodman	http://rdf.freebase.com/ns/m.01ztgm
+http://www.freebase.com/view/en/paul_of_tarsus	Paul Of Tarsus	
+http://www.freebase.com/view/en/africa	Africa	http://rdf.freebase.com/ns/m.0dg3n1
+http://www.freebase.com/view/en/vin_scully	Vin Scully	http://rdf.freebase.com/ns/m.038gnr
+http://www.freebase.com/view/en/princess_leia_organa	Princess Leia Organa	
+http://www.freebase.com/view/en/el_salvador	El Salvador	http://rdf.freebase.com/ns/m.02k8k
+http://www.freebase.com/view/en/leonardo_da_vinci	Leonardo Da Vinci	http://rdf.freebase.com/ns/m.06q_46v
+http://www.freebase.com/view/en/mary_bell	Mary Bell	http://rdf.freebase.com/ns/m.03xtp20
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/kimberly_williams	Kimberly Williams	http://rdf.freebase.com/ns/m.0cxtf_
+http://www.freebase.com/view/en/ryan_gosling	Ryan Gosling	http://rdf.freebase.com/ns/m.03m6_z
+http://www.freebase.com/view/en/julia_gillard	Julia Gillard	http://rdf.freebase.com/ns/m.02kx9r
+http://www.freebase.com/view/en/germany	Germany	http://rdf.freebase.com/ns/m.0345h
+http://www.freebase.com/view/en/selena_gomez	Selena Gomez	http://rdf.freebase.com/ns/m.0gs6vr
+http://www.freebase.com/view/en/denise_van_outen	Denise Van Outen	http://rdf.freebase.com/ns/m.07mqcp4
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/wyoming_michigan	Wyoming Michigan	
+http://www.freebase.com/view/en/costa_rica	Costa Rica	http://rdf.freebase.com/ns/m.01p8s
+http://www.freebase.com/view/en/martin_luther_king_jr	Martin Luther King Jr	http://rdf.freebase.com/ns/m.06lwmyx
+http://www.freebase.com/view/en/gospel_of_john	Gospel Of John	
+http://www.freebase.com/view/en/united_kingdom	United Kingdom	http://rdf.freebase.com/ns/m.07ssc
+http://www.freebase.com/view/en/john_elway	John Elway	http://rdf.freebase.com/ns/m.01sthx
+http://www.freebase.com/view/en/samir_nasri	Samir Nasri	http://rdf.freebase.com/ns/m.0f2dbm
+http://www.freebase.com/view/en/czech_republic	Czech Republic	http://rdf.freebase.com/ns/m.01mjq
+http://www.freebase.com/view/en/william_penn	William Penn	http://rdf.freebase.com/ns/m.083qr
+http://www.freebase.com/view/en/mozilla_firefox	Mozilla Firefox	http://rdf.freebase.com/ns/m.06gyyvl
+http://www.freebase.com/view/en/new_zealand	New Zealand	http://rdf.freebase.com/ns/m.0ctw_b
+http://www.freebase.com/view/en/panama	Panama	http://rdf.freebase.com/ns/m.05qx1
+http://www.freebase.com/view/en/republic_of_ireland	Republic Of Ireland	
+http://www.freebase.com/view/en/kristen_stewart	Kristen Stewart	http://rdf.freebase.com/ns/m.07swvb
+http://www.freebase.com/view/en/josef_mengele	Josef Mengele	http://rdf.freebase.com/ns/m.0lhsd
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/hawaii	Hawaii	http://rdf.freebase.com/ns/m.03gh4
+http://www.freebase.com/view/en/north_korea	North Korea	http://rdf.freebase.com/ns/m.05b7q
+http://www.freebase.com/view/en/robert_kardashian	Robert Kardashian	http://rdf.freebase.com/ns/m.01x48v
+http://www.freebase.com/view/en/chernobyl_disaster	Chernobyl Disaster	
+http://www.freebase.com/view/en/st_james_city	St James City	
+http://www.freebase.com/view/en/akkadian	Akkadian	http://rdf.freebase.com/ns/m.0snj4k2
+http://www.freebase.com/view/en/olympic_games	Olympic Games	http://rdf.freebase.com/ns/m.05nd_
+http://www.freebase.com/view/en/guyana	Guyana	http://rdf.freebase.com/ns/m.034m8
+http://www.freebase.com/view/en/new_york_knicks	New York Knicks	http://rdf.freebase.com/ns/m.0jm3v
+http://www.freebase.com/view/en/sergio_aguero	Sergio Aguero	http://rdf.freebase.com/ns/m.07yrj77
+http://www.freebase.com/view/en/european_union	European Union	http://rdf.freebase.com/ns/m.02jxk
+http://www.freebase.com/view/en/solemnity_of_saint_joseph	Solemnity Of Saint Joseph	
+http://www.freebase.com/view/en/kenya_moore	Kenya Moore	http://rdf.freebase.com/ns/m.08cpnf
+http://www.freebase.com/view/en/nigeria	Nigeria	http://rdf.freebase.com/ns/m.05cgv
+http://www.freebase.com/view/en/ina_garten	Ina Garten	http://rdf.freebase.com/ns/m.0315fl
+http://www.freebase.com/view/en/atlanta_braves	Atlanta Braves	http://rdf.freebase.com/ns/m.0x2p
+http://www.freebase.com/view/en/lamar_odom	Lamar Odom	http://rdf.freebase.com/ns/m.02_nkp
+http://www.freebase.com/view/en/iran	Iran	http://rdf.freebase.com/ns/m.03shp
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/scott_joplin	Scott Joplin	http://rdf.freebase.com/ns/m.07b69
+http://www.freebase.com/view/en/miley_cyrus	Miley Cyrus	http://rdf.freebase.com/ns/m.0bdxs5
+http://www.freebase.com/view/en/ernest_hemingway	Ernest Hemingway	http://rdf.freebase.com/ns/m.02kz_
+http://www.freebase.com/view/en/afghanistan	Afghanistan	http://rdf.freebase.com/ns/m.0jdd
+http://www.freebase.com/view/en/jamaica	Jamaica	http://rdf.freebase.com/ns/m.03_r3
+http://www.freebase.com/view/en/paul_mccartney	Paul Mccartney	
+http://www.freebase.com/view/en/juventus_fc	Juventus Fc	
+http://www.freebase.com/view/en/university_of_oregon	University Of Oregon	
+http://www.freebase.com/view/en/robin_roberts	Robin Roberts	http://rdf.freebase.com/ns/m.06k3_t
+http://www.freebase.com/view/en/victoria	Victoria	http://rdf.freebase.com/ns/m.0chgr2
+http://www.freebase.com/view/en/french	French	http://rdf.freebase.com/ns/m.034rwln
+http://www.freebase.com/view/en/reggie_bush	Reggie Bush	http://rdf.freebase.com/ns/m.05cb70
+http://www.freebase.com/view/en/emily_osment	Emily Osment	http://rdf.freebase.com/ns/m.03xnq9_
+http://www.freebase.com/view/en/mexico	Mexico	http://rdf.freebase.com/ns/m.0b90_r
+http://www.freebase.com/view/en/thor_heyerdahl	Thor Heyerdahl	http://rdf.freebase.com/ns/m.09fcm
+http://www.freebase.com/view/en/leonardo_da_vinci	Leonardo Da Vinci	http://rdf.freebase.com/ns/m.06q_46v
+http://www.freebase.com/view/en/troy_aikman	Troy Aikman	http://rdf.freebase.com/ns/m.0dr5g9
+http://www.freebase.com/view/en/cletus_hogg	Cletus Hogg	http://rdf.freebase.com/ns/m.0bxcc6
+http://www.freebase.com/view/en/fa_cup	Fa Cup	
+http://www.freebase.com/view/en/robert_e_lee	Robert E Lee	http://rdf.freebase.com/ns/m.05v_45m
+http://www.freebase.com/view/en/henri_matisse	Henri Matisse	http://rdf.freebase.com/ns/m.0gct_
+http://www.freebase.com/view/en/chuck_bass	Chuck Bass	http://rdf.freebase.com/ns/m.0g0jx7
+http://www.freebase.com/view/en/oceania	Oceania	http://rdf.freebase.com/ns/m.05nrg
+http://www.freebase.com/view/en/st_louis_park	St Louis Park	
+http://www.freebase.com/view/en/south_africa	South Africa	http://rdf.freebase.com/ns/m.0hzlz
+http://www.freebase.com/view/en/canberra	Canberra	http://rdf.freebase.com/ns/m.0dp90
+http://www.freebase.com/view/en/germany	Germany	http://rdf.freebase.com/ns/m.0345h
+http://www.freebase.com/view/en/tucson	Tucson	http://rdf.freebase.com/ns/m.0fr0t
+http://www.freebase.com/view/en/lucy_lawless	Lucy Lawless	http://rdf.freebase.com/ns/m.01r9md
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/ghana	Ghana	http://rdf.freebase.com/ns/m.035dk
+http://www.freebase.com/view/en/jill_clayburgh	Jill Clayburgh	http://rdf.freebase.com/ns/m.01gw8b
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/sydney	Sydney	http://rdf.freebase.com/ns/m.06y57
+http://www.freebase.com/view/en/marilyn_monroe	Marilyn Monroe	http://rdf.freebase.com/ns/m.04wqr
+http://www.freebase.com/view/en/sierra_nevada	Sierra Nevada	http://rdf.freebase.com/ns/m.0db94
+http://www.freebase.com/view/en/greek_language	Greek Language	http://rdf.freebase.com/ns/m.0349s
+http://www.freebase.com/view/en/monta_ellis	Monta Ellis	http://rdf.freebase.com/ns/m.06rsnl
+http://www.freebase.com/view/en/united_states_house_of_representatives	United States House Of Representatives	
+http://www.freebase.com/view/en/stanley_hudson	Stanley Hudson	http://rdf.freebase.com/ns/m.026nx7k
+http://www.freebase.com/view/en/kelly_clarkson	Kelly Clarkson	http://rdf.freebase.com/ns/m.025ldg
+http://www.freebase.com/view/en/tim_roth	Tim Roth	http://rdf.freebase.com/ns/m.021yzs
+http://www.freebase.com/view/en/isaac_newton	Isaac Newton	http://rdf.freebase.com/ns/m.03s9v
+http://www.freebase.com/view/en/vietnam	Vietnam	http://rdf.freebase.com/ns/m.01crd5
+http://www.freebase.com/view/en/roger_federer	Roger Federer	http://rdf.freebase.com/ns/m.01my95
+http://www.freebase.com/view/en/costa_rica	Costa Rica	http://rdf.freebase.com/ns/m.01p8s
+http://www.freebase.com/view/en/cuba	Cuba	http://rdf.freebase.com/ns/m.0d04z6
+http://www.freebase.com/view/en/belgium	Belgium	http://rdf.freebase.com/ns/m.0154j
+http://www.freebase.com/view/en/japan	Japan	http://rdf.freebase.com/ns/m.03_3d
+http://www.freebase.com/view/en/claude_debussy	Claude Debussy	http://rdf.freebase.com/ns/m.01vvy
+http://www.freebase.com/view/en/selena_gomez	Selena Gomez	http://rdf.freebase.com/ns/m.0gs6vr
+http://www.freebase.com/view/en/stanley_tucci	Stanley Tucci	http://rdf.freebase.com/ns/m.02bj6k
+http://www.freebase.com/view/en/battle_of_gettysburg	Battle Of Gettysburg	
+http://www.freebase.com/view/en/john_f_kennedy	John F Kennedy	http://rdf.freebase.com/ns/m.03t0qkg
+http://www.freebase.com/view/en/tupac_shakur	Tupac Shakur	http://rdf.freebase.com/ns/m.07pzc
+http://www.freebase.com/view/en/augustus	Augustus	http://rdf.freebase.com/ns/m.0ngg
+http://www.freebase.com/view/en/serena_williams	Serena Williams	http://rdf.freebase.com/ns/m.015z4j
+http://www.freebase.com/view/en/colombia	Colombia	http://rdf.freebase.com/ns/m.01ls2
+http://www.freebase.com/view/en/schenectady	Schenectady	http://rdf.freebase.com/ns/m.0fdpd
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/canada	Canada	http://rdf.freebase.com/ns/m.0d060g
+http://www.freebase.com/view/en/google	Google	http://rdf.freebase.com/ns/m.045c7b
+http://www.freebase.com/view/en/john_pemberton	John Pemberton	http://rdf.freebase.com/ns/m.0h24w
+http://www.freebase.com/view/en/stanley_matthews	Stanley Matthews	http://rdf.freebase.com/ns/m.034_z9
+http://www.freebase.com/view/en/brazil	Brazil	http://rdf.freebase.com/ns/m.015fr
+http://www.freebase.com/view/en/charles_edward_stuart	Charles Edward Stuart	http://rdf.freebase.com/ns/m.0fssd
+http://www.freebase.com/view/en/stewie_griffin	Stewie Griffin	http://rdf.freebase.com/ns/m.02m29p
+http://www.freebase.com/view/en/angelina_jolie	Angelina Jolie	http://rdf.freebase.com/ns/m.0f4vbz
+http://www.freebase.com/view/en/indiana	Indiana	http://rdf.freebase.com/ns/m.03v1s
+http://www.freebase.com/view/en/brad_pitt	Brad Pitt	http://rdf.freebase.com/ns/m.0c6qh
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/san_francisco	San Francisco	http://rdf.freebase.com/ns/m.0d6lp
+http://www.freebase.com/view/en/stephen_ireland	Stephen Ireland	http://rdf.freebase.com/ns/m.07_mj3
+http://www.freebase.com/view/en/france	France	http://rdf.freebase.com/ns/m.0f8l9c
+http://www.freebase.com/view/en/john_mayer	John Mayer	http://rdf.freebase.com/ns/m.01s21dg
+http://www.freebase.com/view/en/brody_jenner	Brody Jenner	http://rdf.freebase.com/ns/m.026_dq6
+http://www.freebase.com/view/en/malaysia	Malaysia	http://rdf.freebase.com/ns/m.09pmkv
+http://www.freebase.com/view/en/china	China	http://rdf.freebase.com/ns/m.0d05w3
+http://www.freebase.com/view/en/volkswagen	Volkswagen	http://rdf.freebase.com/ns/m.0h5wtyy
+http://www.freebase.com/view/en/rome	Rome	http://rdf.freebase.com/ns/m.06c62
+http://www.freebase.com/view/en/steve_mcnair	Steve Mcnair	
+http://www.freebase.com/view/en/california	California	http://rdf.freebase.com/ns/m.01n7q
+http://www.freebase.com/view/en/roxanne_1987	Roxanne 1987	
+http://www.freebase.com/view/en/sony_ericsson	Sony Ericsson	
+http://www.freebase.com/view/en/dominican_republic	Dominican Republic	http://rdf.freebase.com/ns/m.027rn
+http://www.freebase.com/view/en/manchester_united_kingdom	Manchester United Kingdom	
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/google	Google	http://rdf.freebase.com/ns/m.045c7b
+http://www.freebase.com/view/en/jesse_owens	Jesse Owens	http://rdf.freebase.com/ns/m.0cmr3
+http://www.freebase.com/view/en/carlos_santana	Carlos Santana	http://rdf.freebase.com/ns/m.01304j
+http://www.freebase.com/view/en/john_carter_of_mars	John Carter Of Mars	
+http://www.freebase.com/view/en/joseph_goebbels	Joseph Goebbels	http://rdf.freebase.com/ns/m.040by
+http://www.freebase.com/view/en/north_american_free_trade_agreement	North American Free Trade Agreement	http://rdf.freebase.com/ns/m.05jj_
+http://www.freebase.com/view/en/houston	Houston	http://rdf.freebase.com/ns/m.03l2n
+http://www.freebase.com/view/en/seattle_seahawks	Seattle Seahawks	http://rdf.freebase.com/ns/m.070xg
+http://www.freebase.com/view/en/michael_keaton	Michael Keaton	http://rdf.freebase.com/ns/m.01j5ws
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/riviera	Riviera	http://rdf.freebase.com/ns/m.01ps1cj
+http://www.freebase.com/view/en/buddhism	Buddhism	http://rdf.freebase.com/ns/m.092bf5
+http://www.freebase.com/view/en/william_henry_harrison	William Henry Harrison	http://rdf.freebase.com/ns/m.0835q
+http://www.freebase.com/view/en/richard_arkwright	Richard Arkwright	http://rdf.freebase.com/ns/m.01tglh
+http://www.freebase.com/view/en/louis_sachar	Louis Sachar	http://rdf.freebase.com/ns/m.01bq8d
+http://www.freebase.com/view/en/roth_ira	Roth Ira	
+http://www.freebase.com/view/en/the_legend_of_zelda_series	The Legend Of Zelda Series	
+http://www.freebase.com/view/en/darth_vader	Darth Vader	http://rdf.freebase.com/ns/m.0f2y0
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/thomas_malthus	Thomas Malthus	http://rdf.freebase.com/ns/m.03hs8_w
+http://www.freebase.com/view/en/newark_california	Newark California	
+http://www.freebase.com/view/en/tennesee	Tennesee	http://rdf.freebase.com/ns/m.0m0fvh
+http://www.freebase.com/view/en/vancouver	Vancouver	http://rdf.freebase.com/ns/m.080h2
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/justin_bieber	Justin Bieber	http://rdf.freebase.com/ns/m.06w2sn5
+http://www.freebase.com/view/en/james_madison	James Madison	http://rdf.freebase.com/ns/m.0424m
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/john_lennon	John Lennon	http://rdf.freebase.com/ns/m.01vsl3_
+http://www.freebase.com/view/en/edward_cullen	Edward Cullen	http://rdf.freebase.com/ns/m.0289n2z
+http://www.freebase.com/view/en/herbert_hoover	Herbert Hoover	http://rdf.freebase.com/ns/m.03kdl
+http://www.freebase.com/view/en/national_football_league	National Football League	http://rdf.freebase.com/ns/m.059yj
+http://www.freebase.com/view/en/bangalore	Bangalore	http://rdf.freebase.com/ns/m.09c17
+http://www.freebase.com/view/en/greece	Greece	http://rdf.freebase.com/ns/m.035qy
+http://www.freebase.com/view/en/philadelphia_phillies	Philadelphia Phillies	http://rdf.freebase.com/ns/m.05xvj
+http://www.freebase.com/view/en/matt_dallas	Matt Dallas	http://rdf.freebase.com/ns/m.0dfyw6
+http://www.freebase.com/view/en/john_f_kennedy	John F Kennedy	http://rdf.freebase.com/ns/m.03t0qkg
+http://www.freebase.com/view/en/harley-davidson	Harley-davidson	
+http://www.freebase.com/view/en/pope_john_paul_ii	Pope John Paul Ii	
+http://www.freebase.com/view/en/belgium	Belgium	http://rdf.freebase.com/ns/m.0154j
+http://www.freebase.com/view/en/starbucks	Starbucks	http://rdf.freebase.com/ns/m.018c_r
+http://www.freebase.com/view/en/ottoman_empire	Ottoman Empire	http://rdf.freebase.com/ns/m.05kyr
+http://www.freebase.com/view/en/osama_bin_laden	Osama Bin Laden	http://rdf.freebase.com/ns/m.0g51qyx
+http://www.freebase.com/view/en/harry_potter	Harry Potter	http://rdf.freebase.com/ns/m.06xltj
+http://www.freebase.com/view/en/pamela_courson	Pamela Courson	http://rdf.freebase.com/ns/m.07ms9g
+http://www.freebase.com/view/en/jack_kevorkian	Jack Kevorkian	http://rdf.freebase.com/ns/m.01ctkj
+http://www.freebase.com/view/en/bolivia	Bolivia	http://rdf.freebase.com/ns/m.0165v
+http://www.freebase.com/view/en/stacey_slater	Stacey Slater	
+http://www.freebase.com/view/en/nolan_ryan	Nolan Ryan	http://rdf.freebase.com/ns/m.0hctb
+http://www.freebase.com/view/en/sweden	Sweden	http://rdf.freebase.com/ns/m.0d0vqn
+http://www.freebase.com/view/en/justin_bieber	Justin Bieber	http://rdf.freebase.com/ns/m.06w2sn5
+http://www.freebase.com/view/en/supreme_court_of_the_united_states	Supreme Court Of The United States	
+http://www.freebase.com/view/en/frida_kahlo	Frida Kahlo	http://rdf.freebase.com/ns/m.015k04
+http://www.freebase.com/view/en/taylor_swift	Taylor Swift	http://rdf.freebase.com/ns/m.0dl567
+http://www.freebase.com/view/en/argentina	Argentina	http://rdf.freebase.com/ns/m.0jgd
+http://www.freebase.com/view/en/san_francisco_giants	San Francisco Giants	http://rdf.freebase.com/ns/m.0713r
+http://www.freebase.com/view/en/china	China	http://rdf.freebase.com/ns/m.0d05w3
+http://www.freebase.com/view/en/battle_of_waterloo	Battle Of Waterloo	http://rdf.freebase.com/ns/m.0nmh32w
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/vladimir_lenin	Vladimir Lenin	http://rdf.freebase.com/ns/m.05wh0sh
+http://www.freebase.com/view/en/baltimore_ravens	Baltimore Ravens	http://rdf.freebase.com/ns/m.01ct6
+http://www.freebase.com/view/en/cristiano_ronaldo	Cristiano Ronaldo	http://rdf.freebase.com/ns/m.02xt6q
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/mark_twain	Mark Twain	http://rdf.freebase.com/ns/m.014635
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/france	France	http://rdf.freebase.com/ns/m.0f8l9c
+http://www.freebase.com/view/en/theodor_schwann	Theodor Schwann	http://rdf.freebase.com/ns/m.040000
+http://www.freebase.com/view/en/bruno_mars	Bruno Mars	http://rdf.freebase.com/ns/m.0bs1g5r
+http://www.freebase.com/view/en/virginia	Virginia	http://rdf.freebase.com/ns/m.07z1m
+http://www.freebase.com/view/en/dr_seuss	Dr Seuss	
+http://www.freebase.com/view/en/united_nations_security_council	United Nations Security Council	http://rdf.freebase.com/ns/m.07vnr
+http://www.freebase.com/view/en/nordic_countries	Nordic Countries	
+http://www.freebase.com/view/en/ferdinand_magellan	Ferdinand Magellan	http://rdf.freebase.com/ns/m.033ky
+http://www.freebase.com/view/en/vera-ellen	Vera-ellen	
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/toronto	Toronto	http://rdf.freebase.com/ns/m.0h7h6
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/plaxico_burress	Plaxico Burress	http://rdf.freebase.com/ns/m.047j_j
+http://www.freebase.com/view/en/brazil	Brazil	http://rdf.freebase.com/ns/m.015fr
+http://www.freebase.com/view/en/andy_warhol	Andy Warhol	http://rdf.freebase.com/ns/m.0kc6
+http://www.freebase.com/view/en/florida	Florida	http://rdf.freebase.com/ns/m.02xry
+http://www.freebase.com/view/en/mike_delfino	Mike Delfino	http://rdf.freebase.com/ns/m.0d8hzj
+http://www.freebase.com/view/en/russia	Russia	http://rdf.freebase.com/ns/m.06bnz
+http://www.freebase.com/view/en/spanish	Spanish	http://rdf.freebase.com/ns/m.02pm9vw
+http://www.freebase.com/view/en/carolina_panthers	Carolina Panthers	http://rdf.freebase.com/ns/m.01y3c
+http://www.freebase.com/view/en/louis_sachar	Louis Sachar	http://rdf.freebase.com/ns/m.01bq8d
+http://www.freebase.com/view/en/marshall_eriksen	Marshall Eriksen	http://rdf.freebase.com/ns/m.02vkmj9
+http://www.freebase.com/view/en/greece	Greece	http://rdf.freebase.com/ns/m.035qy
+http://www.freebase.com/view/en/houston	Houston	http://rdf.freebase.com/ns/m.03l2n
+http://www.freebase.com/view/en/otto_frank	Otto Frank	http://rdf.freebase.com/ns/m.01c9j8
+http://www.freebase.com/view/en/jennifer_lawrence	Jennifer Lawrence	http://rdf.freebase.com/ns/m.02x0dzw
+http://www.freebase.com/view/en/pennsylvania	Pennsylvania	http://rdf.freebase.com/ns/m.05tbn
+http://www.freebase.com/view/en/phoenicia	Phoenicia	http://rdf.freebase.com/ns/m.0yb9y
+http://www.freebase.com/view/en/boston_celtics	Boston Celtics	http://rdf.freebase.com/ns/m.0bwjj
+http://www.freebase.com/view/en/george_washington	George Washington	http://rdf.freebase.com/ns/m.034rd
+http://www.freebase.com/view/en/osama_bin_laden	Osama Bin Laden	http://rdf.freebase.com/ns/m.0g51qyx
+http://www.freebase.com/view/en/toronto	Toronto	http://rdf.freebase.com/ns/m.0h7h6
+http://www.freebase.com/view/en/bosnia_and_herzegovina	Bosnia And Herzegovina	
+http://www.freebase.com/view/en/hugo_chavez	Hugo Chavez	http://rdf.freebase.com/ns/m.02xgb87
+http://www.freebase.com/view/en/japan	Japan	http://rdf.freebase.com/ns/m.03_3d
+http://www.freebase.com/view/en/sonia_gandhi	Sonia Gandhi	http://rdf.freebase.com/ns/m.016rwt
+http://www.freebase.com/view/en/islam	Islam	http://rdf.freebase.com/ns/m.0flw86
+http://www.freebase.com/view/en/mary_todd_lincoln	Mary Todd Lincoln	http://rdf.freebase.com/ns/m.01ypl0
+http://www.freebase.com/view/en/charles_darwin	Charles Darwin	http://rdf.freebase.com/ns/m.01lwx
+http://www.freebase.com/view/en/nick_cannon	Nick Cannon	http://rdf.freebase.com/ns/m.01d1st
+http://www.freebase.com/view/en/san_francisco	San Francisco	http://rdf.freebase.com/ns/m.0d6lp
+http://www.freebase.com/view/en/george_vi_of_the_united_kingdom	George Vi Of The United Kingdom	
+http://www.freebase.com/view/en/jesus	Jesus	http://rdf.freebase.com/ns/m.042g53r
+http://www.freebase.com/view/en/james_dyson	James Dyson	http://rdf.freebase.com/ns/m.0209vm
+http://www.freebase.com/view/en/darth_vader	Darth Vader	http://rdf.freebase.com/ns/m.0f2y0
+http://www.freebase.com/view/en/maya_angelou	Maya Angelou	http://rdf.freebase.com/ns/m.01q9b9
+http://www.freebase.com/view/en/switzerland	Switzerland	http://rdf.freebase.com/ns/m.06mzp
+http://www.freebase.com/view/en/benito_mussolini	Benito Mussolini	http://rdf.freebase.com/ns/m.0177g
+http://www.freebase.com/view/en/hosni_mubarak	Hosni Mubarak	http://rdf.freebase.com/ns/m.0dnps
+http://www.freebase.com/view/en/communist_party_of_china	Communist Party Of China	
+http://www.freebase.com/view/en/miles_davis	Miles Davis	http://rdf.freebase.com/ns/m.053yx
+http://www.freebase.com/view/en/azle	Azle	http://rdf.freebase.com/ns/m.013n59
+http://www.freebase.com/view/en/sally_mclellan	Sally Mclellan	
+http://www.freebase.com/view/en/detroit_pistons	Detroit Pistons	http://rdf.freebase.com/ns/m.0jm8l
+http://www.freebase.com/view/en/philadelphia_flyers	Philadelphia Flyers	http://rdf.freebase.com/ns/m.0hn2q
+http://www.freebase.com/view/en/dallas_cowboys	Dallas Cowboys	http://rdf.freebase.com/ns/m.02896
+http://www.freebase.com/view/en/st_pauls	St Pauls	
+http://www.freebase.com/view/en/olympic_national_park	Olympic National Park	http://rdf.freebase.com/ns/m.015nrn
+http://www.freebase.com/view/en/nat_turner	Nat Turner	http://rdf.freebase.com/ns/m.0f9y4
+http://www.freebase.com/view/en/luke_skywalker	Luke Skywalker	http://rdf.freebase.com/ns/m.0f1bg
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/turkish_language	Turkish Language	http://rdf.freebase.com/ns/m.02hwyss
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/joe_montana	Joe Montana	http://rdf.freebase.com/ns/m.01r6hc
+http://www.freebase.com/view/en/minnesota_vikings	Minnesota Vikings	http://rdf.freebase.com/ns/m.051q5
+http://www.freebase.com/view/en/american_people_of_the_united_states	American People Of The United States	
+http://www.freebase.com/view/en/gary_paulsen	Gary Paulsen	http://rdf.freebase.com/ns/m.04fpcx
+http://www.freebase.com/view/en/cuba	Cuba	http://rdf.freebase.com/ns/m.0d04z6
+http://www.freebase.com/view/en/alexander_graham_bell	Alexander Graham Bell	http://rdf.freebase.com/ns/m.0k70
+http://www.freebase.com/view/en/golden_state_warriors	Golden State Warriors	http://rdf.freebase.com/ns/m.0jmj7
+http://www.freebase.com/view/en/turkey	Turkey	http://rdf.freebase.com/ns/m.01znc_
+http://www.freebase.com/view/en/mexico	Mexico	http://rdf.freebase.com/ns/m.0b90_r
+http://www.freebase.com/view/en/united_kingdom	United Kingdom	http://rdf.freebase.com/ns/m.07ssc
+http://www.freebase.com/view/en/baltimore_ravens	Baltimore Ravens	http://rdf.freebase.com/ns/m.01ct6
+http://www.freebase.com/view/en/russia	Russia	http://rdf.freebase.com/ns/m.06bnz
+http://www.freebase.com/view/en/lauren_reed	Lauren Reed	http://rdf.freebase.com/ns/m.02krsd
+http://www.freebase.com/view/en/cambodia	Cambodia	http://rdf.freebase.com/ns/m.01xbgx
+http://www.freebase.com/view/en/serena_williams	Serena Williams	http://rdf.freebase.com/ns/m.015z4j
+http://www.freebase.com/view/en/isaac_newton	Isaac Newton	http://rdf.freebase.com/ns/m.03s9v
+http://www.freebase.com/view/en/huell_howser	Huell Howser	http://rdf.freebase.com/ns/m.02kddt
+http://www.freebase.com/view/en/suzanne_collins	Suzanne Collins	http://rdf.freebase.com/ns/m.0bpd5z
+http://www.freebase.com/view/en/england	England	http://rdf.freebase.com/ns/m.02jx1
+http://www.freebase.com/view/en/lionel_messi	Lionel Messi	http://rdf.freebase.com/ns/m.06qjgc
+http://www.freebase.com/view/en/greensburg_indiana	Greensburg Indiana	
+http://www.freebase.com/view/en/fullmetal_alchemist	Fullmetal Alchemist	http://rdf.freebase.com/ns/m.026w8x
+http://www.freebase.com/view/en/lord_voldemort	Lord Voldemort	http://rdf.freebase.com/ns/m.0c8lv
+http://www.freebase.com/view/en/harper_lee	Harper Lee	http://rdf.freebase.com/ns/m.01bq7x
+http://www.freebase.com/view/en/ku_klux_klan	Ku Klux Klan	http://rdf.freebase.com/ns/m.048qr
+http://www.freebase.com/view/en/university_of_georgia	University Of Georgia	
+http://www.freebase.com/view/en/john_adams	John Adams	http://rdf.freebase.com/ns/m.03_js
+http://www.freebase.com/view/en/mario_bros	Mario Bros	
+http://www.freebase.com/view/en/andrew_johnson	Andrew Johnson	http://rdf.freebase.com/ns/m.0rmg
+http://www.freebase.com/view/en/joseph	Joseph	http://rdf.freebase.com/ns/m.0dwwmx
+http://www.freebase.com/view/en/osama_bin_laden	Osama Bin Laden	http://rdf.freebase.com/ns/m.0g51qyx
+http://www.freebase.com/view/en/greek_language	Greek Language	http://rdf.freebase.com/ns/m.0349s
+http://www.freebase.com/view/en/arabic_language	Arabic Language	http://rdf.freebase.com/ns/m.0jzc
+http://www.freebase.com/view/en/elizabeth_ii_of_the_united_kingdom	Elizabeth Ii Of The United Kingdom	
+http://www.freebase.com/view/en/pablo_picasso	Pablo Picasso	http://rdf.freebase.com/ns/m.060_7
+http://www.freebase.com/view/en/ricky_martin	Ricky Martin	http://rdf.freebase.com/ns/m.01w61th
+http://www.freebase.com/view/en/ella_fitzgerald	Ella Fitzgerald	http://rdf.freebase.com/ns/m.0d9xq
+http://www.freebase.com/view/en/anne_hathaway	Anne Hathaway	http://rdf.freebase.com/ns/m.02vntj
+http://www.freebase.com/view/en/don_draper	Don Draper	http://rdf.freebase.com/ns/m.02s9q_4
+http://www.freebase.com/view/en/van_halen	Van Halen	http://rdf.freebase.com/ns/m.0ycfj
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/republican_party	Republican Party	http://rdf.freebase.com/ns/m.07wbk
+http://www.freebase.com/view/en/toronto	Toronto	http://rdf.freebase.com/ns/m.0h7h6
+http://www.freebase.com/view/en/supreme_court_of_the_united_states	Supreme Court Of The United States	
+http://www.freebase.com/view/en/pennsylvania_state_university	Pennsylvania State University	http://rdf.freebase.com/ns/m.04hgpt
+http://www.freebase.com/view/en/bangkok	Bangkok	http://rdf.freebase.com/ns/m.0fn2g
+http://www.freebase.com/view/en/israeli-palestinian_conflict	Israeli-palestinian Conflict	
+http://www.freebase.com/view/en/alaska	Alaska	http://rdf.freebase.com/ns/m.0hjy
+http://www.freebase.com/view/en/kansas_city	Kansas City	http://rdf.freebase.com/ns/m.04f_d
+http://www.freebase.com/view/en/pink_floyd	Pink Floyd	http://rdf.freebase.com/ns/m.01wv9xn
+http://www.freebase.com/view/en/granville_woods	Granville Woods	http://rdf.freebase.com/ns/m.0236mx
+http://www.freebase.com/view/en/thomas_jefferson	Thomas Jefferson	http://rdf.freebase.com/ns/m.07cbs
+http://www.freebase.com/view/en/sioux	Sioux	http://rdf.freebase.com/ns/m.0fk3s
+http://www.freebase.com/view/en/el_salvador	El Salvador	http://rdf.freebase.com/ns/m.02k8k
+http://www.freebase.com/view/en/brett_gardner	Brett Gardner	http://rdf.freebase.com/ns/m.02px3wt
+http://www.freebase.com/view/en/dwight_schrute	Dwight Schrute	http://rdf.freebase.com/ns/m.089pwh
+http://www.freebase.com/view/en/riley_finn	Riley Finn	http://rdf.freebase.com/ns/m.01j9hw
+http://www.freebase.com/view/en/san_diego	San Diego	http://rdf.freebase.com/ns/m.071vr
+http://www.freebase.com/view/en/miami_dolphins	Miami Dolphins	http://rdf.freebase.com/ns/m.04vn5
+http://www.freebase.com/view/en/yoruba	Yoruba	http://rdf.freebase.com/ns/m.0t0018
+http://www.freebase.com/view/en/anne_frank	Anne Frank	http://rdf.freebase.com/ns/m.03d9rk
+http://www.freebase.com/view/en/monica_1980	Monica 1980	
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/germany	Germany	http://rdf.freebase.com/ns/m.0345h
+http://www.freebase.com/view/en/denver_broncos	Denver Broncos	http://rdf.freebase.com/ns/m.0289q
+http://www.freebase.com/view/en/julius_caesar	Julius Caesar	http://rdf.freebase.com/ns/m.041wm
+http://www.freebase.com/view/en/bessie_smith	Bessie Smith	http://rdf.freebase.com/ns/m.0dq47
+http://www.freebase.com/view/en/jackie_robinson	Jackie Robinson	http://rdf.freebase.com/ns/m.0443c
+http://www.freebase.com/view/en/chicago	Chicago	http://rdf.freebase.com/ns/m.01_d4
+http://www.freebase.com/view/en/dominican_republic	Dominican Republic	http://rdf.freebase.com/ns/m.027rn
+http://www.freebase.com/view/en/ronald_reagan	Ronald Reagan	http://rdf.freebase.com/ns/m.06c0j
+http://www.freebase.com/view/en/chicago_white_sox	Chicago White Sox	http://rdf.freebase.com/ns/m.01slc
+http://www.freebase.com/view/en/jeff_conaway	Jeff Conaway	http://rdf.freebase.com/ns/m.026mzh
+http://www.freebase.com/view/en/benjamin_franklin	Benjamin Franklin	http://rdf.freebase.com/ns/m.019fz
+http://www.freebase.com/view/en/barbados	Barbados	http://rdf.freebase.com/ns/m.0162v
+http://www.freebase.com/view/en/stanley_cup	Stanley Cup	http://rdf.freebase.com/ns/m.0hn79
+http://www.freebase.com/view/en/toronto	Toronto	http://rdf.freebase.com/ns/m.0h7h6
+http://www.freebase.com/view/en/syracuse_new_york	Syracuse New York	
+http://www.freebase.com/view/en/tennessee_williams	Tennessee Williams	http://rdf.freebase.com/ns/m.0c4y8
+http://www.freebase.com/view/en/new_york	New York	http://rdf.freebase.com/ns/m.059rby
+http://www.freebase.com/view/en/victoria_of_the_united_kingdom	Victoria Of The United Kingdom	
+http://www.freebase.com/view/en/benjamin_franklin	Benjamin Franklin	http://rdf.freebase.com/ns/m.019fz
+http://www.freebase.com/view/en/barbara_bush	Barbara Bush	http://rdf.freebase.com/ns/m.015nr6
+http://www.freebase.com/view/en/jacob_latimore	Jacob Latimore	http://rdf.freebase.com/ns/m.0521dwp
+http://www.freebase.com/view/en/dunkirk	Dunkirk	http://rdf.freebase.com/ns/m.01mb4t
+http://www.freebase.com/view/en/scottie_pippen	Scottie Pippen	http://rdf.freebase.com/ns/m.01vpgl
+http://www.freebase.com/view/en/donna_noble	Donna Noble	http://rdf.freebase.com/ns/m.02pcf8b
+http://www.freebase.com/view/en/serena_williams	Serena Williams	http://rdf.freebase.com/ns/m.015z4j
+http://www.freebase.com/view/en/meg_griffin	Meg Griffin	http://rdf.freebase.com/ns/m.035szd
+http://www.freebase.com/view/en/dallas_cowboys	Dallas Cowboys	http://rdf.freebase.com/ns/m.02896
+http://www.freebase.com/view/en/napoleon_i_of_france	Napoleon I Of France	
+http://www.freebase.com/view/en/ireland	Ireland	http://rdf.freebase.com/ns/m.03rt9
+http://www.freebase.com/view/en/lee_harvey_oswald	Lee Harvey Oswald	http://rdf.freebase.com/ns/m.04gwy
+http://www.freebase.com/view/en/new_york_knicks	New York Knicks	http://rdf.freebase.com/ns/m.0jm3v
+http://www.freebase.com/view/en/boston_celtics	Boston Celtics	http://rdf.freebase.com/ns/m.0bwjj
+http://www.freebase.com/view/en/oceania	Oceania	http://rdf.freebase.com/ns/m.05nrg
+http://www.freebase.com/view/en/nicki_minaj	Nicki Minaj	http://rdf.freebase.com/ns/m.047sxrj
+http://www.freebase.com/view/en/albus_dumbledore	Albus Dumbledore	
+http://www.freebase.com/view/en/pakistan	Pakistan	http://rdf.freebase.com/ns/m.05sb1
+http://www.freebase.com/view/en/christopher_plummer	Christopher Plummer	http://rdf.freebase.com/ns/m.01ycbq
+http://www.freebase.com/view/en/morocco	Morocco	http://rdf.freebase.com/ns/m.04wgh
+http://www.freebase.com/view/en/omar_epps	Omar Epps	http://rdf.freebase.com/ns/m.02_tv5
+http://www.freebase.com/view/en/nancy_pelosi	Nancy Pelosi	http://rdf.freebase.com/ns/m.012v1t
+http://www.freebase.com/view/en/walton_indiana	Walton Indiana	
+http://www.freebase.com/view/en/george_h_w_bush	George H W Bush	
+http://www.freebase.com/view/en/bruce_jenner	Bruce Jenner	http://rdf.freebase.com/ns/m.03bbdn
+http://www.freebase.com/view/en/tibetan_people	Tibetan People	
+http://www.freebase.com/view/en/hollywood	Hollywood	http://rdf.freebase.com/ns/m.0f2wj
+http://www.freebase.com/view/en/abraham_lincoln	Abraham Lincoln	http://rdf.freebase.com/ns/m.0gzh
+http://www.freebase.com/view/en/kim_kardashian	Kim Kardashian	http://rdf.freebase.com/ns/m.0261x8t
+http://www.freebase.com/view/en/justin_bieber	Justin Bieber	http://rdf.freebase.com/ns/m.06w2sn5
+http://www.freebase.com/view/en/michael_kors	Michael Kors	http://rdf.freebase.com/ns/m.07f8gw
+http://www.freebase.com/view/en/charlie-o	Charlie-o	
+http://www.freebase.com/view/en/french	French	http://rdf.freebase.com/ns/m.034rwln
+http://www.freebase.com/view/en/napoleon_i_of_france	Napoleon I Of France	
+http://www.freebase.com/view/en/r_kelly	R Kelly	
+http://www.freebase.com/view/en/benghazi	Benghazi	http://rdf.freebase.com/ns/m.01czt9
+http://www.freebase.com/view/en/nike_inc	Nike Inc	
+http://www.freebase.com/view/en/uganda	Uganda	http://rdf.freebase.com/ns/m.07tp2
+http://www.freebase.com/view/en/mexico	Mexico	http://rdf.freebase.com/ns/m.0b90_r
+http://www.freebase.com/view/en/steve_spurrier	Steve Spurrier	http://rdf.freebase.com/ns/m.03yx01
+http://www.freebase.com/view/en/south_america	South America	http://rdf.freebase.com/ns/m.06n3y
+http://www.freebase.com/view/en/chicago_blackhawks	Chicago Blackhawks	http://rdf.freebase.com/ns/m.0jnlm
+http://www.freebase.com/view/en/john_connor	John Connor	http://rdf.freebase.com/ns/m.06nsv4
+http://www.freebase.com/view/en/mexico	Mexico	http://rdf.freebase.com/ns/m.0b90_r
+http://www.freebase.com/view/en/italian_people	Italian People	
+http://www.freebase.com/view/en/angelina_jolie	Angelina Jolie	http://rdf.freebase.com/ns/m.0f4vbz
+http://www.freebase.com/view/en/james_t_kirk	James T Kirk	
+http://www.freebase.com/view/en/dana_scully	Dana Scully	http://rdf.freebase.com/ns/m.022jb6
+http://www.freebase.com/view/en/south_carolina	South Carolina	http://rdf.freebase.com/ns/m.06yxd
+http://www.freebase.com/view/en/f_scott_fitzgerald	F Scott Fitzgerald	http://rdf.freebase.com/ns/m.06knrhj
+http://www.freebase.com/view/en/jamaica	Jamaica	http://rdf.freebase.com/ns/m.03_r3
+http://www.freebase.com/view/en/new_york_knicks	New York Knicks	http://rdf.freebase.com/ns/m.0jm3v
+http://www.freebase.com/view/en/wesley_snipes	Wesley Snipes	http://rdf.freebase.com/ns/m.02lymt
+http://www.freebase.com/view/en/sherrod_brown	Sherrod Brown	http://rdf.freebase.com/ns/m.034s80
+http://www.freebase.com/view/en/colombia	Colombia	http://rdf.freebase.com/ns/m.01ls2
+http://www.freebase.com/view/en/england	England	http://rdf.freebase.com/ns/m.02jx1
+http://www.freebase.com/view/en/meg_griffin	Meg Griffin	http://rdf.freebase.com/ns/m.035szd
+http://www.freebase.com/view/en/mali	Mali	http://rdf.freebase.com/ns/m.04v09
+http://www.freebase.com/view/en/cristiano_ronaldo	Cristiano Ronaldo	http://rdf.freebase.com/ns/m.02xt6q
+http://www.freebase.com/view/en/morgantown	Morgantown	http://rdf.freebase.com/ns/m.010y34
+http://www.freebase.com/view/en/jacksonville	Jacksonville	http://rdf.freebase.com/ns/m.0ggh3
+http://www.freebase.com/view/en/amy_stiller	Amy Stiller	http://rdf.freebase.com/ns/m.0194r1
+http://www.freebase.com/view/en/henry_vii_of_england	Henry Vii Of England	
+http://www.freebase.com/view/en/mary_jane_watson	Mary Jane Watson	http://rdf.freebase.com/ns/m.01ppxz
+http://www.freebase.com/view/en/mila_kunis	Mila Kunis	http://rdf.freebase.com/ns/m.023v4_
+http://www.freebase.com/view/en/san_francisco	San Francisco	http://rdf.freebase.com/ns/m.0d6lp
+http://www.freebase.com/view/en/damien_thorn	Damien Thorn	http://rdf.freebase.com/ns/m.09s4pt
+http://www.freebase.com/view/en/olympic_games	Olympic Games	http://rdf.freebase.com/ns/m.05nd_
+http://www.freebase.com/view/en/denver	Denver	http://rdf.freebase.com/ns/m.02cl1
+http://www.freebase.com/view/en/essex	Essex	http://rdf.freebase.com/ns/m.02ly_
+http://www.freebase.com/view/en/cleveland_cavaliers	Cleveland Cavaliers	http://rdf.freebase.com/ns/m.0jm7n
+http://www.freebase.com/view/en/anne_frank	Anne Frank	http://rdf.freebase.com/ns/m.03d9rk
+http://www.freebase.com/view/en/gordon_brown	Gordon Brown	http://rdf.freebase.com/ns/m.03f77
+http://www.freebase.com/view/en/east_timor	East Timor	http://rdf.freebase.com/ns/m.0w522v
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/greek_language	Greek Language	http://rdf.freebase.com/ns/m.0349s
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/audrey_hepburn	Audrey Hepburn	http://rdf.freebase.com/ns/m.0dqcm
+http://www.freebase.com/view/en/austraila	Austraila	
+http://www.freebase.com/view/en/darth_vader	Darth Vader	http://rdf.freebase.com/ns/m.0f2y0
+http://www.freebase.com/view/en/national_rugby_league	National Rugby League	http://rdf.freebase.com/ns/m.01lwy5
+http://www.freebase.com/view/en/douglas_macarthur	Douglas Macarthur	http://rdf.freebase.com/ns/m.0b6xttk
+http://www.freebase.com/view/en/barbados	Barbados	http://rdf.freebase.com/ns/m.0162v
+http://www.freebase.com/view/en/china	China	http://rdf.freebase.com/ns/m.0d05w3
+http://www.freebase.com/view/en/michael_jackson	Michael Jackson	http://rdf.freebase.com/ns/m.09889g
+http://www.freebase.com/view/en/turkey	Turkey	http://rdf.freebase.com/ns/m.01znc_
+http://www.freebase.com/view/en/arizona	Arizona	http://rdf.freebase.com/ns/m.0vmt
+http://www.freebase.com/view/en/haiti	Haiti	http://rdf.freebase.com/ns/m.03gyl
+http://www.freebase.com/view/en/lamar_odom	Lamar Odom	http://rdf.freebase.com/ns/m.02_nkp
+http://www.freebase.com/view/en/giza	Giza	http://rdf.freebase.com/ns/m.012b0q
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/russia	Russia	http://rdf.freebase.com/ns/m.06bnz
+http://www.freebase.com/view/en/austraila	Austraila	
+http://www.freebase.com/view/en/tutankhamun	Tutankhamun	http://rdf.freebase.com/ns/m.07hcc
+http://www.freebase.com/view/en/ibrahim	Ibrahim	http://rdf.freebase.com/ns/m.03bxp74
+http://www.freebase.com/view/en/george_washington_carver	George Washington Carver	http://rdf.freebase.com/ns/m.03djm
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/poland	Poland	http://rdf.freebase.com/ns/m.05qhw
+http://www.freebase.com/view/en/demi_lovato	Demi Lovato	http://rdf.freebase.com/ns/m.02wb6yq
+http://www.freebase.com/view/en/tony_gonzalez_1976	Tony Gonzalez 1976	
+http://www.freebase.com/view/en/scarlett_johansson	Scarlett Johansson	http://rdf.freebase.com/ns/m.02114t
+http://www.freebase.com/view/en/meg_griffin	Meg Griffin	http://rdf.freebase.com/ns/m.035szd
+http://www.freebase.com/view/en/bad_teacher	Bad Teacher	http://rdf.freebase.com/ns/m.0cp0ph6
+http://www.freebase.com/view/en/boeing	Boeing	http://rdf.freebase.com/ns/m.0178g
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/viggo_mortensen	Viggo Mortensen	http://rdf.freebase.com/ns/m.01ps2h8
+http://www.freebase.com/view/en/henry_hudson	Henry Hudson	http://rdf.freebase.com/ns/m.0c065
+http://www.freebase.com/view/en/isaac_newton	Isaac Newton	http://rdf.freebase.com/ns/m.03s9v
+http://www.freebase.com/view/en/william_shakespeare	William Shakespeare	http://rdf.freebase.com/ns/m.081k8
+http://www.freebase.com/view/en/queen_latifah	Queen Latifah	http://rdf.freebase.com/ns/m.01wgcvn
+http://www.freebase.com/view/en/michelle_obama	Michelle Obama	http://rdf.freebase.com/ns/m.025s5v9
+http://www.freebase.com/view/en/listz	Listz	
+http://www.freebase.com/view/en/david_luiz_moreira_marinho	David Luiz Moreira Marinho	http://rdf.freebase.com/ns/m.0g_n1nr
+http://www.freebase.com/view/en/thomas_jefferson	Thomas Jefferson	http://rdf.freebase.com/ns/m.07cbs
+http://www.freebase.com/view/en/martin_luther_king_jr	Martin Luther King Jr	http://rdf.freebase.com/ns/m.06lwmyx
+http://www.freebase.com/view/en/victoria_canada	Victoria Canada	
+http://www.freebase.com/view/en/mary_mary	Mary Mary	http://rdf.freebase.com/ns/m.01kq11t
+http://www.freebase.com/view/en/france	France	http://rdf.freebase.com/ns/m.0f8l9c
+http://www.freebase.com/view/en/scottish	Scottish	http://rdf.freebase.com/ns/m.01c_dg3
+http://www.freebase.com/view/en/david_beckham	David Beckham	http://rdf.freebase.com/ns/m.02d9k
+http://www.freebase.com/view/en/nick_cannon	Nick Cannon	http://rdf.freebase.com/ns/m.01d1st
+http://www.freebase.com/view/en/national_public_radio	National Public Radio	http://rdf.freebase.com/ns/m.06n2fxt
+http://www.freebase.com/view/en/tom_landry	Tom Landry	http://rdf.freebase.com/ns/m.019_p3
+http://www.freebase.com/view/en/john_jay	John Jay	http://rdf.freebase.com/ns/m.046cp
+http://www.freebase.com/view/en/mount_fuji	Mount Fuji	http://rdf.freebase.com/ns/m.0cks0
+http://www.freebase.com/view/en/venus	Venus	http://rdf.freebase.com/ns/m.0zm0zl
+http://www.freebase.com/view/en/toussaint_louverture	Toussaint Louverture	http://rdf.freebase.com/ns/m.011wgw
+http://www.freebase.com/view/en/united_kingdom	United Kingdom	http://rdf.freebase.com/ns/m.07ssc
+http://www.freebase.com/view/en/lawton	Lawton	http://rdf.freebase.com/ns/m.0z53k
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/german_language	German Language	http://rdf.freebase.com/ns/m.04306rv
+http://www.freebase.com/view/en/mark_mcgwire	Mark Mcgwire	http://rdf.freebase.com/ns/m.06mwqy1
+http://www.freebase.com/view/en/colorado_technical_university	Colorado Technical University	http://rdf.freebase.com/ns/m.0c_5g9
+http://www.freebase.com/view/en/france	France	http://rdf.freebase.com/ns/m.0f8l9c
+http://www.freebase.com/view/en/kentucky	Kentucky	http://rdf.freebase.com/ns/m.0498y
+http://www.freebase.com/view/en/russia	Russia	http://rdf.freebase.com/ns/m.06bnz
+http://www.freebase.com/view/en/elvis_presley	Elvis Presley	http://rdf.freebase.com/ns/m.02jq1
+http://www.freebase.com/view/en/bewitched	Bewitched	http://rdf.freebase.com/ns/m.023ny6
+http://www.freebase.com/view/en/isaac_newton	Isaac Newton	http://rdf.freebase.com/ns/m.03s9v
+http://www.freebase.com/view/en/san_diego	San Diego	http://rdf.freebase.com/ns/m.071vr
+http://www.freebase.com/view/en/north_america	North America	http://rdf.freebase.com/ns/m.059g4
+http://www.freebase.com/view/en/scottish	Scottish	http://rdf.freebase.com/ns/m.01c_dg3
+http://www.freebase.com/view/en/new_zealand	New Zealand	http://rdf.freebase.com/ns/m.0ctw_b
+http://www.freebase.com/view/en/santa_claus	Santa Claus	http://rdf.freebase.com/ns/m.027g6wt
+http://www.freebase.com/view/en/kelly_slater	Kelly Slater	http://rdf.freebase.com/ns/m.028nb1
+http://www.freebase.com/view/en/coretta_scott_king	Coretta Scott King	http://rdf.freebase.com/ns/m.0289jv
+http://www.freebase.com/view/en/w_h_smith	W H Smith	http://rdf.freebase.com/ns/m.013_kt
+http://www.freebase.com/view/en/whitney_houston	Whitney Houston	http://rdf.freebase.com/ns/m.086qd
+http://www.freebase.com/view/en/richard_nixon	Richard Nixon	http://rdf.freebase.com/ns/m.06c97
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/illinois_river	Illinois River	http://rdf.freebase.com/ns/m.0j1qb
+http://www.freebase.com/view/en/honduras	Honduras	http://rdf.freebase.com/ns/m.03h2c
+http://www.freebase.com/view/en/paganism	Paganism	http://rdf.freebase.com/ns/m.05tgm
+http://www.freebase.com/view/en/milwaukee	Milwaukee	http://rdf.freebase.com/ns/m.0dyl9
+http://www.freebase.com/view/en/mazda	Mazda	http://rdf.freebase.com/ns/m.0h5x68j
+http://www.freebase.com/view/en/ronaldinho	Ronaldinho	http://rdf.freebase.com/ns/m.02lfw5
+http://www.freebase.com/view/en/galileo_galilei	Galileo Galilei	http://rdf.freebase.com/ns/m.034ks
+http://www.freebase.com/view/en/germany	Germany	http://rdf.freebase.com/ns/m.0345h
+http://www.freebase.com/view/en/mitt_romney	Mitt Romney	http://rdf.freebase.com/ns/m.0271_s
+http://www.freebase.com/view/en/johnny_depp	Johnny Depp	http://rdf.freebase.com/ns/m.0jfx1
+http://www.freebase.com/view/en/jonesboro	Jonesboro	http://rdf.freebase.com/ns/m.0qskp
+http://www.freebase.com/view/en/s_e_hinton	S E Hinton	
+http://www.freebase.com/view/en/taylor_swift	Taylor Swift	http://rdf.freebase.com/ns/m.0dl567
+http://www.freebase.com/view/en/juan_ponce_de_leon	Juan Ponce De Leon	http://rdf.freebase.com/ns/m.076lzrk
+http://www.freebase.com/view/en/charles_darwin	Charles Darwin	http://rdf.freebase.com/ns/m.01lwx
+http://www.freebase.com/view/en/kitt	Kitt	http://rdf.freebase.com/ns/m.03hl1_g
+http://www.freebase.com/view/en/eminem	Eminem	http://rdf.freebase.com/ns/m.01vsgrn
+http://www.freebase.com/view/en/amy_grant	Amy Grant	http://rdf.freebase.com/ns/m.010hn
+http://www.freebase.com/view/en/central_america	Central America	http://rdf.freebase.com/ns/m.01tzh
+http://www.freebase.com/view/en/jamie_lynn_spears	Jamie Lynn Spears	http://rdf.freebase.com/ns/m.0p52s
+http://www.freebase.com/view/en/inca_empire	Inca Empire	http://rdf.freebase.com/ns/m.03yp_
+http://www.freebase.com/view/en/austraila	Austraila	
+http://www.freebase.com/view/en/canada	Canada	http://rdf.freebase.com/ns/m.0d060g
+http://www.freebase.com/view/en/michael_jackson	Michael Jackson	http://rdf.freebase.com/ns/m.09889g
+http://www.freebase.com/view/en/clemson_university	Clemson University	http://rdf.freebase.com/ns/m.012vwb
+http://www.freebase.com/view/en/thomas_hunt_morgan	Thomas Hunt Morgan	http://rdf.freebase.com/ns/m.07rkk
+http://www.freebase.com/view/en/south_america	South America	http://rdf.freebase.com/ns/m.06n3y
+http://www.freebase.com/view/en/claude_monet	Claude Monet	http://rdf.freebase.com/ns/m.01xnj
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/iraq	Iraq	http://rdf.freebase.com/ns/m.0d05q4
+http://www.freebase.com/view/en/william_howard_taft	William Howard Taft	http://rdf.freebase.com/ns/m.083pr
+http://www.freebase.com/view/en/kurt_cobain	Kurt Cobain	http://rdf.freebase.com/ns/m.0484q
+http://www.freebase.com/view/en/jennifer_lawrence	Jennifer Lawrence	http://rdf.freebase.com/ns/m.02x0dzw
+http://www.freebase.com/view/en/virginia	Virginia	http://rdf.freebase.com/ns/m.07z1m
+http://www.freebase.com/view/en/darth_vader	Darth Vader	http://rdf.freebase.com/ns/m.0f2y0
+http://www.freebase.com/view/en/dorothea_lange	Dorothea Lange	http://rdf.freebase.com/ns/m.013y4q
+http://www.freebase.com/view/en/walton_county_georgia	Walton County Georgia	
+http://www.freebase.com/view/en/jacqueline_kennedy_onassis	Jacqueline Kennedy Onassis	http://rdf.freebase.com/ns/m.0h6mq
+http://www.freebase.com/view/en/lauren_conrad	Lauren Conrad	http://rdf.freebase.com/ns/m.06xy91h
+http://www.freebase.com/view/en/pennsylvania	Pennsylvania	http://rdf.freebase.com/ns/m.05tbn
+http://www.freebase.com/view/en/mario_lopez	Mario Lopez	http://rdf.freebase.com/ns/m.0j946mm
+http://www.freebase.com/view/en/tupac_shakur	Tupac Shakur	http://rdf.freebase.com/ns/m.07pzc
+http://www.freebase.com/view/en/george_lucas	George Lucas	http://rdf.freebase.com/ns/m.0343h
+http://www.freebase.com/view/en/sarah_dessen	Sarah Dessen	http://rdf.freebase.com/ns/m.052s_8
+http://www.freebase.com/view/en/kauai	Kauai	http://rdf.freebase.com/ns/m.0jbsn
+http://www.freebase.com/view/en/dmitri_mendeleev	Dmitri Mendeleev	http://rdf.freebase.com/ns/m.0gglj
+http://www.freebase.com/view/en/farrah_fawcett	Farrah Fawcett	http://rdf.freebase.com/ns/m.01j851
+http://www.freebase.com/view/en/great_britain	Great Britain	http://rdf.freebase.com/ns/m.034cm
+http://www.freebase.com/view/en/john_steinbeck	John Steinbeck	http://rdf.freebase.com/ns/m.04107
+http://www.freebase.com/view/en/cuba	Cuba	http://rdf.freebase.com/ns/m.0d04z6
+http://www.freebase.com/view/en/english	English	http://rdf.freebase.com/ns/m.0skp3
+http://www.freebase.com/view/en/george_washington	George Washington	http://rdf.freebase.com/ns/m.034rd
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/dan_white	Dan White	http://rdf.freebase.com/ns/m.0dm7jd
+http://www.freebase.com/view/en/the_bahamas	The Bahamas	http://rdf.freebase.com/ns/m.05dgq_3
+http://www.freebase.com/view/en/george_michael	George Michael	http://rdf.freebase.com/ns/m.01vvyfh
+http://www.freebase.com/view/en/jeremy_lin	Jeremy Lin	http://rdf.freebase.com/ns/m.09k72lh
+http://www.freebase.com/view/en/cristiano_ronaldo	Cristiano Ronaldo	http://rdf.freebase.com/ns/m.02xt6q
+http://www.freebase.com/view/en/the_bahamas	The Bahamas	http://rdf.freebase.com/ns/m.05dgq_3
+http://www.freebase.com/view/en/african_american	African American	http://rdf.freebase.com/ns/m.0x67
+http://www.freebase.com/view/en/brazil	Brazil	http://rdf.freebase.com/ns/m.015fr
+http://www.freebase.com/view/en/samuel_taylor_coleridge	Samuel Taylor Coleridge	http://rdf.freebase.com/ns/m.078w2
+http://www.freebase.com/view/en/kim_kardashian	Kim Kardashian	http://rdf.freebase.com/ns/m.0261x8t
+http://www.freebase.com/view/en/mississippi_river	Mississippi River	http://rdf.freebase.com/ns/m.04yf_
+http://www.freebase.com/view/en/carlton_lassiter	Carlton Lassiter	http://rdf.freebase.com/ns/m.0fdxxb
+http://www.freebase.com/view/en/deere_company	Deere Company	
+http://www.freebase.com/view/en/israel	Israel	http://rdf.freebase.com/ns/m.03spz
+http://www.freebase.com/view/en/ancient_pueblo_peoples	Ancient Pueblo Peoples	http://rdf.freebase.com/ns/m.0lyq
+http://www.freebase.com/view/en/harley_quinn	Harley Quinn	http://rdf.freebase.com/ns/m.0fr99qj
+http://www.freebase.com/view/en/francis_bacon	Francis Bacon	http://rdf.freebase.com/ns/m.030dr
+http://www.freebase.com/view/en/united_kingdom	United Kingdom	http://rdf.freebase.com/ns/m.07ssc
+http://www.freebase.com/view/en/libya	Libya	http://rdf.freebase.com/ns/m.04gqr
+http://www.freebase.com/view/en/ziva_david	Ziva David	http://rdf.freebase.com/ns/m.093xn8
+http://www.freebase.com/view/en/o_canada	O Canada	http://rdf.freebase.com/ns/m.05mtn
+http://www.freebase.com/view/en/malayalam_language	Malayalam Language	http://rdf.freebase.com/ns/m.0999q
+http://www.freebase.com/view/en/mark_zuckerberg	Mark Zuckerberg	http://rdf.freebase.com/ns/m.086dny
+http://www.freebase.com/view/en/michael_jackson	Michael Jackson	http://rdf.freebase.com/ns/m.09889g
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/stephen_covey	Stephen Covey	http://rdf.freebase.com/ns/m.01jtkg
+http://www.freebase.com/view/en/joseph_stalin	Joseph Stalin	http://rdf.freebase.com/ns/m.03_lf
+http://www.freebase.com/view/en/monta_ellis	Monta Ellis	http://rdf.freebase.com/ns/m.06rsnl
+http://www.freebase.com/view/en/nevada	Nevada	http://rdf.freebase.com/ns/m.059_c
+http://www.freebase.com/view/en/riannah	Riannah	
+http://www.freebase.com/view/en/shannen_doherty	Shannen Doherty	http://rdf.freebase.com/ns/m.039crh
+http://www.freebase.com/view/en/joakim_noah	Joakim Noah	http://rdf.freebase.com/ns/m.0c2yrf
+http://www.freebase.com/view/en/boston_red_sox	Boston Red Sox	http://rdf.freebase.com/ns/m.01d5z
+http://www.freebase.com/view/en/billy_elliot	Billy Elliot	http://rdf.freebase.com/ns/m.016mhd
+http://www.freebase.com/view/en/michael_vick	Michael Vick	http://rdf.freebase.com/ns/m.027f42
+http://www.freebase.com/view/en/kourtney_kardashian	Kourtney Kardashian	http://rdf.freebase.com/ns/m.043ttm7
+http://www.freebase.com/view/en/austraila	Austraila	
+http://www.freebase.com/view/en/howie_long	Howie Long	http://rdf.freebase.com/ns/m.04jg88
+http://www.freebase.com/view/en/greek_language	Greek Language	http://rdf.freebase.com/ns/m.0349s
+http://www.freebase.com/view/en/kentucky	Kentucky	http://rdf.freebase.com/ns/m.0498y
+http://www.freebase.com/view/en/christchurch	Christchurch	http://rdf.freebase.com/ns/m.02yc5b
+http://www.freebase.com/view/en/chris_paul	Chris Paul	http://rdf.freebase.com/ns/m.0cymln
+http://www.freebase.com/view/en/albert_pujols	Albert Pujols	http://rdf.freebase.com/ns/m.035gcb
+http://www.freebase.com/view/en/new_york_giants	New York Giants	http://rdf.freebase.com/ns/m.05gg4
+http://www.freebase.com/view/en/andrew_carnegie	Andrew Carnegie	http://rdf.freebase.com/ns/m.0vdk
+http://www.freebase.com/view/en/isaac_newton	Isaac Newton	http://rdf.freebase.com/ns/m.03s9v
+http://www.freebase.com/view/en/paris	Paris	http://rdf.freebase.com/ns/m.05qtj
+http://www.freebase.com/view/en/shaquille_oneal	Shaquille Oneal	
+http://www.freebase.com/view/en/mickey_mouse	Mickey Mouse	http://rdf.freebase.com/ns/m.057ph
+http://www.freebase.com/view/en/concord_california	Concord California	
+http://www.freebase.com/view/en/michael_vick	Michael Vick	http://rdf.freebase.com/ns/m.027f42
+http://www.freebase.com/view/en/columbia_river	Columbia River	http://rdf.freebase.com/ns/m.01n86
+http://www.freebase.com/view/en/harry_potter	Harry Potter	http://rdf.freebase.com/ns/m.06xltj
+http://www.freebase.com/view/en/scott_avett	Scott Avett	http://rdf.freebase.com/ns/m.05p6g6s
+http://www.freebase.com/view/en/walter_raleigh	Walter Raleigh	http://rdf.freebase.com/ns/m.084t6
+http://www.freebase.com/view/en/euro	Euro	http://rdf.freebase.com/ns/m.02l6h
+http://www.freebase.com/view/en/barbados	Barbados	http://rdf.freebase.com/ns/m.0162v
+http://www.freebase.com/view/en/angelina_jolie	Angelina Jolie	http://rdf.freebase.com/ns/m.0f4vbz
+http://www.freebase.com/view/en/nineveh	Nineveh	http://rdf.freebase.com/ns/m.05fym
+http://www.freebase.com/view/en/new_mexico	New Mexico	http://rdf.freebase.com/ns/m.05fjy
+http://www.freebase.com/view/en/national_ffa_organization	National Ffa Organization	
+http://www.freebase.com/view/en/germanic_peoples	Germanic Peoples	
+http://www.freebase.com/view/en/eowyn	Eowyn	http://rdf.freebase.com/ns/m.01scdwn
+http://www.freebase.com/view/en/cancun	Cancun	http://rdf.freebase.com/ns/m.05dlvmd
+http://www.freebase.com/view/en/augusta_national_golf_club	Augusta National Golf Club	http://rdf.freebase.com/ns/m.0304b9
+http://www.freebase.com/view/en/eva_peron	Eva Peron	http://rdf.freebase.com/ns/m.08hh0nv
+http://www.freebase.com/view/en/terrell_owens	Terrell Owens	http://rdf.freebase.com/ns/m.027ddp
+http://www.freebase.com/view/en/denmark_south_carolina	Denmark South Carolina	
+http://www.freebase.com/view/en/maya_civilization	Maya Civilization	
+http://www.freebase.com/view/en/ernest_hemingway	Ernest Hemingway	http://rdf.freebase.com/ns/m.02kz_
+http://www.freebase.com/view/en/baltimore_ravens	Baltimore Ravens	http://rdf.freebase.com/ns/m.01ct6
+http://www.freebase.com/view/en/passchendaele	Passchendaele	http://rdf.freebase.com/ns/m.0dj707
+http://www.freebase.com/view/en/ohio	Ohio	http://rdf.freebase.com/ns/m.05kkh
+http://www.freebase.com/view/en/cristiano_ronaldo	Cristiano Ronaldo	http://rdf.freebase.com/ns/m.02xt6q
+http://www.freebase.com/view/en/michigan	Michigan	http://rdf.freebase.com/ns/m.04rrx
+http://www.freebase.com/view/en/john_tyler	John Tyler	http://rdf.freebase.com/ns/m.042dk
+http://www.freebase.com/view/en/sergio_romo	Sergio Romo	http://rdf.freebase.com/ns/m.04cyz8g
+http://www.freebase.com/view/en/jamaica	Jamaica	http://rdf.freebase.com/ns/m.03_r3
+http://www.freebase.com/view/en/jay_moriarty	Jay Moriarty	http://rdf.freebase.com/ns/m.04jswm8
+http://www.freebase.com/view/en/boston_tea_party	Boston Tea Party	http://rdf.freebase.com/ns/m.0flmtw6
+http://www.freebase.com/view/en/lindsay_lohan	Lindsay Lohan	http://rdf.freebase.com/ns/m.01pgzn_
+http://www.freebase.com/view/en/carolina_panthers	Carolina Panthers	http://rdf.freebase.com/ns/m.01y3c
+http://www.freebase.com/view/en/myanmar	Myanmar	http://rdf.freebase.com/ns/m.04xn_
+http://www.freebase.com/view/en/michael_kors	Michael Kors	http://rdf.freebase.com/ns/m.07f8gw
+http://www.freebase.com/view/en/texas	Texas	http://rdf.freebase.com/ns/m.07b_l
+http://www.freebase.com/view/en/helen_flanagan	Helen Flanagan	http://rdf.freebase.com/ns/m.087k1_
+http://www.freebase.com/view/en/olympic_games	Olympic Games	http://rdf.freebase.com/ns/m.05nd_
+http://www.freebase.com/view/en/tennessee_river	Tennessee River	http://rdf.freebase.com/ns/m.01spb0
+http://www.freebase.com/view/en/venezuela	Venezuela	http://rdf.freebase.com/ns/m.07ylj
+http://www.freebase.com/view/en/corey_taylor	Corey Taylor	http://rdf.freebase.com/ns/m.01ttvxc
+http://www.freebase.com/view/en/franklin_d_roosevelt	Franklin D Roosevelt	http://rdf.freebase.com/ns/m.0760h6t
+http://www.freebase.com/view/en/kate_gosselin	Kate Gosselin	http://rdf.freebase.com/ns/m.05qbc_9
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/africa	Africa	http://rdf.freebase.com/ns/m.0dg3n1
+http://www.freebase.com/view/en/paris	Paris	http://rdf.freebase.com/ns/m.05qtj
+http://www.freebase.com/view/en/lassen_peak	Lassen Peak	http://rdf.freebase.com/ns/m.01ymq1
+http://www.freebase.com/view/en/the_little_couple	The Little Couple	http://rdf.freebase.com/ns/m.06zlp5d
+http://www.freebase.com/view/en/ohio	Ohio	http://rdf.freebase.com/ns/m.05kkh
+http://www.freebase.com/view/en/malta	Malta	http://rdf.freebase.com/ns/m.04v3q
+http://www.freebase.com/view/en/wolfgang_amadeus_mozart	Wolfgang Amadeus Mozart	http://rdf.freebase.com/ns/m.082db
+http://www.freebase.com/view/en/mick_taylor	Mick Taylor	http://rdf.freebase.com/ns/m.01lpbcd
+http://www.freebase.com/view/en/john_f_kennedy	John F Kennedy	http://rdf.freebase.com/ns/m.03t0qkg
+http://www.freebase.com/view/en/barcelona	Barcelona	http://rdf.freebase.com/ns/m.01f62
+http://www.freebase.com/view/en/english	English	http://rdf.freebase.com/ns/m.0skp3
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/matt_damon	Matt Damon	http://rdf.freebase.com/ns/m.0169dl
+http://www.freebase.com/view/en/scottie_pippen	Scottie Pippen	http://rdf.freebase.com/ns/m.01vpgl
+http://www.freebase.com/view/en/canada	Canada	http://rdf.freebase.com/ns/m.0d060g
+http://www.freebase.com/view/en/george_wilson_1981	George Wilson 1981	
+http://www.freebase.com/view/en/kobe	Kobe	http://rdf.freebase.com/ns/m.0g3bc
+http://www.freebase.com/view/en/fulham_fc	Fulham Fc	
+http://www.freebase.com/view/en/sacramento	Sacramento	http://rdf.freebase.com/ns/m.07bcn
+http://www.freebase.com/view/en/tigris	Tigris	http://rdf.freebase.com/ns/m.07pgr
+http://www.freebase.com/view/en/josh_hutcherson	Josh Hutcherson	http://rdf.freebase.com/ns/m.08wjf4
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/marilyn_monroe	Marilyn Monroe	http://rdf.freebase.com/ns/m.04wqr
+http://www.freebase.com/view/en/iran	Iran	http://rdf.freebase.com/ns/m.03shp
+http://www.freebase.com/view/en/harper_lee	Harper Lee	http://rdf.freebase.com/ns/m.01bq7x
+http://www.freebase.com/view/en/j_r_r_tolkien	J R R Tolkien	http://rdf.freebase.com/ns/m.0k11c1m
+http://www.freebase.com/view/en/wassily_kandinsky	Wassily Kandinsky	http://rdf.freebase.com/ns/m.0856z
+http://www.freebase.com/view/en/football_league_cup	Football League Cup	http://rdf.freebase.com/ns/m.012dbw
+http://www.freebase.com/view/en/antoni_gaudi	Antoni Gaudi	http://rdf.freebase.com/ns/m.0dfycm2
+http://www.freebase.com/view/en/danish_language	Danish Language	http://rdf.freebase.com/ns/m.0295r
+http://www.freebase.com/view/en/demeter	Demeter	http://rdf.freebase.com/ns/m.0296l
+http://www.freebase.com/view/en/paris	Paris	http://rdf.freebase.com/ns/m.05qtj
+http://www.freebase.com/view/en/joseph_stalin	Joseph Stalin	http://rdf.freebase.com/ns/m.03_lf
+http://www.freebase.com/view/en/benjamin_franklin	Benjamin Franklin	http://rdf.freebase.com/ns/m.019fz
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/ivan_rodriguez	Ivan Rodriguez	http://rdf.freebase.com/ns/m.06h9kp4
+http://www.freebase.com/view/en/milwaukee_brewers	Milwaukee Brewers	http://rdf.freebase.com/ns/m.051vz
+http://www.freebase.com/view/en/battle_of_gallipoli	Battle Of Gallipoli	
+http://www.freebase.com/view/en/tom_hardy	Tom Hardy	http://rdf.freebase.com/ns/m.05xf75
+http://www.freebase.com/view/en/atlanta	Atlanta	http://rdf.freebase.com/ns/m.013yq
+http://www.freebase.com/view/en/john_forbes_nash	John Forbes Nash	http://rdf.freebase.com/ns/m.0v8ydst
+http://www.freebase.com/view/en/malta	Malta	http://rdf.freebase.com/ns/m.04v3q
+http://www.freebase.com/view/en/thomas_edison	Thomas Edison	http://rdf.freebase.com/ns/m.07bty
+http://www.freebase.com/view/en/shakira	Shakira	http://rdf.freebase.com/ns/m.01wj18h
+http://www.freebase.com/view/en/rutherford_b_hayes	Rutherford B Hayes	http://rdf.freebase.com/ns/m.07659xt
+http://www.freebase.com/view/en/bilbo_baggins	Bilbo Baggins	http://rdf.freebase.com/ns/m.0g6z1
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/arizona	Arizona	http://rdf.freebase.com/ns/m.0vmt
+http://www.freebase.com/view/en/vietnam_war	Vietnam War	http://rdf.freebase.com/ns/m.07_nf
+http://www.freebase.com/view/en/tennessee_river	Tennessee River	http://rdf.freebase.com/ns/m.01spb0
+http://www.freebase.com/view/en/tom_hanks	Tom Hanks	http://rdf.freebase.com/ns/m.0bxtg
+http://www.freebase.com/view/en/ghana	Ghana	http://rdf.freebase.com/ns/m.035dk
+http://www.freebase.com/view/en/utah	Utah	http://rdf.freebase.com/ns/m.07srw
+http://www.freebase.com/view/en/benjamin_franklin	Benjamin Franklin	http://rdf.freebase.com/ns/m.019fz
+http://www.freebase.com/view/en/florida	Florida	http://rdf.freebase.com/ns/m.02xry
+http://www.freebase.com/view/en/jeremy_lin	Jeremy Lin	http://rdf.freebase.com/ns/m.09k72lh
+http://www.freebase.com/view/en/steve_nash	Steve Nash	http://rdf.freebase.com/ns/m.01yqrk
+http://www.freebase.com/view/en/pennsylvania	Pennsylvania	http://rdf.freebase.com/ns/m.05tbn
+http://www.freebase.com/view/en/france	France	http://rdf.freebase.com/ns/m.0f8l9c
+http://www.freebase.com/view/en/martin_luther_king_jr	Martin Luther King Jr	http://rdf.freebase.com/ns/m.06lwmyx
+http://www.freebase.com/view/en/st_louis_missouri	St Louis Missouri	
+http://www.freebase.com/view/en/south_australia	South Australia	http://rdf.freebase.com/ns/m.06mtq
+http://www.freebase.com/view/en/habiba_sarabi	Habiba Sarabi	
+http://www.freebase.com/view/en/wright_brothers	Wright Brothers	http://rdf.freebase.com/ns/m.04w7201
+http://www.freebase.com/view/en/peyton_manning	Peyton Manning	http://rdf.freebase.com/ns/m.027jv8
+http://www.freebase.com/view/en/john_henry_poynting	John Henry Poynting	http://rdf.freebase.com/ns/m.039znr
+http://www.freebase.com/view/en/jesse_owens	Jesse Owens	http://rdf.freebase.com/ns/m.0cmr3
+http://www.freebase.com/view/en/peru	Peru	http://rdf.freebase.com/ns/m.016wzw
+http://www.freebase.com/view/en/facebook	Facebook	http://rdf.freebase.com/ns/m.02y1vz
+http://www.freebase.com/view/en/united_kingdom	United Kingdom	http://rdf.freebase.com/ns/m.07ssc
+http://www.freebase.com/view/en/judy_garland	Judy Garland	http://rdf.freebase.com/ns/m.0g10g
+http://www.freebase.com/view/en/robert_f_kennedy	Robert F Kennedy	
+http://www.freebase.com/view/en/marilyn_monroe	Marilyn Monroe	http://rdf.freebase.com/ns/m.04wqr
+http://www.freebase.com/view/en/fukushima_i_nuclear_power_plant	Fukushima I Nuclear Power Plant	
+http://www.freebase.com/view/en/los_angeles	Los Angeles	http://rdf.freebase.com/ns/m.030qb3t
+http://www.freebase.com/view/en/nicolas_cage	Nicolas Cage	http://rdf.freebase.com/ns/m.01vvb4m
+http://www.freebase.com/view/en/berkshire_hathaway	Berkshire Hathaway	http://rdf.freebase.com/ns/m.01tmng
+http://www.freebase.com/view/en/mexico	Mexico	http://rdf.freebase.com/ns/m.0b90_r
+http://www.freebase.com/view/en/florida	Florida	http://rdf.freebase.com/ns/m.02xry
+http://www.freebase.com/view/en/jessica_simpson	Jessica Simpson	http://rdf.freebase.com/ns/m.0c7xjb
+http://www.freebase.com/view/en/scotland	Scotland	http://rdf.freebase.com/ns/m.06q1r
+http://www.freebase.com/view/en/john_dalton	John Dalton	http://rdf.freebase.com/ns/m.0c0x7
+http://www.freebase.com/view/en/zac_brown_band	Zac Brown Band	http://rdf.freebase.com/ns/m.0408z4w
+http://www.freebase.com/view/en/glastonbury	Glastonbury	http://rdf.freebase.com/ns/m.0rdgt
+http://www.freebase.com/view/en/american_federation_of_labor	American Federation Of Labor	http://rdf.freebase.com/ns/m.06c28x_
+http://www.freebase.com/view/en/denver	Denver	http://rdf.freebase.com/ns/m.02cl1
+http://www.freebase.com/view/en/thomas_hobbs	Thomas Hobbs	http://rdf.freebase.com/ns/m.0j1g0fb
+http://www.freebase.com/view/en/unitarianism	Unitarianism	http://rdf.freebase.com/ns/m.07x21
+http://www.freebase.com/view/en/john_hancock	John Hancock	http://rdf.freebase.com/ns/m.064qhx_
+http://www.freebase.com/view/en/john_f_kennedy	John F Kennedy	http://rdf.freebase.com/ns/m.03t0qkg
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/anne_hutchinson	Anne Hutchinson	http://rdf.freebase.com/ns/m.01v5g9
+http://www.freebase.com/view/en/montreal	Montreal	http://rdf.freebase.com/ns/m.052p7
+http://www.freebase.com/view/en/the_bronx	The Bronx	http://rdf.freebase.com/ns/m.01531
+http://www.freebase.com/view/en/kellan_lutz	Kellan Lutz	http://rdf.freebase.com/ns/m.02pjwn5
+http://www.freebase.com/view/en/listz	Listz	
+http://www.freebase.com/view/en/nikola_tesla	Nikola Tesla	http://rdf.freebase.com/ns/m.05d1y
+http://www.freebase.com/view/en/princeton_university	Princeton University	http://rdf.freebase.com/ns/m.05zl0
+http://www.freebase.com/view/en/argentina	Argentina	http://rdf.freebase.com/ns/m.0jgd
+http://www.freebase.com/view/en/iceland	Iceland	http://rdf.freebase.com/ns/m.03rj0
+http://www.freebase.com/view/en/israel	Israel	http://rdf.freebase.com/ns/m.03spz
+http://www.freebase.com/view/en/carolina_panthers	Carolina Panthers	http://rdf.freebase.com/ns/m.01y3c
+http://www.freebase.com/view/en/erik_erikson	Erik Erikson	http://rdf.freebase.com/ns/m.028fl6
+http://www.freebase.com/view/en/toronto	Toronto	http://rdf.freebase.com/ns/m.0h7h6
+http://www.freebase.com/view/en/toussaint_louverture	Toussaint Louverture	http://rdf.freebase.com/ns/m.011wgw
+http://www.freebase.com/view/en/robert_burns	Robert Burns	http://rdf.freebase.com/ns/m.09482
+http://www.freebase.com/view/en/utah	Utah	http://rdf.freebase.com/ns/m.07srw
+http://www.freebase.com/view/en/libya	Libya	http://rdf.freebase.com/ns/m.04gqr
+http://www.freebase.com/view/en/indonesia	Indonesia	http://rdf.freebase.com/ns/m.03ryn
+http://www.freebase.com/view/en/warren_g_harding	Warren G Harding	
+http://www.freebase.com/view/en/carolina_panthers	Carolina Panthers	http://rdf.freebase.com/ns/m.01y3c
+http://www.freebase.com/view/en/south_africa	South Africa	http://rdf.freebase.com/ns/m.0hzlz
+http://www.freebase.com/view/en/darth_vader	Darth Vader	http://rdf.freebase.com/ns/m.0f2y0
+http://www.freebase.com/view/en/herbert_hoover	Herbert Hoover	http://rdf.freebase.com/ns/m.03kdl
+http://www.freebase.com/view/en/joan_crawford	Joan Crawford	http://rdf.freebase.com/ns/m.0cgbf
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/neil_armstrong	Neil Armstrong	http://rdf.freebase.com/ns/m.05b6w
+http://www.freebase.com/view/en/james_k_polk	James K Polk	
+http://www.freebase.com/view/en/kentucky	Kentucky	http://rdf.freebase.com/ns/m.0498y
+http://www.freebase.com/view/en/canada	Canada	http://rdf.freebase.com/ns/m.0d060g
+http://www.freebase.com/view/en/nike_inc	Nike Inc	
+http://www.freebase.com/view/en/salt_lake_city	Salt Lake City	http://rdf.freebase.com/ns/m.0f2r6
+http://www.freebase.com/view/en/montana	Montana	http://rdf.freebase.com/ns/m.050l8
+http://www.freebase.com/view/en/boston_red_sox	Boston Red Sox	http://rdf.freebase.com/ns/m.01d5z
+http://www.freebase.com/view/en/ohio	Ohio	http://rdf.freebase.com/ns/m.05kkh
+http://www.freebase.com/view/en/united_kingdom	United Kingdom	http://rdf.freebase.com/ns/m.07ssc
+http://www.freebase.com/view/en/saint_nicholas	Saint Nicholas	http://rdf.freebase.com/ns/m.0f9q7
+http://www.freebase.com/view/en/supreme_court_of_the_united_states	Supreme Court Of The United States	
+http://www.freebase.com/view/en/christopher_columbus	Christopher Columbus	http://rdf.freebase.com/ns/m.01pwz
+http://www.freebase.com/view/en/rome	Rome	http://rdf.freebase.com/ns/m.06c62
+http://www.freebase.com/view/en/pope_john_paul_ii	Pope John Paul Ii	
+http://www.freebase.com/view/en/ulysses_s_grant	Ulysses S Grant	
+http://www.freebase.com/view/en/franklin_pierce	Franklin Pierce	http://rdf.freebase.com/ns/m.02z51
+http://www.freebase.com/view/en/boston_bruins	Boston Bruins	http://rdf.freebase.com/ns/m.0j2zj
+http://www.freebase.com/view/en/dr_meredith_grey	Dr Meredith Grey	
+http://www.freebase.com/view/en/michelangelo	Michelangelo	http://rdf.freebase.com/ns/m.058w5
+http://www.freebase.com/view/en/monsanto	Monsanto	http://rdf.freebase.com/ns/m.0n8m6
+http://www.freebase.com/view/en/woody_harrelson	Woody Harrelson	http://rdf.freebase.com/ns/m.0170s4
+http://www.freebase.com/view/en/sweden	Sweden	http://rdf.freebase.com/ns/m.0d0vqn
+http://www.freebase.com/view/en/ghana	Ghana	http://rdf.freebase.com/ns/m.035dk
+http://www.freebase.com/view/en/philippines	Philippines	http://rdf.freebase.com/ns/m.05v8c
+http://www.freebase.com/view/en/mitt_romney	Mitt Romney	http://rdf.freebase.com/ns/m.0271_s
+http://www.freebase.com/view/en/ibrahim_afellay	Ibrahim Afellay	http://rdf.freebase.com/ns/m.08w78j
+http://www.freebase.com/view/en/andrew_jackson	Andrew Jackson	http://rdf.freebase.com/ns/m.0rlz
+http://www.freebase.com/view/en/kim_possible	Kim Possible	http://rdf.freebase.com/ns/m.015t47
+http://www.freebase.com/view/en/new_zealand	New Zealand	http://rdf.freebase.com/ns/m.0ctw_b
+http://www.freebase.com/view/en/natalee_holloway	Natalee Holloway	http://rdf.freebase.com/ns/m.05zxgjp
+http://www.freebase.com/view/en/pakistan	Pakistan	http://rdf.freebase.com/ns/m.05sb1
+http://www.freebase.com/view/en/west_midlands	West Midlands	http://rdf.freebase.com/ns/m.0dyjz
+http://www.freebase.com/view/en/asheville	Asheville	http://rdf.freebase.com/ns/m.0ydpd
+http://www.freebase.com/view/en/american_league	American League	http://rdf.freebase.com/ns/m.0h8b0
+http://www.freebase.com/view/en/kurt_warner	Kurt Warner	http://rdf.freebase.com/ns/m.025j0c
+http://www.freebase.com/view/en/dirk_nowitzki	Dirk Nowitzki	http://rdf.freebase.com/ns/m.023dcl
+http://www.freebase.com/view/en/francis_drake	Francis Drake	http://rdf.freebase.com/ns/m.031t2
+http://www.freebase.com/view/en/maya_civilization	Maya Civilization	
+http://www.freebase.com/view/en/spanish	Spanish	http://rdf.freebase.com/ns/m.02pm9vw
+http://www.freebase.com/view/en/myles_kennedy	Myles Kennedy	http://rdf.freebase.com/ns/m.049gtsf
+http://www.freebase.com/view/en/pablo_picasso	Pablo Picasso	http://rdf.freebase.com/ns/m.060_7
+http://www.freebase.com/view/en/croatia	Croatia	http://rdf.freebase.com/ns/m.01pj7
+http://www.freebase.com/view/en/raul_ibanez	Raul Ibanez	
+http://www.freebase.com/view/en/roman_catholic_church	Roman Catholic Church	http://rdf.freebase.com/ns/m.02vxy_
+http://www.freebase.com/view/en/mark_harmon	Mark Harmon	http://rdf.freebase.com/ns/m.037gjc
+http://www.freebase.com/view/en/the_rev	The Rev	http://rdf.freebase.com/ns/m.025sf_8
+http://www.freebase.com/view/en/darth_vader	Darth Vader	http://rdf.freebase.com/ns/m.0f2y0
+http://www.freebase.com/view/en/michelle_pfeiffer	Michelle Pfeiffer	http://rdf.freebase.com/ns/m.0gx_p
+http://www.freebase.com/view/en/laura_ingalls_wilder	Laura Ingalls Wilder	http://rdf.freebase.com/ns/m.01bt87
+http://www.freebase.com/view/en/t_a_t_u	T A T U	
+http://www.freebase.com/view/en/nike_inc	Nike Inc	
+http://www.freebase.com/view/en/dwight_howard	Dwight Howard	http://rdf.freebase.com/ns/m.02fg_f
+http://www.freebase.com/view/en/nick_lachey	Nick Lachey	http://rdf.freebase.com/ns/m.039bpc
+http://www.freebase.com/view/en/madonna	Madonna	http://rdf.freebase.com/ns/m.01vs_v8
+http://www.freebase.com/view/en/brazil	Brazil	http://rdf.freebase.com/ns/m.015fr
+http://www.freebase.com/view/en/john_stockton	John Stockton	http://rdf.freebase.com/ns/m.01r6lw
+http://www.freebase.com/view/en/mexico	Mexico	http://rdf.freebase.com/ns/m.0b90_r
+http://www.freebase.com/view/en/chrysler	Chrysler	http://rdf.freebase.com/ns/m.02r5gpq
+http://www.freebase.com/view/en/mark_twain	Mark Twain	http://rdf.freebase.com/ns/m.014635
+http://www.freebase.com/view/en/gregor_mendel	Gregor Mendel	http://rdf.freebase.com/ns/m.039c5
+http://www.freebase.com/view/en/ray_allen	Ray Allen	http://rdf.freebase.com/ns/m.03lh3v
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/united_kingdom	United Kingdom	http://rdf.freebase.com/ns/m.07ssc
+http://www.freebase.com/view/en/toronto	Toronto	http://rdf.freebase.com/ns/m.0h7h6
+http://www.freebase.com/view/en/south_korea	South Korea	http://rdf.freebase.com/ns/m.06qd3
+http://www.freebase.com/view/en/channel_saints	Channel Saints	
+http://www.freebase.com/view/en/benjamin_franklin	Benjamin Franklin	http://rdf.freebase.com/ns/m.019fz
+http://www.freebase.com/view/en/sri_lanka	Sri Lanka	http://rdf.freebase.com/ns/m.06m_5
+http://www.freebase.com/view/en/assyria	Assyria	http://rdf.freebase.com/ns/m.0wmn
+http://www.freebase.com/view/en/poland	Poland	http://rdf.freebase.com/ns/m.05qhw
+http://www.freebase.com/view/en/delaware	Delaware	http://rdf.freebase.com/ns/m.026mj
+http://www.freebase.com/view/en/mitt_romney	Mitt Romney	http://rdf.freebase.com/ns/m.0271_s
+http://www.freebase.com/view/en/cyprus	Cyprus	http://rdf.freebase.com/ns/m.01ppq
+http://www.freebase.com/view/en/abraham_lincoln	Abraham Lincoln	http://rdf.freebase.com/ns/m.0gzh
+http://www.freebase.com/view/en/johnny_depp	Johnny Depp	http://rdf.freebase.com/ns/m.0jfx1
+http://www.freebase.com/view/en/singapore	Singapore	http://rdf.freebase.com/ns/m.06t2t
+http://www.freebase.com/view/en/carrie_underwood	Carrie Underwood	http://rdf.freebase.com/ns/m.058s57
+http://www.freebase.com/view/en/supreme_court_of_the_united_states	Supreme Court Of The United States	
+http://www.freebase.com/view/en/dustin_johnson	Dustin Johnson	http://rdf.freebase.com/ns/m.04n4sw4
+http://www.freebase.com/view/en/cher	Cher	http://rdf.freebase.com/ns/m.01vtj38
+http://www.freebase.com/view/en/university_of_oregon	University Of Oregon	
+http://www.freebase.com/view/en/carmen_cortez	Carmen Cortez	http://rdf.freebase.com/ns/m.02ql50
+http://www.freebase.com/view/en/germany	Germany	http://rdf.freebase.com/ns/m.0345h
+http://www.freebase.com/view/en/william_shakespeare	William Shakespeare	http://rdf.freebase.com/ns/m.081k8
+http://www.freebase.com/view/en/turkey	Turkey	http://rdf.freebase.com/ns/m.01znc_
+http://www.freebase.com/view/en/mark_zuckerberg	Mark Zuckerberg	http://rdf.freebase.com/ns/m.086dny
+http://www.freebase.com/view/en/kate_middleton	Kate Middleton	http://rdf.freebase.com/ns/m.0tlllcq
+http://www.freebase.com/view/en/marc_chagall	Marc Chagall	http://rdf.freebase.com/ns/m.0g_j0
+http://www.freebase.com/view/en/billy_dee_williams	Billy Dee Williams	http://rdf.freebase.com/ns/m.027_sn
+http://www.freebase.com/view/en/argentina	Argentina	http://rdf.freebase.com/ns/m.0jgd
+http://www.freebase.com/view/en/american_league_east	American League East	http://rdf.freebase.com/ns/m.06dcwd
+http://www.freebase.com/view/en/isaac_newton	Isaac Newton	http://rdf.freebase.com/ns/m.03s9v
+http://www.freebase.com/view/en/wilfred_owen	Wilfred Owen	http://rdf.freebase.com/ns/m.0ckwt
+http://www.freebase.com/view/en/kevin_jonas	Kevin Jonas	http://rdf.freebase.com/ns/m.04d_mtq
+http://www.freebase.com/view/en/airtran_airways	Airtran Airways	
+http://www.freebase.com/view/en/paris	Paris	http://rdf.freebase.com/ns/m.05qtj
+http://www.freebase.com/view/en/montreal	Montreal	http://rdf.freebase.com/ns/m.052p7
+http://www.freebase.com/view/en/d_carter	D Carter	
+http://www.freebase.com/view/en/sandra_bullock	Sandra Bullock	http://rdf.freebase.com/ns/m.0794g
+http://www.freebase.com/view/en/olympic_national_park	Olympic National Park	http://rdf.freebase.com/ns/m.015nrn
+http://www.freebase.com/view/en/united_staff	United Staff	
+http://www.freebase.com/view/en/yale_university	Yale University	http://rdf.freebase.com/ns/m.08815
+http://www.freebase.com/view/en/thomas_paine	Thomas Paine	http://rdf.freebase.com/ns/m.07kwl
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/cuba	Cuba	http://rdf.freebase.com/ns/m.0d04z6
+http://www.freebase.com/view/en/england	England	http://rdf.freebase.com/ns/m.02jx1
+http://www.freebase.com/view/en/kate_chopin	Kate Chopin	http://rdf.freebase.com/ns/m.0d8pw
+http://www.freebase.com/view/en/bill_clinton	Bill Clinton	http://rdf.freebase.com/ns/m.0157m
+http://www.freebase.com/view/en/eminem	Eminem	http://rdf.freebase.com/ns/m.01vsgrn
+http://www.freebase.com/view/en/american_staffordshire_terrier	American Staffordshire Terrier	http://rdf.freebase.com/ns/m.04m4bq
+http://www.freebase.com/view/en/dubai	Dubai	http://rdf.freebase.com/ns/m.01f08r
+http://www.freebase.com/view/en/andrew_jackson	Andrew Jackson	http://rdf.freebase.com/ns/m.0rlz
+http://www.freebase.com/view/en/sacramento	Sacramento	http://rdf.freebase.com/ns/m.07bcn
+http://www.freebase.com/view/en/london	London	http://rdf.freebase.com/ns/m.04jpl
+http://www.freebase.com/view/en/michael_j_fox	Michael J Fox	
+http://www.freebase.com/view/en/sanjay_gupta	Sanjay Gupta	http://rdf.freebase.com/ns/m.02yyk6
+http://www.freebase.com/view/en/brandon_roy	Brandon Roy	http://rdf.freebase.com/ns/m.0cf_p_
+http://www.freebase.com/view/en/north_american_free_trade_agreement	North American Free Trade Agreement	http://rdf.freebase.com/ns/m.05jj_
+http://www.freebase.com/view/en/cayman_islands	Cayman Islands	http://rdf.freebase.com/ns/m.01nty
+http://www.freebase.com/view/en/brazil	Brazil	http://rdf.freebase.com/ns/m.015fr
+http://www.freebase.com/view/en/anne_frank	Anne Frank	http://rdf.freebase.com/ns/m.03d9rk
+http://www.freebase.com/view/en/kroy_biermann	Kroy Biermann	http://rdf.freebase.com/ns/m.043m195
+http://www.freebase.com/view/en/pittsburgh_steelers	Pittsburgh Steelers	http://rdf.freebase.com/ns/m.05tfm
+http://www.freebase.com/view/en/islam	Islam	http://rdf.freebase.com/ns/m.0flw86
+http://www.freebase.com/view/en/gulf_war	Gulf War	http://rdf.freebase.com/ns/m.018w0j
+http://www.freebase.com/view/en/switzerland	Switzerland	http://rdf.freebase.com/ns/m.06mzp
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/logan_lerman	Logan Lerman	http://rdf.freebase.com/ns/m.04f1s6
+http://www.freebase.com/view/en/constantine_i	Constantine I	http://rdf.freebase.com/ns/m.0hzjspc
+http://www.freebase.com/view/en/pony_boy	Pony Boy	http://rdf.freebase.com/ns/m.0pgc2h
+http://www.freebase.com/view/en/mali	Mali	http://rdf.freebase.com/ns/m.04v09
+http://www.freebase.com/view/en/ibiza	Ibiza	http://rdf.freebase.com/ns/m.0h2c3
+http://www.freebase.com/view/en/luke_skywalker	Luke Skywalker	http://rdf.freebase.com/ns/m.0f1bg
+http://www.freebase.com/view/en/oakland_raiders	Oakland Raiders	http://rdf.freebase.com/ns/m.05l71
+http://www.freebase.com/view/en/microsoft	Microsoft	http://rdf.freebase.com/ns/m.04sv4
+http://www.freebase.com/view/en/john_steinbeck	John Steinbeck	http://rdf.freebase.com/ns/m.04107
+http://www.freebase.com/view/en/niels_bohr	Niels Bohr	http://rdf.freebase.com/ns/m.0fprnnq
+http://www.freebase.com/view/en/louis_sachar	Louis Sachar	http://rdf.freebase.com/ns/m.01bq8d
+http://www.freebase.com/view/en/ryan_reynolds	Ryan Reynolds	http://rdf.freebase.com/ns/m.036hf4
+http://www.freebase.com/view/en/newt_gingrich	Newt Gingrich	http://rdf.freebase.com/ns/m.018fzs
+http://www.freebase.com/view/en/antonio_vivaldi	Antonio Vivaldi	http://rdf.freebase.com/ns/m.0pth
+http://www.freebase.com/view/en/james_franco	James Franco	http://rdf.freebase.com/ns/m.05bnp0
+http://www.freebase.com/view/en/mark_twain	Mark Twain	http://rdf.freebase.com/ns/m.014635
+http://www.freebase.com/view/en/william_henry_harrison	William Henry Harrison	http://rdf.freebase.com/ns/m.0835q
+http://www.freebase.com/view/en/jake_gyllenhaal	Jake Gyllenhaal	http://rdf.freebase.com/ns/m.02js6_
+http://www.freebase.com/view/en/rick_santorum	Rick Santorum	http://rdf.freebase.com/ns/m.01fgd3
+http://www.freebase.com/view/en/george_w_bush	George W Bush	http://rdf.freebase.com/ns/m.0f6ht1r
+http://www.freebase.com/view/en/antoine_lavoisier	Antoine Lavoisier	http://rdf.freebase.com/ns/m.0tfw
+http://www.freebase.com/view/en/lana_lang	Lana Lang	http://rdf.freebase.com/ns/m.04n1vsb
+http://www.freebase.com/view/en/george_vi_of_the_united_kingdom	George Vi Of The United Kingdom	
+http://www.freebase.com/view/en/seattle_seahawks	Seattle Seahawks	http://rdf.freebase.com/ns/m.070xg
+http://www.freebase.com/view/en/richard_nixon	Richard Nixon	http://rdf.freebase.com/ns/m.06c97
+http://www.freebase.com/view/en/sami_yusuf	Sami Yusuf	http://rdf.freebase.com/ns/m.08cnsg
+http://www.freebase.com/view/en/brazil	Brazil	http://rdf.freebase.com/ns/m.015fr
+http://www.freebase.com/view/en/nepal	Nepal	http://rdf.freebase.com/ns/m.016zwt
+http://www.freebase.com/view/en/new_york_mets	New York Mets	http://rdf.freebase.com/ns/m.05g76
+http://www.freebase.com/view/en/florida_panthers	Florida Panthers	http://rdf.freebase.com/ns/m.0j8js
+http://www.freebase.com/view/en/john_cena	John Cena	http://rdf.freebase.com/ns/m.01ypx5
+http://www.freebase.com/view/en/san_jose	San Jose	http://rdf.freebase.com/ns/m.0f04v
+http://www.freebase.com/view/en/new_york_university	New York University	http://rdf.freebase.com/ns/m.0bwfn
+http://www.freebase.com/view/en/arthur	Arthur	http://rdf.freebase.com/ns/m.0px0r
+http://www.freebase.com/view/en/european_union	European Union	http://rdf.freebase.com/ns/m.02jxk
+http://www.freebase.com/view/en/north_africa	North Africa	http://rdf.freebase.com/ns/m.05g2v
+http://www.freebase.com/view/en/bobby_darin	Bobby Darin	http://rdf.freebase.com/ns/m.0pj9t
+http://www.freebase.com/view/en/houston_dynamo	Houston Dynamo	http://rdf.freebase.com/ns/m.09cl0w
+http://www.freebase.com/view/en/john_mayer	John Mayer	http://rdf.freebase.com/ns/m.01s21dg
+http://www.freebase.com/view/en/patrick_swayze	Patrick Swayze	http://rdf.freebase.com/ns/m.02h3tp
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/jamaica	Jamaica	http://rdf.freebase.com/ns/m.03_r3
+http://www.freebase.com/view/en/arizona_cardinals	Arizona Cardinals	http://rdf.freebase.com/ns/m.0ws7
+http://www.freebase.com/view/en/isaac_newton	Isaac Newton	http://rdf.freebase.com/ns/m.03s9v
+http://www.freebase.com/view/en/san_francisco	San Francisco	http://rdf.freebase.com/ns/m.0d6lp
+http://www.freebase.com/view/en/pablo_picasso	Pablo Picasso	http://rdf.freebase.com/ns/m.060_7
+http://www.freebase.com/view/en/pennsylvania	Pennsylvania	http://rdf.freebase.com/ns/m.05tbn
+http://www.freebase.com/view/en/google	Google	http://rdf.freebase.com/ns/m.045c7b
+http://www.freebase.com/view/en/world_series_of_poker	World Series Of Poker	
+http://www.freebase.com/view/en/cliff_lee	Cliff Lee	http://rdf.freebase.com/ns/m.05bz_j
+http://www.freebase.com/view/en/elaine_benes	Elaine Benes	http://rdf.freebase.com/ns/m.01djc5
+http://www.freebase.com/view/en/martin_luther_king_jr	Martin Luther King Jr	http://rdf.freebase.com/ns/m.06lwmyx
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/toronto_maple_leafs	Toronto Maple Leafs	http://rdf.freebase.com/ns/m.0j6tr
+http://www.freebase.com/view/en/hong_kong	Hong Kong	http://rdf.freebase.com/ns/m.03h64
+http://www.freebase.com/view/en/taylor_lautner	Taylor Lautner	http://rdf.freebase.com/ns/m.07ldhs
+http://www.freebase.com/view/en/bernie_mac	Bernie Mac	http://rdf.freebase.com/ns/m.02lj6p
+http://www.freebase.com/view/en/spike_spiegel	Spike Spiegel	http://rdf.freebase.com/ns/m.025tj1w
+http://www.freebase.com/view/en/isabella_of_castile	Isabella Of Castile	
+http://www.freebase.com/view/en/chris_hemsworth	Chris Hemsworth	http://rdf.freebase.com/ns/m.04jnqj
+http://www.freebase.com/view/en/france	France	http://rdf.freebase.com/ns/m.0f8l9c
+http://www.freebase.com/view/en/winnipeg	Winnipeg	http://rdf.freebase.com/ns/m.0pmq2
+http://www.freebase.com/view/en/israel	Israel	http://rdf.freebase.com/ns/m.03spz
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/justin_bieber	Justin Bieber	http://rdf.freebase.com/ns/m.06w2sn5
+http://www.freebase.com/view/en/river_thames	River Thames	http://rdf.freebase.com/ns/m.0d2kt
+http://www.freebase.com/view/en/buster_posey	Buster Posey	http://rdf.freebase.com/ns/m.0479p_z
+http://www.freebase.com/view/en/robert_pattinson	Robert Pattinson	http://rdf.freebase.com/ns/m.062dn7
+http://www.freebase.com/view/en/pakistan	Pakistan	http://rdf.freebase.com/ns/m.05sb1
+http://www.freebase.com/view/en/nike_inc	Nike Inc	
+http://www.freebase.com/view/en/lyndon_b_johnson	Lyndon B Johnson	
+http://www.freebase.com/view/en/kim_jong-il	Kim Jong-il	http://rdf.freebase.com/ns/m.0143y5
+http://www.freebase.com/view/en/agatha_christie	Agatha Christie	http://rdf.freebase.com/ns/m.0ldd
+http://www.freebase.com/view/en/bill_clinton	Bill Clinton	http://rdf.freebase.com/ns/m.0157m
+http://www.freebase.com/view/en/kohler_company	Kohler Company	http://rdf.freebase.com/ns/m.02y2g0
+http://www.freebase.com/view/en/taoism	Taoism	http://rdf.freebase.com/ns/m.07gvx
+http://www.freebase.com/view/en/english	English	http://rdf.freebase.com/ns/m.0skp3
+http://www.freebase.com/view/en/thomas_hobbs	Thomas Hobbs	http://rdf.freebase.com/ns/m.0j1g0fb
+http://www.freebase.com/view/en/florida	Florida	http://rdf.freebase.com/ns/m.02xry
+http://www.freebase.com/view/en/fedex_cup	Fedex Cup	
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/alf	Alf	http://rdf.freebase.com/ns/m.030t1n0
+http://www.freebase.com/view/en/gerald_ford	Gerald Ford	http://rdf.freebase.com/ns/m.0c_md_
+http://www.freebase.com/view/en/armenia	Armenia	http://rdf.freebase.com/ns/m.0jgx
+http://www.freebase.com/view/en/raphael	Raphael	http://rdf.freebase.com/ns/m.0c43g
+http://www.freebase.com/view/en/malta	Malta	http://rdf.freebase.com/ns/m.04v3q
+http://www.freebase.com/view/en/louis_xiv_of_france	Louis Xiv Of France	
+http://www.freebase.com/view/en/mike_wright	Mike Wright	http://rdf.freebase.com/ns/m.07twz9
+http://www.freebase.com/view/en/shannon_hoon	Shannon Hoon	http://rdf.freebase.com/ns/m.01w2x6z
+http://www.freebase.com/view/en/nicolaus_copernicus	Nicolaus Copernicus	http://rdf.freebase.com/ns/m.01vvm4
+http://www.freebase.com/view/en/manny_ramirez	Manny Ramirez	http://rdf.freebase.com/ns/m.0h080p6
+http://www.freebase.com/view/en/appalachia	Appalachia	http://rdf.freebase.com/ns/m.010ph9
+http://www.freebase.com/view/en/woodrow_wilson	Woodrow Wilson	http://rdf.freebase.com/ns/m.083q7
+http://www.freebase.com/view/en/jerry_brown	Jerry Brown	http://rdf.freebase.com/ns/m.017pf5
+http://www.freebase.com/view/en/hawaii	Hawaii	http://rdf.freebase.com/ns/m.03gh4
+http://www.freebase.com/view/en/argentina	Argentina	http://rdf.freebase.com/ns/m.0jgd
+http://www.freebase.com/view/en/tunisia	Tunisia	http://rdf.freebase.com/ns/m.07fj_
+http://www.freebase.com/view/en/leonardo_da_vinci	Leonardo Da Vinci	http://rdf.freebase.com/ns/m.06q_46v
+http://www.freebase.com/view/en/st_trinians_school	St Trinians School	
+http://www.freebase.com/view/en/malaysia	Malaysia	http://rdf.freebase.com/ns/m.09pmkv
+http://www.freebase.com/view/en/mexico	Mexico	http://rdf.freebase.com/ns/m.0b90_r
+http://www.freebase.com/view/en/dominican_republic	Dominican Republic	http://rdf.freebase.com/ns/m.027rn
+http://www.freebase.com/view/en/michael_jackson	Michael Jackson	http://rdf.freebase.com/ns/m.09889g
+http://www.freebase.com/view/en/texas	Texas	http://rdf.freebase.com/ns/m.07b_l
+http://www.freebase.com/view/en/london	London	http://rdf.freebase.com/ns/m.04jpl
+http://www.freebase.com/view/en/mona_lisa	Mona Lisa	http://rdf.freebase.com/ns/m.03cmfyw
+http://www.freebase.com/view/en/peter_griffin	Peter Griffin	http://rdf.freebase.com/ns/m.03n6jv
+http://www.freebase.com/view/en/tony_romo	Tony Romo	http://rdf.freebase.com/ns/m.097yk7
+http://www.freebase.com/view/en/anne_frank	Anne Frank	http://rdf.freebase.com/ns/m.03d9rk
+http://www.freebase.com/view/en/catholicism	Catholicism	http://rdf.freebase.com/ns/m.0c8wxp
+http://www.freebase.com/view/en/belgium	Belgium	http://rdf.freebase.com/ns/m.0154j
+http://www.freebase.com/view/en/l_frank_baum	L Frank Baum	
+http://www.freebase.com/view/en/tunis	Tunis	http://rdf.freebase.com/ns/m.0ftn8
+http://www.freebase.com/view/en/nicolas_cage	Nicolas Cage	http://rdf.freebase.com/ns/m.01vvb4m
+http://www.freebase.com/view/en/supreme_court_of_the_united_states	Supreme Court Of The United States	
+http://www.freebase.com/view/en/charles_lee_ray	Charles Lee Ray	
+http://www.freebase.com/view/en/mary_wollstonecraft	Mary Wollstonecraft	http://rdf.freebase.com/ns/m.04_cw
+http://www.freebase.com/view/en/new_france	New France	http://rdf.freebase.com/ns/m.0152tq
+http://www.freebase.com/view/en/philadelphia_phillies	Philadelphia Phillies	http://rdf.freebase.com/ns/m.05xvj
+http://www.freebase.com/view/en/dyson	Dyson	http://rdf.freebase.com/ns/m.05cskg
+http://www.freebase.com/view/en/iceland	Iceland	http://rdf.freebase.com/ns/m.03rj0
+http://www.freebase.com/view/en/dr_seuss	Dr Seuss	
+http://www.freebase.com/view/en/gloria_steinem	Gloria Steinem	http://rdf.freebase.com/ns/m.01rnwj
+http://www.freebase.com/view/en/beaumont	Beaumont	http://rdf.freebase.com/ns/m.0104lr
+http://www.freebase.com/view/en/scotland	Scotland	http://rdf.freebase.com/ns/m.06q1r
+http://www.freebase.com/view/en/mark_zuckerberg	Mark Zuckerberg	http://rdf.freebase.com/ns/m.086dny
+http://www.freebase.com/view/en/bigos	Bigos	http://rdf.freebase.com/ns/m.06815z
+http://www.freebase.com/view/en/tina_turner	Tina Turner	http://rdf.freebase.com/ns/m.01vwyqp
+http://www.freebase.com/view/en/leonardo_da_vinci	Leonardo Da Vinci	http://rdf.freebase.com/ns/m.06q_46v
+http://www.freebase.com/view/en/shaquille_oneal	Shaquille Oneal	
+http://www.freebase.com/view/en/turkish_language	Turkish Language	http://rdf.freebase.com/ns/m.02hwyss
+http://www.freebase.com/view/en/walnut_creek	Walnut Creek	http://rdf.freebase.com/ns/m.0qyzb
+http://www.freebase.com/view/en/cleveland_cavaliers	Cleveland Cavaliers	http://rdf.freebase.com/ns/m.0jm7n
+http://www.freebase.com/view/en/darth_vader	Darth Vader	http://rdf.freebase.com/ns/m.0f2y0
+http://www.freebase.com/view/en/english	English	http://rdf.freebase.com/ns/m.0skp3
+http://www.freebase.com/view/en/louis_armstrong	Louis Armstrong	http://rdf.freebase.com/ns/m.04n32
+http://www.freebase.com/view/en/germany	Germany	http://rdf.freebase.com/ns/m.0345h
+http://www.freebase.com/view/en/latin	Latin	http://rdf.freebase.com/ns/m.0fvc4gz
+http://www.freebase.com/view/en/rome	Rome	http://rdf.freebase.com/ns/m.06c62
+http://www.freebase.com/view/en/solomon	Solomon	http://rdf.freebase.com/ns/m.05y3rjr
+http://www.freebase.com/view/en/andy_irons	Andy Irons	http://rdf.freebase.com/ns/m.03xn54
+http://www.freebase.com/view/en/auburn_university	Auburn University	http://rdf.freebase.com/ns/m.01wdj_
+http://www.freebase.com/view/en/tatyana_ali	Tatyana Ali	http://rdf.freebase.com/ns/m.01knh9l
+http://www.freebase.com/view/en/leif_ericson	Leif Ericson	http://rdf.freebase.com/ns/m.012r36
+http://www.freebase.com/view/en/maasai	Maasai	http://rdf.freebase.com/ns/m.06rvvxy
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/north_korea	North Korea	http://rdf.freebase.com/ns/m.05b7q
+http://www.freebase.com/view/en/appalachia	Appalachia	http://rdf.freebase.com/ns/m.010ph9
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/terry_waite	Terry Waite	http://rdf.freebase.com/ns/m.013p_j
+http://www.freebase.com/view/en/battle_of_san_juan_hill	Battle Of San Juan Hill	
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/baltimore_orioles	Baltimore Orioles	http://rdf.freebase.com/ns/m.01d6g
+http://www.freebase.com/view/en/william_shakespeare	William Shakespeare	http://rdf.freebase.com/ns/m.081k8
+http://www.freebase.com/view/en/ben_stiller	Ben Stiller	http://rdf.freebase.com/ns/m.0mdqp
+http://www.freebase.com/view/en/norway	Norway	http://rdf.freebase.com/ns/m.05b4w
+http://www.freebase.com/view/en/william_shakespeare	William Shakespeare	http://rdf.freebase.com/ns/m.081k8
+http://www.freebase.com/view/en/benjamin_franklin	Benjamin Franklin	http://rdf.freebase.com/ns/m.019fz
+http://www.freebase.com/view/en/arizona	Arizona	http://rdf.freebase.com/ns/m.0vmt
+http://www.freebase.com/view/en/spike_lee	Spike Lee	http://rdf.freebase.com/ns/m.06pjs
+http://www.freebase.com/view/en/bernie_mac	Bernie Mac	http://rdf.freebase.com/ns/m.02lj6p
+http://www.freebase.com/view/en/arctic	Arctic	http://rdf.freebase.com/ns/m.09738
+http://www.freebase.com/view/en/electrolux	Electrolux	http://rdf.freebase.com/ns/m.02h0_y
+http://www.freebase.com/view/en/houston	Houston	http://rdf.freebase.com/ns/m.03l2n
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/russians	Russians	http://rdf.freebase.com/ns/m.0lkc99
+http://www.freebase.com/view/en/william_shakespeare	William Shakespeare	http://rdf.freebase.com/ns/m.081k8
+http://www.freebase.com/view/en/harry_s_truman	Harry S Truman	http://rdf.freebase.com/ns/m.0763j2y
+http://www.freebase.com/view/en/ferdinand_magellan	Ferdinand Magellan	http://rdf.freebase.com/ns/m.033ky
+http://www.freebase.com/view/en/abraham_lincoln	Abraham Lincoln	http://rdf.freebase.com/ns/m.0gzh
+http://www.freebase.com/view/en/burmese_language	Burmese Language	http://rdf.freebase.com/ns/m.01xrrm
+http://www.freebase.com/view/en/james_t_kirk	James T Kirk	
+http://www.freebase.com/view/en/mount_st_helens	Mount St Helens	
+http://www.freebase.com/view/en/saint_paul	Saint Paul	http://rdf.freebase.com/ns/m.0b2lw
+http://www.freebase.com/view/en/henry_viii_of_england	Henry Viii Of England	
+http://www.freebase.com/view/en/david_beckham	David Beckham	http://rdf.freebase.com/ns/m.02d9k
+http://www.freebase.com/view/en/battle_of_gettysburg	Battle Of Gettysburg	
+http://www.freebase.com/view/en/franz_ferdinand	Franz Ferdinand	http://rdf.freebase.com/ns/m.02ft60
+http://www.freebase.com/view/en/benedict_arnold	Benedict Arnold	http://rdf.freebase.com/ns/m.025_0c
+http://www.freebase.com/view/en/lex_luthor	Lex Luthor	http://rdf.freebase.com/ns/m.04q78
+http://www.freebase.com/view/en/dallas_cowboys	Dallas Cowboys	http://rdf.freebase.com/ns/m.02896
+http://www.freebase.com/view/en/bentley	Bentley	http://rdf.freebase.com/ns/m.0tbk1
+http://www.freebase.com/view/en/czech_republic	Czech Republic	http://rdf.freebase.com/ns/m.01mjq
+http://www.freebase.com/view/en/los_angeles_kings	Los Angeles Kings	http://rdf.freebase.com/ns/m.0jnq8
+http://www.freebase.com/view/en/spencer_pratt	Spencer Pratt	http://rdf.freebase.com/ns/m.02z3d24
+http://www.freebase.com/view/en/abraham_lincoln	Abraham Lincoln	http://rdf.freebase.com/ns/m.0gzh
+http://www.freebase.com/view/en/vancouver_canucks	Vancouver Canucks	http://rdf.freebase.com/ns/m.0jnnx
+http://www.freebase.com/view/en/c_s_lewis	C S Lewis	
+http://www.freebase.com/view/en/carlos_pena	Carlos Pena	
+http://www.freebase.com/view/en/thomas_jefferson	Thomas Jefferson	http://rdf.freebase.com/ns/m.07cbs
+http://www.freebase.com/view/en/cheyenne	Cheyenne	http://rdf.freebase.com/ns/m.0fw3f
+http://www.freebase.com/view/en/jane_wyman	Jane Wyman	http://rdf.freebase.com/ns/m.01933d
+http://www.freebase.com/view/en/mickey_mouse	Mickey Mouse	http://rdf.freebase.com/ns/m.057ph
+http://www.freebase.com/view/en/peru	Peru	http://rdf.freebase.com/ns/m.016wzw
+http://www.freebase.com/view/en/alaska	Alaska	http://rdf.freebase.com/ns/m.0hjy
+http://www.freebase.com/view/en/english	English	http://rdf.freebase.com/ns/m.0skp3
+http://www.freebase.com/view/en/arsenal_fc	Arsenal Fc	
+http://www.freebase.com/view/en/phoenix	Phoenix	http://rdf.freebase.com/ns/m.0d35y
+http://www.freebase.com/view/en/south_portland	South Portland	http://rdf.freebase.com/ns/m.0tpk4
+http://www.freebase.com/view/en/french	French	http://rdf.freebase.com/ns/m.034rwln
+http://www.freebase.com/view/en/ptolemy	Ptolemy	http://rdf.freebase.com/ns/m.05_0t
+http://www.freebase.com/view/en/henry_viii_of_england	Henry Viii Of England	
+http://www.freebase.com/view/en/parana_river	Parana River	http://rdf.freebase.com/ns/m.07rg3z5
+http://www.freebase.com/view/en/richard_nixon	Richard Nixon	http://rdf.freebase.com/ns/m.06c97
+http://www.freebase.com/view/en/theodor_schwann	Theodor Schwann	http://rdf.freebase.com/ns/m.040000
+http://www.freebase.com/view/en/frank_lloyd_wright	Frank Lloyd Wright	http://rdf.freebase.com/ns/m.02wlk
+http://www.freebase.com/view/en/houston_rockets	Houston Rockets	http://rdf.freebase.com/ns/m.0jmfb
+http://www.freebase.com/view/en/russia	Russia	http://rdf.freebase.com/ns/m.06bnz
+http://www.freebase.com/view/en/roman_empire	Roman Empire	http://rdf.freebase.com/ns/m.06cmp
+http://www.freebase.com/view/en/liam_hemsworth	Liam Hemsworth	http://rdf.freebase.com/ns/m.04yd0fh
+http://www.freebase.com/view/en/nicholas_newman	Nicholas Newman	http://rdf.freebase.com/ns/m.0f22p8
+http://www.freebase.com/view/en/eric_cartman	Eric Cartman	http://rdf.freebase.com/ns/m.0myj0
+http://www.freebase.com/view/en/angelina_jolie	Angelina Jolie	http://rdf.freebase.com/ns/m.0f4vbz
+http://www.freebase.com/view/en/bank_of_america	Bank Of America	http://rdf.freebase.com/ns/m.076mbv6
+http://www.freebase.com/view/en/japan	Japan	http://rdf.freebase.com/ns/m.03_3d
+http://www.freebase.com/view/en/leonidas_i	Leonidas I	http://rdf.freebase.com/ns/m.0nb2t
+http://www.freebase.com/view/en/josh_hamilton_1981	Josh Hamilton 1981	
+http://www.freebase.com/view/en/toronto_maple_leafs	Toronto Maple Leafs	http://rdf.freebase.com/ns/m.0j6tr
+http://www.freebase.com/view/en/burundi	Burundi	http://rdf.freebase.com/ns/m.0169t
+http://www.freebase.com/view/en/maya_civilization	Maya Civilization	
+http://www.freebase.com/view/en/niger_river	Niger River	http://rdf.freebase.com/ns/m.05csx
+http://www.freebase.com/view/en/werner_heisenberg	Werner Heisenberg	http://rdf.freebase.com/ns/m.0825l
+http://www.freebase.com/view/en/paul_ryan	Paul Ryan	http://rdf.freebase.com/ns/m.024v2j
+http://www.freebase.com/view/en/acadia_university	Acadia University	http://rdf.freebase.com/ns/m.0xxc
+http://www.freebase.com/view/en/f_scott_fitzgerald	F Scott Fitzgerald	http://rdf.freebase.com/ns/m.06knrhj
+http://www.freebase.com/view/en/europe	Europe	http://rdf.freebase.com/ns/m.02j9z
+http://www.freebase.com/view/en/iran	Iran	http://rdf.freebase.com/ns/m.03shp
+http://www.freebase.com/view/en/ypres	Ypres	http://rdf.freebase.com/ns/m.0145__
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/michael_crabtree	Michael Crabtree	http://rdf.freebase.com/ns/m.03ccsym
+http://www.freebase.com/view/en/afrikaans	Afrikaans	http://rdf.freebase.com/ns/m.01b69vm
+http://www.freebase.com/view/en/florida	Florida	http://rdf.freebase.com/ns/m.02xry
+http://www.freebase.com/view/en/ziva_david	Ziva David	http://rdf.freebase.com/ns/m.093xn8
+http://www.freebase.com/view/en/henry_viii_of_england	Henry Viii Of England	
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/st_louis_cardinals	St Louis Cardinals	
+http://www.freebase.com/view/en/dawood_ibrahim	Dawood Ibrahim	http://rdf.freebase.com/ns/m.02ry1s
+http://www.freebase.com/view/en/turkey	Turkey	http://rdf.freebase.com/ns/m.01znc_
+http://www.freebase.com/view/en/russians	Russians	http://rdf.freebase.com/ns/m.0lkc99
+http://www.freebase.com/view/en/martin_luther_king_jr	Martin Luther King Jr	http://rdf.freebase.com/ns/m.06lwmyx
+http://www.freebase.com/view/en/argentina	Argentina	http://rdf.freebase.com/ns/m.0jgd
+http://www.freebase.com/view/en/wales	Wales	http://rdf.freebase.com/ns/m.0j5g9
+http://www.freebase.com/view/en/rafael_nadal	Rafael Nadal	http://rdf.freebase.com/ns/m.051q39
+http://www.freebase.com/view/en/islam	Islam	http://rdf.freebase.com/ns/m.0flw86
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/leonidas_i	Leonidas I	http://rdf.freebase.com/ns/m.0nb2t
+http://www.freebase.com/view/en/judi_dench	Judi Dench	http://rdf.freebase.com/ns/m.0lpjn
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/sahara	Sahara	http://rdf.freebase.com/ns/m.057yc8
+http://www.freebase.com/view/en/riannah	Riannah	
+http://www.freebase.com/view/en/san_francisco	San Francisco	http://rdf.freebase.com/ns/m.0d6lp
+http://www.freebase.com/view/en/theodore_roosevelt	Theodore Roosevelt	http://rdf.freebase.com/ns/m.07hyk
+http://www.freebase.com/view/en/michael_oher	Michael Oher	http://rdf.freebase.com/ns/m.0h7q7b
+http://www.freebase.com/view/en/albert_einstein	Albert Einstein	http://rdf.freebase.com/ns/m.0jcx
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/lionel_messi	Lionel Messi	http://rdf.freebase.com/ns/m.06qjgc
+http://www.freebase.com/view/en/african_union	African Union	http://rdf.freebase.com/ns/m.0gkjy
+http://www.freebase.com/view/en/kim_richards	Kim Richards	http://rdf.freebase.com/ns/m.08l257
+http://www.freebase.com/view/en/charles_darwin	Charles Darwin	http://rdf.freebase.com/ns/m.01lwx
+http://www.freebase.com/view/en/christopher_columbus	Christopher Columbus	http://rdf.freebase.com/ns/m.01pwz
+http://www.freebase.com/view/en/henri_rousseau	Henri Rousseau	http://rdf.freebase.com/ns/m.02rdf6
+http://www.freebase.com/view/en/john_edwards	John Edwards	http://rdf.freebase.com/ns/m.01651q
+http://www.freebase.com/view/en/huey_p_newton	Huey P Newton	http://rdf.freebase.com/ns/m.0dtmrmg
+http://www.freebase.com/view/en/johannes_gutenberg	Johannes Gutenberg	http://rdf.freebase.com/ns/m.04061
+http://www.freebase.com/view/en/midlothian	Midlothian	http://rdf.freebase.com/ns/m.0100vw
+http://www.freebase.com/view/en/marta	Marta	http://rdf.freebase.com/ns/m.05d5wr7
+http://www.freebase.com/view/en/mitt_romney	Mitt Romney	http://rdf.freebase.com/ns/m.0271_s
+http://www.freebase.com/view/en/john_terry	John Terry	http://rdf.freebase.com/ns/m.070td6
+http://www.freebase.com/view/en/michael_jackson	Michael Jackson	http://rdf.freebase.com/ns/m.09889g
+http://www.freebase.com/view/en/battle_of_vicksburg	Battle Of Vicksburg	
+http://www.freebase.com/view/en/pakistan	Pakistan	http://rdf.freebase.com/ns/m.05sb1
+http://www.freebase.com/view/en/nikolai_gogol	Nikolai Gogol	http://rdf.freebase.com/ns/m.0113sg
+http://www.freebase.com/view/en/world_series	World Series	http://rdf.freebase.com/ns/m.07cg6yj
+http://www.freebase.com/view/en/simon_birch	Simon Birch	http://rdf.freebase.com/ns/m.070m8v
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/general_motors	General Motors	http://rdf.freebase.com/ns/m.035nm
+http://www.freebase.com/view/en/united_kingdom	United Kingdom	http://rdf.freebase.com/ns/m.07ssc
+http://www.freebase.com/view/en/jamaica	Jamaica	http://rdf.freebase.com/ns/m.03_r3
+http://www.freebase.com/view/en/lebron_james	Lebron James	http://rdf.freebase.com/ns/m.063r8c_
+http://www.freebase.com/view/en/wayne_gretzky	Wayne Gretzky	http://rdf.freebase.com/ns/m.0839s
+http://www.freebase.com/view/en/peru	Peru	http://rdf.freebase.com/ns/m.016wzw
+http://www.freebase.com/view/en/jerry_garcia	Jerry Garcia	http://rdf.freebase.com/ns/m.0k1bs
+http://www.freebase.com/view/en/leonardo_da_vinci	Leonardo Da Vinci	http://rdf.freebase.com/ns/m.06q_46v
+http://www.freebase.com/view/en/new_jersey	New Jersey	http://rdf.freebase.com/ns/m.05fjf
+http://www.freebase.com/view/en/riannah	Riannah	
+http://www.freebase.com/view/en/lionel_messi	Lionel Messi	http://rdf.freebase.com/ns/m.06qjgc
+http://www.freebase.com/view/en/moira_mactaggert	Moira Mactaggert	
+http://www.freebase.com/view/en/d_carter	D Carter	
+http://www.freebase.com/view/en/rome	Rome	http://rdf.freebase.com/ns/m.06c62
+http://www.freebase.com/view/en/j_r_r_tolkien	J R R Tolkien	http://rdf.freebase.com/ns/m.0k11c1m
+http://www.freebase.com/view/en/saint_louis_university	Saint Louis University	http://rdf.freebase.com/ns/m.02tz9z
+http://www.freebase.com/view/en/canada	Canada	http://rdf.freebase.com/ns/m.0d060g
+http://www.freebase.com/view/en/roman_empire	Roman Empire	http://rdf.freebase.com/ns/m.06cmp
+http://www.freebase.com/view/en/spanish	Spanish	http://rdf.freebase.com/ns/m.02pm9vw
+http://www.freebase.com/view/en/paul_ryan	Paul Ryan	http://rdf.freebase.com/ns/m.024v2j
+http://www.freebase.com/view/en/iraq	Iraq	http://rdf.freebase.com/ns/m.0d05q4
+http://www.freebase.com/view/en/spain	Spain	http://rdf.freebase.com/ns/m.06mkj
+http://www.freebase.com/view/en/lincoln_steffens	Lincoln Steffens	http://rdf.freebase.com/ns/m.01bw1c
+http://www.freebase.com/view/en/anders_celsius	Anders Celsius	http://rdf.freebase.com/ns/m.010nm
+http://www.freebase.com/view/en/new_york	New York	http://rdf.freebase.com/ns/m.059rby
+http://www.freebase.com/view/en/france	France	http://rdf.freebase.com/ns/m.0f8l9c
+http://www.freebase.com/view/en/massachusetts	Massachusetts	http://rdf.freebase.com/ns/m.05k7sb
+http://www.freebase.com/view/en/colombia	Colombia	http://rdf.freebase.com/ns/m.01ls2
+http://www.freebase.com/view/en/atlantic_ocean	Atlantic Ocean	http://rdf.freebase.com/ns/m.0j3b
+http://www.freebase.com/view/en/martha_graham	Martha Graham	http://rdf.freebase.com/ns/m.027c09
+http://www.freebase.com/view/en/brazil	Brazil	http://rdf.freebase.com/ns/m.015fr
+http://www.freebase.com/view/en/george_washington_carver	George Washington Carver	http://rdf.freebase.com/ns/m.03djm
+http://www.freebase.com/view/en/gregor_mendel	Gregor Mendel	http://rdf.freebase.com/ns/m.039c5
+http://www.freebase.com/view/en/laura_ingalls_wilder	Laura Ingalls Wilder	http://rdf.freebase.com/ns/m.01bt87
+http://www.freebase.com/view/en/bangkok	Bangkok	http://rdf.freebase.com/ns/m.0fn2g
+http://www.freebase.com/view/en/germany	Germany	http://rdf.freebase.com/ns/m.0345h
+http://www.freebase.com/view/en/oklahoma	Oklahoma	http://rdf.freebase.com/ns/m.05mph
+http://www.freebase.com/view/en/norway	Norway	http://rdf.freebase.com/ns/m.05b4w
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/singapore	Singapore	http://rdf.freebase.com/ns/m.06t2t
+http://www.freebase.com/view/en/blackfoot	Blackfoot	http://rdf.freebase.com/ns/m.01jp85h
+http://www.freebase.com/view/en/robin_hood	Robin Hood	http://rdf.freebase.com/ns/m.05q96q6
+http://www.freebase.com/view/en/texas	Texas	http://rdf.freebase.com/ns/m.07b_l
+http://www.freebase.com/view/en/grand_canyon	Grand Canyon	http://rdf.freebase.com/ns/m.07w_vt
+http://www.freebase.com/view/en/kurdish_people	Kurdish People	
+http://www.freebase.com/view/en/louis_armstrong	Louis Armstrong	http://rdf.freebase.com/ns/m.04n32
+http://www.freebase.com/view/en/alyson_stoner	Alyson Stoner	http://rdf.freebase.com/ns/m.02bwjv
+http://www.freebase.com/view/en/madonna	Madonna	http://rdf.freebase.com/ns/m.01vs_v8
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/michael_jordan	Michael Jordan	http://rdf.freebase.com/ns/m.054c1
+http://www.freebase.com/view/en/richard_hammond	Richard Hammond	http://rdf.freebase.com/ns/m.02508x
+http://www.freebase.com/view/en/lois_griffin	Lois Griffin	http://rdf.freebase.com/ns/m.03pcqz
+http://www.freebase.com/view/en/paris	Paris	http://rdf.freebase.com/ns/m.05qtj
+http://www.freebase.com/view/en/sheldon_cooper	Sheldon Cooper	http://rdf.freebase.com/ns/m.05p74fx
+http://www.freebase.com/view/en/riannah	Riannah	
+http://www.freebase.com/view/en/dave_ramsey	Dave Ramsey	http://rdf.freebase.com/ns/m.03zf9h
+http://www.freebase.com/view/en/langston_hughes	Langston Hughes	http://rdf.freebase.com/ns/m.0bv62
+http://www.freebase.com/view/en/galileo_galilei	Galileo Galilei	http://rdf.freebase.com/ns/m.034ks
+http://www.freebase.com/view/en/saudi_arabia	Saudi Arabia	http://rdf.freebase.com/ns/m.01z215
+http://www.freebase.com/view/en/japan	Japan	http://rdf.freebase.com/ns/m.03_3d
+http://www.freebase.com/view/en/nikola_tesla	Nikola Tesla	http://rdf.freebase.com/ns/m.05d1y
+http://www.freebase.com/view/en/anthony_dinozzo	Anthony Dinozzo	
+http://www.freebase.com/view/en/jesus	Jesus	http://rdf.freebase.com/ns/m.042g53r
+http://www.freebase.com/view/en/new_york	New York	http://rdf.freebase.com/ns/m.059rby
+http://www.freebase.com/view/en/bank_of_america	Bank Of America	http://rdf.freebase.com/ns/m.076mbv6
+http://www.freebase.com/view/en/dead_poets_society	Dead Poets Society	http://rdf.freebase.com/ns/m.0yzbg
+http://www.freebase.com/view/en/sally_mclellan	Sally Mclellan	
+http://www.freebase.com/view/en/david_carradine	David Carradine	http://rdf.freebase.com/ns/m.02p5hf
+http://www.freebase.com/view/en/stanley_cup	Stanley Cup	http://rdf.freebase.com/ns/m.0hn79
+http://www.freebase.com/view/en/california	California	http://rdf.freebase.com/ns/m.01n7q
+http://www.freebase.com/view/en/chinese_language	Chinese Language	
+http://www.freebase.com/view/en/portugal	Portugal	http://rdf.freebase.com/ns/m.05r4w
+http://www.freebase.com/view/en/brazil	Brazil	http://rdf.freebase.com/ns/m.015fr
+http://www.freebase.com/view/en/babylonia	Babylonia	http://rdf.freebase.com/ns/m.0dykxy0
+http://www.freebase.com/view/en/wassily_kandinsky	Wassily Kandinsky	http://rdf.freebase.com/ns/m.0856z
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/cuba	Cuba	http://rdf.freebase.com/ns/m.0d04z6
+http://www.freebase.com/view/en/illinois	Illinois	http://rdf.freebase.com/ns/m.03v0t
+http://www.freebase.com/view/en/sweden	Sweden	http://rdf.freebase.com/ns/m.0d0vqn
+http://www.freebase.com/view/en/franklin_d_roosevelt	Franklin D Roosevelt	http://rdf.freebase.com/ns/m.0760h6t
+http://www.freebase.com/view/en/robert_downey_jr	Robert Downey Jr	http://rdf.freebase.com/ns/m.0dv5655
+http://www.freebase.com/view/en/barack_obama	Barack Obama	http://rdf.freebase.com/ns/m.02mjmr
+http://www.freebase.com/view/en/shiva	Shiva	http://rdf.freebase.com/ns/m.02gvt2
+http://www.freebase.com/view/en/benjamin_franklin	Benjamin Franklin	http://rdf.freebase.com/ns/m.019fz
+http://www.freebase.com/view/en/switzerland	Switzerland	http://rdf.freebase.com/ns/m.06mzp
+http://www.freebase.com/view/en/milwaukee_brewers	Milwaukee Brewers	http://rdf.freebase.com/ns/m.051vz
+http://www.freebase.com/view/en/bill_clinton	Bill Clinton	http://rdf.freebase.com/ns/m.0157m
+http://www.freebase.com/view/en/listz	Listz	
+http://www.freebase.com/view/en/russo-japanese_war	Russo-japanese War	
+http://www.freebase.com/view/en/los_angeles_kings	Los Angeles Kings	http://rdf.freebase.com/ns/m.0jnq8
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/jackie_robinson	Jackie Robinson	http://rdf.freebase.com/ns/m.0443c
+http://www.freebase.com/view/en/saint_lawrence_river	Saint Lawrence River	http://rdf.freebase.com/ns/m.0cg4t
+http://www.freebase.com/view/en/united_states	United States	http://rdf.freebase.com/ns/m.0dvxqk
+http://www.freebase.com/view/en/princess_ariel	Princess Ariel	http://rdf.freebase.com/ns/m.02ql1qv
+http://www.freebase.com/view/en/seth_macfarlane	Seth Macfarlane	
+http://www.freebase.com/view/en/william_mckinley	William Mckinley	http://rdf.freebase.com/ns/m.0761jjm
+http://www.freebase.com/view/en/darth_vader	Darth Vader	http://rdf.freebase.com/ns/m.0f2y0
+http://www.freebase.com/view/en/kevin_james	Kevin James	http://rdf.freebase.com/ns/m.03xb2w
+http://www.freebase.com/view/en/adolf_hitler	Adolf Hitler	http://rdf.freebase.com/ns/m.07_m9_
+http://www.freebase.com/view/en/canada	Canada	http://rdf.freebase.com/ns/m.0d060g
+http://www.freebase.com/view/en/atlanta	Atlanta	http://rdf.freebase.com/ns/m.013yq
+http://www.freebase.com/view/en/auschwitz_concentration_camp	Auschwitz Concentration Camp	
+http://www.freebase.com/view/en/julius_caesar	Julius Caesar	http://rdf.freebase.com/ns/m.041wm
+http://www.freebase.com/view/en/dominican_republic	Dominican Republic	http://rdf.freebase.com/ns/m.027rn
+http://www.freebase.com/view/en/elliot_stabler	Elliot Stabler	http://rdf.freebase.com/ns/m.06tz5j
+http://www.freebase.com/view/en/czech_republic	Czech Republic	http://rdf.freebase.com/ns/m.01mjq
+http://www.freebase.com/view/en/william_shakespeare	William Shakespeare	http://rdf.freebase.com/ns/m.081k8
+http://www.freebase.com/view/en/f_scott_fitzgerald	F Scott Fitzgerald	http://rdf.freebase.com/ns/m.06knrhj
+http://www.freebase.com/view/en/joan_crawford	Joan Crawford	http://rdf.freebase.com/ns/m.0cgbf
+http://www.freebase.com/view/en/rob_kardashian	Rob Kardashian	http://rdf.freebase.com/ns/m.043n6dp
+http://www.freebase.com/view/en/allen_iverson	Allen Iverson	http://rdf.freebase.com/ns/m.01sg7_
+http://www.freebase.com/view/en/harry_s_truman	Harry S Truman	http://rdf.freebase.com/ns/m.0763j2y
+http://www.freebase.com/view/en/utica	Utica	http://rdf.freebase.com/ns/m.0lpk3
+http://www.freebase.com/view/en/charles_babbage	Charles Babbage	http://rdf.freebase.com/ns/m.01qmz
+http://www.freebase.com/view/en/united_states_house_of_representatives	United States House Of Representatives	
+http://www.freebase.com/view/en/madagascar_2005	Madagascar 2005	
+http://www.freebase.com/view/en/richard_lynn_scott	Richard Lynn Scott	
+http://www.freebase.com/view/en/crimean_war	Crimean War	http://rdf.freebase.com/ns/m.0cmc2
+http://www.freebase.com/view/en/theodore_roosevelt	Theodore Roosevelt	http://rdf.freebase.com/ns/m.07hyk
+http://www.freebase.com/view/en/miley_cyrus	Miley Cyrus	http://rdf.freebase.com/ns/m.0bdxs5
+http://www.freebase.com/view/en/americas	Americas	http://rdf.freebase.com/ns/m.07c5l
+http://www.freebase.com/view/en/james_franco	James Franco	http://rdf.freebase.com/ns/m.05bnp0
+http://www.freebase.com/view/en/libya	Libya	http://rdf.freebase.com/ns/m.04gqr
+http://www.freebase.com/view/en/marco_polo	Marco Polo	http://rdf.freebase.com/ns/m.02w8pjl
+http://www.freebase.com/view/en/diana_taurasi	Diana Taurasi	http://rdf.freebase.com/ns/m.037bzt
+http://www.freebase.com/view/en/paris	Paris	http://rdf.freebase.com/ns/m.05qtj
+http://www.freebase.com/view/en/tyne_and_wear_metro	Tyne And Wear Metro	
+http://www.freebase.com/view/en/gregor_mendel	Gregor Mendel	http://rdf.freebase.com/ns/m.039c5
+http://www.freebase.com/view/en/canada	Canada	http://rdf.freebase.com/ns/m.0d060g
+http://www.freebase.com/view/en/adam_morrison	Adam Morrison	http://rdf.freebase.com/ns/m.08_g4q
+http://www.freebase.com/view/en/michael_jackson	Michael Jackson	http://rdf.freebase.com/ns/m.09889g
+http://www.freebase.com/view/en/maya_moore	Maya Moore	http://rdf.freebase.com/ns/m.027w0l1
+http://www.freebase.com/view/en/los_angeles_dodgers	Los Angeles Dodgers	http://rdf.freebase.com/ns/m.04mjl
+http://www.freebase.com/view/en/james_cook	James Cook	http://rdf.freebase.com/ns/m.03_j8
+http://www.freebase.com/view/en/robin_williams	Robin Williams	http://rdf.freebase.com/ns/m.0dzf_
+http://www.freebase.com/view/en/canada	Canada	http://rdf.freebase.com/ns/m.0d060g
+http://www.freebase.com/view/en/islam	Islam	http://rdf.freebase.com/ns/m.0flw86
+http://www.freebase.com/view/en/peru	Peru	http://rdf.freebase.com/ns/m.016wzw
+http://www.freebase.com/view/en/israeli-palestinian_conflict	Israeli-palestinian Conflict	
+http://www.freebase.com/view/en/american_football_league	American Football League	http://rdf.freebase.com/ns/m.0ysy
+http://www.freebase.com/view/en/diego_velazquez	Diego Velazquez	http://rdf.freebase.com/ns/m.06tjzxw
+http://www.freebase.com/view/en/warren_buffett	Warren Buffett	http://rdf.freebase.com/ns/m.01d_ys
+http://www.freebase.com/view/en/mexico	Mexico	http://rdf.freebase.com/ns/m.0b90_r
+http://www.freebase.com/view/en/switzerland	Switzerland	http://rdf.freebase.com/ns/m.06mzp
+http://www.freebase.com/view/en/briton	Briton	http://rdf.freebase.com/ns/m.07pmkp0
+http://www.freebase.com/view/en/olympic_games	Olympic Games	http://rdf.freebase.com/ns/m.05nd_
+http://www.freebase.com/view/en/john_f_kennedy	John F Kennedy	http://rdf.freebase.com/ns/m.03t0qkg
+http://www.freebase.com/view/en/michigan-ohio_state_rivalry	Michigan-ohio State Rivalry	
+http://www.freebase.com/view/en/muhammad	Muhammad	http://rdf.freebase.com/ns/m.04s9n
+http://www.freebase.com/view/en/battle_of_antietam	Battle Of Antietam	
+http://www.freebase.com/view/en/ukraine	Ukraine	http://rdf.freebase.com/ns/m.07t21
+http://www.freebase.com/view/en/supreme_court_of_the_united_states	Supreme Court Of The United States	
+http://www.freebase.com/view/en/europe	Europe	http://rdf.freebase.com/ns/m.02j9z
+http://www.freebase.com/view/en/kaley_cuoco	Kaley Cuoco	http://rdf.freebase.com/ns/m.03kxp7
+http://www.freebase.com/view/en/chris_rock	Chris Rock	http://rdf.freebase.com/ns/m.016_mj
+http://www.freebase.com/view/en/southern_california	Southern California	http://rdf.freebase.com/ns/m.0gx1l
+http://www.freebase.com/view/en/toronto_maple_leafs	Toronto Maple Leafs	http://rdf.freebase.com/ns/m.0j6tr
+http://www.freebase.com/view/en/egypt	Egypt	http://rdf.freebase.com/ns/m.02k54
+http://www.freebase.com/view/en/brazilian_people	Brazilian People	
+http://www.freebase.com/view/en/vince_lombardi	Vince Lombardi	http://rdf.freebase.com/ns/m.07_xf
+http://www.freebase.com/view/en/stanley_kowalski	Stanley Kowalski	http://rdf.freebase.com/ns/m.03bhwh
+http://www.freebase.com/view/en/lola_bunny	Lola Bunny	http://rdf.freebase.com/ns/m.0534r8
+http://www.freebase.com/view/en/charles_darwin	Charles Darwin	http://rdf.freebase.com/ns/m.01lwx
+http://www.freebase.com/view/en/serbs	Serbs	http://rdf.freebase.com/ns/m.0g6g7
+http://www.freebase.com/view/en/laci_peterson	Laci Peterson	http://rdf.freebase.com/ns/m.01f6vb
+http://www.freebase.com/view/en/kris_humphries	Kris Humphries	http://rdf.freebase.com/ns/m.0730b4
+http://www.freebase.com/view/en/virginia	Virginia	http://rdf.freebase.com/ns/m.07z1m
+http://www.freebase.com/view/en/gerard_butler	Gerard Butler	http://rdf.freebase.com/ns/m.038rzr
+http://www.freebase.com/view/en/john_franklin_1967	John Franklin 1967	
+http://www.freebase.com/view/en/bosnians	Bosnians	http://rdf.freebase.com/ns/m.0470lk
+http://www.freebase.com/view/en/tycho_brahe	Tycho Brahe	http://rdf.freebase.com/ns/m.07d2x
+http://www.freebase.com/view/en/sean_connery	Sean Connery	http://rdf.freebase.com/ns/m.06mr6
+http://www.freebase.com/view/en/didier_drogba	Didier Drogba	http://rdf.freebase.com/ns/m.03_y2f
+http://www.freebase.com/view/en/michael_crabtree	Michael Crabtree	http://rdf.freebase.com/ns/m.03ccsym
+http://www.freebase.com/view/en/fredrik_ljungberg	Fredrik Ljungberg	http://rdf.freebase.com/ns/m.02g16c
+http://www.freebase.com/view/en/miami_dolphins	Miami Dolphins	http://rdf.freebase.com/ns/m.04vn5
+http://www.freebase.com/view/en/staten_island	Staten Island	http://rdf.freebase.com/ns/m.0y62n
+http://www.freebase.com/view/en/john_adams	John Adams	http://rdf.freebase.com/ns/m.03_js
+http://www.freebase.com/view/en/antonio_vivaldi	Antonio Vivaldi	http://rdf.freebase.com/ns/m.0pth
+http://www.freebase.com/view/en/john_forbes_nash	John Forbes Nash	http://rdf.freebase.com/ns/m.0v8ydst
+http://www.freebase.com/view/en/jesus	Jesus	http://rdf.freebase.com/ns/m.042g53r
+http://www.freebase.com/view/en/mike_fisher	Mike Fisher	http://rdf.freebase.com/ns/m.07d7xv
+http://www.freebase.com/view/en/daniel_craig	Daniel Craig	http://rdf.freebase.com/ns/m.04shbh
+http://www.freebase.com/view/en/eduardo_paolozzi	Eduardo Paolozzi	http://rdf.freebase.com/ns/m.03fncl
+http://www.freebase.com/view/en/joe_biden	Joe Biden	http://rdf.freebase.com/ns/m.012gx2
+http://www.freebase.com/view/en/marilyn_monroe	Marilyn Monroe	http://rdf.freebase.com/ns/m.04wqr
+http://www.freebase.com/view/en/timon_and_pumbaa	Timon And Pumbaa	http://rdf.freebase.com/ns/m.0gkrffk
+http://www.freebase.com/view/en/ohio	Ohio	http://rdf.freebase.com/ns/m.05kkh
+http://www.freebase.com/view/en/kailua	Kailua	http://rdf.freebase.com/ns/m.0r_g0
+http://www.freebase.com/view/en/argentina	Argentina	http://rdf.freebase.com/ns/m.0jgd
+http://www.freebase.com/view/en/whoopi_goldberg	Whoopi Goldberg	http://rdf.freebase.com/ns/m.0fb1q
+http://www.freebase.com/view/en/kingdom_of_judah	Kingdom Of Judah	
+http://www.freebase.com/view/en/maggie_simpson	Maggie Simpson	http://rdf.freebase.com/ns/m.0h67q
+http://www.freebase.com/view/en/owen_schmitt	Owen Schmitt	http://rdf.freebase.com/ns/m.027rvyc
+http://www.freebase.com/view/en/thomas_jefferson	Thomas Jefferson	http://rdf.freebase.com/ns/m.07cbs
+http://www.freebase.com/view/en/france	France	http://rdf.freebase.com/ns/m.0f8l9c
+http://www.freebase.com/view/en/jonathan_berger	Jonathan Berger	http://rdf.freebase.com/ns/m.04gmjpt
+http://www.freebase.com/view/en/fa_cup	Fa Cup	
+http://www.freebase.com/view/en/michael_jackson	Michael Jackson	http://rdf.freebase.com/ns/m.09889g
+http://www.freebase.com/view/en/robert_pattinson	Robert Pattinson	http://rdf.freebase.com/ns/m.062dn7
+http://www.freebase.com/view/en/japan	Japan	http://rdf.freebase.com/ns/m.03_3d
+http://www.freebase.com/view/en/bob_kelso	Bob Kelso	http://rdf.freebase.com/ns/m.02rtml2
+http://www.freebase.com/view/en/vanessa_carlton	Vanessa Carlton	http://rdf.freebase.com/ns/m.02sj66
+http://www.freebase.com/view/en/czech_republic	Czech Republic	http://rdf.freebase.com/ns/m.01mjq
+http://www.freebase.com/view/en/arabic_language	Arabic Language	http://rdf.freebase.com/ns/m.0jzc
+http://www.freebase.com/view/en/tim_cook	Tim Cook	http://rdf.freebase.com/ns/m.0270gfb
+http://www.freebase.com/view/en/mitt_romney	Mitt Romney	http://rdf.freebase.com/ns/m.0271_s
+http://www.freebase.com/view/en/bob_marley	Bob Marley	http://rdf.freebase.com/ns/m.0bkf4
+http://www.freebase.com/view/en/london	London	http://rdf.freebase.com/ns/m.04jpl
+http://www.freebase.com/view/en/chicago	Chicago	http://rdf.freebase.com/ns/m.01_d4
+http://www.freebase.com/view/en/sheryl_crow	Sheryl Crow	http://rdf.freebase.com/ns/m.06rgq
+http://www.freebase.com/view/en/argentina	Argentina	http://rdf.freebase.com/ns/m.0jgd
+http://www.freebase.com/view/en/fabio_capello	Fabio Capello	http://rdf.freebase.com/ns/m.030_wt
+http://www.freebase.com/view/en/abraham_lincoln	Abraham Lincoln	http://rdf.freebase.com/ns/m.0gzh
+http://www.freebase.com/view/en/jack_london	Jack London	http://rdf.freebase.com/ns/m.0bt23
+http://www.freebase.com/view/en/morgan_freeman	Morgan Freeman	http://rdf.freebase.com/ns/m.055c8
+http://www.freebase.com/view/en/italy	Italy	http://rdf.freebase.com/ns/m.03rjj
+http://www.freebase.com/view/en/john_steinbeck	John Steinbeck	http://rdf.freebase.com/ns/m.04107
+http://www.freebase.com/view/en/the_rock_1972	The Rock 1972	
+http://www.freebase.com/view/en/north_atlantic_treaty_organization	North Atlantic Treaty Organization	http://rdf.freebase.com/ns/m.090zw1s
+http://www.freebase.com/view/en/battle_of_antietam	Battle Of Antietam	
+http://www.freebase.com/view/en/zambezi	Zambezi	http://rdf.freebase.com/ns/m.0p_70
+http://www.freebase.com/view/en/catholicism	Catholicism	http://rdf.freebase.com/ns/m.0c8wxp
+http://www.freebase.com/view/en/david_beckham	David Beckham	http://rdf.freebase.com/ns/m.02d9k
+http://www.freebase.com/view/en/france	France	http://rdf.freebase.com/ns/m.0f8l9c
+http://www.freebase.com/view/en/knossos	Knossos	http://rdf.freebase.com/ns/m.0ksnn
+http://www.freebase.com/view/en/roswell_ufo_incident	Roswell Ufo Incident	
+http://www.freebase.com/view/en/christopher_riley	Christopher Riley	http://rdf.freebase.com/ns/m.026l611

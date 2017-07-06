@@ -1,0 +1,2047 @@
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Training Component 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ TrainingComponent ---
+Jamaica	m.03_r3	m.03_r3
+James K Polk	m.042f1	N/A
+Oregon Ducks	m.0fbq2n	m.06k051	----------
+Ken Barlow	m.015lwh	m.015lwh
+Chiune Sugihara	m.02j8rx	m.02j8rx
+Wolfgang Amadeus Mozart	m.082db	m.082db
+Jamarcus Russell	m.0cjcdj	N/A
+George Washington Carver	m.03djm	m.03djm
+Benjamin Franklin	m.019fz	m.019fz
+Richard Nixon	m.06c97	m.06c97
+Germany	m.0345h	m.0345h
+Saint Lucia	m.06s0l	m.06s0l
+Ohio	m.05kkh	m.05kkh
+John F Kennedy	m.0d3k14	m.03t0qkg	----------
+Fukushima I Nuclear Power Plant	m.02vkzy2	N/A
+United States House Of Representatives	m.09c7w0	N/A
+United Kingdom	m.07ssc	m.07ssc
+Bilbo Baggins	m.0g6z1	m.0g6z1
+Martin Luther King Jr	m.051cc	m.06lwmyx	----------
+Louisiana	m.04ly1	m.04ly1
+St Augustin	m.0w6w	N/A
+Keyshia Cole	m.01pkxs9	m.01pkxs9
+Egypt	m.02k54	m.02k54
+Martin Luther King Jr	m.051cc	m.06lwmyx	----------
+Edgar Allan Poe	m.02lt8	m.02lt8
+Charles Goodyear	m.01_02r	m.01_02r
+Atlanta	m.013yq	m.013yq
+France	m.0f8l9c	m.0f8l9c
+Anna Bligh	m.072_m3	m.072_m3
+United States	m.09c7w0	m.0dvxqk	----------
+Islam	m.0kj34	m.0flw86	----------
+Andrew Murray	m.0620m7	m.0620m7
+Austraila	m.0chghy	N/A
+Sweden	m.0d0vqn	m.0d0vqn
+Cameron Newton	m.02phnp7	N/A
+Frederick	m.0pf3k	m.0dhml	----------
+Harper Lee	m.01bq7x	m.01bq7x
+Utah	m.07srw	m.07srw
+George W Bush	m.09b6zr	m.0f6ht1r	----------
+Niall Ferguson	m.033mkn	m.033mkn
+Soviet Union	m.05vz3zq	m.05vz3zq
+Galapagos Islands	m.016zjj	m.0c8ktf8	----------
+Justin Bieber	m.06w2sn5	m.06w2sn5
+Georges Clemenceau	m.0hff8	m.05vq35n	----------
+Arizona	m.0vmt	m.0vmt
+Riannah	m.06mt91	N/A
+William Henry Harrison	m.0835q	m.0835q
+George Lopez	m.02xfj0	m.02xfj0
+Samsung Group	m.07gv72	m.07gv72
+Islam	m.0kj34	m.0flw86	----------
+James Chadwick	m.017jtb	m.017jtb
+Grey	m.01hg_2	m.01sw9dd	----------
+George Orwell	m.034bs	m.034bs
+Battle Of Gettysburg	m.0h241s	N/A
+Adolf Hitler	m.07_m9_	m.07_m9_
+Michael Buble	m.02xkkq	m.06xy92r	----------
+Kansas City Kansas	m.04f_d	N/A
+John Quincy Adams	m.03_nq	m.03_nq
+Jackie Robinson	m.0443c	m.0443c
+Annie	m.01_1m4	m.01vxl9w	----------
+Eleanor Roosevelt	m.02n9k	m.02n9k
+Indonesia	m.03ryn	m.03ryn
+Jesse James	m.0330zg	m.02khjc	----------
+Abraham Lincoln	m.0gzh	m.0gzh
+Charles Dickens	m.01v9724	m.01v9724
+Soviet Union	m.05vz3zq	m.05vz3zq
+Puerto Rico	m.05r7t	m.05r7t
+Carl Wilson	m.01n9vwg	m.01n9vwg
+Kitt	m.02gl9l	m.03hl1_g	----------
+Brentwood	m.01yq4f	m.0qylc	----------
+Moira Mactaggert	m.01s6rq	N/A
+Michael J Fox	m.0hz_1	N/A
+Stonewall Jackson	m.07r8h	m.01jx2f4	----------
+Maasai	m.054vc	m.06rvvxy	----------
+Benjamin Franklin	m.019fz	m.019fz
+Patrick Swayze	m.02h3tp	m.02h3tp
+Leonardo Da Vinci	m.01ky5r	m.06q_46v	----------
+Austria	m.0h7x	m.0h7x
+Eva Peron	m.0dltj	m.08hh0nv	----------
+Gautama Buddha	m.015k7	m.015k7
+Greeley	m.0rczx	m.0rczx
+Ellen Degeneres	m.0528kc	m.0nd1w22	----------
+Peter Tjajkovskij	m.063tn	N/A
+German Language	m.02h40lc	m.04306rv	----------
+John Lennon	m.01vsl3_	m.01vsl3_
+Colorado	m.01n4w	m.01n4w
+Greenland	m.035v3	m.035v3
+Seattle	m.0d9jr	m.0d9jr
+Willow Smith	m.03gq433	m.03gq433
+Chinese Language	m.0d05w3	N/A
+The Jeffersons	m.02f8jf	m.02f8jf
+San Francisco	m.0d6lp	m.0d6lp
+Soviet Union	m.05vz3zq	m.05vz3zq
+Armenia	m.0jgx	m.0jgx
+Randy Savage	m.02p7_z	m.02p7_z
+Charles Darwin	m.01lwx	m.01lwx
+Richard Nixon	m.06c97	m.06c97
+Smokey Robinson	m.012_6c	m.012_6c
+John F Kennedy	m.0d3k14	m.03t0qkg	----------
+Serbia	m.077qn	m.077qn
+Haiti	m.03gyl	m.03gyl
+Greece	m.035qy	m.035qy
+Barbara Gordon	m.03hvfx	m.03hvfx
+Shaquille Oneal	m.012xdf	N/A
+Jay Leno	m.046lt	m.046lt
+Thailand	m.07f1x	m.07f1x
+Armie Hammer	m.03y9941	m.03y9941
+Thomas Jefferson	m.07cbs	m.07cbs
+Charles Darwin	m.01lwx	m.01lwx
+Tim Tebow	m.0g7km1	m.0g7km1
+Peyton Manning	m.027jv8	m.027jv8
+Carpathian Mountains	m.0cdsk	m.0cdsk
+Robert Burns	m.09482	m.09482
+Anton Van Leeuwenhoek	m.0bj_v	N/A
+Darth Vader	m.0f2y0	m.0f2y0
+Peyton Manning	m.027jv8	m.027jv8
+Justin Bieber	m.06w2sn5	m.06w2sn5
+Yamaha Motor Company	m.01x1s6	m.01x1s6
+Gulf War	m.03m_n0	m.018w0j	----------
+London Tipton	m.07g8r3	m.07g8r3
+Chinese Language	m.0d05w3	N/A
+David Beckham	m.02d9k	m.02d9k
+Francisco Vasquez De Coronado	m.0jgb2	N/A
+Google	m.045c7b	m.045c7b
+Egypt	m.02k54	m.02k54
+Ibrahim	m.0pwb	m.03bxp74	----------
+Jana Gana Mana	m.07t5b3	m.04d3fnm	----------
+Gilda Radner	m.0mj4n	m.0mj4n
+Juni Cortez	m.02ql73	m.02ql73
+Lucille Ball	m.04nw9	m.04nw9
+Carrie Ann Inaba	m.073plk	m.073plk
+Barack Obama	m.02mjmr	m.02mjmr
+Michael J Fox	m.0hz_1	N/A
+Dolly Parton	m.02f1c	m.02f1c
+Agatha Christie	m.0ldd	m.0ldd
+John Edwards	m.01651q	m.01651q
+Jimi Hendrix	m.01vsy3q	m.01vsy3q
+Sacramento	m.07bcn	m.07bcn
+Spain	m.06mkj	m.06mkj
+National Rifle Association	m.0j6f9	m.0j6f9
+Anna Kendrick	m.04066xj	m.04066xj
+Gimli	m.0h34n	m.01fmqg	----------
+Transmission Control Protocol	m.027n37v	m.07hzk	----------
+Shenandoah Valley	m.017x8n	m.017x8n
+Pittsburgh Steelers	m.05tfm	m.05tfm
+Albert Einstein	m.0jcx	m.0jcx
+Jordan	m.03__y	m.03__y
+Tennesee	m.07h34	m.0m0fvh	----------
+Eli Whitney	m.02ncr	m.02ncr
+Portuguese	m.05r4w	m.06q8tnj	----------
+Cuba	m.0d04z6	m.0d04z6
+Aaron Rodgers	m.04q06_	m.04q06_
+Herman Cain	m.05972y	m.05972y
+Madrid	m.056_y	m.056_y
+Louis Armstrong	m.04n32	m.04n32
+George W Bush	m.09b6zr	m.0f6ht1r	----------
+California	m.01n7q	m.01n7q
+Mission San Buenaventura	m.0gbsb	m.0gbsb
+Italy	m.03rjj	m.03rjj
+Hilo	m.0r_ch	m.0r_ch
+Rudolf Virchow	m.011kz4	m.011kz4
+Gordon Brown	m.03f77	m.03f77
+Greece	m.035qy	m.035qy
+Seattle Seahawks	m.070xg	m.070xg
+Stephen Hawking	m.01tdnyh	m.01tdnyh
+Donna Noble	m.02pcf8b	m.02pcf8b
+Dr Seuss	m.02g3w	N/A
+Queensland	m.0g39h	m.0g39h
+James Madison	m.0424m	m.0424m
+Belgium	m.0154j	m.0154j
+Bilbo Baggins	m.0g6z1	m.0g6z1
+Destin	m.0c296	m.0rp8x	----------
+United States Senate	m.07t58	m.07t58
+Baltic Countries	m.019tjm	N/A
+Colin Kaepernick	m.03cm6b3	m.03cm6b3
+Joe Flacco	m.03d4lw7	m.03d4lw7
+Emily Stone	m.09yhzs	m.08ntnsz	----------
+Theodore Roosevelt	m.07hyk	m.07hyk
+United States	m.09c7w0	m.0dvxqk	----------
+Henri Matisse	m.0gct_	m.0gct_
+Missouri River	m.04ykz	m.04ykz
+Thailand	m.07f1x	m.07f1x
+Khloe Kardashian	m.043p2f2	m.06wfq51	----------
+Mitt Romney	m.0271_s	m.0271_s
+Mitt Romney	m.0271_s	m.0271_s
+France	m.0f8l9c	m.0f8l9c
+Denmark	g.121p5z1h	m.0k6nt	----------
+Stephen Hawking	m.01tdnyh	m.01tdnyh
+Bristol Palin	m.04jg1kh	m.04jg1kh
+Egypt	m.02k54	m.02k54
+Dr Seuss	m.02g3w	N/A
+Drew Brees	m.030bdd	m.030bdd
+Republican Party	m.012njkhw	m.07wbk	----------
+Ben Roethlisberger	m.033t8w	m.033t8w
+Iroquois	m.03x1x	m.03x1x
+George Harrison	m.03bnv	m.03bnv
+Navajo People	m.08k5jg	N/A
+New England	m.05g3b	m.029jpy	----------
+Latin America	m.04pnx	m.04pnx
+Iraq	m.0d05q4	m.0d05q4
+Vietnam War	m.01crd5	m.07_nf	----------
+Gerald Ford	m.0c_md_	m.0c_md_
+Italy	m.03rjj	m.03rjj
+Jamie Little	m.02pz_8v	m.02pz_8v
+Egypt	m.02k54	m.02k54
+Ernest Rutherford	m.02m7r	m.02m7r
+Brandon Roy	m.0cf_p_	m.0cf_p_
+Harvard University	m.03ksy	m.03ksy
+Janelle Corlass Brown	m.04046vt	N/A
+Laos	m.04hhv	m.04hhv
+Tyrese	m.01l1b90	m.01l1b6v	----------
+Italy	m.03rjj	m.03rjj
+Colorado River	m.018qjq	m.018qjq
+Scarlett Johansson	m.02114t	m.02114t
+Roman Empire	m.017cw	m.06cmp	----------
+Elvis Costello	m.02vr7	m.02vr7
+Gobi Desert	m.0ff0d	m.0ff0d
+United States	m.09c7w0	m.0dvxqk	----------
+Germany	m.0345h	m.0345h
+Wright Brothers	m.073ty0	m.04w7201	----------
+Turkey	m.01znc_	m.01znc_
+Jeremy Lin	m.09k72lh	m.09k72lh
+Seychelles	m.06sw9	m.06sw9
+Phoenix	m.0d35y	m.0d35y
+William Morris	m.08304	m.08304
+Mount St Helens	m.094xz	N/A
+Jimmy Savile	m.01wg0w	m.01wg0w
+Seneca Nation	m.03x1x	N/A
+William Howard Taft	m.083pr	m.083pr
+Washington United States	m.081yw	N/A
+New York	m.02_286	m.059rby	----------
+Florida Marlins	m.02__x	m.08nxr7p	----------
+Spanish	m.06mkj	m.02pm9vw	----------
+Phoenix	m.0d35y	m.0d35y
+Panama	m.05qx1	m.05qx1
+Charlie Chaplin	m.01lc5	m.01lc5
+Paul Revere	m.0db0x	m.0db0x
+Fred Durst	m.01q7cb_	m.01q7cb_
+San Diego Chargers	m.06rpd	m.06rpd
+American Bulldog	m.02z_05	m.02z_05
+Albert Einstein	m.0jcx	m.0jcx
+Brian Griffin	m.03pcvr	m.03pcvr
+Steve Mcqueen	m.012cj0	m.06kz3hc	----------
+George W Bush	m.09b6zr	m.0f6ht1r	----------
+Richard Dawkins	m.06g4_	m.06g4_
+Miss America	m.01bk3n	m.01bk3n
+Nikola Tesla	m.05d1y	m.05d1y
+Vlaams Language	m.03m4m0m	N/A
+New York	m.02_286	m.059rby	----------
+Bruce Lee	m.099d4	m.099d4
+United States	m.09c7w0	m.0dvxqk	----------
+England	m.02pp1	m.02jx1	----------
+Benjamin Franklin	m.019fz	m.019fz
+United Kingdom	m.07ssc	m.07ssc
+Chinese Language	m.0d05w3	N/A
+Barack Obama	m.02mjmr	m.02mjmr
+China	m.0d05w3	m.0d05w3
+Soviet Union	m.05vz3zq	m.05vz3zq
+Austraila	m.0chghy	N/A
+David Berkowitz	m.0c7ngf	m.04gpk75	----------
+David	m.02cvn	m.0gftgq1	----------
+Cindy Sherman	m.074g02	m.074g02
+Shawnee Smith	m.06t3nj	m.06t3nj
+Aristotle	m.0gz_	m.0gz_
+Austraila	m.0chghy	N/A
+Rome	m.06c62	m.06c62
+Kansas City	m.0487_	m.04f_d	----------
+Martin Luther King Jr	m.051cc	m.06lwmyx	----------
+Lebron James	m.01jz6d	m.063r8c_	----------
+Delaware River	m.0dtzd	m.0dtzd
+Japan	m.03_3d	m.03_3d
+Mitt Romney	m.0271_s	m.0271_s
+Japan	m.03_3d	m.03_3d
+Michael Jordan	m.054c1	m.054c1
+China	m.0d05w3	m.0d05w3
+Egypt	m.02k54	m.02k54
+San Rafael	m.0r1jr	m.0r1jr
+Esther	m.01dpg	m.0qb5mjj	----------
+Claire Danes	m.01gq0b	m.01gq0b
+St Paul Virginia	m.013nm2	N/A
+Florida	m.02xry	m.02xry
+Japan	m.03_3d	m.03_3d
+Russia	m.06bnz	m.06bnz
+Kf Drita	m.02rt2r2	N/A
+Latin	m.04pnx	m.0fvc4gz	----------
+Maya Civilization	m.06qdx6d	N/A
+Karl Benz	m.049xg	m.049xg
+Carmen Electra	m.01lbp	m.01lbp
+Jew	m.041rx	m.09hb4xp	----------
+World War Ii	m.06v9sf	m.06v8k_l	----------
+Christian	m.015j7	m.028m7c	----------
+Morgan Freeman	m.055c8	m.055c8
+Elizabeth I Of England	m.02rg_	N/A
+Arabic Language	g.11bwd_sz5b	m.0jzc	----------
+Carolus Linnaeus	m.01lwd	m.07r05pf	----------
+Germany	m.0345h	m.0345h
+Libya	m.04gqr	m.04gqr
+Anaheim	m.04wmvz	m.0k9p4	----------
+Baltimore Orioles	m.01d6g	m.01d6g
+Zhao Xin	m.0cnd7b	m.0cnd7b
+Francis Bacon	m.030dr	m.030dr
+Amelia Earhart	m.0lngf	m.0lngf
+Dallas Cowboys	m.02896	m.02896
+Margaret Hoover	m.03m6921	m.03m6921
+Jamie Oliver	m.01myph	m.01myph
+Bradley Walsh	m.05h48b	m.05h48b
+Fc Internazionale Milano	m.03x6m	N/A
+River Shannon	m.0m_dt	m.0m_dt
+Reese Witherspoon	m.0n6f8	m.0n6f8
+Dutch People	m.059j2	N/A
+Costa Rica	m.01p8s	m.01p8s
+Ultimate Fighting Championship	m.016r3g	m.016r3g
+James T Kirk	m.0crtw	N/A
+Albert Pujols	m.035gcb	m.035gcb
+Sweden	m.0d0vqn	m.0d0vqn
+George Jones	m.01hb9p	m.01hb9p
+William Shakespeare	m.081k8	m.081k8
+Russia	m.06bnz	m.06bnz
+Switzerland	m.06mzp	m.06mzp
+Grand Canyon	m.0cns5	m.07w_vt	----------
+Jew	m.041rx	m.09hb4xp	----------
+Austraila	m.0chghy	N/A
+Ian Somerhalder	m.044mvs	m.044mvs
+Ron Howard	m.0g2lq	m.0g2lq
+Alexander Hamilton	m.0b3pq	m.0b3pq
+Shakira	m.01wj18h	m.01wj18h
+Gerald Ford	m.0c_md_	m.0c_md_
+Turkey	m.01znc_	m.01znc_
+Kevin Love 1988	m.0fxgqw	N/A
+Italy	m.03rjj	m.03rjj
+Egyptians	m.0kg9	m.025tvhm	----------
+Karnak	m.014wy4	m.01n5kny	----------
+Louisiana	m.04ly1	m.04ly1
+Morgan Freeman	m.055c8	m.055c8
+John F Kennedy	m.0d3k14	m.03t0qkg	----------
+Cuba	m.0d04z6	m.0d04z6
+Morocco	m.04wgh	m.04wgh
+Mary Mcleod Bethune	m.025rv7p	N/A
+Japan	m.03_3d	m.03_3d
+Mother Teresa	m.01yv6p	m.01yv6p
+Richard Pryor	m.01hmk9	m.01hmk9
+Spain	m.06mkj	m.06mkj
+English	m.02h40lc	m.0skp3	----------
+China	m.0d05w3	m.0d05w3
+West St Paul	m.08mgw1	N/A
+Magic Johnson	m.095nx	m.095nx
+Donnie Wahlberg	m.02stwg	m.02stwg
+Charles De Secondat Baron De Montesquieu	m.0f9wd	N/A
+Australian People	m.0cj1g7	m.05yxn_p	----------
+Carlos Boozer	m.03l2cs	m.03l2cs
+Indonesia	m.03ryn	m.03ryn
+Portland Press Herald	m.0c4kv	m.0852w8	----------
+Albert Speer	m.0l4t	m.0l4t
+Jordan Palmer 1984	m.0d9wsx	N/A
+Leonardo Da Vinci	m.01ky5r	m.06q_46v	----------
+American People Of The United States	m.059_w	N/A
+Arlington Texas	m.0nqph	N/A
+Vasco Da Gama	m.019mcm	m.032grvk	----------
+United States	m.09c7w0	m.0dvxqk	----------
+Emile Heskey	m.01yj16	m.01yj16
+Hirohito	m.02sm8	m.02sm8
+Vienna	m.0fhp9	m.0fhp9
+Ireland	m.012wgb	m.03rt9	----------
+Minneapolis Lakers	m.0jmk7	N/A
+Catholicism	m.0c8wxp	m.0c8wxp
+Peoria	m.0sf9_	m.0sf9_
+Briton	m.07ssc	m.07pmkp0	----------
+Elvis Presley	m.02jq1	m.02jq1
+D Carter	m.016kjs	N/A
+Washington Redskins	m.084l5	m.084l5
+Netherlands	m.059j2	m.059j2
+Greece	m.035qy	m.035qy
+John Willams	m.0146pg	N/A
+Richardson	m.022_bl	m.013m57	----------
+Henri Matisse	m.0gct_	m.0gct_
+Charles Dickens	m.01v9724	m.01v9724
+Agatha Christie	m.0ldd	m.0ldd
+Michael Jordan	m.054c1	m.054c1
+Continental Congress	m.01mrhh	m.09k5k	----------
+Adolf Hitler	m.07_m9_	m.07_m9_
+Mount St Helens	m.094xz	N/A
+New York	m.02_286	m.059rby	----------
+Tupac Shakur	m.07pzc	m.07pzc
+Chinese Language	m.0d05w3	N/A
+Robert Burns	m.09482	m.09482
+William Mckinley	m.083p7	m.0761jjm	----------
+Lake Merritt	m.06sqv1	m.06sqv1
+Indiana	m.03v1s	m.03v1s
+Islam	m.0kj34	m.0flw86	----------
+Claude Debussy	m.01vvy	m.01vvy
+Toronto Maple Leafs	m.0j6tr	m.0j6tr
+Russia	m.06bnz	m.06bnz
+Hank Baskett	m.0d81yf	m.0d81yf
+Paraguay	m.03d8m4	m.05v10	----------
+Hammurabi	m.024j0	m.03qlj	----------
+Pittsburgh Steelers	m.05tfm	m.05tfm
+Isaac Newton	m.03s9v	m.03s9v
+Harvard University	m.03ksy	m.03ksy
+University Of The Rockies	m.03wbmx5	N/A
+Robin Roberts	m.037nnt	m.06k3_t	----------
+Byzantine Empire	m.017cw	m.017cw
+Edward Scissorhands	m.01s3vk	m.01s3vk
+Joey Jordison	m.01wt4wc	m.01wt4wc
+Turkey	m.01znc_	m.01znc_
+Lebron James	m.01jz6d	m.063r8c_	----------
+Battle Of Gettysburg	m.0h241s	N/A
+San Francisco Giants	m.0713r	m.0713r
+United Kingdom	m.07ssc	m.07ssc
+American Football League	m.059yj	m.0ysy	----------
+Giuliana Depandi	m.0b0tw3	N/A
+Ukraine	m.07t21	m.07t21
+Michael Bay	m.02qzjj	m.02qzjj
+Victoria Of The United Kingdom	m.0cw10	N/A
+Anthony Of Padua	m.0lx__	m.06dgfbh	----------
+Brian Dawkins	m.04m4p5	m.04m4p5
+Tupac Shakur	m.07pzc	m.07pzc
+China	m.0d05w3	m.0d05w3
+Kenneth Parcell	m.0272jt5	m.0272jt5
+Indianapolis Colts	m.03wnh	m.03wnh
+Ferdinand Magellan	m.033ky	m.033ky
+Perpignan	m.09nkq	m.09nkq
+Kim Richards	m.08l257	m.08l257
+Bosnia And Herzegovina	m.0166b	N/A
+Pittsburgh Steelers	m.05tfm	m.05tfm
+Desmond Tutu	m.02d5w	m.02d5w
+English	m.02h40lc	m.0skp3	----------
+Giza	m.07s6gb8	m.012b0q	----------
+Midland	m.04lcp3p	m.013n2h	----------
+Midwestern United States	m.0q76g	m.0q76g
+Florida Marlins	m.02__x	m.08nxr7p	----------
+Justin Bieber	m.06w2sn5	m.06w2sn5
+Australian People	m.0cj1g7	m.05yxn_p	----------
+Annie Oakley	m.0237np	m.02rl_9	----------
+Lex Luthor	m.04q78	m.04q78
+Zambezi	m.0p_70	m.0p_70
+Tim Tebow	m.0g7km1	m.0g7km1
+Nigeria	m.05cgv	m.05cgv
+Jenni Rivera	m.01v5vfj	m.01v5vfj
+Mitt Romney	m.0271_s	m.0271_s
+South Dakota	m.06mz5	m.06mz5
+Jason Mraz	m.0259r0	m.0259r0
+John Bonham	m.015pvx	m.015pvx
+Wal-mart	m.0841v	m.0c3qkw_	----------
+Texarkana Arkansas	m.0d9z_y	N/A
+Chris Paul	m.0cymln	m.0cymln
+Slovakia	m.06npd	m.06npd
+Ludwig Van Beethoven	m.04k15	m.07jyxfs	----------
+Laura Ingalls Wilder	m.01bt87	m.01bt87
+Italy	m.03rjj	m.03rjj
+John Irving	m.042v2	m.042v2
+Hawaii	m.03gh4	m.03gh4
+Alice Paul	m.02lp71	m.012kyj6	----------
+Roanoke Colony	m.02p0w8z	m.02p0w8z
+Costa Rica	m.01p8s	m.01p8s
+Hank Marvin	m.01x2fx0	m.01x2fx0
+Chipper Jones	m.0crdkb	m.0crdkb
+Winona Ryder	m.086sj	m.086sj
+Jimmy Carter	m.042kg	m.042kg
+Adolf Hitler	m.07_m9_	m.07_m9_
+Jovan Belcher	m.055d_1d	m.055d_1d
+Chernobyl Disaster	m.01tsk	N/A
+Clay Matthews Iii	m.04zy7pw	N/A
+Houston	m.03l2n	m.03l2n
+Princess Leia Organa	m.0ddqw	N/A
+China	m.0d05w3	m.0d05w3
+New York	m.02_286	m.059rby	----------
+Brazil	m.015fr	m.015fr
+Obi-wan Kenobi	m.0fkm7	N/A
+Venus Williams	m.016cff	m.016cff
+Panama	m.05qx1	m.05qx1
+Zambezi	m.0p_70	m.0p_70
+United Staff	m.09c7w0	N/A
+Ronaldo	m.02xt6q	m.0hhqw	----------
+Robin Williams	m.0dzf_	m.0dzf_
+Jacob Black	m.02qd_td	m.02qd_td
+John Adams	m.03_js	m.03_js
+Lee Clark	m.041xst	m.041xst
+Buenos Aires	m.01ly5m	m.01ly5m
+Long Island	m.04n3l	m.04n3l
+Adrian Peterson	m.095xk6	m.095xk6
+Pennsylvania	m.05tbn	m.05tbn
+Germany	m.0345h	m.0345h
+David Blaine	m.0dynm	m.0dynm
+James Chadwick	m.017jtb	m.017jtb
+Austraila	m.0chghy	N/A
+Vince Lombardi	m.07_xf	m.07_xf
+United States	m.09c7w0	m.0dvxqk	----------
+Veronica Lake	m.01xm6k	m.01xm6k
+Francis Drake	m.031t2	m.031t2
+Stephanie Plum	m.098by5	m.098by5
+Roman Empire	m.017cw	m.06cmp	----------
+Ringo Starr	m.01vrnsk	m.01vrnsk
+Saint Lucy	m.01r0zd	m.01r0zd
+Austraila	m.0chghy	N/A
+University Of Maryland Baltimore	m.020ym6	N/A
+Galileo Galilei	m.034ks	m.034ks
+Salvador Dali	m.09_xn	m.0lqjtm	----------
+George Vi Of The United Kingdom	m.0cm83	N/A
+Cristiano Ronaldo	m.02xt6q	m.02xt6q
+Oklahoma	m.05mph	m.05mph
+Trenton	m.0fvxz	m.0fvxz
+Ashley Greene	m.03w9v1d	m.03w9v1d
+Al-qaeda	m.0v74	N/A
+Switzerland	m.06mzp	m.06mzp
+Philip The Apostle	m.012tjy	N/A
+Charles Darwin	m.01lwx	m.01lwx
+England	m.02pp1	m.02jx1	----------
+Epidermal Growth Factor Receptor	m.08k67q	m.04kkmmr	----------
+Turkey	m.01znc_	m.01znc_
+Nigeria	m.05cgv	m.05cgv
+Alexander Graham Bell	m.0k70	m.0k70
+Holly Madison	m.07xz75	m.07xz75
+Mary Shelley	m.04_by	m.04_by
+Australian People	m.0cj1g7	m.05yxn_p	----------
+Denmark	g.121p5z1h	m.0k6nt	----------
+Theodore Roosevelt	m.07hyk	m.07hyk
+Malaysia	m.09pmkv	m.09pmkv
+Canada	m.0d060g	m.0d060g
+Costa Rica	m.01p8s	m.01p8s
+Nashville Tennessee	m.05jbn	m.0rgptk1	----------
+Philippines	m.05v8c	m.05v8c
+Darth Vader	m.0f2y0	m.0f2y0
+Adolf Hitler	m.07_m9_	m.07_m9_
+Europe	m.02j9z	m.02j9z
+Gulf War	m.03m_n0	m.018w0j	----------
+Virginia	m.07z1m	m.07z1m
+George Clinton	m.0ql36	m.0ql36
+Slovakia	m.06npd	m.06npd
+James Garfield	m.0b22w	m.0cl6y52	----------
+Paula Deen	m.05dpch	m.05dpch
+Robert Irvine	m.0272y2y	m.0272y2y
+Michael Jackson	m.09889g	m.09889g
+David Beckham	m.02d9k	m.02d9k
+Julian Lennon	m.01k4jy3	m.01k4jy3
+Milwaukee Brewers	m.051vz	m.051vz
+United States	m.09c7w0	m.0dvxqk	----------
+Mexican Army	m.0b90_r	m.025sjdv	----------
+Charlie Hunnam	m.057yk8	m.057yk8
+Taylor Swift	m.0dl567	m.0dl567
+Michael Jackson	m.09889g	m.09889g
+Brett Favre	m.0cv72h	m.0cv72h
+Portland	m.02frhbc	m.02frhbc
+Alex Chilton	m.024bwn	m.024bwn
+Martin Luther King Jr	m.051cc	m.06lwmyx	----------
+Harley-davidson	m.03ny2	N/A
+Farrah Fawcett	m.01j851	m.01j851
+Michael J Fox	m.0hz_1	N/A
+Costa Rica	m.01p8s	m.01p8s
+Joe Walsh	m.01sb5r	m.01sb5r
+European Union	m.0_6t_z8	m.02jxk	----------
+Ryan Seacrest	m.02b9g4	m.02b9g4
+African American	m.09c7w0	m.0x67	----------
+Italian People	m.0bg8cfz	N/A
+Denver Broncos	m.0289q	m.0289q
+Spain	m.06mkj	m.06mkj
+Drew Barrymore	m.026c1	m.026c1
+St Georges Day	m.0j7mzbj	N/A
+Roman Empire	m.017cw	m.06cmp	----------
+Crimean War	m.05kj7b	m.0cmc2	----------
+Robin Gibb	m.0134wr	m.0137hn	----------
+Darth Vader	m.0f2y0	m.0f2y0
+Abraham Lincoln	m.0gzh	m.0gzh
+Texas Rangers	m.07l8x	m.07l8x
+Andrew Johnson	m.0rmg	m.0rmg
+Arkansas	m.0vbk	m.0vbk
+Egypt	m.02k54	m.02k54
+Vietnam	m.01crd5	m.01crd5
+Nogales	m.01kkr1	m.0qqw9	----------
+Michael Vick	m.027f42	m.027f42
+Kfc	m.09b6t	m.0788rg7	----------
+William Howard Taft	m.083pr	m.083pr
+Jesse James	m.0330zg	m.02khjc	----------
+Robin Cook	m.02_5yp	m.02_5yp
+Melba Beals	m.08s1bb	N/A
+Joseph Kony	m.026fkt	m.026fkt
+Louisiana	m.04ly1	m.04ly1
+Central America	m.01tzh	m.01tzh
+Derek Fisher	m.04lvwk	m.04lvwk
+Kobe Bryant	m.01kmd4	m.01kmd4
+New Orleans Oklahoma City Hornets	m.0jm6n	N/A
+Algeria	m.0h3y	m.0h3y
+Anne Boleyn	m.09sxn	m.09sxn
+Galileo Galilei	m.034ks	m.034ks
+Martin Luther King Jr	m.051cc	m.06lwmyx	----------
+Gautama Buddha	m.015k7	m.015k7
+Henry Viii Of England	m.03p77	N/A
+Larry Hagman	m.01vyv9	m.01vyv9
+Byron Nelson	m.02jhww	m.02jhww
+Robert E Lee	m.06f5j	m.05v_45m	----------
+Russia	m.06bnz	m.06bnz
+Libya	m.04gqr	m.04gqr
+Austraila	m.0chghy	N/A
+Shays Rebellion	m.06mjptt	N/A
+Montel Williams	m.018ptv	m.018ptv
+Vlaams Language	m.03m4m0m	N/A
+Baltimore Ravens	m.01ct6	m.01ct6
+Kansas City Royals	m.049n7	m.049n7
+John Mayer	m.01s21dg	m.01s21dg
+Nathaniel Hawthorne	m.05gpy	m.05gpy
+Thomas Edison	m.07bty	m.07bty
+Novak Djokovic	m.09n70c	m.09n70c
+Arizona Cardinals	m.0ws7	m.0ws7
+New England	m.05g3b	m.029jpy	----------
+Turkey	m.01znc_	m.01znc_
+Jimi Hendrix	m.01vsy3q	m.01vsy3q
+Barack Obama	m.02mjmr	m.02mjmr
+Alexander Graham Bell	m.0k70	m.0k70
+Tupac Shakur	m.07pzc	m.07pzc
+Liverpool Fc	m.04ltf	N/A
+I Dream Of Jeannie	m.025m13	N/A
+French	m.0f8l9c	m.034rwln	----------
+Saint Peter	m.071wp	m.071wp
+Jeremy Shockey	m.076ltd	m.076ltd
+Deion Sanders	m.03n69x	m.03n69x
+Battle Of The Alamo	m.06msmb3	N/A
+Henry Viii Of England	m.03p77	N/A
+Elizabeth Ii Of The United Kingdom	m.0d1_f	N/A
+Tim Tebow	m.0g7km1	m.0g7km1
+Chesapeake Bay Bridge	m.03ls0t	m.03xksb	----------
+The Big Valley	m.030k44	m.030k44
+John F Kennedy	m.0d3k14	m.03t0qkg	----------
+German Language	m.02h40lc	m.04306rv	----------
+Taliban Movement	m.07jqh	N/A
+Egypt	m.02k54	m.02k54
+Elena Gilbert	m.0790rw8	m.0790rw8
+Jill Valentine	m.045r56	m.045r56
+Missouri River	m.04ykz	m.04ykz
+Taylor Lautner	m.07ldhs	m.07ldhs
+California	m.01n7q	m.01n7q
+Nike Inc	m.0k8z	N/A
+Colombia	m.01ls2	m.01ls2
+Ray Allen	m.03lh3v	m.03lh3v
+Washington Redskins	m.084l5	m.084l5
+Claire Danes	m.01gq0b	m.01gq0b
+San Antonio	m.0f2w0	m.0f2w0
+Matt Stone	m.01_x6d	m.01_x6d
+Michigan	m.04rrx	m.04rrx
+Soviet Union	m.05vz3zq	m.05vz3zq
+Japan	m.03_3d	m.03_3d
+Dennis Rodman	m.01ztgm	m.01ztgm
+Paul Of Tarsus	m.060nc	N/A
+Africa	m.0dg3n1	m.0dg3n1
+Vin Scully	m.038gnr	m.038gnr
+Princess Leia Organa	m.0ddqw	N/A
+El Salvador	m.02k8k	m.02k8k
+Leonardo Da Vinci	m.01ky5r	m.06q_46v	----------
+Mary Bell	m.01j324	m.03xtp20	----------
+United States	m.09c7w0	m.0dvxqk	----------
+Kimberly Williams	m.05d5mc	m.0cxtf_	----------
+Ryan Gosling	m.03m6_z	m.03m6_z
+Julia Gillard	m.02kx9r	m.02kx9r
+Germany	m.0345h	m.0345h
+Selena Gomez	m.0gs6vr	m.0gs6vr
+Denise Van Outen	m.02_75_	m.07mqcp4	----------
+Egypt	m.02k54	m.02k54
+Wyoming Michigan	m.0v9xs	N/A
+Costa Rica	m.01p8s	m.01p8s
+Martin Luther King Jr	m.051cc	m.06lwmyx	----------
+Gospel Of John	m.038vs	N/A
+United Kingdom	m.07ssc	m.07ssc
+John Elway	m.01sthx	m.01sthx
+Samir Nasri	m.0f2dbm	m.0f2dbm
+Czech Republic	m.01mjq	m.01mjq
+William Penn	m.05xb9z	m.083qr	----------
+Mozilla Firefox	m.01dyhm	m.06gyyvl	----------
+New Zealand	m.0ctw_b	m.0ctw_b
+Panama	m.05qx1	m.05qx1
+Republic Of Ireland	m.02ryyk	N/A
+Kristen Stewart	m.07swvb	m.07swvb
+Josef Mengele	m.0lhsd	m.0lhsd
+Egypt	m.02k54	m.02k54
+Hawaii	m.03gh4	m.03gh4
+North Korea	m.05b7q	m.05b7q
+Robert Kardashian	m.01x48v	m.01x48v
+Chernobyl Disaster	m.01tsk	N/A
+St James City	m.0rmlp	N/A
+Akkadian	m.0q_7	m.0snj4k2	----------
+Olympic Games	m.05nd_	m.05nd_
+Guyana	m.034m8	m.034m8
+New York Knicks	m.0jm3v	m.0jm3v
+Sergio Aguero	m.099vgz	m.07yrj77	----------
+European Union	m.0_6t_z8	m.02jxk	----------
+Solemnity Of Saint Joseph	m.0c08y	N/A
+Kenya Moore	m.08cpnf	m.08cpnf
+Nigeria	m.05cgv	m.05cgv
+Ina Garten	m.0315fl	m.0315fl
+Atlanta Braves	m.0x2p	m.0x2p
+Lamar Odom	m.02_nkp	m.02_nkp
+Iran	m.03shp	m.03shp
+Spain	m.06mkj	m.06mkj
+Scott Joplin	m.07b69	m.07b69
+Miley Cyrus	m.0bdxs5	m.0bdxs5
+Ernest Hemingway	m.02kz_	m.02kz_
+Afghanistan	m.0jdd	m.0jdd
+Jamaica	m.03_r3	m.03_r3
+Paul Mccartney	m.03j24kf	N/A
+Juventus Fc	m.045xx	N/A
+University Of Oregon	m.01n6r0	N/A
+Robin Roberts	m.037nnt	m.06k3_t	----------
+Victoria	m.0chgr2	m.0chgr2
+French	m.0f8l9c	m.034rwln	----------
+Reggie Bush	m.05cb70	m.05cb70
+Emily Osment	m.03xnq9_	m.03xnq9_
+Mexico	m.0b90_r	m.0b90_r
+Thor Heyerdahl	m.09fcm	m.09fcm
+Leonardo Da Vinci	m.01ky5r	m.06q_46v	----------
+Troy Aikman	m.0dr5g9	m.0dr5g9
+Cletus Hogg	m.0bt0q	m.0bxcc6	----------
+Fa Cup	m.02_p0	N/A
+Robert E Lee	m.06f5j	m.05v_45m	----------
+Henri Matisse	m.0gct_	m.0gct_
+Chuck Bass	m.0g0jx7	m.0g0jx7
+Oceania	m.05nrg	m.05nrg
+St Louis Park	m.0xdhj	N/A
+South Africa	m.0hzlz	m.0hzlz
+Canberra	m.0dp90	m.0dp90
+Germany	m.0345h	m.0345h
+Tucson	m.0fr0t	m.0fr0t
+Lucy Lawless	m.01r9md	m.01r9md
+Barack Obama	m.02mjmr	m.02mjmr
+Ghana	m.035dk	m.035dk
+Jill Clayburgh	m.01gw8b	m.01gw8b
+Adolf Hitler	m.07_m9_	m.07_m9_
+Sydney	m.06y57	m.06y57
+Marilyn Monroe	m.04wqr	m.04wqr
+Sierra Nevada	m.0db94	m.0db94
+Greek Language	m.035qy	m.0349s	----------
+Monta Ellis	m.06rsnl	m.06rsnl
+United States House Of Representatives	m.09c7w0	N/A
+Stanley Hudson	m.026nx7k	m.026nx7k
+Kelly Clarkson	m.025ldg	m.025ldg
+Tim Roth	m.021yzs	m.021yzs
+Isaac Newton	m.03s9v	m.03s9v
+Vietnam	m.01crd5	m.01crd5
+Roger Federer	m.01my95	m.01my95
+Costa Rica	m.01p8s	m.01p8s
+Cuba	m.0d04z6	m.0d04z6
+Belgium	m.0154j	m.0154j
+Japan	m.03_3d	m.03_3d
+Claude Debussy	m.01vvy	m.01vvy
+Selena Gomez	m.0gs6vr	m.0gs6vr
+Stanley Tucci	m.02bj6k	m.02bj6k
+Battle Of Gettysburg	m.0h241s	N/A
+John F Kennedy	m.0d3k14	m.03t0qkg	----------
+Tupac Shakur	m.07pzc	m.07pzc
+Augustus	m.0ngg	m.0ngg
+Serena Williams	m.015z4j	m.015z4j
+Colombia	m.01ls2	m.01ls2
+Schenectady	m.0fdpd	m.0fdpd
+United States	m.09c7w0	m.0dvxqk	----------
+Canada	m.0d060g	m.0d060g
+Google	m.045c7b	m.045c7b
+John Pemberton	m.0h24w	m.0h24w
+Stanley Matthews	m.013s6x	m.034_z9	----------
+Brazil	m.015fr	m.015fr
+Charles Edward Stuart	m.0fssd	m.0fssd
+Stewie Griffin	m.02m29p	m.02m29p
+Angelina Jolie	m.0f4vbz	m.0f4vbz
+Indiana	m.03v1s	m.03v1s
+Brad Pitt	m.0c6qh	m.0c6qh
+Barack Obama	m.02mjmr	m.02mjmr
+San Francisco	m.0d6lp	m.0d6lp
+Stephen Ireland	m.07_mj3	m.07_mj3
+France	m.0f8l9c	m.0f8l9c
+John Mayer	m.01s21dg	m.01s21dg
+Brody Jenner	m.026_dq6	m.026_dq6
+Malaysia	m.09pmkv	m.09pmkv
+China	m.0d05w3	m.0d05w3
+Volkswagen	m.07ywl	m.0h5wtyy	----------
+Rome	m.06c62	m.06c62
+Steve Mcnair	m.02zmx0	N/A
+California	m.01n7q	m.01n7q
+Roxanne 1987	m.02rl6f	N/A
+Sony Ericsson	m.01spxd	N/A
+Dominican Republic	m.027rn	m.027rn
+Manchester United Kingdom	m.052bw	N/A
+Italy	m.03rjj	m.03rjj
+Google	m.045c7b	m.045c7b
+Jesse Owens	m.0cmr3	m.0cmr3
+Carlos Santana	m.05crg7	m.01304j	----------
+John Carter Of Mars	m.01f09	N/A
+Joseph Goebbels	m.040by	m.040by
+North American Free Trade Agreement	m.09c7w0	m.05jj_	----------
+Houston	m.03l2n	m.03l2n
+Seattle Seahawks	m.070xg	m.070xg
+Michael Keaton	m.01j5ws	m.01j5ws
+Spain	m.06mkj	m.06mkj
+Riviera	m.05vv6l	m.01ps1cj	----------
+Buddhism	m.0s99fhq	m.092bf5	----------
+William Henry Harrison	m.0835q	m.0835q
+Richard Arkwright	m.01tglh	m.01tglh
+Louis Sachar	m.01bq8d	m.01bq8d
+Roth Ira	m.06kpm_h	N/A
+The Legend Of Zelda Series	m.07d5v	N/A
+Darth Vader	m.0f2y0	m.0f2y0
+United States	m.09c7w0	m.0dvxqk	----------
+Thomas Malthus	m.07r3d	m.03hs8_w	----------
+Newark California	m.0qx_6	N/A
+Tennesee	m.07h34	m.0m0fvh	----------
+Vancouver	m.080h2	m.080h2
+United States	m.09c7w0	m.0dvxqk	----------
+Egypt	m.02k54	m.02k54
+Justin Bieber	m.06w2sn5	m.06w2sn5
+James Madison	m.0424m	m.0424m
+Barack Obama	m.02mjmr	m.02mjmr
+John Lennon	m.01vsl3_	m.01vsl3_
+Edward Cullen	m.0289n2z	m.0289n2z
+Herbert Hoover	m.03kdl	m.03kdl
+National Football League	m.059yj	m.059yj
+Bangalore	m.09c17	m.09c17
+Greece	m.035qy	m.035qy
+Philadelphia Phillies	m.05xvj	m.05xvj
+Matt Dallas	m.0dfyw6	m.0dfyw6
+John F Kennedy	m.0d3k14	m.03t0qkg	----------
+Harley-davidson	m.03ny2	N/A
+Pope John Paul Ii	m.05yfx	N/A
+Belgium	m.0154j	m.0154j
+Starbucks	m.018c_r	m.018c_r
+Ottoman Empire	m.05kyr	m.05kyr
+Osama Bin Laden	m.05mg9	m.0g51qyx	----------
+Harry Potter	m.02676m4	m.06xltj	----------
+Pamela Courson	m.07ms9g	m.07ms9g
+Jack Kevorkian	m.01ctkj	m.01ctkj
+Bolivia	m.0165v	m.0165v
+Stacey Slater	m.088np1	N/A
+Nolan Ryan	m.0hctb	m.0hctb
+Sweden	m.0d0vqn	m.0d0vqn
+Justin Bieber	m.06w2sn5	m.06w2sn5
+Supreme Court Of The United States	m.07sz1	N/A
+Frida Kahlo	m.015k04	m.015k04
+Taylor Swift	m.0dl567	m.0dl567
+Argentina	m.0jgd	m.0jgd
+San Francisco Giants	m.0713r	m.0713r
+China	m.0d05w3	m.0d05w3
+Battle Of Waterloo	m.013cd3c6	m.0nmh32w	----------
+Spain	m.06mkj	m.06mkj
+Vladimir Lenin	m.05wh0sh	m.05wh0sh
+Baltimore Ravens	m.01ct6	m.01ct6
+Cristiano Ronaldo	m.02xt6q	m.02xt6q
+Egypt	m.02k54	m.02k54
+Mark Twain	m.014635	m.014635
+Italy	m.03rjj	m.03rjj
+France	m.0f8l9c	m.0f8l9c
+Theodor Schwann	m.040000	m.040000
+Bruno Mars	m.0bs1g5r	m.0bs1g5r
+Virginia	m.07z1m	m.07z1m
+Dr Seuss	m.02g3w	N/A
+United Nations Security Council	m.07vnr	m.07vnr
+Nordic Countries	m.0140mf	N/A
+Ferdinand Magellan	m.033ky	m.033ky
+Vera-ellen	m.022sm6	N/A
+Egypt	m.02k54	m.02k54
+Toronto	m.0h7h6	m.0h7h6
+United States	m.09c7w0	m.0dvxqk	----------
+Plaxico Burress	m.047j_j	m.047j_j
+Brazil	m.015fr	m.015fr
+Andy Warhol	m.0kc6	m.0kc6
+Florida	m.02xry	m.02xry
+Mike Delfino	m.0d8hzj	m.0d8hzj
+Russia	m.06bnz	m.06bnz
+Spanish	m.06mkj	m.02pm9vw	----------
+Carolina Panthers	m.01y3c	m.01y3c
+Louis Sachar	m.01bq8d	m.01bq8d
+Marshall Eriksen	m.0127f0xc	m.02vkmj9	----------
+Greece	m.035qy	m.035qy
+Houston	m.03l2n	m.03l2n
+Otto Frank	m.01c9j8	m.01c9j8
+Jennifer Lawrence	m.02x0dzw	m.02x0dzw
+Pennsylvania	m.05tbn	m.05tbn
+Phoenicia	m.0617q	m.0yb9y	----------
+Boston Celtics	m.0bwjj	m.0bwjj
+George Washington	m.034rd	m.034rd
+Osama Bin Laden	m.05mg9	m.0g51qyx	----------
+Toronto	m.0h7h6	m.0h7h6
+Bosnia And Herzegovina	m.0166b	N/A
+Hugo Chavez	m.0d1b_	m.02xgb87	----------
+Japan	m.03_3d	m.03_3d
+Sonia Gandhi	m.016rwt	m.016rwt
+Islam	m.0kj34	m.0flw86	----------
+Mary Todd Lincoln	m.01ypl0	m.01ypl0
+Charles Darwin	m.01lwx	m.01lwx
+Nick Cannon	m.01d1st	m.01d1st
+San Francisco	m.0d6lp	m.0d6lp
+George Vi Of The United Kingdom	m.0cm83	N/A
+Jesus	m.04399	m.042g53r	----------
+James Dyson	m.0209vm	m.0209vm
+Darth Vader	m.0f2y0	m.0f2y0
+Maya Angelou	m.01q9b9	m.01q9b9
+Switzerland	m.06mzp	m.06mzp
+Benito Mussolini	m.0177g	m.0177g
+Hosni Mubarak	m.0dnps	m.0dnps
+Communist Party Of China	m.0d05w3	N/A
+Miles Davis	m.053yx	m.053yx
+Azle	m.013n59	m.013n59
+Sally Mclellan	m.0287hgn	N/A
+Detroit Pistons	m.0jm8l	m.0jm8l
+Philadelphia Flyers	m.0dclg	m.0hn2q	----------
+Dallas Cowboys	m.02896	m.02896
+St Pauls	m.0pwzt	N/A
+Olympic National Park	m.015nrn	m.015nrn
+Nat Turner	m.0f9y4	m.0f9y4
+Luke Skywalker	m.0f1bg	m.0f1bg
+Egypt	m.02k54	m.02k54
+Turkish Language	m.01znc_	m.02hwyss	----------
+Barack Obama	m.02mjmr	m.02mjmr
+Joe Montana	m.01r6hc	m.01r6hc
+Minnesota Vikings	m.051q5	m.051q5
+American People Of The United States	m.059_w	N/A
+Gary Paulsen	m.04fpcx	m.04fpcx
+Cuba	m.0d04z6	m.0d04z6
+Alexander Graham Bell	m.0k70	m.0k70
+Golden State Warriors	m.0jmj7	m.0jmj7
+Turkey	m.01znc_	m.01znc_
+Mexico	m.0b90_r	m.0b90_r
+United Kingdom	m.07ssc	m.07ssc
+Baltimore Ravens	m.01ct6	m.01ct6
+Russia	m.06bnz	m.06bnz
+Lauren Reed	m.02krsd	m.02krsd
+Cambodia	m.01xbgx	m.01xbgx
+Serena Williams	m.015z4j	m.015z4j
+Isaac Newton	m.03s9v	m.03s9v
+Huell Howser	m.02kddt	m.02kddt
+Suzanne Collins	m.0bpd5z	m.0bpd5z
+England	m.02pp1	m.02jx1	----------
+Lionel Messi	m.06qjgc	m.06qjgc
+Greensburg Indiana	m.0skw_	N/A
+Fullmetal Alchemist	m.026w8x	m.026w8x
+Lord Voldemort	m.0c8lv	m.0c8lv
+Harper Lee	m.01bq7x	m.01bq7x
+Ku Klux Klan	m.0d060g	m.048qr	----------
+University Of Georgia	m.02183k	N/A
+John Adams	m.03_js	m.03_js
+Mario Bros	m.0kypr	N/A
+Andrew Johnson	m.0rmg	m.0rmg
+Joseph	m.0c08y	m.0dwwmx	----------
+Osama Bin Laden	m.05mg9	m.0g51qyx	----------
+Greek Language	m.035qy	m.0349s	----------
+Arabic Language	g.11bwd_sz5b	m.0jzc	----------
+Elizabeth Ii Of The United Kingdom	m.0d1_f	N/A
+Pablo Picasso	m.060_7	m.060_7
+Ricky Martin	m.01w61th	m.01w61th
+Ella Fitzgerald	m.0d9xq	m.0d9xq
+Anne Hathaway	m.02vntj	m.02vntj
+Don Draper	m.02s9q_4	m.02s9q_4
+Van Halen	m.0ycfj	m.0ycfj
+Spain	m.06mkj	m.06mkj
+Republican Party	m.012njkhw	m.07wbk	----------
+Toronto	m.0h7h6	m.0h7h6
+Supreme Court Of The United States	m.07sz1	N/A
+Pennsylvania State University	m.04hgpt	m.04hgpt
+Bangkok	m.0fn2g	m.0fn2g
+Israeli-palestinian Conflict	m.09s93	N/A
+Alaska	m.0hjy	m.0hjy
+Kansas City	m.0487_	m.04f_d	----------
+Pink Floyd	m.01wv9xn	m.01wv9xn
+Granville Woods	m.0236mx	m.0236mx
+Thomas Jefferson	m.07cbs	m.07cbs
+Sioux	m.0fk3s	m.0fk3s
+El Salvador	m.02k8k	m.02k8k
+Brett Gardner	m.02px3wt	m.02px3wt
+Dwight Schrute	m.089pwh	m.089pwh
+Riley Finn	m.01j9hw	m.01j9hw
+San Diego	m.071vr	m.071vr
+Miami Dolphins	m.04vn5	m.04vn5
+Yoruba	m.0czcy_9	m.0t0018	----------
+Anne Frank	m.03d9rk	m.03d9rk
+Monica 1980	m.01fs85	N/A
+Adolf Hitler	m.07_m9_	m.07_m9_
+Germany	m.0345h	m.0345h
+Denver Broncos	m.0289q	m.0289q
+Julius Caesar	m.041wm	m.041wm
+Bessie Smith	m.0dq47	m.0dq47
+Jackie Robinson	m.0443c	m.0443c
+Chicago	m.01_d4	m.01_d4
+Dominican Republic	m.027rn	m.027rn
+Ronald Reagan	m.06c0j	m.06c0j
+Chicago White Sox	m.01slc	m.01slc
+Jeff Conaway	m.026mzh	m.026mzh
+Benjamin Franklin	m.019fz	m.019fz
+Barbados	m.0162v	m.0162v
+Stanley Cup	m.0hn79	m.0hn79
+Toronto	m.0h7h6	m.0h7h6
+Syracuse New York	m.071cn	N/A
+Tennessee Williams	m.0c4y8	m.0c4y8
+New York	m.02_286	m.059rby	----------
+Victoria Of The United Kingdom	m.0cw10	N/A
+Benjamin Franklin	m.019fz	m.019fz
+Barbara Bush	m.015nr6	m.015nr6
+Jacob Latimore	m.0521dwp	m.0521dwp
+Dunkirk	m.0md6f	m.01mb4t	----------
+Scottie Pippen	m.01vpgl	m.01vpgl
+Donna Noble	m.02pcf8b	m.02pcf8b
+Serena Williams	m.015z4j	m.015z4j
+Meg Griffin	m.035szd	m.035szd
+Dallas Cowboys	m.02896	m.02896
+Napoleon I Of France	m.0j5b8	N/A
+Ireland	m.012wgb	m.03rt9	----------
+Lee Harvey Oswald	m.04gwy	m.04gwy
+New York Knicks	m.0jm3v	m.0jm3v
+Boston Celtics	m.0bwjj	m.0bwjj
+Oceania	m.05nrg	m.05nrg
+Nicki Minaj	m.047sxrj	m.047sxrj
+Albus Dumbledore	m.0cb2r	N/A
+Pakistan	m.05sb1	m.05sb1
+Christopher Plummer	m.01ycbq	m.01ycbq
+Morocco	m.04wgh	m.04wgh
+Omar Epps	m.02_tv5	m.02_tv5
+Nancy Pelosi	m.012v1t	m.012v1t
+Walton Indiana	m.03ttl	N/A
+George H W Bush	m.034ls	N/A
+Bruce Jenner	m.03bbdn	m.03bbdn
+Tibetan People	m.07rj5	N/A
+Hollywood	m.0f2wj	m.0f2wj
+Abraham Lincoln	m.0gzh	m.0gzh
+Kim Kardashian	m.0261x8t	m.0261x8t
+Justin Bieber	m.06w2sn5	m.06w2sn5
+Michael Kors	m.07f8gw	m.07f8gw
+Charlie-o	m.01lwx	N/A
+French	m.0f8l9c	m.034rwln	----------
+Napoleon I Of France	m.0j5b8	N/A
+R Kelly	m.0ffgh	N/A
+Benghazi	m.01czt9	m.01czt9
+Nike Inc	m.0lwkh	N/A
+Uganda	m.07tp2	m.07tp2
+Mexico	m.0b90_r	m.0b90_r
+Steve Spurrier	m.03yx01	m.03yx01
+South America	m.06n3y	m.06n3y
+Chicago Blackhawks	m.0jnlm	m.0jnlm
+John Connor	m.06nsv4	m.06nsv4
+Mexico	m.0b90_r	m.0b90_r
+Italian People	m.0bg8cfz	N/A
+Angelina Jolie	m.0f4vbz	m.0f4vbz
+James T Kirk	m.0crtw	N/A
+Dana Scully	m.022jb6	m.022jb6
+South Carolina	m.06yxd	m.06yxd
+F Scott Fitzgerald	m.02zjd	m.06knrhj	----------
+Jamaica	m.03_r3	m.03_r3
+New York Knicks	m.0jm3v	m.0jm3v
+Wesley Snipes	m.02lymt	m.02lymt
+Sherrod Brown	m.034s80	m.034s80
+Colombia	m.01ls2	m.01ls2
+England	m.02pp1	m.02jx1	----------
+Meg Griffin	m.035szd	m.035szd
+Mali	m.04v09	m.04v09
+Cristiano Ronaldo	m.02xt6q	m.02xt6q
+Morgantown	m.010y34	m.010y34
+Jacksonville	m.0ggh3	m.0ggh3
+Amy Stiller	m.0194r1	m.0194r1
+Henry Vii Of England	m.03p6r	N/A
+Mary Jane Watson	m.01ppxz	m.01ppxz
+Mila Kunis	m.023v4_	m.023v4_
+San Francisco	m.0d6lp	m.0d6lp
+Damien Thorn	m.09s4pt	m.09s4pt
+Olympic Games	m.05nd_	m.05nd_
+Denver	m.02cl1	m.02cl1
+Essex	m.02ly_	m.02ly_
+Cleveland Cavaliers	m.0jm7n	m.0jm7n
+Anne Frank	m.03d9rk	m.03d9rk
+Gordon Brown	m.03f77	m.03f77
+East Timor	m.02lx0	m.0w522v	----------
+Italy	m.03rjj	m.03rjj
+Greek Language	m.035qy	m.0349s	----------
+Italy	m.03rjj	m.03rjj
+Audrey Hepburn	m.0dqcm	m.0dqcm
+Austraila	m.0chghy	N/A
+Darth Vader	m.0f2y0	m.0f2y0
+National Rugby League	m.01lwy5	m.01lwy5
+Douglas Macarthur	m.0c_jc	m.0b6xttk	----------
+Barbados	m.0162v	m.0162v
+China	m.0d05w3	m.0d05w3
+Michael Jackson	m.09889g	m.09889g
+Turkey	m.01znc_	m.01znc_
+Arizona	m.0vmt	m.0vmt
+Haiti	m.03gyl	m.03gyl
+Lamar Odom	m.02_nkp	m.02_nkp
+Giza	m.07s6gb8	m.012b0q	----------
+Italy	m.03rjj	m.03rjj
+Russia	m.06bnz	m.06bnz
+Austraila	m.0chghy	N/A
+Tutankhamun	m.07hcc	m.07hcc
+Ibrahim	m.0pwb	m.03bxp74	----------
+George Washington Carver	m.03djm	m.03djm
+Spain	m.06mkj	m.06mkj
+Barack Obama	m.02mjmr	m.02mjmr
+Poland	m.05qhw	m.05qhw
+Demi Lovato	m.02wb6yq	m.02wb6yq
+Tony Gonzalez 1976	m.04j_jy	N/A
+Scarlett Johansson	m.02114t	m.02114t
+Meg Griffin	m.035szd	m.035szd
+Bad Teacher	m.0cp0ph6	m.0cp0ph6
+Boeing	m.0137k8	m.0178g	----------
+United States	m.09c7w0	m.0dvxqk	----------
+Viggo Mortensen	m.01ps2h8	m.01ps2h8
+Henry Hudson	m.0c065	m.0c065
+Isaac Newton	m.03s9v	m.03s9v
+William Shakespeare	m.081k8	m.081k8
+Queen Latifah	m.01wgcvn	m.01wgcvn
+Michelle Obama	m.025s5v9	m.025s5v9
+Listz	m.0hqgp	N/A
+David Luiz Moreira Marinho	m.02822jq	m.0g_n1nr	----------
+Thomas Jefferson	m.07cbs	m.07cbs
+Martin Luther King Jr	m.051cc	m.06lwmyx	----------
+Victoria Canada	m.07ypt	N/A
+Mary Mary	m.04n7gc6	m.01kq11t	----------
+France	m.0f8l9c	m.0f8l9c
+Scottish	m.06q1r	m.01c_dg3	----------
+David Beckham	m.02d9k	m.02d9k
+Nick Cannon	m.01d1st	m.01d1st
+National Public Radio	m.0c0sl	m.06n2fxt	----------
+Tom Landry	m.019_p3	m.019_p3
+John Jay	m.09889g	m.046cp	----------
+Mount Fuji	m.0cks0	m.0cks0
+Venus	m.09bcm	m.0zm0zl	----------
+Toussaint Louverture	m.011wgw	m.011wgw
+United Kingdom	m.07ssc	m.07ssc
+Lawton	m.03jgf7	m.0z53k	----------
+Spain	m.06mkj	m.06mkj
+German Language	m.02h40lc	m.04306rv	----------
+Mark Mcgwire	m.0550x	m.06mwqy1	----------
+Colorado Technical University	m.0c_5g9	m.0c_5g9
+France	m.0f8l9c	m.0f8l9c
+Kentucky	m.0498y	m.0498y
+Russia	m.06bnz	m.06bnz
+Elvis Presley	m.02jq1	m.02jq1
+Bewitched	m.023ny6	m.023ny6
+Isaac Newton	m.03s9v	m.03s9v
+San Diego	m.071vr	m.071vr
+North America	m.059g4	m.059g4
+Scottish	m.06q1r	m.01c_dg3	----------
+New Zealand	m.0ctw_b	m.0ctw_b
+Santa Claus	m.027g6wt	m.027g6wt
+Kelly Slater	m.028nb1	m.028nb1
+Coretta Scott King	m.0289jv	m.0289jv
+W H Smith	m.013_kt	m.013_kt
+Whitney Houston	m.086qd	m.086qd
+Richard Nixon	m.06c97	m.06c97
+Adolf Hitler	m.07_m9_	m.07_m9_
+Illinois River	m.0j1qb	m.0j1qb
+Honduras	m.03h2c	m.03h2c
+Paganism	m.03hfz	m.05tgm	----------
+Milwaukee	m.0dyl9	m.0dyl9
+Mazda	m.04x9h	m.0h5x68j	----------
+Ronaldinho	m.02lfw5	m.02lfw5
+Galileo Galilei	m.034ks	m.034ks
+Germany	m.0345h	m.0345h
+Mitt Romney	m.0271_s	m.0271_s
+Johnny Depp	m.0jfx1	m.0jfx1
+Jonesboro	m.0qskp	m.0qskp
+S E Hinton	m.01_fz1	N/A
+Taylor Swift	m.0dl567	m.0dl567
+Juan Ponce De Leon	m.0123f1	m.076lzrk	----------
+Charles Darwin	m.01lwx	m.01lwx
+Kitt	m.02gl9l	m.03hl1_g	----------
+Eminem	m.01vsgrn	m.01vsgrn
+Amy Grant	m.010hn	m.010hn
+Central America	m.01tzh	m.01tzh
+Jamie Lynn Spears	m.0p52s	m.0p52s
+Inca Empire	m.03yp_	m.03yp_
+Austraila	m.0chghy	N/A
+Canada	m.0d060g	m.0d060g
+Michael Jackson	m.09889g	m.09889g
+Clemson University	m.012vwb	m.012vwb
+Thomas Hunt Morgan	m.07rkk	m.07rkk
+South America	m.06n3y	m.06n3y
+Claude Monet	m.01xnj	m.01xnj
+Adolf Hitler	m.07_m9_	m.07_m9_
+Iraq	m.0d05q4	m.0d05q4
+William Howard Taft	m.083pr	m.083pr
+Kurt Cobain	m.0484q	m.0484q
+Jennifer Lawrence	m.02x0dzw	m.02x0dzw
+Virginia	m.07z1m	m.07z1m
+Darth Vader	m.0f2y0	m.0f2y0
+Dorothea Lange	m.013y4q	m.013y4q
+Walton County Georgia	m.0nym5	N/A
+Jacqueline Kennedy Onassis	m.0h6mq	m.0h6mq
+Lauren Conrad	m.0dq9wx	m.06xy91h	----------
+Pennsylvania	m.05tbn	m.05tbn
+Mario Lopez	m.02w5q6	m.0j946mm	----------
+Tupac Shakur	m.07pzc	m.07pzc
+George Lucas	m.0343h	m.0343h
+Sarah Dessen	m.052s_8	m.052s_8
+Kauai	m.0jbsn	m.0jbsn
+Dmitri Mendeleev	m.0gglj	m.0gglj
+Farrah Fawcett	m.01j851	m.01j851
+Great Britain	m.07ssc	m.034cm	----------
+John Steinbeck	m.04107	m.04107
+Cuba	m.0d04z6	m.0d04z6
+English	m.02h40lc	m.0skp3	----------
+George Washington	m.034rd	m.034rd
+Italy	m.03rjj	m.03rjj
+Dan White	m.02dzj8	m.0dm7jd	----------
+The Bahamas	m.0160w	m.05dgq_3	----------
+George Michael	m.01vvyfh	m.01vvyfh
+Jeremy Lin	m.09k72lh	m.09k72lh
+Cristiano Ronaldo	m.02xt6q	m.02xt6q
+The Bahamas	m.0160w	m.05dgq_3	----------
+African American	m.09c7w0	m.0x67	----------
+Brazil	m.015fr	m.015fr
+Samuel Taylor Coleridge	m.078w2	m.078w2
+Kim Kardashian	m.0261x8t	m.0261x8t
+Mississippi River	m.04yf_	m.04yf_
+Carlton Lassiter	m.0fdxxb	m.0fdxxb
+Deere Company	m.027v3x	N/A
+Israel	m.03spz	m.03spz
+Ancient Pueblo Peoples	m.064kds7	m.0lyq	----------
+Harley Quinn	m.01t93k	m.0fr99qj	----------
+Francis Bacon	m.030dr	m.030dr
+United Kingdom	m.07ssc	m.07ssc
+Libya	m.04gqr	m.04gqr
+Ziva David	m.093xn8	m.093xn8
+O Canada	m.0d060g	m.05mtn	----------
+Malayalam Language	m.0999q	m.0999q
+Mark Zuckerberg	m.086dny	m.086dny
+Michael Jackson	m.09889g	m.09889g
+United States	m.09c7w0	m.0dvxqk	----------
+Stephen Covey	m.01jtkg	m.01jtkg
+Joseph Stalin	m.03_lf	m.03_lf
+Monta Ellis	m.06rsnl	m.06rsnl
+Nevada	m.059_c	m.059_c
+Riannah	m.06mt91	N/A
+Shannen Doherty	m.039crh	m.039crh
+Joakim Noah	m.0c2yrf	m.0c2yrf
+Boston Red Sox	m.01d5z	m.01d5z
+Billy Elliot	m.08cdf8	m.016mhd	----------
+Michael Vick	m.027f42	m.027f42
+Kourtney Kardashian	m.043ttm7	m.043ttm7
+Austraila	m.0chghy	N/A
+Howie Long	m.04jg88	m.04jg88
+Greek Language	m.035qy	m.0349s	----------
+Kentucky	m.0498y	m.0498y
+Christchurch	m.02yc5b	m.02yc5b
+Chris Paul	m.0cymln	m.0cymln
+Albert Pujols	m.035gcb	m.035gcb
+New York Giants	m.05gg4	m.05gg4
+Andrew Carnegie	m.0vdk	m.0vdk
+Isaac Newton	m.03s9v	m.03s9v
+Paris	m.05qtj	m.05qtj
+Shaquille Oneal	m.012xdf	N/A
+Mickey Mouse	m.057ph	m.057ph
+Concord California	m.0qymv	N/A
+Michael Vick	m.027f42	m.027f42
+Columbia River	m.01n86	m.01n86
+Harry Potter	m.02676m4	m.06xltj	----------
+Scott Avett	m.05p6g6s	m.05p6g6s
+Walter Raleigh	m.084t6	m.084t6
+Euro	m.01l10v	m.02l6h	----------
+Barbados	m.0162v	m.0162v
+Angelina Jolie	m.0f4vbz	m.0f4vbz
+Nineveh	m.05fym	m.05fym
+New Mexico	m.05fjy	m.05fjy
+National Ffa Organization	g.11bc5knx6m	N/A
+Germanic Peoples	m.013xrm	N/A
+Eowyn	m.0gynx	m.01scdwn	----------
+Cancun	m.01q98m	m.05dlvmd	----------
+Augusta National Golf Club	m.0304b9	m.0304b9
+Eva Peron	m.0dltj	m.08hh0nv	----------
+Terrell Owens	m.027ddp	m.027ddp
+Denmark South Carolina	m.0_kl9	N/A
+Maya Civilization	m.06qdx6d	N/A
+Ernest Hemingway	m.02kz_	m.02kz_
+Baltimore Ravens	m.01ct6	m.01ct6
+Passchendaele	m.0dj707	m.0dj707
+Ohio	m.05kkh	m.05kkh
+Cristiano Ronaldo	m.02xt6q	m.02xt6q
+Michigan	m.04rrx	m.04rrx
+John Tyler	m.042dk	m.042dk
+Sergio Romo	m.04cyz8g	m.04cyz8g
+Jamaica	m.03_r3	m.03_r3
+Jay Moriarty	m.04jswm8	m.04jswm8
+Boston Tea Party	m.01cx_	m.0flmtw6	----------
+Lindsay Lohan	m.01pgzn_	m.01pgzn_
+Carolina Panthers	m.01y3c	m.01y3c
+Myanmar	m.04xn_	m.04xn_
+Michael Kors	m.07f8gw	m.07f8gw
+Texas	m.07b_l	m.07b_l
+Helen Flanagan	m.087k1_	m.087k1_
+Olympic Games	m.05nd_	m.05nd_
+Tennessee River	m.01spb0	m.01spb0
+Venezuela	m.07ylj	m.07ylj
+Corey Taylor	m.01ttvxc	m.01ttvxc
+Franklin D Roosevelt	m.02yy8	m.0760h6t	----------
+Kate Gosselin	m.05qbc_9	m.05qbc_9
+United States	m.09c7w0	m.0dvxqk	----------
+Africa	m.0dg3n1	m.0dg3n1
+Paris	m.05qtj	m.05qtj
+Lassen Peak	m.01ymq1	m.01ymq1
+The Little Couple	m.06zlp5d	m.06zlp5d
+Ohio	m.05kkh	m.05kkh
+Malta	m.04v3q	m.04v3q
+Wolfgang Amadeus Mozart	m.082db	m.082db
+Mick Taylor	m.01lpbcd	m.01lpbcd
+John F Kennedy	m.0d3k14	m.03t0qkg	----------
+Barcelona	m.01f62	m.01f62
+English	m.02h40lc	m.0skp3	----------
+Adolf Hitler	m.07_m9_	m.07_m9_
+Matt Damon	m.0169dl	m.0169dl
+Scottie Pippen	m.01vpgl	m.01vpgl
+Canada	m.0d060g	m.0d060g
+George Wilson 1981	m.0gmk9p	N/A
+Kobe	m.0g3bc	m.0g3bc
+Fulham Fc	m.02_lt	N/A
+Sacramento	m.07bcn	m.07bcn
+Tigris	m.07pgr	m.07pgr
+Josh Hutcherson	m.08wjf4	m.08wjf4
+Adolf Hitler	m.07_m9_	m.07_m9_
+Marilyn Monroe	m.04wqr	m.04wqr
+Iran	m.03shp	m.03shp
+Harper Lee	m.01bq7x	m.01bq7x
+J R R Tolkien	m.041h0	m.0k11c1m	----------
+Wassily Kandinsky	m.0856z	m.0856z
+Football League Cup	m.012dbw	m.012dbw
+Antoni Gaudi	m.0yb0	m.0dfycm2	----------
+Danish Language	m.02h40lc	m.0295r	----------
+Demeter	m.0286f38	m.0296l	----------
+Paris	m.05qtj	m.05qtj
+Joseph Stalin	m.03_lf	m.03_lf
+Benjamin Franklin	m.019fz	m.019fz
+Spain	m.06mkj	m.06mkj
+Egypt	m.02k54	m.02k54
+Ivan Rodriguez	m.02p6g7	m.06h9kp4	----------
+Milwaukee Brewers	m.051vz	m.051vz
+Battle Of Gallipoli	m.0gkrdfy	N/A
+Tom Hardy	m.05xf75	m.05xf75
+Atlanta	m.013yq	m.013yq
+John Forbes Nash	m.0pyqh	m.0v8ydst	----------
+Malta	m.04v3q	m.04v3q
+Thomas Edison	m.07bty	m.07bty
+Shakira	m.01wj18h	m.01wj18h
+Rutherford B Hayes	m.06g42	m.07659xt	----------
+Bilbo Baggins	m.0g6z1	m.0g6z1
+United States	m.09c7w0	m.0dvxqk	----------
+Arizona	m.0vmt	m.0vmt
+Vietnam War	m.01crd5	m.07_nf	----------
+Tennessee River	m.01spb0	m.01spb0
+Tom Hanks	m.0bxtg	m.0bxtg
+Ghana	m.035dk	m.035dk
+Utah	m.07srw	m.07srw
+Benjamin Franklin	m.019fz	m.019fz
+Florida	m.02xry	m.02xry
+Jeremy Lin	m.09k72lh	m.09k72lh
+Steve Nash	m.01yqrk	m.01yqrk
+Pennsylvania	m.05tbn	m.05tbn
+France	m.0f8l9c	m.0f8l9c
+Martin Luther King Jr	m.051cc	m.06lwmyx	----------
+St Louis Missouri	m.06wxw	N/A
+South Australia	m.06mtq	m.06mtq
+Habiba Sarabi	m.06f5b_	N/A
+Wright Brothers	m.073ty0	m.04w7201	----------
+Peyton Manning	m.027jv8	m.027jv8
+John Henry Poynting	m.039znr	m.039znr
+Jesse Owens	m.0cmr3	m.0cmr3
+Peru	m.016wzw	m.016wzw
+Facebook	m.09jcvs	m.02y1vz	----------
+United Kingdom	m.07ssc	m.07ssc
+Judy Garland	m.0g10g	m.0g10g
+Robert F Kennedy	m.06hx2	N/A
+Marilyn Monroe	m.04wqr	m.04wqr
+Fukushima I Nuclear Power Plant	m.02vkzy2	N/A
+Los Angeles	m.030qb3t	m.030qb3t
+Nicolas Cage	m.01vvb4m	m.01vvb4m
+Berkshire Hathaway	m.01tmng	m.01tmng
+Mexico	m.0b90_r	m.0b90_r
+Florida	m.02xry	m.02xry
+Jessica Simpson	m.0c7xjb	m.0c7xjb
+Scotland	m.06q1r	m.06q1r
+John Dalton	m.0c0x7	m.0c0x7
+Zac Brown Band	m.0408z4w	m.0408z4w
+Glastonbury	m.0kks6	m.0rdgt	----------
+American Federation Of Labor	m.018czw	m.06c28x_	----------
+Denver	m.02cl1	m.02cl1
+Thomas Hobbs	m.07c37	m.0j1g0fb	----------
+Unitarianism	m.06n4dv2	m.07x21	----------
+John Hancock	m.047kfj	m.064qhx_	----------
+John F Kennedy	m.0d3k14	m.03t0qkg	----------
+Italy	m.03rjj	m.03rjj
+Anne Hutchinson	m.01v5g9	m.01v5g9
+Montreal	m.052p7	m.052p7
+The Bronx	m.01531	m.01531
+Kellan Lutz	m.02pjwn5	m.02pjwn5
+Listz	m.0hqgp	N/A
+Nikola Tesla	m.05d1y	m.05d1y
+Princeton University	m.05zl0	m.05zl0
+Argentina	m.0jgd	m.0jgd
+Iceland	m.03rj0	m.03rj0
+Israel	m.03spz	m.03spz
+Carolina Panthers	m.01y3c	m.01y3c
+Erik Erikson	m.028fl6	m.028fl6
+Toronto	m.0h7h6	m.0h7h6
+Toussaint Louverture	m.011wgw	m.011wgw
+Robert Burns	m.09482	m.09482
+Utah	m.07srw	m.07srw
+Libya	m.04gqr	m.04gqr
+Indonesia	m.03ryn	m.03ryn
+Warren G Harding	m.081t6	N/A
+Carolina Panthers	m.01y3c	m.01y3c
+South Africa	m.0hzlz	m.0hzlz
+Darth Vader	m.0f2y0	m.0f2y0
+Herbert Hoover	m.03kdl	m.03kdl
+Joan Crawford	m.0cgbf	m.0cgbf
+United States	m.09c7w0	m.0dvxqk	----------
+Neil Armstrong	m.05b6w	m.05b6w
+James K Polk	m.042f1	N/A
+Kentucky	m.0498y	m.0498y
+Canada	m.0d060g	m.0d060g
+Nike Inc	m.0lwkh	N/A
+Salt Lake City	m.0f2r6	m.0f2r6
+Montana	m.050l8	m.050l8
+Boston Red Sox	m.01d5z	m.01d5z
+Ohio	m.05kkh	m.05kkh
+United Kingdom	m.07ssc	m.07ssc
+Saint Nicholas	m.0f9q7	m.0f9q7
+Supreme Court Of The United States	m.07sz1	N/A
+Christopher Columbus	m.01pwz	m.01pwz
+Rome	m.06c62	m.06c62
+Pope John Paul Ii	m.05yfx	N/A
+Ulysses S Grant	m.07t2k	N/A
+Franklin Pierce	m.02z51	m.02z51
+Boston Bruins	m.0j2zj	m.0j2zj
+Dr Meredith Grey	m.0268x2f	N/A
+Michelangelo	m.058w5	m.058w5
+Monsanto	m.0n8m6	m.0n8m6
+Woody Harrelson	m.0170s4	m.0170s4
+Sweden	m.0d0vqn	m.0d0vqn
+Ghana	m.035dk	m.035dk
+Philippines	m.05v8c	m.05v8c
+Mitt Romney	m.0271_s	m.0271_s
+Ibrahim Afellay	m.08w78j	m.08w78j
+Andrew Jackson	m.0rlz	m.0rlz
+Kim Possible	m.015t47	m.015t47
+New Zealand	m.0ctw_b	m.0ctw_b
+Natalee Holloway	m.05zxgjp	m.05zxgjp
+Pakistan	m.05sb1	m.05sb1
+West Midlands	m.0dyjz	m.0dyjz
+Asheville	m.0ydpd	m.0ydpd
+American League	m.09c7w0	m.0h8b0	----------
+Kurt Warner	m.025j0c	m.025j0c
+Dirk Nowitzki	m.023dcl	m.023dcl
+Francis Drake	m.031t2	m.031t2
+Maya Civilization	m.06qdx6d	N/A
+Spanish	m.06mkj	m.02pm9vw	----------
+Myles Kennedy	m.01vv6_6	m.049gtsf	----------
+Pablo Picasso	m.060_7	m.060_7
+Croatia	m.01pj7	m.01pj7
+Raul Ibanez	m.06xvwt	N/A
+Roman Catholic Church	m.0c8wxp	m.02vxy_	----------
+Mark Harmon	m.037gjc	m.037gjc
+The Rev	m.025sf_8	m.025sf_8
+Darth Vader	m.0f2y0	m.0f2y0
+Michelle Pfeiffer	m.0gx_p	m.0gx_p
+Laura Ingalls Wilder	m.01bt87	m.01bt87
+T A T U	m.08z129	N/A
+Nike Inc	m.0lwkh	N/A
+Dwight Howard	m.02fg_f	m.02fg_f
+Nick Lachey	m.039bpc	m.039bpc
+Madonna	m.01vs_v8	m.01vs_v8
+Brazil	m.015fr	m.015fr
+John Stockton	m.01r6lw	m.01r6lw
+Mexico	m.0b90_r	m.0b90_r
+Chrysler	m.01_bp	m.02r5gpq	----------
+Mark Twain	m.014635	m.014635
+Gregor Mendel	m.039c5	m.039c5
+Ray Allen	m.03lh3v	m.03lh3v
+Barack Obama	m.02mjmr	m.02mjmr
+United Kingdom	m.07ssc	m.07ssc
+Toronto	m.0h7h6	m.0h7h6
+South Korea	m.06qd3	m.06qd3
+Channel Saints	m.027h_zg	N/A
+Benjamin Franklin	m.019fz	m.019fz
+Sri Lanka	m.06m_5	m.06m_5
+Assyria	m.0wmn	m.0wmn
+Poland	m.05qhw	m.05qhw
+Delaware	m.026mj	m.026mj
+Mitt Romney	m.0271_s	m.0271_s
+Cyprus	m.01ppq	m.01ppq
+Abraham Lincoln	m.0gzh	m.0gzh
+Johnny Depp	m.0jfx1	m.0jfx1
+Singapore	m.06t2t	m.06t2t
+Carrie Underwood	m.058s57	m.058s57
+Supreme Court Of The United States	m.07sz1	N/A
+Dustin Johnson	m.04n4sw4	m.04n4sw4
+Cher	m.01vtj38	m.01vtj38
+University Of Oregon	m.01n6r0	N/A
+Carmen Cortez	m.02ql50	m.02ql50
+Germany	m.0345h	m.0345h
+William Shakespeare	m.081k8	m.081k8
+Turkey	m.01znc_	m.01znc_
+Mark Zuckerberg	m.086dny	m.086dny
+Kate Middleton	m.05mnc3	m.0tlllcq	----------
+Marc Chagall	m.0g_j0	m.0g_j0
+Billy Dee Williams	m.027_sn	m.027_sn
+Argentina	m.0jgd	m.0jgd
+American League East	m.06dcwd	m.06dcwd
+Isaac Newton	m.03s9v	m.03s9v
+Wilfred Owen	m.0ckwt	m.0ckwt
+Kevin Jonas	m.04d_mtq	m.04d_mtq
+Airtran Airways	m.01vk4t	N/A
+Paris	m.05qtj	m.05qtj
+Montreal	m.052p7	m.052p7
+D Carter	m.016kjs	N/A
+Sandra Bullock	m.0794g	m.0794g
+Olympic National Park	m.015nrn	m.015nrn
+United Staff	m.09c7w0	N/A
+Yale University	m.08815	m.08815
+Thomas Paine	m.07kwl	m.07kwl
+Barack Obama	m.02mjmr	m.02mjmr
+Cuba	m.0d04z6	m.0d04z6
+England	m.02pp1	m.02jx1	----------
+Kate Chopin	m.0d8pw	m.0d8pw
+Bill Clinton	m.0157m	m.0157m
+Eminem	m.01vsgrn	m.01vsgrn
+American Staffordshire Terrier	m.04m4bq	m.04m4bq
+Dubai	m.01f08r	m.01f08r
+Andrew Jackson	m.0rlz	m.0rlz
+Sacramento	m.07bcn	m.07bcn
+London	m.04jpl	m.04jpl
+Michael J Fox	m.0hz_1	N/A
+Sanjay Gupta	m.02yyk6	m.02yyk6
+Brandon Roy	m.0cf_p_	m.0cf_p_
+North American Free Trade Agreement	m.09c7w0	m.05jj_	----------
+Cayman Islands	m.01nty	m.01nty
+Brazil	m.015fr	m.015fr
+Anne Frank	m.03d9rk	m.03d9rk
+Kroy Biermann	m.043m195	m.043m195
+Pittsburgh Steelers	m.05tfm	m.05tfm
+Islam	m.0kj34	m.0flw86	----------
+Gulf War	m.03m_n0	m.018w0j	----------
+Switzerland	m.06mzp	m.06mzp
+Barack Obama	m.02mjmr	m.02mjmr
+Logan Lerman	m.04f1s6	m.04f1s6
+Constantine I	m.021tl	m.0hzjspc	----------
+Pony Boy	m.0crsqwz	m.0pgc2h	----------
+Mali	m.04v09	m.04v09
+Ibiza	m.0h2c3	m.0h2c3
+Luke Skywalker	m.0f1bg	m.0f1bg
+Oakland Raiders	m.05l71	m.05l71
+Microsoft	m.04sv4	m.04sv4
+John Steinbeck	m.04107	m.04107
+Niels Bohr	m.059y0	m.0fprnnq	----------
+Louis Sachar	m.01bq8d	m.01bq8d
+Ryan Reynolds	m.036hf4	m.036hf4
+Newt Gingrich	m.018fzs	m.018fzs
+Antonio Vivaldi	m.0pth	m.0pth
+James Franco	m.05bnp0	m.05bnp0
+Mark Twain	m.014635	m.014635
+William Henry Harrison	m.0835q	m.0835q
+Jake Gyllenhaal	m.02js6_	m.02js6_
+Rick Santorum	m.01fgd3	m.01fgd3
+George W Bush	m.09b6zr	m.0f6ht1r	----------
+Antoine Lavoisier	m.0tfw	m.0tfw
+Lana Lang	m.019xcj	m.04n1vsb	----------
+George Vi Of The United Kingdom	m.0cm83	N/A
+Seattle Seahawks	m.070xg	m.070xg
+Richard Nixon	m.06c97	m.06c97
+Sami Yusuf	m.08cnsg	m.08cnsg
+Brazil	m.015fr	m.015fr
+Nepal	m.016zwt	m.016zwt
+New York Mets	m.05g76	m.05g76
+Florida Panthers	m.0j8js	m.0j8js
+John Cena	m.01ypx5	m.01ypx5
+San Jose	m.0f04v	m.0f04v
+New York University	m.0bwfn	m.0bwfn
+Arthur	m.02c4s	m.0px0r	----------
+European Union	m.0_6t_z8	m.02jxk	----------
+North Africa	m.05g2v	m.05g2v
+Bobby Darin	m.0pj9t	m.0pj9t
+Houston Dynamo	m.09cl0w	m.09cl0w
+John Mayer	m.01s21dg	m.01s21dg
+Patrick Swayze	m.02h3tp	m.02h3tp
+Barack Obama	m.02mjmr	m.02mjmr
+Jamaica	m.03_r3	m.03_r3
+Arizona Cardinals	m.0ws7	m.0ws7
+Isaac Newton	m.03s9v	m.03s9v
+San Francisco	m.0d6lp	m.0d6lp
+Pablo Picasso	m.060_7	m.060_7
+Pennsylvania	m.05tbn	m.05tbn
+Google	m.045c7b	m.045c7b
+World Series Of Poker	m.0820c	N/A
+Cliff Lee	m.05bz_j	m.05bz_j
+Elaine Benes	m.01djc5	m.01djc5
+Martin Luther King Jr	m.051cc	m.06lwmyx	----------
+United States	m.09c7w0	m.0dvxqk	----------
+Toronto Maple Leafs	m.0j6tr	m.0j6tr
+Hong Kong	m.03h64	m.03h64
+Taylor Lautner	m.07ldhs	m.07ldhs
+Bernie Mac	m.02lj6p	m.02lj6p
+Spike Spiegel	m.025tj1w	m.025tj1w
+Isabella Of Castile	m.0jd6m	N/A
+Chris Hemsworth	m.04jnqj	m.04jnqj
+France	m.0f8l9c	m.0f8l9c
+Winnipeg	m.0pmq2	m.0pmq2
+Israel	m.03spz	m.03spz
+Barack Obama	m.02mjmr	m.02mjmr
+Justin Bieber	m.06w2sn5	m.06w2sn5
+River Thames	m.0d2kt	m.0d2kt
+Buster Posey	m.0479p_z	m.0479p_z
+Robert Pattinson	m.062dn7	m.062dn7
+Pakistan	m.05sb1	m.05sb1
+Nike Inc	m.0lwkh	N/A
+Lyndon B Johnson	m.0f7fy	N/A
+Kim Jong-il	m.0143y5	m.0143y5
+Agatha Christie	m.0ldd	m.0ldd
+Bill Clinton	m.0157m	m.0157m
+Kohler Company	m.02y2g0	m.02y2g0
+Taoism	m.06njrr5	m.07gvx	----------
+English	m.02h40lc	m.0skp3	----------
+Thomas Hobbs	m.07c37	m.0j1g0fb	----------
+Florida	m.02xry	m.02xry
+Fedex Cup	m.08q5ws	N/A
+Egypt	m.02k54	m.02k54
+Alf	m.01klc1	m.030t1n0	----------
+Gerald Ford	m.0c_md_	m.0c_md_
+Armenia	m.0jgx	m.0jgx
+Raphael	m.0c43g	m.0c43g
+Malta	m.04v3q	m.04v3q
+Louis Xiv Of France	m.04pwg	N/A
+Mike Wright	m.010fjhxh	m.07twz9	----------
+Shannon Hoon	m.01w2x6z	m.01w2x6z
+Nicolaus Copernicus	m.01vvm4	m.01vvm4
+Manny Ramirez	m.06tjlc	m.0h080p6	----------
+Appalachia	m.01qsf5	m.010ph9	----------
+Woodrow Wilson	m.083q7	m.083q7
+Jerry Brown	m.017pf5	m.017pf5
+Hawaii	m.03gh4	m.03gh4
+Argentina	m.0jgd	m.0jgd
+Tunisia	m.07fj_	m.07fj_
+Leonardo Da Vinci	m.01ky5r	m.06q_46v	----------
+St Trinians School	m.01nxmb	N/A
+Malaysia	m.09pmkv	m.09pmkv
+Mexico	m.0b90_r	m.0b90_r
+Dominican Republic	m.027rn	m.027rn
+Michael Jackson	m.09889g	m.09889g
+Texas	m.07b_l	m.07b_l
+London	m.04jpl	m.04jpl
+Mona Lisa	m.0jbg2	m.03cmfyw	----------
+Peter Griffin	m.03n6jv	m.03n6jv
+Tony Romo	m.097yk7	m.097yk7
+Anne Frank	m.03d9rk	m.03d9rk
+Catholicism	m.0c8wxp	m.0c8wxp
+Belgium	m.0154j	m.0154j
+L Frank Baum	m.04mby	N/A
+Tunis	m.0ftn8	m.0ftn8
+Nicolas Cage	m.01vvb4m	m.01vvb4m
+Supreme Court Of The United States	m.07sz1	N/A
+Charles Lee Ray	m.06jpdm	N/A
+Mary Wollstonecraft	m.04_cw	m.04_cw
+New France	m.0f8l9c	m.0152tq	----------
+Philadelphia Phillies	m.05xvj	m.05xvj
+Dyson	m.05cskg	m.05cskg
+Iceland	m.03rj0	m.03rj0
+Dr Seuss	m.02g3w	N/A
+Gloria Steinem	m.01rnwj	m.01rnwj
+Beaumont	m.0104lr	m.0104lr
+Scotland	m.06q1r	m.06q1r
+Mark Zuckerberg	m.086dny	m.086dny
+Bigos	m.06815z	m.06815z
+Tina Turner	m.01vwyqp	m.01vwyqp
+Leonardo Da Vinci	m.01ky5r	m.06q_46v	----------
+Shaquille Oneal	m.012xdf	N/A
+Turkish Language	m.01znc_	m.02hwyss	----------
+Walnut Creek	m.0qyzb	m.0qyzb
+Cleveland Cavaliers	m.0jm7n	m.0jm7n
+Darth Vader	m.0f2y0	m.0f2y0
+English	m.02h40lc	m.0skp3	----------
+Louis Armstrong	m.04n32	m.04n32
+Germany	m.0345h	m.0345h
+Latin	m.04pnx	m.0fvc4gz	----------
+Rome	m.06c62	m.06c62
+Solomon	m.01n8qg	m.05y3rjr	----------
+Andy Irons	m.03xn54	m.03xn54
+Auburn University	m.01wdj_	m.01wdj_
+Tatyana Ali	m.01knh9l	m.01knh9l
+Leif Ericson	m.012r36	m.012r36
+Maasai	m.054vc	m.06rvvxy	----------
+Adolf Hitler	m.07_m9_	m.07_m9_
+North Korea	m.05b7q	m.05b7q
+Appalachia	m.01qsf5	m.010ph9	----------
+Spain	m.06mkj	m.06mkj
+Terry Waite	m.013p_j	m.013p_j
+Battle Of San Juan Hill	m.019p1xd	N/A
+United States	m.09c7w0	m.0dvxqk	----------
+Baltimore Orioles	m.01d6g	m.01d6g
+William Shakespeare	m.081k8	m.081k8
+Ben Stiller	m.0mdqp	m.0mdqp
+Norway	m.05b4w	m.05b4w
+William Shakespeare	m.081k8	m.081k8
+Benjamin Franklin	m.019fz	m.019fz
+Arizona	m.0vmt	m.0vmt
+Spike Lee	m.06pjs	m.06pjs
+Bernie Mac	m.02lj6p	m.02lj6p
+Arctic	m.09738	m.09738
+Electrolux	m.02h0_y	m.02h0_y
+Houston	m.03l2n	m.03l2n
+Italy	m.03rjj	m.03rjj
+Russians	m.06bnz	m.0lkc99	----------
+William Shakespeare	m.081k8	m.081k8
+Harry S Truman	m.09bg4l	m.0763j2y	----------
+Ferdinand Magellan	m.033ky	m.033ky
+Abraham Lincoln	m.0gzh	m.0gzh
+Burmese Language	m.04xn_	m.01xrrm	----------
+James T Kirk	m.0crtw	N/A
+Mount St Helens	m.094xz	N/A
+Saint Paul	m.060nc	m.0b2lw	----------
+Henry Viii Of England	m.03p77	N/A
+David Beckham	m.02d9k	m.02d9k
+Battle Of Gettysburg	m.0h241s	N/A
+Franz Ferdinand	m.09qts	m.02ft60	----------
+Benedict Arnold	m.025_0c	m.025_0c
+Lex Luthor	m.04q78	m.04q78
+Dallas Cowboys	m.02896	m.02896
+Bentley	m.01l8p	m.0tbk1	----------
+Czech Republic	m.01mjq	m.01mjq
+Los Angeles Kings	m.0jnq8	m.0jnq8
+Spencer Pratt	m.02z3d24	m.02z3d24
+Abraham Lincoln	m.0gzh	m.0gzh
+Vancouver Canucks	m.0jnnx	m.0jnnx
+C S Lewis	m.01wd02c	N/A
+Carlos Pena	m.05c95x	N/A
+Thomas Jefferson	m.07cbs	m.07cbs
+Cheyenne	m.0fk55	m.0fw3f	----------
+Jane Wyman	m.01933d	m.01933d
+Mickey Mouse	m.057ph	m.057ph
+Peru	m.016wzw	m.016wzw
+Alaska	m.0hjy	m.0hjy
+English	m.02h40lc	m.0skp3	----------
+Arsenal Fc	m.0xbm	N/A
+Phoenix	m.0d35y	m.0d35y
+South Portland	m.0tpk4	m.0tpk4
+French	m.0f8l9c	m.034rwln	----------
+Ptolemy	m.05_0t	m.05_0t
+Henry Viii Of England	m.03p77	N/A
+Parana River	m.02xsr6	m.07rg3z5	----------
+Richard Nixon	m.06c97	m.06c97
+Theodor Schwann	m.040000	m.040000
+Frank Lloyd Wright	m.02wlk	m.02wlk
+Houston Rockets	m.0jmfb	m.0jmfb
+Russia	m.06bnz	m.06bnz
+Roman Empire	m.017cw	m.06cmp	----------
+Liam Hemsworth	m.04yd0fh	m.04yd0fh
+Nicholas Newman	m.0f22p8	m.0f22p8
+Eric Cartman	m.0myj0	m.0myj0
+Angelina Jolie	m.0f4vbz	m.0f4vbz
+Bank Of America	m.01yx7f	m.076mbv6	----------
+Japan	m.03_3d	m.03_3d
+Leonidas I	m.0nb2t	m.0nb2t
+Josh Hamilton 1981	m.08zxm9	N/A
+Toronto Maple Leafs	m.0j6tr	m.0j6tr
+Burundi	m.0169t	m.0169t
+Maya Civilization	m.06qdx6d	N/A
+Niger River	m.05csx	m.05csx
+Werner Heisenberg	m.0825l	m.0825l
+Paul Ryan	m.024v2j	m.024v2j
+Acadia University	m.0xxc	m.0xxc
+F Scott Fitzgerald	m.02zjd	m.06knrhj	----------
+Europe	m.02j9z	m.02j9z
+Iran	m.03shp	m.03shp
+Ypres	m.0145__	m.0145__
+Spain	m.06mkj	m.06mkj
+Michael Crabtree	m.03ccsym	m.03ccsym
+Afrikaans	m.04c5pb	m.01b69vm	----------
+Florida	m.02xry	m.02xry
+Ziva David	m.093xn8	m.093xn8
+Henry Viii Of England	m.03p77	N/A
+Egypt	m.02k54	m.02k54
+St Louis Cardinals	m.06x68	N/A
+Dawood Ibrahim	m.02ry1s	m.02ry1s
+Turkey	m.01znc_	m.01znc_
+Russians	m.06bnz	m.0lkc99	----------
+Martin Luther King Jr	m.051cc	m.06lwmyx	----------
+Argentina	m.0jgd	m.0jgd
+Wales	m.0j5g9	m.0j5g9
+Rafael Nadal	m.051q39	m.051q39
+Islam	m.0kj34	m.0flw86	----------
+Spain	m.06mkj	m.06mkj
+Leonidas I	m.0nb2t	m.0nb2t
+Judi Dench	m.0lpjn	m.0lpjn
+Spain	m.06mkj	m.06mkj
+Sahara	m.01w1vt	m.057yc8	----------
+Riannah	m.06mt91	N/A
+San Francisco	m.0d6lp	m.0d6lp
+Theodore Roosevelt	m.07hyk	m.07hyk
+Michael Oher	m.0h7q7b	m.0h7q7b
+Albert Einstein	m.0jcx	m.0jcx
+Egypt	m.02k54	m.02k54
+Lionel Messi	m.06qjgc	m.06qjgc
+African Union	m.0gkjy	m.0gkjy
+Kim Richards	m.08l257	m.08l257
+Charles Darwin	m.01lwx	m.01lwx
+Christopher Columbus	m.01pwz	m.01pwz
+Henri Rousseau	m.02rdf6	m.02rdf6
+John Edwards	m.01651q	m.01651q
+Huey P Newton	m.018y0w	m.0dtmrmg	----------
+Johannes Gutenberg	m.037ypz	m.04061	----------
+Midlothian	m.01s0t3	m.0100vw	----------
+Marta	m.09fr69	m.05d5wr7	----------
+Mitt Romney	m.0271_s	m.0271_s
+John Terry	m.029f79	m.070td6	----------
+Michael Jackson	m.09889g	m.09889g
+Battle Of Vicksburg		N/A
+Pakistan	m.05sb1	m.05sb1
+Nikolai Gogol	m.0113sg	m.0113sg
+World Series	m.0fjp3	m.07cg6yj	----------
+Simon Birch	m.070m8v	m.070m8v
+United States	m.09c7w0	m.0dvxqk	----------
+General Motors	m.035nm	m.035nm
+United Kingdom	m.07ssc	m.07ssc
+Jamaica	m.03_r3	m.03_r3
+Lebron James	m.01jz6d	m.063r8c_	----------
+Wayne Gretzky	m.0839s	m.0839s
+Peru	m.016wzw	m.016wzw
+Jerry Garcia	m.0k1bs	m.0k1bs
+Leonardo Da Vinci	m.01ky5r	m.06q_46v	----------
+New Jersey	m.05fjf	m.05fjf
+Riannah	m.06mt91	N/A
+Lionel Messi	m.06qjgc	m.06qjgc
+Moira Mactaggert	m.01s6rq	N/A
+D Carter	m.016kjs	N/A
+Rome	m.06c62	m.06c62
+J R R Tolkien	m.041h0	m.0k11c1m	----------
+Saint Louis University	m.02tz9z	m.02tz9z
+Canada	m.0d060g	m.0d060g
+Roman Empire	m.017cw	m.06cmp	----------
+Spanish	m.06mkj	m.02pm9vw	----------
+Paul Ryan	m.024v2j	m.024v2j
+Iraq	m.0d05q4	m.0d05q4
+Spain	m.06mkj	m.06mkj
+Lincoln Steffens	m.01bw1c	m.01bw1c
+Anders Celsius	m.010nm	m.010nm
+New York	m.02_286	m.059rby	----------
+France	m.0f8l9c	m.0f8l9c
+Massachusetts	m.05k7sb	m.05k7sb
+Colombia	m.01ls2	m.01ls2
+Atlantic Ocean	m.0j3b	m.0j3b
+Martha Graham	m.027c09	m.027c09
+Brazil	m.015fr	m.015fr
+George Washington Carver	m.03djm	m.03djm
+Gregor Mendel	m.039c5	m.039c5
+Laura Ingalls Wilder	m.01bt87	m.01bt87
+Bangkok	m.0fn2g	m.0fn2g
+Germany	m.0345h	m.0345h
+Oklahoma	m.05mph	m.05mph
+Norway	m.05b4w	m.05b4w
+Adolf Hitler	m.07_m9_	m.07_m9_
+Singapore	m.06t2t	m.06t2t
+Blackfoot	m.01jp85h	m.01jp85h
+Robin Hood	m.06j7x	m.05q96q6	----------
+Texas	m.07b_l	m.07b_l
+Grand Canyon	m.0cns5	m.07w_vt	----------
+Kurdish People	m.0329by	N/A
+Louis Armstrong	m.04n32	m.04n32
+Alyson Stoner	m.02bwjv	m.02bwjv
+Madonna	m.01vs_v8	m.01vs_v8
+Egypt	m.02k54	m.02k54
+Michael Jordan	m.054c1	m.054c1
+Richard Hammond	m.02508x	m.02508x
+Lois Griffin	m.03pcqz	m.03pcqz
+Paris	m.05qtj	m.05qtj
+Sheldon Cooper	m.05p74fx	m.05p74fx
+Riannah	m.06mt91	N/A
+Dave Ramsey	m.03zf9h	m.03zf9h
+Langston Hughes	m.0bv62	m.0bv62
+Galileo Galilei	m.034ks	m.034ks
+Saudi Arabia	m.01z215	m.01z215
+Japan	m.03_3d	m.03_3d
+Nikola Tesla	m.05d1y	m.05d1y
+Anthony Dinozzo	m.07wp25	N/A
+Jesus	m.04399	m.042g53r	----------
+New York	m.02_286	m.059rby	----------
+Bank Of America	m.01yx7f	m.076mbv6	----------
+Dead Poets Society	m.0yzbg	m.0yzbg
+Sally Mclellan	m.0287hgn	N/A
+David Carradine	m.02p5hf	m.02p5hf
+Stanley Cup	m.0hn79	m.0hn79
+California	m.01n7q	m.01n7q
+Chinese Language	m.0d05w3	N/A
+Portugal	m.05r4w	m.05r4w
+Brazil	m.015fr	m.015fr
+Babylonia	m.0cn3b	m.0dykxy0	----------
+Wassily Kandinsky	m.0856z	m.0856z
+United States	m.09c7w0	m.0dvxqk	----------
+Cuba	m.0d04z6	m.0d04z6
+Illinois	m.03v0t	m.03v0t
+Sweden	m.0d0vqn	m.0d0vqn
+Franklin D Roosevelt	m.02yy8	m.0760h6t	----------
+Robert Downey Jr	m.016z2j	m.0dv5655	----------
+Barack Obama	m.02mjmr	m.02mjmr
+Shiva	g.11bx1yp3p1	m.02gvt2	----------
+Benjamin Franklin	m.019fz	m.019fz
+Switzerland	m.06mzp	m.06mzp
+Milwaukee Brewers	m.051vz	m.051vz
+Bill Clinton	m.0157m	m.0157m
+Listz	m.0hqgp	N/A
+Russo-japanese War	m.0193qj	N/A
+Los Angeles Kings	m.0jnq8	m.0jnq8
+Egypt	m.02k54	m.02k54
+Jackie Robinson	m.0443c	m.0443c
+Saint Lawrence River	m.0cg4t	m.0cg4t
+United States	m.09c7w0	m.0dvxqk	----------
+Princess Ariel	m.0cl19h	m.02ql1qv	----------
+Seth Macfarlane	m.021yw7	N/A
+William Mckinley	m.083p7	m.0761jjm	----------
+Darth Vader	m.0f2y0	m.0f2y0
+Kevin James	m.03xb2w	m.03xb2w
+Adolf Hitler	m.07_m9_	m.07_m9_
+Canada	m.0d060g	m.0d060g
+Atlanta	m.013yq	m.013yq
+Auschwitz Concentration Camp	m.0v_x	N/A
+Julius Caesar	m.041wm	m.041wm
+Dominican Republic	m.027rn	m.027rn
+Elliot Stabler	m.06tz5j	m.06tz5j
+Czech Republic	m.01mjq	m.01mjq
+William Shakespeare	m.081k8	m.081k8
+F Scott Fitzgerald	m.02zjd	m.06knrhj	----------
+Joan Crawford	m.0cgbf	m.0cgbf
+Rob Kardashian	m.043n6dp	m.043n6dp
+Allen Iverson	m.01sg7_	m.01sg7_
+Harry S Truman	m.09bg4l	m.0763j2y	----------
+Utica	m.0lpk3	m.0lpk3
+Charles Babbage	m.01qmz	m.01qmz
+United States House Of Representatives	m.09c7w0	N/A
+Madagascar 2005	m.01sbv9	N/A
+Richard Lynn Scott	m.0btx2g	N/A
+Crimean War	m.05kj7b	m.0cmc2	----------
+Theodore Roosevelt	m.07hyk	m.07hyk
+Miley Cyrus	m.0bdxs5	m.0bdxs5
+Americas	m.07c5l	m.07c5l
+James Franco	m.05bnp0	m.05bnp0
+Libya	m.04gqr	m.04gqr
+Marco Polo	m.01nlfs	m.02w8pjl	----------
+Diana Taurasi	m.037bzt	m.037bzt
+Paris	m.05qtj	m.05qtj
+Tyne And Wear Metro	m.0j7ng	N/A
+Gregor Mendel	m.039c5	m.039c5
+Canada	m.0d060g	m.0d060g
+Adam Morrison	m.08_g4q	m.08_g4q
+Michael Jackson	m.09889g	m.09889g
+Maya Moore	m.027w0l1	m.027w0l1
+Los Angeles Dodgers	m.04mjl	m.04mjl
+James Cook	m.03_j8	m.03_j8
+Robin Williams	m.0dzf_	m.0dzf_
+Canada	m.0d060g	m.0d060g
+Islam	m.0kj34	m.0flw86	----------
+Peru	m.016wzw	m.016wzw
+Israeli-palestinian Conflict	m.09s93	N/A
+American Football League	m.059yj	m.0ysy	----------
+Diego Velazquez	m.0k92y	m.06tjzxw	----------
+Warren Buffett	m.01d_ys	m.01d_ys
+Mexico	m.0b90_r	m.0b90_r
+Switzerland	m.06mzp	m.06mzp
+Briton	m.07ssc	m.07pmkp0	----------
+Olympic Games	m.05nd_	m.05nd_
+John F Kennedy	m.0d3k14	m.03t0qkg	----------
+Michigan-ohio State Rivalry	m.0931ks	N/A
+Muhammad	m.04s9n	m.04s9n
+Battle Of Antietam	m.0kyn7s5	N/A
+Ukraine	m.07t21	m.07t21
+Supreme Court Of The United States	m.07sz1	N/A
+Europe	m.02j9z	m.02j9z
+Kaley Cuoco	m.03kxp7	m.03kxp7
+Chris Rock	m.016_mj	m.016_mj
+Southern California	m.065y4w7	m.0gx1l	----------
+Toronto Maple Leafs	m.0j6tr	m.0j6tr
+Egypt	m.02k54	m.02k54
+Brazilian People	m.015fr	N/A
+Vince Lombardi	m.07_xf	m.07_xf
+Stanley Kowalski	m.03bhwh	m.03bhwh
+Lola Bunny	m.0534r8	m.0534r8
+Charles Darwin	m.01lwx	m.01lwx
+Serbs	m.01hs96	m.0g6g7	----------
+Laci Peterson	m.01f6vb	m.01f6vb
+Kris Humphries	m.0730b4	m.0730b4
+Virginia	m.07z1m	m.07z1m
+Gerard Butler	m.038rzr	m.038rzr
+John Franklin 1967	m.06hw0m	N/A
+Bosnians	m.0166b	m.0470lk	----------
+Tycho Brahe	m.07d2x	m.07d2x
+Sean Connery	m.06mr6	m.06mr6
+Didier Drogba	m.03_y2f	m.03_y2f
+Michael Crabtree	m.03ccsym	m.03ccsym
+Fredrik Ljungberg	m.02g16c	m.02g16c
+Miami Dolphins	m.04vn5	m.04vn5
+Staten Island	m.0y62n	m.0y62n
+John Adams	m.03_js	m.03_js
+Antonio Vivaldi	m.0pth	m.0pth
+John Forbes Nash	m.0pyqh	m.0v8ydst	----------
+Jesus	m.04399	m.042g53r	----------
+Mike Fisher	m.07d7xv	m.07d7xv
+Daniel Craig	m.04shbh	m.04shbh
+Eduardo Paolozzi	m.03fncl	m.03fncl
+Joe Biden	m.012gx2	m.012gx2
+Marilyn Monroe	m.04wqr	m.04wqr
+Timon And Pumbaa	m.01yvq9	m.0gkrffk	----------
+Ohio	m.05kkh	m.05kkh
+Kailua	m.0r_x0	m.0r_g0	----------
+Argentina	m.0jgd	m.0jgd
+Whoopi Goldberg	m.0fb1q	m.0fb1q
+Kingdom Of Judah	m.04frh	N/A
+Maggie Simpson	m.0h67q	m.0h67q
+Owen Schmitt	m.027rvyc	m.027rvyc
+Thomas Jefferson	m.07cbs	m.07cbs
+France	m.0f8l9c	m.0f8l9c
+Jonathan Berger	m.04gmjpt	m.04gmjpt
+Fa Cup	m.02_p0	N/A
+Michael Jackson	m.09889g	m.09889g
+Robert Pattinson	m.062dn7	m.062dn7
+Japan	m.03_3d	m.03_3d
+Bob Kelso	m.0ck2ty	m.02rtml2	----------
+Vanessa Carlton	m.02sj66	m.02sj66
+Czech Republic	m.01mjq	m.01mjq
+Arabic Language	g.11bwd_sz5b	m.0jzc	----------
+Tim Cook	m.05r65m	m.0270gfb	----------
+Mitt Romney	m.0271_s	m.0271_s
+Bob Marley	m.0bkf4	m.0bkf4
+London	m.04jpl	m.04jpl
+Chicago	m.01_d4	m.01_d4
+Sheryl Crow	m.06rgq	m.06rgq
+Argentina	m.0jgd	m.0jgd
+Fabio Capello	m.030_wt	m.030_wt
+Abraham Lincoln	m.0gzh	m.0gzh
+Jack London	m.0bt23	m.0bt23
+Morgan Freeman	m.055c8	m.055c8
+Italy	m.03rjj	m.03rjj
+John Steinbeck	m.04107	m.04107
+The Rock 1972	m.014g_s	N/A
+North Atlantic Treaty Organization	m.059dn	m.090zw1s	----------
+Battle Of Antietam	m.0kyn7s5	N/A
+Zambezi	m.0p_70	m.0p_70
+Catholicism	m.0c8wxp	m.0c8wxp
+David Beckham	m.02d9k	m.02d9k
+France	m.0f8l9c	m.0f8l9c
+Knossos	m.0ksnn	m.0ksnn
+Roswell Ufo Incident	g.121qg3s7	N/A
+Christopher Riley	m.026l611	m.026l611
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 27:18 min
+[INFO] Finished at: 2017-07-04T22:29:16+10:00
+[INFO] Final Memory: 14M/186M
+[INFO] ------------------------------------------------------------------------

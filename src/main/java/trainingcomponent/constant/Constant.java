@@ -12,5 +12,15 @@ public final class Constant {
 	//input and output path
 	public static final String INPUT_PATH = "./input/";
 	public static final String OUTPUT_PATH = "./output/";
+	public static final String DATA_PATH = "./data/";
 	public static final String INPUT_FILE_NAME = "tab_delim_train_step1.txt";
+	//public static final String INPUT_FILE_NAME = "tab_delim_test_step1.txt";
+	public static final String OUTPUT_ID_FILE_NAME = "EntitiesIds.txt";
+	//public static final String OUTPUT_ID_FILE_NAME = "EntitiesIds.txt";
+	
+	public static String PREFIX = "http://rdf.freebase.com/ns/";
+	
+	public static String QUESTION_TRAIN_FILE = "tab_delim_train.txt";
+	
+	public static int START = 1500;
 }
