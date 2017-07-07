@@ -30,8 +30,16 @@ public class TrainingComponentService {
 		}
 		
 		for (i = START; i < total; i++) {
+			if (i == 1499) {
+				continue;
+			}
 			this.runQueriesForOneData(entityIds[i], answers[i], i + 1);
 		}
+	}
+	
+	public void verifyFirstIdOfEachEntity() {
+		FileReader fr = new FileReader();
+		fr.searchFirstIdAppearance();
 	}
 	
 	protected void runQueriesForOneData(String entityIdString, String answerString, int index) {
@@ -48,15 +56,15 @@ public class TrainingComponentService {
 		int j = 0;
 		boolean printFlag = true;
 		
-		for (i = 0; i < idLength; i++) {
-			for (j = 0; j < answerLength; j++) {
+		for (i = 0; i < answerLength; i++) {
+			for (j = 0; j < idLength; j++) {
 				String line = "";
 				line += index + "\t";
 				line += question + "\t";
 				line += entityName + "\t";
-				String eid = PREFIX + idList[i];
+				String eid = PREFIX + idList[j];
 				line += eid + "\t";
-				String answer = answerSubStrings[j];
+				String answer = answerSubStrings[i];
 				if (answer.indexOf("\'") >= 0) {
 					answer = answer.replace("\'", "\\'");
 				}
@@ -82,6 +90,7 @@ public class TrainingComponentService {
 				line += answer;
 				if (printFlag) {
 					System.out.println(line);
+					break;
 				} else {
 					//test purpose
 					//System.out.println(line);

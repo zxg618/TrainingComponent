@@ -16,11 +16,12 @@ public final class Constant {
 	public static final String INPUT_FILE_NAME = "tab_delim_train_step1.txt";
 	//public static final String INPUT_FILE_NAME = "tab_delim_test_step1.txt";
 	public static final String OUTPUT_ID_FILE_NAME = "EntitiesIds.txt";
+	public static final String OUTPUT_RELATION_FILENAME = "dbquery_output.txt";
 	//public static final String OUTPUT_ID_FILE_NAME = "EntitiesIds.txt";
 	
 	public static String PREFIX = "http://rdf.freebase.com/ns/";
 	
 	public static String QUESTION_TRAIN_FILE = "tab_delim_train.txt";
 	
-	public static int START = 1500;
+	public static int START = 0;
 }

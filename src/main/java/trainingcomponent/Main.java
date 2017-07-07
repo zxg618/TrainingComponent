@@ -9,7 +9,8 @@ public class Main {
 	public static void main(String[] args) {
 		TrainingComponentService tcService = new TrainingComponentService();
 		//tcService.getAllIds();
-		tcService.testQuery();
+		//tcService.testQuery();
+		tcService.verifyFirstIdOfEachEntity();
 //		String str = "Padm\u00e9 Amidala";
 //		System.out.println("original string is " + str);
 //		str = str.replace("\\", "\\\\");
