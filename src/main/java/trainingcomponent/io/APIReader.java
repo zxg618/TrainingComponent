@@ -2,6 +2,9 @@ package trainingcomponent.io;
 
 import static trainingcomponent.constant.Constant.*;
 
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 import com.google.api.client.http.GenericUrl;
@@ -110,25 +113,42 @@ public class APIReader {
 	}
 	
 	public String getCategoryFromMSApi(String noun) {
+		ArrayList<String> catList = new ArrayList<String>();
+		String result = "";
 		try {
-
 		      HttpTransport httpTransport = new NetHttpTransport();
 		      HttpRequestFactory requestFactory = httpTransport.createRequestFactory();
-		      JSONParser parser = new JSONParser();
+		      //JSONParser parser = new JSONParser();
 		      String urlString = HOST + PCE_API;
 		      GenericUrl url = new GenericUrl(urlString);
 		      url.put(PARA_INSTANCE, noun);
-		      url.put(PARA_TOPK, "10");
+		      url.put(PARA_TOPK, TOPK_VALUE);
 		      HttpRequest request = requestFactory.buildGetRequest(url);
 		      HttpResponse httpResponse = request.execute();
-		      JSONObject response = (JSONObject) parser.parse(httpResponse.parseAsString());
 		      
-		      System.out.println(noun + " " + response.toString());
+		      InputStream in = httpResponse.getContent();
+		      BufferedReader br = new BufferedReader(new InputStreamReader(in));
+		      String line = "";
+		      if ((line = br.readLine()) != null) {
+		    	  result = line.replace("\"", "").replace("{", "").replace("}", "");
+		    	  String[] catRatings = result.split(",");
+		    	  for (int i = 0; i < catRatings.length; i++) {
+		    		  String cat = catRatings[i].split(":")[0];
+		    		  catList.add(cat);
+		    	  }
+		      }
+		      
+//		      JSONObject response = (JSONObject) parser.parse(httpResponse.parseAsString());
+//		      for ( Object key : response.keySet() ) {
+//		    	    catList.add(key.toString());
+//		      }
+		      
+		      //System.out.println(noun + " " + response.toString());
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 		
-		return "";
+		return StringUtils.join(catList.toArray(new String[0]), "|");
 	}
 	
 	protected String format(String input) {

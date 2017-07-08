@@ -47,7 +47,10 @@ public final class Constant {
 	public static String BLC_API = "api/Concept/ScoreByCross?";
 	
 	public static String PARA_INSTANCE = "instance";
-	public static String PARA_TOPK = "tokK";
+	public static String PARA_TOPK = "topK";
 	public static String PARA_SMOOTH = "smooth";
 	public static String PARA_PMIK = "pmiK";
+	public static int TOPK_VALUE = 5;
+	
+	public static String FB_TEMP_INPUT_FILE = "fb_train_2000_template.txt";
 }

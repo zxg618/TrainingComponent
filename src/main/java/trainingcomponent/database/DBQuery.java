@@ -59,10 +59,10 @@ public class DBQuery {
 		while (results.hasNext()) {
 			QuerySolution sol = results.nextSolution();
 			String o = sol.get("o").toString();
-			System.out.println("getEntityName: | " + entityId + " | " + o);
+			//System.out.println("getEntityName: | " + entityId + " | " + o);
 			
-			System.out.println("getEntityName removing @EN: | " + entityId + " | " + StringUtil.removeENLanguagePostfix(o));
-			
+			//System.out.println("getEntityName removing @EN: | " + entityId + " | " + StringUtil.removeENLanguagePostfix(o));
+			result = StringUtil.removeENLanguagePostfix(o);
 		}
 		qexec.close();
 		

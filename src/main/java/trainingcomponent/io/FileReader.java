@@ -8,6 +8,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+import trainingcomponent.database.DBQuery;
+
 public class FileReader {
 	protected String filePath = "";
 	
@@ -201,21 +203,23 @@ public class FileReader {
 		}
 	}
 	
-	public void removeDuplicatesInDBQueryOutput() {
-		String filePath = OUTPUT_PATH + OUTPUT_RELATION_FILENAME;
+	public String[] getAllLinesFromFBFile() {
+		ArrayList<String> lineList = new ArrayList<String>();
+		String filePath = DATA_PATH + FB_TEMP_INPUT_FILE;
 		File file = new File(filePath);
-		String line = "";
+		
 		try {
 			BufferedReader br = new BufferedReader(new java.io.FileReader(file));
+			String line = "";
 			
 			while ((line = br.readLine()) != null) {
-				String[] subStrings = line.split("\t");
-				System.out.println(line);
+				lineList.add(line);
 			}
-			
 			br.close();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+		
+		return lineList.toArray(new String[0]);
 	}
 }

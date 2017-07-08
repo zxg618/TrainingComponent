@@ -1,7 +1,6 @@
 package trainingcomponent.service;
 import static trainingcomponent.constant.Constant.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -47,11 +46,6 @@ public class TrainingComponentService {
 		fr.searchFirstIdAppearance();
 	}
 	
-	public void removeDuplicates() {
-		FileReader fr = new FileReader();
-		fr.removeDuplicatesInDBQueryOutput();
-	}
-	
 	protected void runQueriesForOneData(String entityIdString, String answerString, int index) {
 		String[] idList = this.getAllIdsFromCSVString(entityIdString);
 		String question = answerString.split("\t")[0];
@@ -65,7 +59,6 @@ public class TrainingComponentService {
 		int i = 0;
 		int j = 0;
 		boolean printFlag = true;
-		ArrayList<String> badData = new ArrayList<String>();
 		Map<String, Integer> relationMap = new HashMap<String, Integer>();
 		
 		
@@ -219,5 +212,28 @@ public class TrainingComponentService {
 		}
 		
 		return newString;
+	}
+	
+	public void findQuestionEntityCategory() {
+		FileReader fr = new FileReader();
+		APIReader ar = new APIReader();
+		
+		String[] lines = fr.getAllLinesFromFBFile();
+		int totalLines = lines.length;
+		int i = 0;
+		
+		for (i = 0; i < totalLines; i++) {
+			String[] subStrings = lines[i].split("\t");
+			String qEntityId = subStrings[3];
+			String entityName = DBQuery.getEntityName(PREFIX + qEntityId);
+			String categories = ar.getCategoryFromMSApi(entityName);
+			if (categories.length() > 0) {
+				System.out.println(lines[i] + "\t" + categories);	
+			} else {
+				System.out.println(lines[i]);
+			}
+			
+		}
+		
 	}
 }
