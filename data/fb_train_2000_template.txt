@@ -1,0 +1,865 @@
+4	what song have $___ produce ?	music.producer.tracks_produced	m.0ftqr	m.0p600l
+7	what movie be produce by $___ .	film.production_company.films	m.086k8	m.0278x5r
+8	what be $___ know as ?	common.topic.notable_types	m.02vnx8y	m.01xljrf
+14	what be the language in which $___ be film in	film.film.language	m.0hzqmtk	m.03k50
+18	which country be $___ in	location.location.containedby	m.026d753	m.09c7w0
+19	which red army general be involve in $___ ?	military.military_conflict.military_personnel_involved	m.025rzfc	m.01rv2v
+23	what be the position that $___ play	soccer.football_player.position_s	m.03x_s7f	m.02_j1w
+26	what be a name of gay night club in $___	location.location.contains	m.02jx1	m.055whd
+29	what be $___ nationality ?	people.person.nationality	m.03v713	m.09c7w0
+30	which fictional universe do $___ appear in ?	fictional_universe.fictional_character.appears_in_these_fictional_universes	m.04wn66	m.058nt
+39	what be the gender of $___ ?	people.person.gender	m.02ql5yh	m.05zppz
+40	which country be $___ from	people.person.nationality	m.0rpzlcg	m.09c7w0
+43	what be $___ know for	common.topic.notable_types	m.0v28wym	m.0kpv1_
+44	what be the topic for $___ ?	book.written_work.subjects	m.04wjdlq	m.06bvp
+46	what type a film be $___	film.film.genre	m.0gx0043	m.0hfjk
+48	who do $___ influence	influence.influence_node.influenced	m.016c8_	m.028gtv
+50	what be $___	location.location.contains	m.0lm0n	m.0wh58t7
+51	what language can $___ speak ?	people.person.languages	m.0gc_r5y	m.064_8sq
+57	what people do $___ belong to	people.person.ethnicity	m.09f3czq	m.03ts0c
+65	what be the subject of $___	book.written_work.subjects	m.02hvp4r	m.089_x
+66	what artwork medium be use for $___	visual_art.artwork.support	m.0dwlgj	m.0jmpt
+67	what type of business do $___ do ?	business.business_operation.industry	m.02wwdt2	m.03q9x55
+68	who be the developer behind $___	cvg.computer_videogame.developer	m.0fq67t	m.059wk
+73	who be the cinematographer for $___ ?	film.film.cinematography	m.03f6h5	m.08z39v
+75	where be $___ bear	people.person.place_of_birth	m.0gtpgng	m.04v3q
+76	who write $___ ?	book.written_work.author	m.04t1ftb	m.03nx4yz
+77	what musical genre do $___ create	music.artist.genre	m.06svk1	m.01243b
+78	what sport do $___ dame fight irish man 's basketball play	sports.sports_team.sport	m.03d6611	m.018w8
+80	what nationality be $___ ?	people.person.nationality	m.02_jpg	m.0d05w3
+85	where in germany be $___ bear in ?	people.person.place_of_birth	m.0bgvcp	m.0156q
+87	what model be $___ ?	base.cars_refactor.make.model_s	m.0h5wtp0	m.031gnc
+88	which movie feature $___	film.film_location.featured_in_films	m.01v8c	m.03c3cs0
+89	where in france do $___ die ?	people.deceased_person.place_of_death	m.0bpjjrm	m.05qtj
+90	what be the school color of $___ ?	education.educational_institution.colors	m.07qymj	m.01l849
+94	what netflix genre be $___ ?	media_common.netflix_title.netflix_genres	m.02q5h8g	m.012w70
+97	what time zone be $___ in ?	location.location.time_zones	m.054rw	m.02q_y6
+98	what kind of genre be $___ ?	film.film.genre	m.0642g4_	m.02l7c8
+100	which country do $___ come from	people.person.nationality	m.0428h5	m.09c7w0
+102	what be the profession of $___	people.person.profession	m.0jvnt8	m.01d_h8
+104	what kind of book be for $___ more ?	book.book.genre	m.04w3lgx	m.02vzzv
+105	what movie do $___ direct ?	film.director.film	m.088_bk	m.0nzlhsn
+106	in what format be $___ release	music.album.release_type	m.01jv094	m.02lx2r
+107	where be $___ cremate ?	people.deceased_person.place_of_cremation	m.02k9p7	m.0nb1s
+108	what kind of video game be $___	cvg.computer_videogame.cvg_genre	m.02pyckf	m.0g65_
+109	what television genre be $___ ?	tv.tv_program.genre	m.02ppg1r	m.07s9rl0
+111	what be the topic of the movie 8 : $___	film.film.subjects	m.0bwkpy8	m.04t58
+113	who be $___	people.person.profession	m.08088px	m.02hrh1q
+114	who create $___	visual_art.artwork.artist	m.08frp1	m.017t6m
+116	where be $___ from	music.artist.origin	m.03xnpdf	m.019xrv
+117	where be $___ located ?	location.location.containedby	m.0df7p3	m.06mkj
+118	which city do $___ pass away in	people.deceased_person.place_of_death	m.0rq4gtv	m.030qb3t
+119	what do $___ write ?	book.author.works_written	m.040dv	m.060xy
+122	what district be $___ in ?	location.location.containedby	m.0f65cj	m.07rp1q
+123	what be the nationality of $___ ?	people.person.nationality	m.02c_q_	m.0d060g
+124	what type of school be $___	education.educational_institution.school_type	m.03c6xmz	m.0bpgx
+125	what type of reserve be $___	common.topic.notable_types	m.0ctvmm	m.02h8512
+128	what be a second level division of $___	location.country.second_level_divisions	m.01znc_	m.04s969
+130	what gender do $___ identify as	people.person.gender	m.026fp5d	m.05zppz
+132	what language be write in $___	book.written_work.original_language	m.0gk_86l	m.02h40lc
+135	what kind of music do $___ play	music.artist.genre	m.01qx__8	m.01lyv
+136	which composer compose meet I in $___	music.recording.artist	m.010xvs8	m.0146pg
+137	which game be develop by $___	cvg.cvg_developer.game_versions_developed	m.026wmz6	m.0kyqdpq
+139	who 's a designer that work on $___	cvg.computer_videogame.designers	m.0kynf	m.02c7xs
+140	who be the artist on $___	music.album.artist	m.02q9w60	m.01jfqg1
+141	who write the music for $___	film.film.music	m.019vhk	m.01tc9r
+142	what be the gender of $___ ?	people.person.gender	m.0g53ctj	m.02zsn
+144	what type of album be $___	music.album.album_content_type	m.02w851w	m.06vw38
+148	what film story credit do $___ contribute to ?	film.film_story_contributor.film_story_credits	m.0b_jnxn	m.0glw2
+151	what episode have $___ direct ?	tv.tv_director.episodes_directed	m.0bn994	m.06yqhd9
+154	what be $___ most know for	common.topic.notable_types	m.0447f	m.05kpwk1
+159	what be the name of a episode from $___	tv.tv_program.episodes	m.0q9nj	m.0j910b1
+160	what industry do $___ participate in	business.business_operation.industry	m.061xcf	m.01mw1
+167	where in the united state be $___ bear	people.person.place_of_birth	m.0fqs_0s	m.01sn3
+169	what be $___ know for do for a profession	common.topic.notable_types	m.08b8p3	m.01xljr7
+171	what country be $___ from	people.person.nationality	m.03z2_m	m.09c7w0
+172	where be $___ bear ?	people.person.place_of_birth	m.05h2f67	m.0chghy
+174	where be $___ bear	people.person.place_of_birth	m.0gy03bh	m.0ctw_b
+176	what type of music be $___ know for ?	music.artist.genre	m.05c457v	m.016clz
+177	what type of content of music do $___ perform ?	broadcast.artist.content	m.01mqjg6	m.04307jx
+178	who be the manufacturer of $___ ?	aviation.aircraft_model.manufacturer	m.06f1hy	m.01ncxn
+182	which artist specialize in $___ ?	visual_art.visual_art_form.artists	m.05wkw	m.0_sqlf4
+183	what type of film be $___	media_common.netflix_title.netflix_genres	m.03cs4y4	m.07s9rl0
+184	which recording label be $___ with ?	music.artist.label	m.01rz_gh	m.0g768
+185	what be located in $___ ?	location.location.contains	m.01_l6m3	m.03hhthz
+186	what county have jurisdiction over $___	location.hud_county_place.county	m.0rk3p	m.0jgm8
+194	which university be $___ film at	film.film.featured_film_locations	m.08phg9	m.0k__z
+198	what country be $___ from	film.film.country	m.04f1gk1	m.09c7w0
+199	what be a book edition that be publish by $___ ?	book.author.book_editions_published	m.01pbg9	m.04v62pd
+200	what be the nationality of $___ ?	people.person.nationality	m.04j2w1	m.03rjj
+207	what be the administrative child of $___ ?	base.aareas.schema.administrative_area.administrative_children	m.084rhk	m.050pvw
+211	what be the genre of the book $___	book.book.genre	m.02ppz65	m.01jfsb
+212	which video game genre be $___ -lrb- game -rrb-	cvg.computer_videogame.cvg_genre	m.06q27w	m.025zzc
+213	what be the nationality of $___	people.person.nationality	m.05gxwh	m.0345h
+221	what type of university be $___	education.educational_institution.school_type	m.03dhkq	m.05pcjw
+225	who produce the film `` $___ '' ?	film.film.produced_by	m.0h2ky9j	m.0h26p74
+231	what actor be bear in $___	location.location.people_born_here	m.0c6fz	m.0gc251v
+232	what member of asteroid group be $___ a part of	astronomy.asteroid.member_of_asteroid_group	m.0464sly	m.0cqbc
+237	what gender be $___	people.person.gender	m.0dby_y	m.02zsn
+240	what country be $___ ?	location.location.containedby	m.0w6dx	m.09c7w0
+243	what be a episode from season 8 of $___ -lrb- tv series -rrb-	tv.tv_program.episodes	m.0180mw	m.06xvyc8
+244	where be $___ bury	people.deceased_person.place_of_burial	m.04glyk	m.04glpv
+245	who be bear in $___	location.location.people_born_here	m.068p2	m.027fy0w
+250	where do $___ pass away	people.deceased_person.place_of_death	m.0m3qp3_	m.030qb3t
+254	who be $___ pompey base on	fictional_universe.fictional_character.based_on	m.08z_55	m.01ync4
+255	what be the release type of $___	music.album.release_type	m.03f_cr4	m.02lx2r
+256	what area be $___ within	location.location.containedby	m.04f_d3f	m.02c98m
+257	what type of show be $___ ?	media_common.netflix_title.netflix_genres	m.0crsqmp	m.0jxy
+259	what be name after $___ -lrb- fashion designer -rrb-	symbols.name_source.namesakes	m.061pc5	m.05gjvyv
+261	which country be $___ base on	location.location.containedby	m.048pt4f	m.09c7w0
+266	who write the book $___	book.written_work.author	m.0d7n_d	m.04x56
+267	who be a parent of $___	people.person.parents	m.0dzzj	m.0cv6j
+271	which netflix genre be $___ from	media_common.netflix_title.netflix_genres	m.07schc	m.03h64
+272	which music instrument be play by $___	music.group_member.instruments_played	m.0h6hhf	m.06ch55
+278	who discover $___	astronomy.astronomical_discovery.discoverer	m.03y1bgl	m.02x5_q
+280	which language be the film emmanuelle 2000 : $___ speak in ?	film.film.language	m.05z31gk	m.02h40lc
+282	who film be $___ the costume designer for	film.film_costumer_designer.costume_design_for_film	m.0v1kzt6	m.09vch8
+287	what be a sector within $___ llc	organization.organization.sectors	m.0_r8j6t	m.05h28n
+288	where be $___ from ?	people.person.nationality	m.026gmnt	m.09c7w0
+290	what type of film be $___	film.film.genre	m.0k1bqzt	m.02kdv5l
+291	what be located in $___ ?	location.location.contains	m.09c7w0	m.049_zs0
+297	what label be $___ sign to	music.artist.label	m.05zw13h	m.087r5x
+298	which film do $___ direct ?	film.director.film	m.05jc65	m.098fx3
+301	who record $___	music.recording.artist	m.0fv3n4k	m.01pjww1
+303	who be the operator of $___	aviation.airliner_accident.operator	m.066b7d	m.0z07
+305	what movie genre be get $___	film.film.genre	m.0kv479	m.0j5nm
+306	what be the active moiety of $___	medicine.drug_ingredient.active_moiety_of_formulation	m.079pyn	m.0hqrjkw
+307	which religion do $___ belong to	people.person.religion	m.014z8v	m.0c8wxp
+314	what country be $___ apart of	location.location.containedby	m.02b358	m.03_3d
+318	where do $___ pass away	people.deceased_person.place_of_death	m.026k8_c	m.0t6hk
+325	what kind of album be $___	music.album.album_content_type	m.01mfnq1	m.0l14g2
+328	which book do $___ appear in	book.book_character.appears_in_book	m.0gvgd	m.0h35m
+329	what track be engineer by $___ ?	music.engineer.tracks_engineered	m.01wzv80	m.0n4rsv4
+336	what netflix genre be $___ ?	media_common.netflix_title.netflix_genres	m.05p14s	m.0cq23j3
+337	what be the function of $___	architecture.building.building_function	m.039qq6	m.0d5gx
+340	which type of music genre do $___ play in ?	music.artist.genre	m.03yz63p	m.0155w
+343	which documentary do $___ provide the cinematography ?	film.cinematographer.film	m.035w48	m.02g329
+345	what position do $___ play in baseball	baseball.baseball_player.position_s	m.068bb_	m.028c_8
+348	what track be by $___ ?	music.artist.track	m.01pxmrh	m.0y0jb_
+353	what type of book be $___ ?	book.book.genre	m.04t2ccq	m.0c3351
+362	what be the primary use of $___ ?	base.petbreeds.chicken_breed.primary_use	m.027843j	m.033cnk
+364	who be the parent of $___ ?	people.person.parents	m.01k9gr	m.04v7h9
+366	what kind of game be $___	cvg.computer_videogame.cvg_genre	m.0370nz	m.07yqn
+367	which football position do $___ play	soccer.football_player.position_s	m.0ryc21d	m.02nzb8
+368	what film do $___ direct ?	film.director.film	m.02gnxj	m.09n9rgh
+371	who create $___	book.written_work.author	m.04wbylb	m.0fm63w
+376	what kind of film be $___ film on	film.film.film_format	m.08r81q	m.0cj16
+379	what language be speak on $___	film.film.language	m.04j35ll	m.02h40lc
+384	what stadium be located in $___ ?	location.location.contains	m.0b_hwy	m.06k6wt
+386	what be the cause of death of $___	people.deceased_person.cause_of_death	m.0d3gd0	m.01ddth
+388	where be $___ found	organization.organization.place_founded	m.0n4bbr3	m.0fvzg
+389	what profession be $___ know for	common.topic.notable_types	m.0zs_4z6	m.049xqrq
+391	what be the nationality of $___	people.person.nationality	m.0436kgz	m.06mkj
+393	in what language be $___ film	film.film.language	m.040690k	m.06ppq
+394	where in new york be $___ located	location.location.containedby	m.028d02	m.036z8l
+396	which country be $___ from	people.person.nationality	m.0c87hfr	m.0345h
+404	what be the name of the supervillian in $___	fictional_universe.fictional_universe.characters	m.01q_ks	m.0dd26b
+409	what kind of movie be $___ : the jungle missionary	film.film.genre	m.0crxtyq	m.0jtdp
+413	where be $___ located in	location.location.containedby	m.0nfw_k0	m.03khn
+421	which city be $___ bear	people.person.place_of_birth	m.0dyxjj	m.0cvdh
+423	how be $___ kill	people.deceased_person.cause_of_death	m.03sc1p	m.051_y
+426	which city do $___ die in	people.deceased_person.place_of_death	m.071_pk	m.027l4q
+428	what be the name of a a episode of $___	tv.tv_program.episodes	m.07ch5lb	m.07mg6b6
+430	what subject be $___ write about	book.written_work.subjects	m.04wgv2d	m.037mh8
+431	how do $___ die	people.deceased_person.cause_of_death	m.06m6jm	m.06z5s
+436	which city be located in $___	location.location.contains	m.0l2wt	m.048pgfh
+440	who be $___ name after	symbols.namesake.named_after	m.0nyq6	m.0f12cd
+441	which country be $___ release in originally ?	film.film.country	m.0gy_h9v	m.09c7w0
+442	where do the tv program $___ originate from ?	tv.tv_program.country_of_origin	m.04mz6nn	m.09c7w0
+444	where be $___ located	location.location.containedby	m.04cwbj4	m.0g_z0b
+445	what woman be bear in $___	location.location.people_born_here	m.05mkn	m.01w9jyj
+451	where be the birthplace of $___	people.person.place_of_birth	m.0gxz5pq	m.05tbn
+453	what type of film be $___ ?	film.film.genre	m.0kv123	m.02l7c8
+455	what time zone do $___ use	location.location.time_zones	m.02psjmw	m.02fqwt
+459	what position do footballer $___ play ?	soccer.football_player.position_s	m.027xx6d	m.02nzb8
+460	what do -lrb- 4384 -rrb- $___ orbit around ?	astronomy.orbital_relationship.orbits	m.080b82j	m.06m_p
+463	what be a song that $___ play	music.artist.track	m.01wbgy	m.0vfd5b
+464	what be the sex of $___	people.person.gender	m.0vsy3bd	m.05zppz
+465	where be $___ bear ?	people.person.place_of_birth	m.0h4xp14	m.010rpr
+466	what be the nationality of $___	people.person.nationality	m.0gtm31	m.09c7w0
+467	what disease be $___ use to treat	medicine.medical_treatment.used_to_treat	m.072xg7	m.02cvvl
+468	who be the singer of it be $___	music.album.artist	m.0280zpp	m.01vybr
+474	what film do $___ do cinematography for	film.cinematographer.film	m.0j_c71	m.0177cx
+475	what language be $___	film.film.language	m.0dd5xy	m.02h40lc
+476	what country be $___ from ?	people.person.nationality	m.03cvmyc	m.09c7w0
+477	what position do $___ play in soccer ?	soccer.football_player.position_s	m.03y12lm	m.02sdk9v
+481	what island music do $___ create	music.artist.genre	m.01s1zk	m.0190yn
+491	what be one of $___ write work	book.author.works_written	m.01_kv5	m.0g53ntk
+492	which famous cinematographer be bear in $___ ?	location.location.people_born_here	m.030qb3t	m.0fxgcv
+493	what type of album be $___	music.album.album_content_type	m.01kbt65	m.06vw6v
+496	what do $___ compose	music.composer.compositions	m.0lccn	m.0zh0b3w
+498	what be tourist attraction in $___	travel.travel_destination.tourist_attractions	m.03khn	m.04070tn
+500	what system do $___ belong to	astronomy.star_system_body.star_system	m.03y0z93	m.06p5g
+502	what be the nationality of $___	people.person.nationality	m.038nj	m.0345h
+503	what be the nationality of $___ ?	people.person.nationality	m.0jl0xlz	m.06q1r
+505	in what country be $___ bear	people.person.place_of_birth	m.04jk5zg	m.01f62
+508	what type of film be $___ release as ?	film.film.genre	m.06w3_23	m.0hcr
+511	what type of movie be $___	media_common.netflix_title.netflix_genres	m.04j2zf1	m.01jfsb
+519	which position do $___ play ?	soccer.football_player.position_s	m.0gfhqy	m.02nzb8
+521	what kind of netflix film be $___ ?	media_common.netflix_title.netflix_genres	m.05q5gc	m.01hmnh
+522	who be the casting director for $___	film.film.film_casting_director	m.031778	m.098gg19
+523	what be the profession of $___	people.person.profession	m.02rjq82	m.02hrh1q
+525	what religion be $___ a part of	people.person.religion	m.04y9sst	m.0c8wxp
+526	what language be $___ write in	tv.tv_program.languages	m.0dd8vm_	m.02h40lc
+529	what do $___ die of	people.deceased_person.cause_of_death	m.0gbzcw8	m.0gk4g
+530	who be a person that be bear in $___	location.location.people_born_here	m.01bfnr	m.05zkks9
+534	where in New York do $___ die	people.deceased_person.place_of_death	m.05qp8kb	m.01y5qy
+535	what be the profession of $___	people.person.profession	m.0pdkrtt	m.02jknp
+536	where be $___ bear	people.person.place_of_birth	m.0260tqp	m.01pt5w
+537	what position do $___ play ?	soccer.football_player.position_s	m.0bwlrvh	m.02sdk9v
+539	where be $___ -lrb- actor -rrb- 's place of death ?	people.deceased_person.place_of_death	m.04xbr4	m.0242bw
+540	what book genre be $___	book.book.genre	m.04w287_	m.0c3351
+541	what type of album be $___	music.album.album_content_type	m.01l9bkh	m.06vw6v
+542	what star do $___ orbit	astronomy.orbital_relationship.orbits	m.03y13q0	m.06m_p
+543	what hand do $___ shoot with	ice_hockey.hockey_player.shoots	m.0j637k_	m.01r7cb
+548	what book do $___ write ?	book.author.works_written	m.04qg4j	m.06kwt8n
+553	what kind of drug be $___	medicine.drug.drug_class	m.0hqyrvx	m.03b_8
+555	what type of book be $___	book.book.genre	m.026632w	m.02n4kr
+556	what be at the mouth of $___ ?	geography.river.mouth	m.0fchvv	m.03f_9
+557	where be $___	location.location.containedby	m.0gyp1l	m.0lpfh
+559	what type of celestial object be $___	astronomy.celestial_object.category	m.03yh87k	m.0jvq
+562	where do $___ pass away	people.deceased_person.place_of_death	m.05zrylf	m.018fpt
+564	what genre be $___ ?	music.album.genre	m.03g4v1n	m.0g_bh
+566	which game do $___ develop in 2004	cvg.cvg_developer.game_versions_developed	m.0bwd4m	m.02hlg2p
+567	what type of show be $___	tv.tv_program.genre	m.0317z5	m.03k9fj
+569	what kind of album be $___ ?	music.album.album_content_type	m.01js7wk	m.0l14g2
+571	in which conflict do $___ participate	military.military_person.participated_in_conflicts	m.0c0039v	m.081pw
+572	which county do $___ belong to	location.hud_county_place.county	m.0r5jf	m.0l2v0
+573	what war do $___ participate in	military.military_person.participated_in_conflicts	m.04j8qc	m.0cm2xh
+575	what be a cyclone that affect $___	meteorology.cyclone_affected_area.cyclones	m.03gyl	m.0bmhwn
+576	what song have $___ record ?	music.artist.track	m.01wr4bj	m.0sjmzb
+577	where do $___ pass away	people.deceased_person.place_of_death	m.0cwjp	m.0d6lp
+578	what do $___ do for a occupation	common.topic.notable_types	m.07z1rfg	m.0jsg3l
+579	what kind of music do $___ sing ?	music.artist.genre	m.0q40rbm	m.06j6l
+581	which film festival show $___ of oz -lrb- 1939 film -rrb-	film.film.film_festivals	m.02q52q	m.07nm383
+584	which video game platform be $___ play on ?	cvg.computer_videogame.platforms	m.0dvyf	m.05j0w
+585	what cause the death of $___ ?	people.deceased_person.cause_of_death	m.0h57b2	m.0qcr0
+588	what profession be $___	people.person.profession	m.056vhs	m.09x_r
+590	what country be $___ set in	film.film.country	m.0ywj_xr	m.09c7w0
+593	what language be $___ in ?	music.composition.language	m.086p3n	m.04306rv
+595	how do $___ die ?	people.deceased_person.cause_of_death	m.0fq2dp5	m.06z5s
+597	what designation be use for $___ ?	common.topic.notable_types	m.0bsr3r	m.01xr_wb
+598	what be $___ place of birth ?	people.person.place_of_birth	m.0g7xfqn	m.0gkgp
+604	what kind of celestial body be $___	astronomy.celestial_object.category	m.043nvhk	m.0jvq
+605	what be a tourist attraction in $___	travel.travel_destination.tourist_attractions	m.01j4rs	m.0b_wcj
+606	what film genre be please help $___	film.film.genre	m.0kv27v	m.02hmvc
+609	what be a museum within $___	location.location.contains	m.03v1s	m.09lxp9
+613	which religion be $___	people.person.religion	m.037rcf	m.02vxy_
+616	where be $___ located	location.location.containedby	m.02pslk1	m.0m2dk
+617	what type of book be $___	book.book.genre	m.04xdszj	m.017fp
+620	what film do $___ produce	film.producer.film	m.02wysqf	m.03g_8q5
+623	how be $___ release	music.album.release_type	m.03m833q	m.02lx2r
+624	what type of school be $___	education.educational_institution.school_type	m.04b_46	m.05pcjw
+626	what city be $___ bear in ?	people.person.place_of_birth	m.05td73	m.0f2v0
+629	what be the occupation of $___	people.person.profession	m.0nbvp4s	m.02jknp
+630	which artist record $___	music.recording.artist	m.0fsgl53	m.0150t6
+633	who create $___	spaceflight.spacecraft.manufacturer	m.01h_7t	m.0467p
+635	who be a person that be bear in $___	location.location.people_born_here	m.07c5l	m.020sz7
+636	what country be $___ from ?	film.film.country	m.03wrqt	m.09c7w0
+637	in what county be bottle up : the battle over $___ film in	film.film.country	m.0_skjdk	m.09c7w0
+648	what television series be a adaptation of $___ ?	film.writer.film	m.0jt90f5	m.09fc83
+652	which time zone be $___ in ?	location.location.time_zones	m.036b_	m.0frmgl
+655	what genre be the tv show nu , $___	tv.tv_program.genre	m.04hk4_	m.02kdv5l
+657	where be $___ located	location.location.containedby	m.02w9vdj	m.059rby
+659	where in canada be $___ bear	people.person.place_of_birth	m.095xcq	m.01d26y
+660	who direct $___ ?	film.film.directed_by	m.02r1fzg	m.03hzkq
+662	which city do $___ die	people.deceased_person.place_of_death	m.02p_rjl	m.04swd
+666	who be bear in $___	location.location.people_born_here	m.0xmp9	m.05c4d2
+671	what type of metal do $___ perform	music.artist.genre	m.0d1vfn	m.0jrv_
+676	what type of music be the album bare -lrb- $___ -rrb- ?	music.album.genre	m.01hbq4h	m.02vjzr
+677	who be the artist of $___	music.recording.artist	m.0wtpt5r	m.015rmq
+678	what be the time zone of $___ ?	location.location.time_zones	m.0gbmv0	m.02llzg
+681	what musical format be $___ release in ?	music.album.release_type	m.01h3tqf	m.02lx2r
+682	who be $___ sign with	music.artist.label	m.072d65	m.06y2lt
+684	whom do $___ influence	influence.influence_node.influenced	m.0lm4b	m.02qxbq0
+686	what be a film that be write by $___ ?	film.writer.film	m.02kxbx3	m.01pbtz
+687	what type of art form be $___ ?	visual_art.artwork.art_form	m.03c7298	m.05qdh
+691	what country be $___ from	people.person.nationality	m.03xpt4d	m.07ssc
+693	what position do $___ play ?	baseball.baseball_player.position_s	m.012hsb	m.01z9v6
+696	what tv show episode do $___ direct	tv.tv_director.episodes_directed	m.0sw40	m.05djgm2
+697	what do $___ write	book.author.works_written	m.0999xx	m.04t4qvz
+706	what type of play be $___	theater.play.genre	m.03ywdq	m.0q9mp
+709	where be $___ located in	location.location.containedby	m.0rwvr	m.0nzl8
+710	where be $___ bear	people.person.place_of_birth	m.05p0h0j	m.0ck6r
+711	what type of album be $___ ?	music.album.genre	m.04jkln2	m.06j6l
+712	what type of music genre be $___ ?	music.artist.genre	m.036vtr	m.016clz
+713	what kind of music do $___ play	music.artist.genre	m.01p8_cq	m.03mb9
+715	where do $___ hail from ?	music.artist.origin	m.01qyz3k	m.0845b
+716	where be $___ from	people.person.nationality	m.0gc20w5	m.03gj2
+720	what be the subject of $___	book.written_work.subjects	m.051d61y	m.05wjc
+721	what be the primary language of $___	film.film.language	m.02wzdrl	m.02h40lc
+728	which film be $___ the director of	film.director.film	m.02gnd3	m.0pc5m32
+730	what faith do $___ follow	people.person.religion	m.0dk_nd	m.078tg
+732	who be a individual that be bear in $___	location.location.people_born_here	m.0jw_5	m.04cw_j_
+733	where do $___ die	people.deceased_person.place_of_death	m.0c8d28w	m.04jpl
+734	which military conflict do $___ participate in	military.military_person.participated_in_conflicts	m.01cnfd	m.03_h3l
+736	what type of genre be the book $___	book.book.genre	m.038b8j	m.02n4kr
+738	what attraction do $___ contain	location.location.contains	m.03xpnk	m.03w9t82
+739	what language be $___ originally in	book.written_work.original_language	m.07kby4v	m.02h40lc
+740	what be the gender of $___	people.person.gender	m.03np1mc	m.02zsn
+741	who be the author of $___	book.written_work.author	m.0vsnzh_	m.02r3z5m
+742	what style of film be $___ ?	film.film.genre	m.0b_w81v	m.07s9rl0
+745	what do the film $___ focus on	film.film.subjects	m.080q4t	m.075fzd
+746	which newspaper be release in $___	periodicals.newspaper_circulation_area.newspapers	m.059f4	m.0dqb4l
+747	what city be $___ bear	people.deceased_person.place_of_death	m.08bxk2	m.05qtj
+749	where do $___ start	music.artist.origin	m.01rq6qr	m.0dg3n1
+752	who be bear in $___ ?	location.location.people_born_here	m.0fg1g	m.0ggbbcn
+756	which country be $___ from	people.person.nationality	m.0_hf4p3	m.03rjj
+758	what position be $___ charge of	soccer.football_player.position_s	m.0ddhssd	m.02nzb8
+759	what be the content format for $___	music.album.album_content_type	m.0dn01mz	m.06vw6v
+761	what drug have $___ as the active ingredient	medicine.drug_ingredient.active_ingredient_of_formulation	m.06zx7	m.0hqsfvn
+764	in what city do $___ die	people.deceased_person.place_of_death	m.09g1my9	m.0xc9x
+767	what game be publish $___	cvg.cvg_publisher.game_versions_published	m.04czhj	m.02hltk_
+771	what position do $___ play in football ?	soccer.football_player.position_s	m.01ywbz	m.02nzb8
+774	where do $___ die	people.deceased_person.place_of_death	m.09dv71v	m.013q5t
+776	what be the genre of $___ the destroyer	film.film.genre	m.03_8cd	m.02kdv5l
+777	what type of release be $___ ?	music.album.release_type	m.01lqydz	m.02lx2r
+779	what be the sex of $___	people.person.gender	m.080756j	m.05zppz
+780	what do $___ revolve around	astronomy.orbital_relationship.orbits	m.04g089k	m.06m_p
+781	what country in europe be $___ from	people.person.nationality	m.05j_ds	m.03rjj
+783	what language be speak in $___ ?	film.film.language	m.09vnx50	m.02h40lc
+792	what artist create $___ ?	music.album.artist	m.01kp8vz	m.01kp91s
+794	what be a film from $___	film.production_company.films	m.0g3k8r	m.0d_2fb
+796	where be $___ located	location.location.containedby	m.03mxkc	m.018jkl
+797	what sex be $___	people.person.gender	m.03jnxbx	m.05zppz
+799	who be a artist under $___ ?	music.record_label.artist	m.011k11	m.01js2d5
+800	where in poland be $___ located in ?	location.location.containedby	m.0jx51	m.05p1d
+801	what genre of music be $___ ?	music.album.genre	m.0c3w_t6	m.06by7
+805	what be the type of album that $___ be originally release as	music.album.album_content_type	m.0j9mxqd	m.06vw6v
+806	what constellation be $___	astronomy.star.constellation	m.04gvphs	m.0v9n
+807	where be priest $___ bear ?	people.person.place_of_birth	m.0gxzxf	m.09c7w0
+811	what be a episode of $___	tv.tv_program.episodes	m.05h2n_h	m.079krhm
+812	what country make the film $___	film.film.country	m.03m9nss	m.09c7w0
+813	what be $___ ?	tv.tv_program.seasons	m.02k3py	m.06z42_z
+816	which label be $___ on ?	music.artist.label	m.02v_q4n	m.016ckq
+817	what be a drug that $___ manufacture ?	medicine.drug_manufacturer.drugs_manufactured	m.0fzv2y	m.0hqpzvf
+821	where do $___ die	people.deceased_person.place_of_death	m.096xt4	m.030qb3t
+822	what country be $___ from	film.film.country	m.0c03rwv	m.09c7w0
+823	where be the location $___ find	location.location.containedby	m.0376rs	m.0mp3l
+824	who be the son of $___	people.person.children	m.045gs8	m.01rcf9
+828	where do $___ take place ?	time.event.locations	m.04pypx	m.02bm8
+831	what be a color for $___	education.educational_institution.colors	m.07x2fv	m.02rnmb
+836	who be the executive producer of $___ ?	film.film.executive_produced_by	m.03s5lz	m.0glyyw
+840	what be the status for $___	medicine.drug.legal_status	m.04kj84f	m.01_7r6
+841	what type of medication be $___	medicine.drug.legal_status	m.0bt9_0	m.01_7r6
+843	what be the release type of $___ ?	music.album.release_type	m.02rpbt2	m.02lx2r
+844	what be a comic book series that be publish by $___	comic_books.comic_book_publisher.comic_book_series_published	m.04lbp3	m.05l1w6
+845	where be $___ bear	people.person.place_of_birth	m.04jmq1k	m.0fv4v
+847	what language be $___ available in ?	film.film.language	m.05zkp2v	m.06mp7
+848	what religion be $___ ?	people.person.religion	m.0270sct	m.04pk9
+850	what electronic instrument do $___ play	music.group_member.instruments_played	m.02l6nk	m.0l14qv
+851	where do $___ pass away	people.deceased_person.place_of_death	m.0h3swm0	m.0cr3d
+854	what type of album be $___	music.album.album_content_type	m.01rv844	m.0l14gg
+859	what type of industry be $___	business.business_operation.industry	m.07gybh	m.03qh03g
+864	what be one song that $___ be engineer on ?	music.engineer.releases_engineered	m.08zp9t	m.03j758b
+867	what language do $___ speak	people.person.languages	m.02114t	m.02h40lc
+868	what be the profession of $___	people.person.profession	m.05lcwc	m.05vyk
+873	to what mountain range do $___ belong	geography.mountain.mountain_range	m.03qp7t8	m.0lcd
+875	which country be $___ located inside	location.location.containedby	m.0484qgz	m.09c7w0
+877	what continent be $___ on ?	location.location.containedby	m.026526j	m.02j9z
+880	who develop $___	cvg.computer_videogame.developer	m.0gvtwr6	m.047f54
+881	which genre be the film $___ ?	film.film.genre	m.06zpl97	m.0jtdp
+886	what movie be produce by $___	film.production_company.films	m.01_sjj	m.06kl78
+887	which european language be $___ film in ?	film.film.language	m.0bbt9g	m.02bjrlw
+889	what do $___ do for a living	common.topic.notable_types	m.0k88dn	m.0jsg3l
+890	what be a good descriptor of $___	film.film.genre	m.080l7b0	m.06ppq
+891	what gender be $___ ?	people.person.gender	m.02865hg	m.05zppz
+892	what type of netflix film be $___ -lrb- 2007 film -rrb- ?	media_common.netflix_title.netflix_genres	m.02vr3gz	m.0cq229b
+895	which city be $___ found in	organization.organization.place_founded	m.080bbf	m.0f2rq
+899	what type of school be $___ ?	education.educational_institution.school_type	m.06jn6x	m.02dk5q
+902	what do $___ do as a profession ?	people.person.profession	m.076qrk	m.02hrh1q
+904	what track be produce by $___	music.artist.track	m.01srwb	m.0f83clg
+905	what genre be $___ on netflix	media_common.netflix_title.netflix_genres	m.03cpd3b	m.06ppq
+908	what kind of genre do $___ perform	music.artist.genre	m.0m0p5x5	m.0dl5d
+909	what football position do $___ fill	soccer.football_player.position_s	m.09649f	m.0dgrmp
+913	what be the netflix genre of $___ ?	media_common.netflix_title.netflix_genres	m.0cs2mtd	m.0ggq0m
+914	where be $___ from ?	people.person.nationality	m.05x3z0g	m.09c7w0
+915	what type of technique do $___ use	cricket.cricket_bowler.technique	m.06m__d	m.04lvf
+917	where be $___ antolín from	people.person.place_of_birth	m.04_6wx3	m.0j1tm
+918	why do $___ die	people.deceased_person.cause_of_death	m.0c10nc	m.0qcr0
+920	what be $___ know for ?	common.topic.notable_types	m.04vz07p	m.02h7kvf
+921	what football position do $___ play ?	soccer.football_player.position_s	m.0h7qkgn	m.02_j1w
+922	what position do $___ play in football	soccer.football_player.position_s	m.0cz7xjn	m.02nzb8
+926	what be the name of a release on $___ walkie ?	music.album.releases	m.01hnp2v	m.0fghw1w
+928	which language be write in $___ to death	book.written_work.original_language	m.02ps0fp	m.02h40lc
+933	what videogame series be $___ from	cvg.computer_videogame.game_series	m.069z92	m.01s370
+934	what type of film be $___	film.film.genre	m.07j9t1	m.01t_vv
+935	where do $___ die ?	people.deceased_person.place_of_death	m.043msml	m.0d6lp
+936	who influence $___ ?	influence.influence_node.influenced_by	m.08193	m.082trs
+937	what kind of art do $___ make ?	visual_art.visual_artist.art_forms	m.03q7hh4	m.05qdh
+943	what be a book from $___	book.literary_series.works_in_this_series	m.07k3w	m.0276dv
+946	who be a parent of $___	people.person.parents	m.0gkhhd	m.0g9pjm
+949	what indian language be speak in $___	film.film.language	m.0g9xjv9	m.03k50
+951	what type of album be $___	music.album.release_type	m.0dncxl	m.02lx2r
+961	what kind of program be $___ ?	tv.tv_program.genre	m.02wz8_7	m.0m1xv
+963	where in the united state be $___ bear at ?	people.person.place_of_birth	m.05xdf0	m.01sn3
+965	which gender be $___	fictional_universe.fictional_character.gender	m.028bdtj	m.05zppz
+969	where do $___ pass away	people.deceased_person.place_of_death	m.05vnqj	m.04jpl
+970	what type of album be $___	music.album.album_content_type	m.0kmys7d	m.02jbfk
+971	what be $___ a notable example of	common.topic.notable_types	m.0300j7	m.01xrzlq
+974	where be $___ locate ?	location.location.containedby	m.02pmmzl	m.03v0t
+977	what be the nationality of $___	people.person.nationality	m.0m0gvjk	m.09c7w0
+978	what be the nationality of $___	people.person.nationality	m.0w1tvmc	m.0d04z6
+983	where do $___ originate ?	music.artist.origin	m.01dgtg	m.0k33p
+990	what be the time zone of $___	location.location.time_zones	m.0y7tn	m.02hcv8
+993	what be name of book with $___ as a subject	book.book_subject.works	m.089_x	m.04t4npz
+994	what be the rating for $___ -lrb- 1983 film -rrb-	film.film.rating	m.02pjv41	m.0kprc8
+995	where be $___ from	film.film.country	m.0fq6ngp	m.06mzp
+996	what kind of album be $___	music.album.genre	m.01p5_g9	m.01lyv
+999	who be the child of $___ ?	people.person.children	m.0fw6r	m.0kntg
+1002	what kind of rock be $___ classify as	music.artist.genre	m.047dcw7	m.016clz
+1003	what genre can $___ be find in on netflix ?	media_common.netflix_title.netflix_genres	m.03m3xm8	m.0cq22ks
+1004	what country be $___ from	film.film.country	m.0h7rdl	m.06mkj
+1005	what be $___ occupation	common.topic.notable_types	m.0rhdz5g	m.0jsg3d
+1006	what religion do $___ follow	people.person.religion	m.0cddlf	m.03_gx
+1008	where be $___ in	location.hud_county_place.county	m.0rn4f	m.0jrpf
+1019	which artist record $___	music.album.artist	m.03xwxz1	m.09s3f7
+1021	what religion do $___ practice	people.person.religion	m.04bt6k	m.0c8wxp
+1022	where be -lrb- 9129 -rrb- $___ located	astronomy.asteroid.member_of_asteroid_group	m.0j0xgv7	m.0cqbc
+1025	what type of film be $___	music.artist.genre	m.0ctb6j	m.017_qw
+1029	what language do the actor in $___ speak	film.film.language	m.05v661z	m.064_8sq
+1031	where be $___	location.location.containedby	m.02779rv	m.0chghy
+1032	where be $___ bear ?	people.person.place_of_birth	m.02pl9g2	m.0h1k6
+1034	what US state contain $___	location.location.containedby	m.06_7syh	m.01x73
+1041	what county be $___ ?	location.location.containedby	m.04993_x	m.0cc07
+1043	what film genre be $___	media_common.netflix_title.netflix_genres	m.04jks20	m.04xvlr
+1044	which time zone be $___ located in	location.location.time_zones	m.0gj_kv	m.02llzg
+1045	which book do $___ write	book.author.works_written	m.01qsby	m.06735r4
+1047	which position do $___ play	soccer.football_player.position_s	m.0h68pkb	m.02_j1w
+1048	where be $___ bear ?	people.person.place_of_birth	m.05m6my	m.03lql
+1049	what be the higher classification of $___ ?	biology.organism_classification.higher_classification	m.0bq064	m.0bt9lr
+1050	in which city be $___ bear	people.person.place_of_birth	m.0265jpq	m.01_d4
+1051	what business operation do $___ operate in	business.business_operation.industry	m.01mrxc	m.02n9jv
+1055	where do $___ die ?	people.deceased_person.place_of_death	m.0s967h2	m.05qtj
+1058	who publish $___	cvg.computer_videogame.publisher	m.0911jg	m.01n073
+1059	where be $___ bear	people.person.place_of_birth	m.06j3zz	m.0166b
+1060	what artist make $___ ?	visual_art.visual_art_form.artists	m.012z_m	m.080ftq0
+1064	what school be located in $___ ?	location.location.contains	m.0rql_	m.04ctkj
+1065	what diet be $___ compatible with	food.ingredient.compatible_with_dietary_restrictions	m.04j604	m.034n2g
+1066	what position do $___ play	basketball.basketball_player.position_s	m.0dvv92	m.02_ssl
+1067	what be the birth place of $___	people.person.place_of_birth	m.0ftzr3g	m.0ffmp
+1068	which nationality be $___	people.person.nationality	m.026_7f6	m.02jx1
+1070	what be the current frequency of $___ ?	time.recurring_event.current_frequency	m.04flwf	m.02nbmyr
+1071	what orbit $___ ?	astronomy.orbital_relationship.orbited_by	m.06m_p	m.04g0ym2
+1072	who direct $___ ?	film.film.directed_by	m.0ch2873	m.04bqt3
+1073	which american city be $___ located in ?	location.location.containedby	m.041b09	m.02_n7
+1075	where do $___ die ?	people.deceased_person.place_of_death	m.01s818	m.080h2
+1076	how be $___ no dekoboko chindōchū release	music.album.release_type	m.03w9ycw	m.02lx2r
+1078	what type of music do $___ write	music.artist.genre	m.075_j1	m.018lg0
+1079	where be $___ located	location.location.containedby	m.03m3d1	m.05r7t
+1083	where be $___ bear	people.person.place_of_birth	m.0nhy903	m.05qtj
+1084	what sport do $___ play	base.fight.sports_official.sport	m.03gs54m	m.0jm_
+1087	what be $___	music.artist.track	m.0pk41	m.0s1975
+1091	what be the gender of $___	people.person.gender	m.0s9k6fl	m.05zppz
+1099	who be a member of -lrb- 7473 -rrb- $___ ?	astronomy.asteroid.member_of_asteroid_group	m.0g4_pvw	m.0cqbc
+1100	who be the artist for the album the day of $___ ?	music.album.artist	m.0y4r3l3	m.02g1vx
+1101	what music do $___ make ?	music.artist.track	m.01737y	m.0f5jpyt
+1104	what type of television show be $___ ?	tv.tv_program.genre	m.0ddghm9	m.04xvh5
+1106	which fictional character do $___ create	fictional_universe.fictional_character_creator.fictional_characters_created	m.0d6ztl	m.02pgnzp
+1107	what company have $___ sign with ?	music.artist.label	m.08hg7g	m.01cszh
+1108	what type of must do $___ play	music.artist.genre	m.028q6	m.078jtk
+1109	who do $___ nietzsche influence ?	influence.influence_node.influenced	m.02wh0	m.09gkr04
+1110	where be $___ bear	people.person.place_of_birth	m.0x0rz0s	m.035m6
+1113	what film be $___ a costume designer for ?	film.film_costumer_designer.costume_design_for_film	m.0b80__	m.09gpgw_
+1116	what instrument do $___ play ?	music.group_member.instruments_played	m.0g8_dh	m.0342h
+1117	what kind of music be $___	music.album.genre	m.02rnm49	m.03_d0
+1118	what country be $___ ?	film.film.country	m.0bsqxh	m.015fr
+1121	what do $___ adapt from ?	media_common.adaptation.adapted_from	m.026rdr	m.03hnqkv
+1123	what town be located in $___ ?	location.us_county.hud_county_place	m.0mw01	m.0_l7x
+1124	which city be $___ bear	fictional_universe.fictional_character.place_of_birth	m.03_5s0	m.0g2fw
+1127	who be the child of $___	people.person.children	m.0g_85h7	m.01pj5q
+1129	where be $___ bear	people.person.place_of_birth	m.0jspwlh	m.0y62n
+1130	what be the origin of $___ ?	music.artist.origin	m.02f1c	m.0_wrs
+1132	what musical genre be $___	music.album.genre	m.01knd13	m.0126t5
+1134	what be the name of a album from $___	music.artist.album	m.0kyw3	m.09plg7
+1136	who be $___ influence by	influence.influence_node.influenced_by	m.01k1lc	m.03hq8p
+1140	who be bear in $___ ?	location.location.people_born_here	m.01pw4k	m.0nhgs07
+1141	which city be $___ bear in	people.person.place_of_birth	m.05hjsvw	m.0tjtx
+1142	who be the founder of $___ ?	organization.organization.founders	m.01dlzc	m.03ckbp
+1145	what album be produce by $___	music.artist.album	m.012vnv	m.0f4kvx
+1149	what genre of music be $___ ?	music.album.genre	m.03jlw6q	m.02lnbg
+1152	what be the sex of $___	people.person.gender	m.0bm9jk5	m.05zppz
+1154	what kind of video game be $___	cvg.computer_videogame.cvg_genre	m.0drfh6	m.07yqn
+1155	what soccer position do $___ hold	soccer.football_player.position_s	m.05b3vb2	m.02_j1w
+1156	who be influence $___	influence.influence_node.influenced_by	m.01d5wf	m.06y8v
+1157	what be the original language of $___	book.written_work.original_language	m.05qcmmh	m.02h40lc
+1158	what be $___ name after	symbols.namesake.named_after	m.04pwg	m.0k6xj
+1163	who be the artist of $___	music.album.artist	m.01hm67b	m.0136p1
+1164	what film set do $___ design	film.film_set_designer.film_sets_designed	m.09sj5fh	m.03bxrfl
+1167	what type of show be $___ ?	tv.tv_program.genre	m.0g975kh	m.07s9rl0
+1168	who be the executive producer of $___	film.film.executive_produced_by	m.0h2bq41	m.0ct58h
+1170	what city in southern california do $___ die in ?	people.deceased_person.place_of_death	m.0fscnz	m.0k049
+1171	which municipality of Puerto Rico be $___ fmor	music.artist.origin	m.01p1y2b	m.02_zsj
+1172	which game be publish by $___	games.game_publisher.games_published	m.06cmbz	m.087zh2
+1175	what be a character in $___	book.book.characters	m.0j1ds_0	m.04vdrs
+1180	what industry be correlate with $___	business.business_operation.industry	m.074mqs	m.03xm3m
+1185	what football position do $___ play	soccer.football_player.position_s	m.0lxbp4p	m.02sdk9v
+1190	where be $___ base out of	location.location.containedby	m.076vdv7	m.0sft6
+1192	which visual medium do $___ work in	visual_art.visual_artist.art_forms	m.0pdp3sn	m.05qdh
+1194	what country give $___ he nationality	people.person.nationality	m.01jpbpr	m.09c7w0
+1196	what kind of astrological body be $___	astronomy.celestial_object.category	m.03y771m	m.0jvq
+1199	which country be $___ release in ?	film.film.country	m.01kp5s	m.09c7w0
+1202	what lyric be write by $___ ?	music.lyricist.lyrics_written	m.03t852	m.0h3rvsp
+1203	who be the publisher for $___	comic_books.comic_book_series.publisher	m.05pvv2	m.058j2
+1205	which canadian state be $___ located in	location.location.containedby	m.01k5h9	m.0694j
+1207	what philosopher influence $___ ?	influence.influence_node.influenced_by	m.07r3d	m.011zsy
+1211	what kind of food do gus 's $___ make	dining.restaurant.cuisine	m.0s8wfcb	m.01_bhs
+1213	which country be $___ make in	film.film.country	m.0cp0nb_	m.03rk0
+1214	what kind of music do $___ play	broadcast.artist.content	m.07tgqp	m.045zwkh
+1218	where do the birth of $___ take place ?	people.person.place_of_birth	m.022wsn	m.0s0bg
+1221	what do $___ do professionally	people.person.profession	m.0gb_d3v	m.09l65
+1223	which country produce sanam hum $___	film.film.country	m.0crvg5s	m.03rk0
+1226	what type of lake be $___	geography.lake.lake_type	m.053wy_9	m.093shy
+1230	what be a album by $___	music.artist.album	m.0799hx	m.01g0wz9
+1231	what be $___ type of	common.topic.notable_types	m.0263ncs	m.01nf
+1232	who direct $___	film.film.directed_by	m.02rsk01	m.09cpvg
+1235	what type of star system be $___	astronomy.star_system_body.star_system	m.03y74tp	m.06p5g
+1236	which film be shoot in $___	film.film_location.featured_in_films	m.09pbqk	m.03lx3k
+1237	what kind of punk music do $___ play	music.album.genre	m.0275sw5	m.0jmwg
+1239	where in south asia be $___ located in ?	location.location.containedby	m.0b9gb0	m.06m_5
+1240	what be $___	geography.mountain_range.mountains	m.0g4y0	m.0hynxmn
+1248	which airport be hub for $___	aviation.airline.hubs	m.0n84_	m.03jn4
+1250	what do $___ orbit	astronomy.orbital_relationship.orbits	m.03y85xx	m.06m_p
+1252	what kind of movie be $___	film.film.genre	m.0crt7cy	m.02n4kr
+1257	what format be $___ release in ?	music.album.release_type	m.04d62kl	m.02lx2r
+1258	what genre of music be $___ ?	music.album.genre	m.027z283	m.0fd3y
+1260	who be a prominent figure in $___	military.military_conflict.military_personnel_involved	m.081pw	m.0n_99zg
+1262	what radio station feature $___	broadcast.artist.content	m.016pb1	m.04307sq
+1265	what be the ethnicity of $___	people.person.ethnicity	m.080kfkl	m.013xrm
+1267	which hockey position be play by $___	ice_hockey.hockey_player.hockey_position	m.02q8twz	m.02qvdc
+1269	what be the mouth of $___	geography.river.mouth	m.05pp84	m.08whs5
+1270	which religion do $___ identify	people.person.religion	m.0d1x3g	m.0c8wxp
+1271	which country locate $___	location.hud_county_place.county	m.0xsb4	m.0n59t
+1274	in what language be $___ film in	film.film.language	m.0gbv047	m.02h40lc
+1277	what gender be $___	people.person.gender	m.05ms38_	m.05zppz
+1280	what kind of release be $___ ?	music.album.release_type	m.03nqpgz	m.02lx2r
+1281	who publish the game pet pal : $___	cvg.computer_videogame.publisher	m.04y7lf0	m.0d2fd7
+1282	where in southern california be $___ bear	people.person.place_of_birth	m.05zp5s3	m.071vr
+1283	what be the country that $___ be film in ?	film.film.country	m.05b1zqy	m.03rk0
+1284	where do $___ come from ?	tv.tv_program.country_of_origin	m.0c5drs	m.09c7w0
+1288	what kind of mountain be $___ ?	geography.mountain.mountain_type	m.0409dpr	m.0c37g
+1290	what be $___ nationality ?	people.person.nationality	m.099hb4	m.0345h
+1291	who be $___ sign with	music.artist.label	m.01l3hh9	m.03vv61
+1292	what country be $___ located in ?	location.location.containedby	m.04c2lsz	m.09c7w0
+1295	what film do $___ produce	film.producer.film	m.01_xv9	m.02nsxgf
+1296	which state be $___ , jr. from	people.person.place_of_birth	m.03ckb9b	m.04rrx
+1297	what be the original language of the book $___ : a novel	book.written_work.original_language	m.04lh4sj	m.02h40lc
+1298	what kind of music do $___ make ?	music.artist.genre	m.01kp567	m.0175zz
+1299	what be a track by artist $___ ?	music.artist.track	m.015j6y	m.016smcj
+1301	what be a location within $___	location.location.contains	m.09c7w0	m.03qgpz0
+1302	what be the previous work on $___	book.written_work.previous_in_series	m.02qvdsj	m.02qvds5
+1304	where do $___ spend he last day alive	people.deceased_person.place_of_death	m.039lrt	m.030qb3t
+1306	what area be $___ contain by	location.location.containedby	m.02z5wgs	m.01nqz6
+1308	who be bear in $___ ?	location.location.people_born_here	m.035m6	m.03d0lb_
+1312	what be $___ university 's color	education.educational_institution.colors	m.03x2gs	m.03bxxfk
+1313	which type of ship be $___	boats.ship.ship_class	m.073z3z	m.07ppv
+1314	what language be $___ ?	tv.tv_program.languages	m.0gy0mh_	m.01jb8r
+1315	which county be $___ in	location.hud_county_place.county	m.0x003	m.0ndh6
+1317	what film do $___ direct	film.director.film	m.0bgrsl	m.0f7x7b
+1319	what type of movie be $___	media_common.netflix_title.netflix_genres	m.02pw5wb	m.03npn
+1320	who be the cvg developer of $___	cvg.cvg_developer.games_developed	m.0bbzz9n	m.0ghlth
+1321	where be $___ bear ?	people.person.place_of_birth	m.0v402g_	m.0v5h1
+1324	what country be $___ a citizen of	people.person.nationality	m.02qn22h	m.09c7w0
+1325	what gender be $___ ?	people.person.gender	m.03c4tf9	m.05zppz
+1326	what position have be play by $___	basketball.basketball_player.position_s	m.0w2kz0j	m.0355dz
+1328	what be a city in $___	location.location.contains	m.0g0xd5	m.05rh5h
+1331	who produce the film $___	film.film.produced_by	m.02rd3qp	m.04rg6
+1334	what be the name of $___ ?	music.artist.album	m.019yvk	m.01jlvmh
+1335	what position do $___ play	baseball.baseball_player.position_s	m.05rhcs	m.02sddg
+1337	what be the airport near $___ ?	location.location.nearby_airports	m.01dtq1	m.05sxdky
+1339	what language be $___ in ?	film.film.language	m.0byrq2n	m.02h40lc
+1342	what gender be $___	fictional_universe.fictional_character.gender	m.0f_6npp	m.02zsn
+1343	what be a example of $___	film.production_company.films	m.03mdt	m.0bf38wm
+1344	what be the nationality of $___ ?	people.person.nationality	m.0b1qck	m.09c7w0
+1348	what kind of film be $___ ?	film.film.genre	m.04tn24b	m.0lsxr
+1350	which event do $___ participate in	base.eventparticipants.known_participants.participated_in	m.0h1mt	m.027zjhh
+1354	what kind of book be $___	book.book.genre	m.0816bz	m.0d6gr
+1357	what genre be the book $___	book.book.genre	m.02k7d22	m.02xlf
+1359	which country be $___ domhnaill from	people.person.nationality	m.0fcw1_	m.03rt9
+1360	what star system do $___ belong to	astronomy.star_system_body.star_system	m.03ygjn_	m.06p5g
+1362	what kind of film be $___	film.film.genre	m.0270l7s	m.0hqxf
+1366	where be $___ bear	people.person.place_of_birth	m.0dr1zm	m.0f3d3g
+1368	what country be $___ a citizen of	people.person.nationality	m.02rh294	m.09c7w0
+1370	which infield position do $___ play	baseball.baseball_player.position_s	m.03qknsz	m.02rsl1
+1372	which country be $___ from	people.person.nationality	m.024sfb	m.09c7w0
+1374	what kind of music be make by $___	music.artist.genre	m.01ltvyq	m.0175yg
+1376	what be the place of birth of $___ ?	people.person.place_of_birth	m.037ddb	m.03hrz
+1377	what position do $___ play ?	soccer.football_player.position_s	m.03nqn95	m.0dgrmp
+1379	what be the genre of $___	book.book.genre	m.04c4ys	m.014dfn
+1383	what gameplay mode be leave behind : $___ ?	cvg.computer_videogame.gameplay_modes	m.0cnhs6	m.02hjn4
+1385	what be the topic of $___ ?	book.written_work.subjects	m.04t4vcq	m.0f8l9c
+1388	what be $___ gender	people.person.gender	m.0jvz2s	m.05zppz
+1390	where be $___ located	location.location.containedby	m.051fsp	m.0j5g9
+1393	what country be $___ from	film.film.country	m.0bg8m4n	m.09c7w0
+1398	what kind of book be $___	book.book.genre	m.04wdsh7	m.037mh8
+1399	what be the name of a spae object that orbit $___	astronomy.orbital_relationship.orbited_by	m.06m_p	m.0h97v3h
+1401	who be a child of $___	people.person.children	m.04mby	m.0h00k1
+1402	where be $___ bear	people.person.place_of_birth	m.015lly	m.02cft
+1403	what be the ethnicity of $___	people.person.ethnicity	m.0dm7lw	m.0j6x8
+1405	which musical instrument do $___ play ?	music.group_member.instruments_played	m.0dszlx	m.05r5c
+1407	which gender be $___	people.person.gender	m.0bh6zf3	m.05zppz
+1411	what country be $___ located in	location.location.containedby	m.0gm66c	m.03rjj
+1417	who edit $___	film.film.edited_by	m.0y_hb	m.02pn_df
+1419	which military commander be involve in $___ ?	base.culturalevent.event.entity_involved	m.09y05h	m.0pzgm
+1422	who be the executive producer of $___ ?	film.film.executive_produced_by	m.033srr	m.0jv59w
+1427	what be the ethnicity of $___ ?	people.person.ethnicity	m.0f4pt	m.06mvq
+1430	what be the soundtrack of $___ -lrb- visual novel -rrb-	cvg.computer_videogame.soundtracks	m.03wmrv	m.03fxpqd
+1434	what kind of album be $___	music.album.album_content_type	m.01h4dn3	m.02jbfk
+1437	what be the nationality of $___	people.person.nationality	m.0bvb125	m.02jx1
+1438	what be $___	music.artist.track	m.01l47f5	m.0xl_rc
+1441	where be $___ base	location.location.containedby	m.01smkl	m.0f76c
+1442	who be the editor of the film $___	film.film.edited_by	m.0j311ms	m.03cqvjc
+1443	who be involve in $___	base.culturalevent.event.entity_involved	m.05gx7t	m.020d5
+1447	what position do $___ play	american_football.football_player.position_s	m.07vxhg	m.01b8cw
+1448	who be $___ of france 's son	people.person.children	m.0dj9w	m.0grgc
+1450	where be $___ bear	people.person.place_of_birth	m.02777w9	m.0r2l7
+1452	what state be $___	base.usnationalparks.us_national_park.state	m.02hdyh	m.04rrx
+1453	what be -lrb- 6289 -rrb- $___ a member of ?	astronomy.asteroid.member_of_asteroid_group	m.0by1ydr	m.0cqbc
+1455	which war do $___ participate in	military.military_person.participated_in_conflicts	m.05mvbxh	m.0cmc2
+1456	what kind of educational institution be shepard $___	education.educational_institution.school_type	m.026_brx	m.01rs41
+1458	what be $___ ?	music.artist.album	m.05md37	m.01srylv
+1461	how do $___ die	people.deceased_person.cause_of_death	m.05c5_mm	m.0gg4h
+1462	where be $___ bear	people.person.place_of_birth	m.03nsd4p	m.067z4
+1465	what active functional group be find in $___	medicine.drug_ingredient.active_moiety_of_formulation	m.07syk	m.0jxrs7h
+1470	which area be contain in $___	location.location.contains	m.09c7w0	m.049z5wy
+1472	who be bear in $___ ?	location.location.people_born_here	m.01z56h	m.0ck16h
+1473	what be the capital of the administrative area of $___	base.aareas.schema.administrative_area.capital	m.01l309	m.039qsw
+1474	which label be $___ apart of ?	music.artist.label	m.01q99h	m.033hn8
+1475	what film be write by $___	film.writer.film	m.0zb1gbh	m.0y9sv1m
+1476	what do $___ participate in ?	military.military_person.participated_in_conflicts	m.04xd_z	m.081pw
+1478	what be country be $___ a native of	people.person.nationality	m.0ycld04	m.03h64
+1480	what instrument do $___ play	music.group_member.instruments_played	m.01w357m	m.018vs
+1482	what soccer position do $___ hold ?	soccer.football_player.position_s	m.0d9ry_	m.02nzb8
+1483	what be the nationality of $___ ?	people.person.nationality	m.0ch94m	m.09c7w0
+1485	who direct $___	film.film.directed_by	m.06gw8x	m.0cc63l
+1486	what country be $___ bear in	people.person.place_of_birth	m.0gcfjnl	m.06mkj
+1488	which time zone be use in $___	location.location.time_zones	m.09c7w0	m.02lctm
+1491	what gender be $___	people.person.gender	m.03y90sx	m.05zppz
+1492	what kind of music be on $___ ?	music.album.genre	m.05p3hxt	m.0264jc6
+1493	which country be $___ in	location.location.containedby	m.04967p9	m.09c7w0
+1499	what be $___ nationality	people.person.nationality	m.0wq0zyv	m.05qhw
+1506	where do $___ die	people.deceased_person.place_of_death	m.01lcxbb	m.0281s1
+1507	who be be influence by $___	influence.influence_node.influenced	m.01n4f8	m.03ctnw9
+1509	which country do $___ take place in	film.film.country	m.05v3wc1	m.04wgh
+1510	what country be $___ film in	film.film.country	m.0wp5bh5	m.06bnz
+1511	what be the name of $___	film.film_festival_event.films	m.07nwvc8	m.0d6b7
+1512	which star system do $___ belong to ?	astronomy.star_system_body.star_system	m.06c6zr	m.06p5g
+1514	which language be use in keep $___	film.film.language	m.0697_g	m.06nm1
+1516	what state be $___ in	location.location.containedby	m.0clvp86	m.04ly1
+1518	which country be $___ from	people.person.nationality	m.06clh4	m.03_3d
+1519	where be $___ from	people.person.nationality	m.03g_z9	m.09c7w0
+1523	what film have $___ produce ?	film.producer.film	m.02vyw	m.0ds_y2
+1528	what be the notable type of $___	common.topic.notable_types	m.03ndm0	m.01xrrch
+1531	what kind of movie be $___ ?	film.film.genre	m.0crtfpt	m.07s9rl0
+1532	what book have be publish by $___ ?	book.publishing_company.books_published	m.04dss73	m.0zw8r82
+1534	which language be use in $___	tv.tv_program.languages	m.012fpv	m.02h40lc
+1535	what genre of film be $___ ?	film.film.genre	m.0t_fq9v	m.07s9rl0
+1536	what kind of mountain be $___	geography.mountain.mountain_type	m.02pq_xw	m.07_9_
+1538	who produce the film $___	film.film.produced_by	m.0c299x	m.06zq52
+1540	what body of water surround $___	geography.island.body_of_water	m.0dyg2	m.05rgl
+1541	what newspaper be circulate in $___	periodicals.newspaper_circulation_area.newspapers	m.0z20d	m.0hv2mqp
+1545	what country do $___ come from	music.artist.origin	m.01mz9wh	m.0rrwt
+1547	which language be the film who be $___	film.film.language	m.0h274sb	m.02h40lc
+1548	what kind of film be $___	film.film.genre	m.0j50n06	m.0hqxf
+1552	what kind of music do $___ make ?	music.artist.genre	m.02z4z20	m.03_d0
+1555	what book do $___ appear in	book.book_character.appears_in_book	m.02p9fz6	m.0j0_ghh
+1556	which orbit be relate to $___	astronomy.orbital_relationship.orbits	m.03y5fln	m.06m_p
+1557	what do $___ treat ?	medicine.drug_ingredient.active_ingredient_of_formulation	m.026rzq0	m.0jxnfbn
+1559	where be $___ from	people.person.nationality	m.03d09_q	m.09c7w0
+1560	what kind of music be on scream $___ ?	music.album.genre	m.026y0p2	m.03lty
+1562	what be the nationality of $___	people.person.nationality	m.09n15y	m.07t21
+1565	what state be $___ in ?	location.location.containedby	m.03qhv6l	m.05fkf
+1567	what type of film be $___	film.film.genre	m.0bb1mqv	m.02l7c8
+1571	what be a town within $___	location.us_county.hud_county_place	m.0ngrs	m.0wpcs
+1573	what religion do $___ saydam practice ?	people.person.religion	m.02qs3_7	m.078tg
+1574	what type of food be $___	base.schemastaging.food_extra.broader	m.04qvv63	m.01yyk
+1575	where be $___ located	location.location.containedby	m.0clvmq6	m.03v0t
+1576	where do $___ die at ?	people.deceased_person.place_of_death	m.02vmn8x	m.01z2ts
+1583	who make the set for $___	film.film.film_set_decoration_by	m.0dsxdc	m.08zxy3k
+1584	what movement be $___ associate with	visual_art.visual_artist.associated_periods_or_movements	m.04r426	m.0q4mn
+1585	what be the genre of $___	film.film.genre	m.0cc1tf	m.0lsxr
+1586	which timezone be $___ located in ?	location.location.time_zones	m.010_sp	m.02fqwt
+1587	which book be publish by $___ ?	book.author.book_editions_published	m.0ph81	m.051j2cm
+1588	what be the birthplace of $___	people.person.place_of_birth	m.04647rp	m.0d331
+1590	where in russia be $___ bear in ?	people.person.place_of_birth	m.04ql_7	m.04swd
+1591	what be compose by $___	music.composer.compositions	m.0d5zy	m.0_6645v
+1592	which song do $___ compose	music.composer.compositions	m.01l72d6	m.0fxmf1
+1594	which capital be in $___	base.aareas.schema.administrative_area.capital	m.040lln	m.01lfvj
+1596	what tv episode do $___ write	tv.tv_writer.episodes_written	m.02wl050	m.0k1dmqj
+1597	who author $___	book.written_work.author	m.02rnrwk	m.01g5m2
+1599	what track be produce by $___ ?	music.producer.tracks_produced	m.02rsw_4	m.0sh999l
+1601	who be the singer of $___	music.recording.artist	m.010rf0y	m.03n0q5
+1603	where do $___ die	people.deceased_person.place_of_death	m.0404z9b	m.0ftn8
+1607	where be $___ bear	people.person.place_of_birth	m.03jnxy8	m.030qb3t
+1611	which spiderman character be bear in $___	fictional_universe.fictional_setting.fictional_characters_born_here	m.0rn8q	m.01x02p
+1618	in what language be $___ speak	film.film.language	m.04j1v2v	m.02h40lc
+1619	what kind of celestial object be $___ ?	astronomy.celestial_object.category	m.03y8379	m.0gggxt
+1620	where be $___ from	music.artist.origin	m.05grlm	m.030qb3t
+1622	what be the release type of $___	music.album.release_type	m.05c01l2	m.02lx2r
+1626	how do $___ die ?	people.deceased_person.cause_of_death	m.0fr8r5	m.0qcr0
+1627	what language do $___ speak	people.person.languages	m.01pd46	m.02h40lc
+1628	which architectural style do $___ belong to ?	architecture.structure.architectural_style	m.0478_kj	m.01tv5c
+1631	what be $___	common.topic.notable_types	m.019jj5	m.01xs039
+1632	what kind of film be $___	film.film.genre	m.0828bt	m.07s9rl0
+1634	what instrument can $___ play ?	music.group_member.instruments_played	m.03158s	m.0342h
+1638	what be $___ know for in the entertainment industry ?	common.topic.notable_types	m.0gblx2c	m.0jsg3d
+1642	who be the director of $___	film.film.story_by	m.01dyvs	m.03nzd5t
+1643	what film genre be $___ ?	media_common.netflix_title.netflix_genres	m.0hvcr	m.04t36
+1647	what be a episode from $___ -lrb- tv series -rrb-	tv.tv_program.episodes	m.048ptr	m.06xjxh0
+1649	which city be find in $___	location.location.contains	m.0vbk	m.048754m
+1651	what gender be $___ ?	people.person.gender	m.05qfsr0	m.05zppz
+1652	who be the writer of $___	film.film.written_by	m.0d7wm1	m.06w8mk2
+1654	what language do $___ use	film.film.language	m.03cfv98	m.06ppq
+1655	where be $___ located	location.location.containedby	m.086kwf	m.0d05w3
+1656	what be the profession that $___ possess ?	people.person.profession	m.0hr201l	m.0cbd2
+1657	what gender be $___ ?	people.person.gender	m.06jm2w	m.05zppz
+1658	which film do $___ edit	film.editor.film	m.02775cw	m.02t8gx
+1662	which artist record $___ ?	music.album.artist	m.01rmpft	m.027s8q
+1663	what be $___	astronomy.celestial_object.category	m.03yhhw4	m.0jvq
+1664	where be $___ ?	location.location.containedby	m.02cwyq	m.07ssc
+1669	who be the editor of $___ -lrb- film -rrb-	film.film.edited_by	m.03cv_vm	m.0bxj82
+1670	what genre be $___ -lrb- 1954 tv series -rrb- ?	tv.tv_program.genre	m.05w097	m.07s9rl0
+1676	what type of lake be $___	geography.lake.lake_type	m.03gw_5y	m.093shy
+1677	where be $___ bear ?	people.person.place_of_birth	m.0_yztld	m.0vzm
+1680	which genre be $___ part of	film.film.genre	m.09pgd9b	m.07s9rl0
+1682	what ward and city be $___ bear in	people.person.place_of_birth	m.03m9myz	m.012xky
+1683	what type of music be $___ ?	music.album.genre	m.03fzlv8	m.02z7f3
+1684	what do $___ do for a living	people.person.profession	m.01s8vkn	m.02hrh1q
+1685	what video game be $___ from	cvg.video_game_soundtrack.video_game	m.0cqxz7	m.0b3wvg
+1686	where be $___ bear at ?	people.person.place_of_birth	m.0tm3nbw	m.0k049
+1687	what country be $___ from	film.film.country	m.0n674w6	m.09c7w0
+1688	what kingdom be involve in $___	base.culturalevent.event.entity_involved	m.07gdjm	m.014tss
+1690	what be the topic of $___ ?	book.written_work.subjects	m.04wh8yw	m.06mq7
+1692	what genre do $___ make	music.artist.genre	m.01wrp83	m.03lty
+1693	what label be $___ with	music.artist.label	m.01pq55b	m.08d53x
+1696	where be $___ bear	people.person.place_of_birth	m.025vwqq	m.0mn9x
+1701	which book be about the subject of $___	book.book_subject.works	m.05976s	m.03jcnf
+1702	which gender be $___	people.person.gender	m.092v3g	m.05zppz
+1704	what song do $___ sing	music.artist.track	m.08rgr4	m.0ftkgfq
+1705	what gender be $___	people.person.gender	m.0gk_dns	m.05zppz
+1706	which type of music do $___ release	music.album.genre	m.01r_tsw	m.0175zz
+1707	which city be $___ from	people.person.place_of_birth	m.06m4kr	m.0zz6w
+1709	what nationality be $___	people.person.nationality	m.0jwfqb	m.0345h
+1714	what position do $___ play ?	baseball.baseball_player.position_s	m.0d3dzd	m.01sdzg
+1715	what event take place at $___ in 1943 ?	location.location.events	m.05k8n1	m.0crc8fx
+1716	where be $___ bear	people.person.place_of_birth	m.064nl0f	m.05vz3zq
+1717	what be one of the feature film location of the film nutty professor ii : $___	film.film.featured_film_locations	m.065zlr	m.0k_q_
+1731	what player mode be $___ play on ?	cvg.computer_videogame.gameplay_modes	m.0p76n5m	m.02hjn4
+1732	what film do $___ write ?	film.writer.film	m.05l_2t	m.0d8thg
+1733	which fraternity and sorority be in $___	education.university.fraternities_and_sororities	m.0f1nl	m.045y0x
+1736	what language be $___ film in ?	film.film.language	m.0bb2bjl	m.02h40lc
+1739	who direct $___	film.film.directed_by	m.0cs27gl	m.0d0dzr
+1740	what kind of milk be $___	film.film.genre	m.0lg2lwl	m.0hn10
+1741	what type of book be $___	book.book.genre	m.03yf6b2	m.06n90
+1742	what be a active ingredient in $___ ?	medicine.drug_ingredient.active_ingredient_of_formulation	m.02pzhs	m.0hqt3h1
+1745	what position do $___ play in basketball	basketball.basketball_player.position_s	m.0t4vc1g	m.02sf_r
+1746	what language be $___ originally write in	book.written_work.original_language	m.04t0ml2	m.02h40lc
+1747	what be a popular piece by $___	book.author.works_written	m.0k52m	m.07k4_8h
+1750	what be $___ of quezon city 's mascot	education.educational_institution.mascot	m.025_ljj	m.0crby
+1753	what be $___ nationality ?	people.person.nationality	m.0s9hmjc	m.0jgd
+1754	where be $___ bear	people.person.place_of_birth	m.0g9n2k4	m.0b1t1
+1756	what be $___ use to treat	medicine.medical_treatment.used_to_treat	m.03vrlp	m.0j80c
+1759	where be $___ located	location.location.containedby	m.0b6l7g	m.05v4t7
+1760	which country be $___ located in	location.location.containedby	m.03gr8s6	m.0154j
+1761	what nationality be $___	people.person.nationality	m.0rfqf13	m.0d060g
+1762	what position do $___ play in baseball ?	baseball.baseball_player.position_s	m.04gmh9t	m.01z9v6
+1763	what type of food be $___	food.dish.type_of_dish1	m.052q5	m.01z1m1x
+1765	what kind of genre be $___ ?	music.album.genre	m.01mw1fd	m.0jmwg
+1766	what be a album from $___	music.artist.album	m.0196qh	m.01kkl_g
+1768	what be located in $___ ?	location.location.contains	m.07b_l	m.027y10y
+1772	in which indian city do $___ die	people.deceased_person.place_of_death	m.02r9wcx	m.0cvw9
+1774	what be located in $___ ?	location.location.contains	m.0694j	m.0ggwt2
+1775	what kind of music do $___ make	music.album.genre	m.049vbjz	m.016clz
+1778	what kind of school be $___	education.educational_institution.school_type	m.0h4yjw	m.01j4jl
+1779	who be the developer of $___	cvg.computer_videogame.developer	m.05s9_2	m.06kf0j
+1780	which instrument be play by $___	music.group_member.instruments_played	m.014hlm	m.048j4l
+1783	what language do $___ speak	people.person.languages	m.0w9_sw1	m.02h40lc
+1785	where be $___ place of birth	people.person.place_of_birth	m.04jp29	m.0293y8
+1789	what kind of album be $___	music.album.genre	m.01rq0cf	m.012yc
+1792	what popular genre do $___ belong to	film.film.genre	m.06cs1t	m.06cvj
+1794	where be $___ bear	people.person.place_of_birth	m.01gykg	m.02cft
+1797	what soccer position do $___ play	soccer.football_player.position_s	m.0gtvrp	m.02sdk9v
+1799	what be the name of a book that $___ write	book.author.works_written	m.06_rjz	m.05qhcj2
+1803	who be the owner of $___	sports.professional_sports_team.owner_s	m.049n7	m.030ntnb
+1804	what sort of music be $___	music.artist.genre	m.05zr4jj	m.02w4v
+1809	where be $___ bear ?	people.person.place_of_birth	m.0_thdh4	m.094jv
+1810	what area be contain in $___	location.location.contains	m.03v1s	m.0clvng1
+1811	where be $___ from ?	people.person.nationality	m.0g5474j	m.03_3d
+1812	which country make $___	film.film.country	m.05wt50	m.03_3d
+1815	what be a composition by $___ ?	music.composer.compositions	m.05b8w4	m.03ky_d
+1816	where be $___ locate ?	location.location.containedby	m.0r455	m.09c7w0
+1818	what gender be $___	people.person.gender	m.0s977fl	m.05zppz
+1820	what character come from the book $___ of she regard	book.book.characters	m.0g1jm8	m.044p7
+1821	which state do $___ belong to	location.location.containedby	m.06z_fjt	m.04rrd
+1826	what song have $___ produce	music.producer.tracks_produced	m.01w9k25	m.0wk0c3
+1827	what be the country of origin of $___ ?	film.film.country	m.0w4swb_	m.09c7w0
+1829	who write the story to $___	film.film.story_by	m.08m_50	m.01hkrj
+1838	where be $___ from	people.person.nationality	m.0k9frwx	m.07ssc
+1839	what instrument do $___ play ?	music.group_member.instruments_played	m.08vwmc	m.05r5c
+1841	what kind of music do $___ record ?	music.artist.genre	m.01w4v7g	m.02mscn
+1845	which state be $___ in	location.location.containedby	m.0tj5z	m.0498y
+1846	what nation be $___ from ?	people.person.nationality	m.0y6469_	m.03rk0
+1847	where do $___ kick the bucket	people.deceased_person.place_of_death	m.025tz6w	m.0rh6k
+1850	what country be $___ from	film.film.country	m.0dd6bf	m.03_3d
+1851	what be the active moiety of $___	medicine.drug_ingredient.active_moiety_of_drug	m.02015n	m.02015n
+1852	what kind of film be $___	film.film.genre	m.03c61w7	m.01jfsb
+1856	who influence $___	influence.influence_node.influenced	m.01t_wfl	m.022t49
+1858	where be $___ bear ?	people.person.place_of_birth	m.0b74rzp	m.01gbzb
+1861	where be $___ from ?	music.artist.origin	m.03gg_k	m.080h2
+1863	what city be the home of $___	sports.sports_team.location	m.068ply	m.02dtg
+1864	where be $___ bear ?	people.person.place_of_birth	m.0hcbpzq	m.06wxw
+1866	what type of martial art do $___ practice	martial_arts.martial_artist.martial_art	m.05c0mhj	m.01cgz
+1868	what language be $___ film in ?	film.film.language	m.06dybp	m.02h40lc
+1869	where be $___ bear	people.person.place_of_birth	m.0cd7_k	m.013c2f
+1870	who influence $___	influence.influence_node.influenced_by	m.07b8kh	m.02786wr
+1872	which gender be $___ reye	people.person.gender	m.0hz295d	m.05zppz
+1878	who be name after $___	symbols.namesake.named_after	m.030jcj	m.096vr
+1880	which gender be $___	people.person.gender	m.0j530t0	m.05zppz
+1882	which city be $___ bear in	people.person.place_of_birth	m.06_tt4y	m.01ycw7
+1886	where be $___ bear at ?	people.person.place_of_birth	m.01b716	m.01m8_w
+1891	what sport do $___ play ?	sports.sports_team.sport	m.0ft5vs	m.0jm_
+1892	what gender be $___ ?	people.person.gender	m.04l2c9	m.02zsn
+1895	who be the child of $___	people.person.children	m.06mr6	m.02_sm0
+1898	what be $___	common.topic.notable_types	m.07x3gp	m.02scvxs
+1901	what film genre be $___ run	film.film.genre	m.02chjf	m.02kdv5l
+1902	who win $___	sports.sports_championship_event.champion	m.04tg2x	m.06x68
+1903	who be the owner of $___ ?	business.shopping_center.owner	m.07lh5x	m.03v52f
+1906	what art form do $___ create	visual_art.visual_artist.art_forms	m.02vqk6d	m.05qdh
+1919	who be the writer for $___	film.film.written_by	m.02jxrw	m.0c1xwg
+1921	which wight class be $___	sports.boxer.weight_division	m.01d0bh	m.034z2h
+1923	who direct $___	film.film.directed_by	m.091m625	m.065_qbl
+1924	what genre of cvg be $___	cvg.computer_videogame.cvg_genre	m.0gg5s_k	m.07yqn
+1925	who produce dr seuss on $___ ?	film.film.produced_by	m.0cs05x	m.02g3w
+1926	who be burry in $___	people.place_of_interment.interred_here	m.022tm7	m.013pfg
+1927	what be the name of a composition by $___	music.composer.compositions	m.035jvp	m.0zj7gfs
+1931	what type of star system be $___	astronomy.star_system_body.star_system	m.034kvq	m.06p5g
+1933	what kind of martial art do $___ practice ?	martial_arts.martial_artist.martial_art	m.026sxvv	m.01cgz
+1934	which main-belt asteroid orbit $___ ?	astronomy.orbital_relationship.orbited_by	m.06m_p	m.03y7tvv
+1936	what be the birth place of $___ ?	people.person.place_of_birth	m.02qjvq9	m.0r0f7
+1937	what be the organism type of $___ ?	biology.organism.organism_type	m.03hmxzm	m.03k3r
+1938	what kind of film be $___	film.film.genre	m.063dlk	m.07s9rl0
+1942	what be the gender of $___ ?	people.person.gender	m.01x2_t_	m.05zppz
+1943	what division be $___ a part of in the ncaa	american_football.football_team.division	m.0g85_5	m.031fsz
+1945	what genre be $___ under on netflix	media_common.netflix_title.netflix_genres	m.0crrwhl	m.03rk0
+1946	what gender be $___	people.person.gender	m.0gnbry	m.05zppz
+1948	what label be $___ sign to	music.artist.label	m.03gsw_m	m.02x2vp7
+1956	what be a song by $___	music.artist.track	m.01q0jp9	m.0f06yq8
+1957	what do $___ write ?	book.author.works_written	m.028dhh	m.04t0qf2
+1958	who be $___ influence by ?	influence.influence_node.influenced_by	m.01vh096	m.081k8
+1964	where be $___ from ?	people.person.nationality	m.0vbjyzb	m.09c7w0
+1968	what company be $___ with ?	music.artist.label	m.04lq63	m.0bc_4c
+1969	what city in indiana be $___ bear	people.person.place_of_birth	m.04gs28	m.0ftxw
+1971	what be the casting director for $___	film.film.film_casting_director	m.03k8th	m.09jszpw
+1972	which subset of rock and roll be on $___	music.album.genre	m.01n4tjj	m.0126t5
+1973	what color be $___ ?	biology.animal_breed.coloring	m.02747h5	m.04krr0l
+1975	what be located in $___	location.location.contains	m.09c7w0	m.04b68v8
+1976	how do $___ die	people.deceased_person.cause_of_death	m.01bss	m.01k9gb
+1977	which football player be bear in $___ ?	location.location.people_born_here	m.0zr2r	m.0271d3w
+1979	how do $___ die ?	people.deceased_person.cause_of_death	m.035s8s	m.01n3bm
+1981	what company be artist $___ sign with	music.artist.label	m.0ddf18x	m.03tg5s
+1983	what organization be found by $___	organization.organization_founder.organizations_founded	m.06wcfv6	m.02td7x
+1986	what netflix genre do $___ belong to	media_common.netflix_title.netflix_genres	m.0crrwhl	m.03k50
+1990	what country be $___ in ?	location.location.containedby	m.03rl8l	m.09c7w0
+1991	which kind of album be $___	music.album.album_content_type	m.01hfvlt	m.0l14g2
+1995	who be a artist under $___	music.record_label.artist	m.08g709	m.03qcgn3
+1998	which state contain $___	location.location.containedby	m.025xtqp	m.02xry
