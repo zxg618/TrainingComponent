@@ -1,12 +1,3 @@
-[INFO] Error stacktraces are turned on.
-[INFO] Scanning for projects...
-[INFO] 
-[INFO] ------------------------------------------------------------------------
-[INFO] Building Training Component 0.0.1-SNAPSHOT
-[INFO] ------------------------------------------------------------------------
-[INFO] 
-[INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ TrainingComponent ---
-There are total 3778 trining data.
 1	what is the name of justin bieber brother?	Justin Bieber	http://rdf.freebase.com/ns/m.06w2sn5	CVTRelation|http://rdf.freebase.com/ns/people.person.sibling_s|http://rdf.freebase.com/ns/people.sibling_relationship.sibling|http://rdf.freebase.com/ns/type.object.name	Jazmyn Bieber|Jaxon Bieber
 4	what country is the grand bahama island in?	Grand Bahama	http://rdf.freebase.com/ns/m.03st9j	BinaryRelation|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/type.object.name	Bahamas
 5	what kind of money to take to bahamas?	The Bahamas	http://rdf.freebase.com/ns/m.0160w	BinaryRelation|http://rdf.freebase.com/ns/location.country.currency_used|http://rdf.freebase.com/ns/type.object.name	Bahamian dollar
@@ -2645,10 +2636,3 @@ There are total 3778 trining data.
 3776	what is the name of the broncos mascot?	Denver Broncos	http://rdf.freebase.com/ns/m.0289q	BinaryRelation|http://rdf.freebase.com/ns/sports.sports_team.team_mascot|http://rdf.freebase.com/ns/type.object.name	Miles
 3777	what caused the russian financial crisis of 1998?	Russia	http://rdf.freebase.com/ns/m.06bnz	BinaryRelation|http://rdf.freebase.com/ns/military.military_combatant.belongs_to_combatant_group|http://rdf.freebase.com/ns/type.object.name	Allies of World War II
 3778	what kind government does the us have?	United States	http://rdf.freebase.com/ns/m.09c7w0	BinaryRelation|http://rdf.freebase.com/ns/location.country.form_of_government|http://rdf.freebase.com/ns/type.object.name	Presidential system|Federal republic|Representative democracy|Two-party system|Constitutional republic|Republic
-[INFO] ------------------------------------------------------------------------
-[INFO] BUILD SUCCESS
-[INFO] ------------------------------------------------------------------------
-[INFO] Total time: 33:23 min
-[INFO] Finished at: 2017-07-08T18:38:07+10:00
-[INFO] Final Memory: 15M/105M
-[INFO] ------------------------------------------------------------------------

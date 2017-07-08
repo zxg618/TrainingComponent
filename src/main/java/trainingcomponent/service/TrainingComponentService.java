@@ -1,6 +1,11 @@
 package trainingcomponent.service;
 import static trainingcomponent.constant.Constant.*;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Map.Entry;
 
 import org.apache.commons.lang3.StringEscapeUtils;
 
@@ -42,6 +47,11 @@ public class TrainingComponentService {
 		fr.searchFirstIdAppearance();
 	}
 	
+	public void removeDuplicates() {
+		FileReader fr = new FileReader();
+		fr.removeDuplicatesInDBQueryOutput();
+	}
+	
 	protected void runQueriesForOneData(String entityIdString, String answerString, int index) {
 		String[] idList = this.getAllIdsFromCSVString(entityIdString);
 		String question = answerString.split("\t")[0];
@@ -55,10 +65,14 @@ public class TrainingComponentService {
 		int i = 0;
 		int j = 0;
 		boolean printFlag = true;
+		ArrayList<String> badData = new ArrayList<String>();
+		Map<String, Integer> relationMap = new HashMap<String, Integer>();
+		
 		
 		for (i = 0; i < answerLength; i++) {
 			for (j = 0; j < idLength; j++) {
 				String line = "";
+				int outputLength = 0;
 				line += index + "\t";
 				line += question + "\t";
 				line += entityName + "\t";
@@ -71,32 +85,63 @@ public class TrainingComponentService {
 				String relation = "";
 				//System.out.println("----------start querying------------");
 				relation += DBQuery.findUnaryRelationbyProperty(eid, answer);
-				relation += ",";
+				outputLength = relation.length();
+				if (outputLength > 0) {
+					relation += ",";	
+				}
 				//System.out.println("----------unary done------------");
-				relation += DBQuery.findBinaryRelationByValue(eid, answer);
-				relation += ",";
+				String binaryOutput = DBQuery.findBinaryRelationByValue(eid, answer); 
+				relation += binaryOutput;
 				//System.out.println("---------binary done-------------");
-				relation += DBQuery.findCVTRelationByValue(eid, answer);
+				String cvtOutput = DBQuery.findCVTRelationByValue(eid, answer);
+				if (relation.length() > 0 && cvtOutput.length() > 0) {
+					relation += ",";
+				}
+				relation += cvtOutput;
 				//System.out.println("--------cvt done--------------");
-				if (relation.length() > 5) {
-					line += relation + "\t";	
-				} else {
+				if (relation.length() < 5 || entityName.equalsIgnoreCase(answers)) {
 					printFlag = false;
+				} else {
+					line += relation + "\t";
 				}
 				
 				if (answer.indexOf("\\'") >= 0) {
 					answer = answer.replace("\\'", "\'");
 				}
-				line += answer;
+				line += answers;
 				if (printFlag) {
-					System.out.println(line);
+					//System.out.println(line);
+					if (relationMap.containsKey(line)) {
+						int count = relationMap.get(line);
+						count++;
+						relationMap.replace(line, count);
+					} else {
+						relationMap.put(line, 1);
+					}
 					break;
 				} else {
 					//test purpose
+					//System.out.print("BAD");
 					//System.out.println(line);
 					printFlag = true;
 				}
 			}
+		}
+		
+		Iterator<Entry<String, Integer>> it = relationMap.entrySet().iterator();
+		int maxCount = 0;
+		String relation = "";
+		while (it.hasNext()) {
+			Entry<String, Integer> pair = it.next();
+			int tmpCount = pair.getValue();
+			if (tmpCount > maxCount) {
+				maxCount = tmpCount;
+				relation = pair.getKey();
+			}
+		}
+		
+		if (maxCount != 0) {
+			System.out.println(relation);	
 		}
 		
 		

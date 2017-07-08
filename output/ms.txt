@@ -1,0 +1,21 @@
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Training Component 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ TrainingComponent ---
+Justin Bieber {"celebrity":0.32404692082111436,"crappy pop artist":0.13343108504398826,"great performer":0.04838709677419355,"great act":0.051319648093841645,"act":0.03225806451612903,"star":0.11436950146627566,"singer":0.02932551319648094,"artist":0.20381231671554254,"well known performer":0.024926686217008796,"great event":0.03812316715542522}
+Natalie Portman {"actor":0.035175879396984924,"big name":0.03015075376884422,"celebrity":0.41708542713567837,"actress":0.10050251256281408,"fan":0.05527638190954774,"star":0.135678391959799,"celeb":0.06030150753768844,"person":0.05527638190954774,"name":0.03015075376884422,"celebs":0.08040201005025126}
+Selena Gomez {"celebrity":0.41566265060240964,"star":0.13253012048192772,"hollywood celebrity":0.030120481927710843,"celeb":0.0963855421686747,"artist":0.08433734939759036,"glamorous and many celebrity":0.03313253012048193,"prominent figure":0.08734939759036145,"celebs":0.045180722891566265,"close friend":0.02710843373493976,"big star":0.04819277108433735}
+Grand Bahama {"area":0.09090909090909091,"island":0.5,"destination":0.045454545454545456,"location":0.13636363636363635,"northern island":0.045454545454545456,"established dive area":0.045454545454545456,"amazing location":0.13636363636363635}
+The Bahamas {}
+John Noble {"leader":0.25,"star":0.125,"name":0.125,"surprising guest star":0.125,"memorable face":0.125,"great":0.25}
+Joakim Noah {"gifted bull bigs":0.07142857142857142,"stalwart":0.03571428571428571,"young player":0.03571428571428571,"star":0.10714285714285714,"veteran":0.07142857142857142,"teammate":0.03571428571428571,"nba star":0.07142857142857142,"center":0.10714285714285714,"guy":0.10714285714285714,"player":0.35714285714285715}
+Washington Redskins {"professional sport team":0.07894736842105263,"receiver-needy team":0.039473684210526314,"professional team":0.05263157894736842,"mega event":0.039473684210526314,"client":0.039473684210526314,"deep pocketed team":0.039473684210526314,"team":0.5526315789473685,"sport team":0.09210526315789473,"professional organization":0.039473684210526314,"group":0.02631578947368421}
+Saki {"product":0.23529411764705882,"character":0.029411764705882353,"monkey":0.058823529411764705,"researcher":0.029411764705882353,"town":0.11764705882352941,"author":0.20588235294117646,"restaurant":0.058823529411764705,"monkey name":0.11764705882352941,"fermented food":0.08823529411764706,"japanese supply":0.058823529411764705}
+Sacha Baron Cohen {"big name":0.1111111111111111,"celebrity":0.2777777777777778,"a list star":0.05555555555555555,"celebrity dad":0.05555555555555555,"hollywood celebrity":0.16666666666666666,"star":0.05555555555555555,"a list type":0.1111111111111111,"name":0.05555555555555555,"a lister":0.05555555555555555,"prominent actor":0.05555555555555555}
+Poland {"eastern european country":0.18755846585594013,"market":0.09728718428437792,"member state":0.14265668849391955,"nation":0.0940130963517306,"european country":0.1735266604303087,"state":0.09822263797942002,"central european country":0.05940130963517306,"eu country":0.04349859681945744,"eu member state":0.042095416276894296,"case":0.0617399438727783}
+Cleveland Ohio {"city":0.5,"rural country place":0.5}
+Draco Malfoy {"unforgettable character":0.25,"character":0.2,"face":0.1,"villain":0.05,"individual":0.05,"student":0.1,"person":0.1,"name":0.05,"boy":0.05,"heartless person":0.05}

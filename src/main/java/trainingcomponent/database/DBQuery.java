@@ -177,7 +177,7 @@ public class DBQuery {
 		while (results.hasNext()) {
 			QuerySolution sol = results.nextSolution();
 			String p = sol.get("p").toString();
-			relation += "UnaryRelation|" + "|" + p;
+			relation += "UnaryRelation" + "|" + p;
 		}
 		qexec.close();
 
@@ -220,7 +220,7 @@ public class DBQuery {
 			String p = sol.get("p").toString();
 			String o = sol.get("o").toString();
 			String p2 = sol.get("p2").toString();
-			relation += "BinaryRelation|" + "|" + p + "|" + o + "|" + p2;
+			relation += "BinaryRelation" + "|" + p + "|" + p2;
 		}
 		qexec.close();
 		
@@ -321,8 +321,7 @@ public class DBQuery {
 			String s = sol.get("s").toString();		// Entity Two
 			String p3 = sol.get("p3").toString();	// Entity Two to EntityTwoValue
 			
-			relation += "CVTRelation|" + "|" + p + "|" + o + "|" + p2 + "|"
-					+ s + "|" + p3;
+			relation += "CVTRelation" + "|" + p  + "|" + p2 + "|" + p3;
 		}
 		qexec.close();
 		

@@ -113,6 +113,8 @@ public class FileReader {
 	}
 	
 	public void searchFirstIdAppearance() {
+		APIReader ar = new APIReader();
+		
 		String filePath = OUTPUT_PATH + OUTPUT_RELATION_FILENAME;
 		
 		String[] entitiesIds = this.readEntityIdFile();
@@ -126,6 +128,8 @@ public class FileReader {
 		int i = 0;
 		int total = entitiesIds.length;
 		for (i = 0; i < total; i++) {
+			String name = entitiesIds[i].split("\t")[0];
+			ar.getCategoryFromMSApi(name);
 			String[] idsArray = entitiesIds[i].split("\t")[1].split(",");
 			String firstId = idsArray[0];
 			idMap1.put(i + 1, firstId);
@@ -193,6 +197,24 @@ public class FileReader {
 			br.close();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	public void removeDuplicatesInDBQueryOutput() {
+		String filePath = OUTPUT_PATH + OUTPUT_RELATION_FILENAME;
+		File file = new File(filePath);
+		String line = "";
+		try {
+			BufferedReader br = new BufferedReader(new java.io.FileReader(file));
+			
+			while ((line = br.readLine()) != null) {
+				String[] subStrings = line.split("\t");
+				System.out.println(line);
+			}
+			
+			br.close();
+		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}

@@ -109,6 +109,28 @@ public class APIReader {
 		return StringUtils.join(idStrings, ",");
 	}
 	
+	public String getCategoryFromMSApi(String noun) {
+		try {
+
+		      HttpTransport httpTransport = new NetHttpTransport();
+		      HttpRequestFactory requestFactory = httpTransport.createRequestFactory();
+		      JSONParser parser = new JSONParser();
+		      String urlString = HOST + PCE_API;
+		      GenericUrl url = new GenericUrl(urlString);
+		      url.put(PARA_INSTANCE, noun);
+		      url.put(PARA_TOPK, "10");
+		      HttpRequest request = requestFactory.buildGetRequest(url);
+		      HttpResponse httpResponse = request.execute();
+		      JSONObject response = (JSONObject) parser.parse(httpResponse.parseAsString());
+		      
+		      System.out.println(noun + " " + response.toString());
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		return "";
+	}
+	
 	protected String format(String input) {
 		return input.replace("/", ".").replace("kg:.", "");
 	}
