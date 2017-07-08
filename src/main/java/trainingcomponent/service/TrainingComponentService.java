@@ -86,11 +86,11 @@ public class TrainingComponentService {
 				//System.out.println("----------start querying------------");
 				relation += DBQuery.findUnaryRelationbyProperty(eid, answer);
 				outputLength = relation.length();
-				if (outputLength > 0) {
+				//System.out.println("----------unary done------------");
+				String binaryOutput = DBQuery.findBinaryRelationByValue(eid, answer);
+				if (outputLength > 0 && binaryOutput.length() > 0) {
 					relation += ",";	
 				}
-				//System.out.println("----------unary done------------");
-				String binaryOutput = DBQuery.findBinaryRelationByValue(eid, answer); 
 				relation += binaryOutput;
 				//System.out.println("---------binary done-------------");
 				String cvtOutput = DBQuery.findCVTRelationByValue(eid, answer);

@@ -1,5 +1,8 @@
 package trainingcomponent.database;
 
+import java.util.ArrayList;
+
+import org.apache.commons.lang3.StringUtils;
 import org.apache.jena.query.*;
 import trainingcomponent.utility.StringUtil;
 
@@ -174,13 +177,20 @@ public class DBQuery {
 		QueryExecution qexec = QueryExecutionFactory.sparqlService(DB_URL, query);
 		ResultSet results = qexec.execSelect();
 
+		ArrayList<String> relList = new ArrayList<String>();
 		while (results.hasNext()) {
 			QuerySolution sol = results.nextSolution();
 			String p = sol.get("p").toString();
-			relation += "UnaryRelation" + "|" + p;
+			String rel = "UnaryRelation" + "|" + p;
+			if (rel.length() > 0) {
+				relList.add(rel);
+			}
 		}
 		qexec.close();
 
+		String[] relArray = relList.toArray(new String[0]);
+		relation += StringUtils.join(relArray, ",");
+		
 		return relation;
 	}
 	
@@ -215,14 +225,21 @@ public class DBQuery {
 		QueryExecution qexec = QueryExecutionFactory.sparqlService(DB_URL, query);
 		ResultSet results = qexec.execSelect();
 		
+		ArrayList<String> relList = new ArrayList<String>();
 		while (results.hasNext()) {
 			QuerySolution sol = results.nextSolution();
 			String p = sol.get("p").toString();
-			String o = sol.get("o").toString();
+			//String o = sol.get("o").toString();
 			String p2 = sol.get("p2").toString();
-			relation += "BinaryRelation" + "|" + p + "|" + p2;
+			String rel = "BinaryRelation" + "|" + p + "|" + p2; 
+			if (rel.length() > 0) {
+				relList.add(rel);
+			}
 		}
 		qexec.close();
+		
+		String[] relArray = relList.toArray(new String[0]);
+		relation += StringUtils.join(relArray, ",");
 		
 		return relation;
 	}
@@ -312,18 +329,25 @@ public class DBQuery {
 		QueryExecution qexec = QueryExecutionFactory.sparqlService(DB_URL, query);
 		ResultSet results = qexec.execSelect();
 		
+		ArrayList<String> relations = new ArrayList<String>();
 		while (results.hasNext()) {
 			QuerySolution sol = results.nextSolution();
 													// Entity One
 			String p = sol.get("p").toString();		// CVT relation going into CVT entity
-			String o = sol.get("o").toString();		// CVT entity
+			//String o = sol.get("o").toString();		// CVT entity
 			String p2 = sol.get("p2").toString();	// CVT relation going out of CVT entity
-			String s = sol.get("s").toString();		// Entity Two
+			//String s = sol.get("s").toString();		// Entity Two
 			String p3 = sol.get("p3").toString();	// Entity Two to EntityTwoValue
+			String rel = "CVTRelation" + "|" + p  + "|" + p2 + "|" + p3;
+			if (rel.length() > 0) {
+				relations.add(rel);	
+			}
 			
-			relation += "CVTRelation" + "|" + p  + "|" + p2 + "|" + p3;
 		}
 		qexec.close();
+		
+		String[] relationsArray = relations.toArray(new String[0]);
+		relation += StringUtils.join(relationsArray, ",");
 		
 		return relation;
 	}

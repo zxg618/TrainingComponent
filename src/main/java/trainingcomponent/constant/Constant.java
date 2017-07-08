@@ -23,7 +23,7 @@ public final class Constant {
 	
 	public static String QUESTION_TRAIN_FILE = "tab_delim_train.txt";
 	
-	public static int START = 0;
+	public static int START = 2088;
 	
 	//microsoft api related
 	public static String HOST = "https://concept.research.microsoft.com/";
