@@ -6,6 +6,12 @@ import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Set;
 
 import com.google.api.client.http.GenericUrl;
 import com.google.api.client.http.HttpRequest;
@@ -153,5 +159,144 @@ public class APIReader {
 	
 	protected String format(String input) {
 		return input.replace("/", ".").replace("kg:.", "");
+	}
+	
+	public String getTypeFromApis(String noun) {
+		ArrayList<String> typeList = new ArrayList<String>();
+		int counter = 0;
+		int i = 0;
+		int tmpNum = 0;
+		
+		try {
+
+		      HttpTransport httpTransport = new NetHttpTransport();
+		      HttpRequestFactory requestFactory = httpTransport.createRequestFactory();
+		      JSONParser parser = new JSONParser();
+		      GenericUrl url = new GenericUrl("https://kgsearch.googleapis.com/v1/entities:search");
+		      url.put(API_PARAM_QUERY, noun);
+		      url.put(API_PARAM_LIMIT, "10");
+		      url.put(API_PARAM_IDENT, "true");
+		      url.put(API_PARAM_KEY, API_KEY);
+		      HttpRequest request = requestFactory.buildGetRequest(url);
+		      HttpResponse httpResponse = request.execute();
+		      JSONObject response = (JSONObject) parser.parse(httpResponse.parseAsString());
+		      JSONArray elements = (JSONArray) response.get("itemListElement");		      
+		      
+		      for (Object element : elements) {
+	    		  String type = JsonPath.read(element, "$.result.@type").toString();
+	    		  typeList.add(type.replace("[", "").replace("]", "").replace("\"", ""));
+	    		  counter++;
+	    		  if (counter == 3) {
+	    			  break;
+	    		  }
+		      }
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		System.out.println("-----Entity name is " + noun);
+		String[] typeStrings = typeList.toArray(new String[0]);
+		String allTypes = StringUtils.join(typeStrings, ",").toLowerCase();
+		System.out.println("Google api returns " + allTypes);
+		String[] typesArray = allTypes.split(",");
+		String msType = this.getCategoryFromMSApi(noun).toLowerCase();
+		System.out.println("MS api returns " + msType);
+		String[] msTypesArray = msType.split("\\|");
+		
+		Map<String, Integer> mixTypes = new HashMap<String, Integer>();
+		if (allTypes.length() > 0) {
+			for (i = 0; i < typesArray.length; i++) {
+				if (typesArray[i].equals("thing")) {
+					continue;
+				}
+				if (mixTypes.containsKey(typesArray[i])) {
+					tmpNum = mixTypes.get(typesArray[i]);
+					mixTypes.replace(typesArray[i], tmpNum + 1);
+				} else {
+					mixTypes.put(typesArray[i], 1);
+				}
+			}	
+		}
+		
+		if (msType.length() > 0) {
+			for (i = 0; i < msTypesArray.length; i++) {
+				if (msTypesArray[i].equals("thing")) {
+					continue;
+				}
+				if (mixTypes.containsKey(msTypesArray[i])) {
+					tmpNum = mixTypes.get(msTypesArray[i]);
+					mixTypes.replace(msTypesArray[i], tmpNum + 1);
+				} else {
+					mixTypes.put(msTypesArray[i], 1);
+				}
+			}	
+		}
+		
+		typeList.clear();
+		ArrayList<String> typeList2 = new ArrayList<String>();
+		Iterator<Entry<String, Integer>> it = mixTypes.entrySet().iterator();
+		while (it.hasNext()) {
+			 Map.Entry<String, Integer> pair = (Map.Entry<String, Integer>)it.next();
+			 if (pair.getValue() > 1) {
+				 typeList.add(pair.getKey());
+			 }
+			 typeList2.add(pair.getKey());
+			 System.out.println(pair.getKey() + " appears " + pair.getValue() + " times");
+		}
+		
+		if (typeList.size() > 0) {
+			return StringUtils.join(typeList.toArray(new String[0]), "|");
+		}
+		
+		return StringUtils.join(typeList2.toArray(new String[0]), "|");
+	}
+	
+	public String getGoogleTypeById(String noun, String entityId) {
+		String entityType = "";
+		Set<String> typeSet = new HashSet<String>();
+		int i = 0;
+		
+		if (noun.length() < 1 || entityId.length() < 1) {
+			return "";
+		}
+		
+		try {
+			//System.out.println("Starting process [name, id] [" + noun + ", " + entityId + "]");
+		      HttpTransport httpTransport = new NetHttpTransport();
+		      HttpRequestFactory requestFactory = httpTransport.createRequestFactory();
+		      JSONParser parser = new JSONParser();
+		      GenericUrl url = new GenericUrl("https://kgsearch.googleapis.com/v1/entities:search");
+		      url.put(API_PARAM_QUERY, noun);
+		      url.put(API_PARAM_LIMIT, "10");
+		      url.put(API_PARAM_IDENT, "true");
+		      url.put(API_PARAM_KEY, API_KEY);
+		      HttpRequest request = requestFactory.buildGetRequest(url);
+		      HttpResponse httpResponse = request.execute();
+		      JSONObject response = (JSONObject) parser.parse(httpResponse.parseAsString());
+		      JSONArray elements = (JSONArray) response.get("itemListElement");		      
+		      
+		      for (Object element : elements) {
+		    	  String rawEntityId = JsonPath.read(element, "$.result.@id").toString();
+	    		  String rawType = JsonPath.read(element, "$.result.@type").toString().replace("[", "").replace("]", "").replace("\"", "");
+	    		  String[] idSubstrings = rawEntityId.split("/");
+	    		  String tmpEntityId = idSubstrings[1] + "." + idSubstrings[2];
+	    		  String[] typeArray = rawType.split(",");
+	    		  for (i = 0; i < typeArray.length; i++) {
+	    			  if (typeArray[i].equalsIgnoreCase("thing")) {
+	    				  continue;
+	    			  }
+	    			  typeSet.add(typeArray[i]);
+	    		  }
+	    		  if (entityId.equalsIgnoreCase(tmpEntityId)) {
+	    			  String types = StringUtils.join(typeSet.toArray(), "|");
+	    			  entityType = types;
+	    			  break;
+	    		  }
+		      }
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		return entityType;
 	}
 }

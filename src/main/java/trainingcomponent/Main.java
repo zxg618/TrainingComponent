@@ -10,8 +10,16 @@ public class Main {
 		TrainingComponentService tcService = new TrainingComponentService();
 		//tcService.getAllIds();
 		//tcService.testQuery();
+		
+		//test purpose method
 		//tcService.verifyFirstIdOfEachEntity();
-		tcService.findQuestionEntityCategory();
+		
+		//tcService.findQuestionEntityCategory();
+		//tcService.findQuestionEntityCategoryFromBothApis();
+		
+		//this method is fot getting all types of FB file
+		tcService.getAllTypesFromFBData();
+		
 //		String str = "Padm\u00e9 Amidala";
 //		System.out.println("original string is " + str);
 //		str = str.replace("\\", "\\\\");

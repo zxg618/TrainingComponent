@@ -1,0 +1,582 @@
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Training Component 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ TrainingComponent ---
+-----Entity name is Justin Bieber
+Google api returns thing,person,musicalbum,thing,tvseries,thing
+MS api returns celebrity|artist|crappy pop artist|star|great act
+musicalbum appears 1 times
+tvseries appears 1 times
+celebrity appears 1 times
+crappy pop artist appears 1 times
+great act appears 1 times
+star appears 1 times
+artist appears 1 times
+person appears 1 times
+1	what be the name of $___ brother ?	CVTRelation|http://rdf.freebase.com/ns/people.person.sibling_s|http://rdf.freebase.com/ns/people.sibling_relationship.sibling|http://rdf.freebase.com/ns/type.object.name	m.06w2sn5	Jazmyn Bieber|Jaxon Bieber	musicalbum|tvseries|celebrity|crappy pop artist|great act|star|artist|person
+-----Entity name is Grand Bahama
+Google api returns thing,place,thing,place,city,place,thing,airport
+MS api returns island|location|amazing location|area|destination
+area appears 1 times
+city appears 1 times
+island appears 1 times
+destination appears 1 times
+location appears 1 times
+place appears 3 times
+airport appears 1 times
+amazing location appears 1 times
+2	what country be $___ in ?	BinaryRelation|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/type.object.name	m.03st9j	Bahamas	place
+-----Entity name is Bahamas
+Google api returns administrativearea,country,thing,place,thing,place,city,sportsteam,thing,organization
+MS api returns place|island|caribbean country|destination|caribbean island
+country appears 1 times
+city appears 1 times
+island appears 1 times
+organization appears 1 times
+caribbean island appears 1 times
+sportsteam appears 1 times
+destination appears 1 times
+place appears 3 times
+caribbean country appears 1 times
+administrativearea appears 1 times
+3	what kind of money to take to $___ ?	BinaryRelation|http://rdf.freebase.com/ns/location.country.currency_used|http://rdf.freebase.com/ns/type.object.name	m.0160w	Bahamian dollar	place
+-----Entity name is Saki
+Google api returns thing,thing,person,thing
+MS api returns product|author|town|monkey name|fermented food
+product appears 1 times
+town appears 1 times
+person appears 1 times
+author appears 1 times
+monkey name appears 1 times
+fermented food appears 1 times
+4	where do $___ live ?	BinaryRelation|http://rdf.freebase.com/ns/people.person.nationality|http://rdf.freebase.com/ns/type.object.name	m.07484	United Kingdom	product|town|person|author|monkey name|fermented food
+-----Entity name is Draco Malfoy
+Google api returns thing,musicrecording,thing,musicrecording,thing
+MS api returns unforgettable character|character|person|student|face
+unforgettable character appears 1 times
+character appears 1 times
+face appears 1 times
+student appears 1 times
+musicrecording appears 2 times
+person appears 1 times
+7	who do $___ malloy end up marry ?	CVTRelation|http://rdf.freebase.com/ns/fictional_universe.fictional_character.married_to|http://rdf.freebase.com/ns/fictional_universe.marriage_of_fictional_characters.spouses|http://rdf.freebase.com/ns/type.object.name	m.0c2m4	Astoria Greengrass	musicrecording
+-----Entity name is Nina Dobrev
+Google api returns thing,person,thing,movie,thing
+MS api returns celeb|celebrity|star|canadian female|actor
+actor appears 1 times
+celebrity appears 1 times
+movie appears 1 times
+star appears 1 times
+celeb appears 1 times
+canadian female appears 1 times
+person appears 1 times
+9	what be $___ nationality ?	BinaryRelation|http://rdf.freebase.com/ns/people.person.nationality|http://rdf.freebase.com/ns/type.object.name	m.027nwk2	Bulgaria	actor|celebrity|movie|star|celeb|canadian female|person
+-----Entity name is Philippines
+Google api returns administrativearea,thing,country,place,organization,corporation,thing,event,thing
+MS api returns asian country|market|place|nation|economy
+market appears 1 times
+country appears 1 times
+asian country appears 1 times
+nation appears 1 times
+organization appears 1 times
+corporation appears 1 times
+place appears 2 times
+economy appears 1 times
+event appears 1 times
+administrativearea appears 1 times
+12	who do $___ gain independence from ?	CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/type.object.name,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/type.object.name,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/type.object.name,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/type.object.name,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/type.object.name,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/type.object.name,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name	m.05v8c	United States of America	place
+-----Entity name is Sedona
+Google api returns place,city,thing,administrativearea,airport,place,thing,touristattraction,thing
+MS api returns city|place|area|town|earth healing area
+area appears 1 times
+town appears 1 times
+city appears 2 times
+earth healing area appears 1 times
+touristattraction appears 1 times
+place appears 3 times
+administrativearea appears 1 times
+airport appears 1 times
+14	what to see near $___ ?	BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name	m.0ny57	Sedona Airport|Red Rock State Park|Seven Canyons|Honanki|Cathedral Rock|Chapel of the Holy Cross|Sycamore Canyon|Oak Creek Canyon|Slide Rock State Park|Bell Rock	city|place
+-----Entity name is Russia
+Google api returns thing,country,administrativearea,place,thing,event,country,thing,administrativearea,place
+MS api returns market|nation|economy|state|emerging market
+market appears 1 times
+country appears 2 times
+nation appears 1 times
+emerging market appears 1 times
+place appears 2 times
+economy appears 1 times
+state appears 1 times
+event appears 1 times
+administrativearea appears 2 times
+15	what form of government do $___ have today ?	BinaryRelation|http://rdf.freebase.com/ns/location.country.form_of_government|http://rdf.freebase.com/ns/type.object.name	m.06bnz	Constitutional republic	country|place|administrativearea
+-----Entity name is Taylor Lautner
+Google api returns person,thing,thing,person,person,thing
+MS api returns star|high profile celebrity|celebrity|actor|co star
+actor appears 1 times
+celebrity appears 1 times
+star appears 1 times
+person appears 3 times
+high profile celebrity appears 1 times
+co star appears 1 times
+16	what movie do $___ play in ?	CVTRelation|http://rdf.freebase.com/ns/award.award_winner.awards_won|http://rdf.freebase.com/ns/award.award_honor.award_winner|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for,CVTRelation|http://rdf.freebase.com/ns/award.award_winner.awards_won|http://rdf.freebase.com/ns/award.award_honor.award_winner|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for,CVTRelation|http://rdf.freebase.com/ns/award.award_winner.awards_won|http://rdf.freebase.com/ns/award.award_honor.award_winner|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for,CVTRelation|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for,CVTRelation|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for,CVTRelation|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for,CVTRelation|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for,CVTRelation|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for,CVTRelation|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for,CVTRelation|http://rdf.freebase.com/ns/celebrities.celebrity.celebrity_friends|http://rdf.freebase.com/ns/celebrities.friendship.friend|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for	m.07ldhs	Abduction|Eclipse|Valentine's Day|The Twilight Saga: Breaking Dawn - Part 1|New Moon	person
+-----Entity name is Malcolm X
+Google api returns thing,person,movie,thing,book,thing
+MS api returns black leader|figure|leader|name|activist
+activist appears 1 times
+leader appears 1 times
+figure appears 1 times
+movie appears 1 times
+person appears 1 times
+book appears 1 times
+name appears 1 times
+black leader appears 1 times
+20	what be $___ try to accomplish ?	BinaryRelation|http://rdf.freebase.com/ns/base.activism.activist.area_of_activism|http://rdf.freebase.com/ns/type.object.name	m.03f2h01	African Americans' rights|Black Liberation	activist|leader|figure|movie|person|book|name|black leader
+-----Entity name is France
+Google api returns country,place,administrativearea,thing,thing,event,sportsteam,thing
+MS api returns european country|nation|member state|state|developed country
+country appears 1 times
+member state appears 1 times
+nation appears 1 times
+european country appears 1 times
+sportsteam appears 1 times
+developed country appears 1 times
+place appears 1 times
+state appears 1 times
+event appears 1 times
+administrativearea appears 1 times
+22	what be the major city in $___ ?	BinaryRelation|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/common.topic.alias,BinaryRelation|http://rdf.freebase.com/ns/location.country.administrative_divisions|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/location.country.capital|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/location.country.second_level_divisions|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/base.locations.countries.cities_within|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/media_common.netflix_genre.titles|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/type.object.name	m.0f8l9c	Paris	country|member state|nation|european country|sportsteam|developed country|place|state|event|administrativearea
+-----Entity name is Esther
+Google api returns thing,book,thing,person,thing,person
+MS api returns book|woman|great woman|character|heavy hitter
+character appears 1 times
+woman appears 1 times
+person appears 2 times
+great woman appears 1 times
+book appears 2 times
+heavy hitter appears 1 times
+23	what city do $___ live in ?	BinaryRelation|http://rdf.freebase.com/ns/people.person.place_of_birth|http://rdf.freebase.com/ns/type.object.name	m.02pn7	Susa	person|book
+-----Entity name is Toronto Maple Leafs
+Google api returns corporation,thing,organization,sportsteam,thing,sportsteam,organization,thing,sportsteam,organization
+MS api returns team|organization|premier brand|franchise|sport team
+premier brand appears 1 times
+franchise appears 1 times
+corporation appears 1 times
+organization appears 4 times
+sportsteam appears 3 times
+team appears 1 times
+sport team appears 1 times
+24	what sport do $___ play ?	BinaryRelation|http://rdf.freebase.com/ns/sports.sports_team.sport|http://rdf.freebase.com/ns/type.object.name	m.0j6tr	Ice Hockey	organization|sportsteam
+-----Entity name is Essex
+Google api returns thing,administrativearea,place,organization,sportsteam,thing,person,thing
+MS api returns county|place|area|uk police force|council
+area appears 1 times
+uk police force appears 1 times
+person appears 1 times
+council appears 1 times
+organization appears 1 times
+sportsteam appears 1 times
+county appears 1 times
+place appears 2 times
+administrativearea appears 1 times
+26	when be the new series of the only way be $___ start ?	BinaryRelation|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/type.object.name	m.02ly_	West Horndon	place
+-----Entity name is Martin Cooper
+Google api returns person,thing,thing,person,person,thing
+MS api returns artist
+artist appears 1 times
+person appears 3 times
+28	what be $___ do now ?	BinaryRelation|http://rdf.freebase.com/ns/common.topic.notable_types|http://rdf.freebase.com/ns/common.topic.alias,BinaryRelation|http://rdf.freebase.com/ns/type.object.type|http://rdf.freebase.com/ns/common.topic.alias,BinaryRelation|http://rdf.freebase.com/ns/common.topic.notable_types|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/type.object.type|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/type.object.name	m.0bt6kc	Inventor	person
+-----Entity name is Centers for Medicare and Medicaid Services
+Google api returns organization,thing,corporation,governmentorganization,thing,corporation,organization,organization,governmentorganization,thing,place
+MS api returns 
+governmentorganization appears 2 times
+organization appears 3 times
+corporation appears 2 times
+place appears 1 times
+29	what be $___ ?	UnaryRelation|http://rdf.freebase.com/ns/type.object.name	m.01fl8x	Centers for Medicare and Medicaid Services	governmentorganization|organization|corporation
+-----Entity name is William Shakespeare
+Google api returns person,thing,book,thing,book,thing
+MS api returns writer|poet|author|man|playwright
+playwright appears 1 times
+person appears 1 times
+author appears 1 times
+book appears 2 times
+poet appears 1 times
+writer appears 1 times
+man appears 1 times
+31	what do $___ do for a living ?	BinaryRelation|http://rdf.freebase.com/ns/people.person.profession|http://rdf.freebase.com/ns/type.object.name	m.081k8	Poet|Playwright|Dramatist|Lyricist|Author	book
+-----Entity name is London Heathrow Airport
+Google api returns airport,thing,localbusiness,busstation,place,city,thing,place,administrativearea,place,thing
+MS api returns airport|dc|company|local tourist attraction|big airport
+busstation appears 1 times
+city appears 1 times
+big airport appears 1 times
+company appears 1 times
+place appears 3 times
+localbusiness appears 1 times
+administrativearea appears 1 times
+local tourist attraction appears 1 times
+airport appears 2 times
+dc appears 1 times
+32	what county be $___ in ?	BinaryRelation|http://rdf.freebase.com/ns/aviation.airport.serves|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/aviation.airport.serves|http://rdf.freebase.com/ns/base.arthist.helynevek.helynev,BinaryRelation|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/base.arthist.helynevek.helynev	m.03jn4	London	place|airport
+-----Entity name is Josh Hutcherson
+Google api returns person,thing,thing,movie,thing
+MS api returns star|celebrity|actor|celeb|big hollywood name
+actor appears 1 times
+celebrity appears 1 times
+movie appears 1 times
+star appears 1 times
+celeb appears 1 times
+person appears 1 times
+big hollywood name appears 1 times
+33	what movie be $___ in ?	BinaryRelation|http://rdf.freebase.com/ns/film.producer.films_executive_produced|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/film.producer.film|http://rdf.freebase.com/ns/type.object.name	m.08wjf4	Cirque du Freak: The Vampire's Assistant|The Hunger Games|7 Days in Havana|Journey to the Center of the Earth|The Forger|Detention|Journey 2: The Mysterious Island|Red Dawn|The Third Rule|The Kids Are All Right	actor|celebrity|movie|star|celeb|person|big hollywood name
+-----Entity name is San Francisco Giants
+Google api returns sportsteam,corporation,organization,thing,thing,administrativearea,place,city,event,thing
+MS api returns team|team name|client|mythical warrior|traditional rival
+team name appears 1 times
+traditional rival appears 1 times
+city appears 1 times
+corporation appears 1 times
+organization appears 1 times
+sportsteam appears 1 times
+client appears 1 times
+place appears 1 times
+team appears 1 times
+event appears 1 times
+administrativearea appears 1 times
+mythical warrior appears 1 times
+35	where do $___ play home game ?	BinaryRelation|http://rdf.freebase.com/ns/sports.sports_team.arena_stadium|http://rdf.freebase.com/ns/type.object.name	m.0713r	AT&T Park	team name|traditional rival|city|corporation|organization|sportsteam|client|place|team|event|administrativearea|mythical warrior
+-----Entity name is William Jennings Bryan
+Google api returns person,thing,thing,organization,place,person,thing
+MS api returns politician|reformer|luminary|figure|speaker
+figure appears 1 times
+person appears 2 times
+organization appears 1 times
+politician appears 1 times
+speaker appears 1 times
+place appears 1 times
+luminary appears 1 times
+reformer appears 1 times
+36	what year do $___ run for president ?	BinaryRelation|http://rdf.freebase.com/ns/base.politicalconventions.presidential_nominee.nominated_at|http://rdf.freebase.com/ns/type.object.name	m.0b3tf	1900 Democratic National Convention|1908 Democratic National Convention|1896 Democratic National Convention	person
+-----Entity name is Sally Field
+Google api returns person,thing,musicrecording,thing,thing,tvepisode
+MS api returns celebrity|star|actor|actress|ally
+actor appears 1 times
+celebrity appears 1 times
+actress appears 1 times
+star appears 1 times
+ally appears 1 times
+person appears 1 times
+musicrecording appears 1 times
+tvepisode appears 1 times
+39	what movie do $___ win a oscar for ?	BinaryRelation|http://rdf.freebase.com/ns/award.award_winner.awards_won|http://rdf.freebase.com/ns/award.award_honor.notes_description,BinaryRelation|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/award.award_nomination.notes_description	m.01jw4r	Places in the Heart|Sybil|Norma Rae|A Woman Of Independent Means|A Cooler Climate|Brothers & Sisters|ER	actor|celebrity|actress|star|ally|person|musicrecording|tvepisode
+-----Entity name is Lena River
+Google api returns place,riverbodyofwater,bodyofwater,thing,book,thing,musicrecording,thing
+MS api returns large siberian river
+riverbodyofwater appears 1 times
+bodyofwater appears 1 times
+musicrecording appears 1 times
+book appears 1 times
+place appears 1 times
+large siberian river appears 1 times
+41	where do $___ begin and end ?	BinaryRelation|http://rdf.freebase.com/ns/geography.river.origin|http://rdf.freebase.com/ns/type.object.name	m.0203mm	Baikal Mountains	riverbodyofwater|bodyofwater|musicrecording|book|place|large siberian river
+-----Entity name is Australia
+Google api returns administrativearea,thing,place,country,sportsteam,thing,sportsteam,thing
+MS api returns developed country|jurisdiction|nation|place|market
+market appears 1 times
+country appears 1 times
+nation appears 1 times
+jurisdiction appears 1 times
+sportsteam appears 2 times
+developed country appears 1 times
+place appears 2 times
+administrativearea appears 1 times
+45	what timezone be $___ gmt ?	BinaryRelation|http://rdf.freebase.com/ns/location.location.time_zones|http://rdf.freebase.com/ns/type.object.name	m.0chghy	UTC+8	sportsteam|place
+-----Entity name is Louis Armstrong
+Google api returns thing,person,airport,place,thing,administrativearea,thing,place
+MS api returns artist|musician|jazz great|legend|star
+star appears 1 times
+artist appears 1 times
+person appears 1 times
+legend appears 1 times
+place appears 2 times
+administrativearea appears 1 times
+musician appears 1 times
+jazz great appears 1 times
+airport appears 1 times
+46	what style of music do $___ play ?	BinaryRelation|http://rdf.freebase.com/ns/music.artist.genre|http://rdf.freebase.com/ns/type.object.name	m.04n32	Jazz	place
+-----Entity name is Denver
+Google api returns city,thing,place,administrativearea,organization,sportsteam,thing,sportsteam,organization,thing
+MS api returns city|market|place|area|community
+market appears 1 times
+area appears 1 times
+city appears 2 times
+organization appears 2 times
+sportsteam appears 2 times
+place appears 2 times
+community appears 1 times
+administrativearea appears 1 times
+48	what timezone be $___ ?	BinaryRelation|http://rdf.freebase.com/ns/location.location.time_zones|http://rdf.freebase.com/ns/type.object.name	m.02cl1	Mountain Time Zone|UTC\u221207:00	city|organization|sportsteam|place
+-----Entity name is Jackie French
+Google api returns thing,person,thing,person,thing,person
+MS api returns author|australian great
+australian great appears 1 times
+person appears 3 times
+author appears 1 times
+49	where do $___ live ?	BinaryRelation|http://rdf.freebase.com/ns/people.person.nationality|http://rdf.freebase.com/ns/type.object.name	m.0c9xl9	Australia	person
+-----Entity name is Sparta
+Google api returns thing,sportsteam,organization,country,place,thing,thing,sportsteam,organization
+MS api returns city|city state|ancient civilization|city-states|place
+country appears 1 times
+ancient civilization appears 1 times
+city-states appears 1 times
+city state appears 1 times
+city appears 1 times
+organization appears 2 times
+sportsteam appears 2 times
+place appears 2 times
+50	what form of government be practice in $___ ?	BinaryRelation|http://rdf.freebase.com/ns/location.country.form_of_government|http://rdf.freebase.com/ns/type.object.name	m.09472	Monarchy|Diarchy	organization|sportsteam|place
+-----Entity name is Colorado Rockies
+Google api returns sportsteam,organization,thing,thing,administrativearea,place,event,thing
+MS api returns team|western location|place|franchise|expansion team
+franchise appears 1 times
+organization appears 1 times
+sportsteam appears 1 times
+western location appears 1 times
+place appears 2 times
+team appears 1 times
+expansion team appears 1 times
+event appears 1 times
+administrativearea appears 1 times
+51	when do $___ go to the world series ?	BinaryRelation|http://rdf.freebase.com/ns/sports.sports_team.championships|http://rdf.freebase.com/ns/type.object.name	m.01ync	2007 National League Championship Series	place
+-----Entity name is France
+Google api returns country,place,administrativearea,thing,thing,event,sportsteam,thing
+MS api returns european country|nation|member state|state|developed country
+country appears 1 times
+member state appears 1 times
+nation appears 1 times
+european country appears 1 times
+sportsteam appears 1 times
+developed country appears 1 times
+place appears 1 times
+state appears 1 times
+event appears 1 times
+administrativearea appears 1 times
+54	where do $___ colonise ?	BinaryRelation|http://rdf.freebase.com/ns/location.country.administrative_divisions|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/location.country.first_level_divisions|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/location.country.second_level_divisions|http://rdf.freebase.com/ns/type.object.name	m.0f8l9c	R\u00e9union|Saint Barth\u00e9lemy|Mayotte|French Southern and Antarctic Lands|New Caledonia|Saint Pierre and Miquelon|Collectivity of Saint Martin|French Polynesia|Martinique|Guadeloupe	country|member state|nation|european country|sportsteam|developed country|place|state|event|administrativearea
+-----Entity name is Vincent van Gogh
+Google api returns person,thing,thing,event,movie,thing
+MS api returns artist|famous artist|painter|stockwell s famous person|master
+painter appears 1 times
+stockwell s famous person appears 1 times
+movie appears 1 times
+artist appears 1 times
+person appears 1 times
+famous artist appears 1 times
+event appears 1 times
+master appears 1 times
+55	who be $___ inspire by ?	BinaryRelation|http://rdf.freebase.com/ns/influence.influence_node.influenced_by|http://rdf.freebase.com/ns/type.object.name	m.07_m2	Jozef Isra\u00ebls|Paul C\u00e9zanne|Anton Mauve|Peter Paul Rubens|Jean-Fran\u00e7ois Millet|Willem Roelofs|Eug\u00e8ne Delacroix|Claude Monet|Rembrandt	painter|stockwell s famous person|movie|artist|person|famous artist|event|master
+-----Entity name is New York Knicks
+Google api returns sportsteam,organization,thing,corporation,thing,place,administrativearea,city,thing,place,administrativearea
+MS api returns team|independent group|franchise|elite team|nba team
+franchise appears 1 times
+elite team appears 1 times
+nba team appears 1 times
+independent group appears 1 times
+city appears 1 times
+organization appears 1 times
+corporation appears 1 times
+sportsteam appears 1 times
+place appears 2 times
+team appears 1 times
+administrativearea appears 2 times
+58	when do $___ win a championship ?	BinaryRelation|http://rdf.freebase.com/ns/sports.sports_team.championships|http://rdf.freebase.com/ns/type.object.name	m.0jm3v	1970 NBA Finals|1973 NBA Finals	place|administrativearea
+-----Entity name is China
+Google api returns administrativearea,thing,place,country,thing,administrativearea,country,place,thing,event
+MS api returns market|economy|nation|asian country|developing country
+market appears 1 times
+country appears 2 times
+asian country appears 1 times
+developing country appears 1 times
+nation appears 1 times
+place appears 2 times
+economy appears 1 times
+event appears 1 times
+administrativearea appears 2 times
+59	what be the official language of $___ ?	BinaryRelation|http://rdf.freebase.com/ns/location.country.languages_spoken|http://rdf.freebase.com/ns/type.object.name	m.0d05w3	Chinese language	country|place|administrativearea
+-----Entity name is Santa Clara University
+Google api returns thing,place,collegeoruniversity,organization,educationalorganization,corporation,sportsteam,thing,thing,sportsteam,organization
+MS api returns school|university|local university|religiously linked school|team
+collegeoruniversity appears 1 times
+school appears 1 times
+university appears 1 times
+organization appears 2 times
+corporation appears 1 times
+sportsteam appears 2 times
+place appears 1 times
+educationalorganization appears 1 times
+local university appears 1 times
+team appears 1 times
+religiously linked school appears 1 times
+61	where be $___ ?	BinaryRelation|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/type.object.name	m.027xx3	United States of America|California|Santa Clara	organization|sportsteam
+-----Entity name is Timothy McVeigh
+Google api returns person,thing,book,thing,musicrecording,thing
+MS api returns individual|right wing terrorist|actor|name|person
+actor appears 1 times
+right wing terrorist appears 1 times
+individual appears 1 times
+person appears 2 times
+musicrecording appears 1 times
+book appears 1 times
+name appears 1 times
+63	where do $___ go to prison ?	BinaryRelation|http://rdf.freebase.com/ns/people.deceased_person.place_of_death|http://rdf.freebase.com/ns/type.object.name	m.07rp8	Terre Haute	person
+-----Entity name is Yangtze River
+Google api returns place,bodyofwater,riverbodyofwater,thing,thing,place,city,thing
+MS api returns continental watershed|river|large river|area|subtropical region
+area appears 1 times
+bodyofwater appears 1 times
+riverbodyofwater appears 1 times
+city appears 1 times
+continental watershed appears 1 times
+subtropical region appears 1 times
+place appears 2 times
+river appears 1 times
+large river appears 1 times
+64	what sea do $___ flow into ?	BinaryRelation|http://rdf.freebase.com/ns/geography.river.mouth|http://rdf.freebase.com/ns/type.object.name	m.01y4t	East China Sea	place
+-----Entity name is Charles Darwin
+Google api returns person,thing,organization,thing,educationalorganization,collegeoruniversity,organization,thing,educationalorganization,school,place
+MS api returns scientist|person|researcher|notable figure|guest
+researcher appears 1 times
+notable figure appears 1 times
+collegeoruniversity appears 1 times
+school appears 1 times
+person appears 2 times
+scientist appears 1 times
+organization appears 2 times
+guest appears 1 times
+educationalorganization appears 2 times
+place appears 1 times
+66	what be $___ famous for ?	BinaryRelation|http://rdf.freebase.com/ns/base.argumentmaps.innovator.original_ideas|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/book.author.works_written|http://rdf.freebase.com/ns/type.object.name	m.01lwx	Evolution	person|organization|educationalorganization
+-----Entity name is Roanoke Colony
+Google api returns place,thing,thing,event,administrativearea,thing,place
+MS api returns colonial event|incident|location related event
+location related event appears 1 times
+place appears 2 times
+colonial event appears 1 times
+event appears 1 times
+administrativearea appears 1 times
+incident appears 1 times
+67	who found $___ ?	BinaryRelation|http://rdf.freebase.com/ns/location.location.events|http://rdf.freebase.com/ns/type.object.name	m.02p0w8z	Rainbow Bluff Expedition	place
+-----Entity name is New York Rangers
+Google api returns organization,corporation,sportsteam,thing,thing,place,administrativearea,city,thing,place,administrativearea
+MS api returns team|traditionally ratings friendly team|large market franchise|traditionally ratings-friendly team|large-market franchise
+traditionally ratings-friendly team appears 1 times
+city appears 1 times
+organization appears 1 times
+corporation appears 1 times
+traditionally ratings friendly team appears 1 times
+sportsteam appears 1 times
+place appears 2 times
+team appears 1 times
+administrativearea appears 2 times
+large market franchise appears 1 times
+large-market franchise appears 1 times
+70	where do $___ play ?	BinaryRelation|http://rdf.freebase.com/ns/sports.sports_team.arena_stadium|http://rdf.freebase.com/ns/type.object.name	m.0hmtk	Madison Square Garden	place|administrativearea
+-----Entity name is Jefferson Davis
+Google api returns thing,person,place,thing,thing
+MS api returns notable|man|high ranking official|rising star|civil war leader
+civil war leader appears 1 times
+rising star appears 1 times
+person appears 1 times
+notable appears 1 times
+place appears 1 times
+man appears 1 times
+high ranking official appears 1 times
+71	where be $___ bury ?	BinaryRelation|http://rdf.freebase.com/ns/people.deceased_person.place_of_burial|http://rdf.freebase.com/ns/type.object.name	m.043q0	Hollywood Cemetery	civil war leader|rising star|person|notable|place|man|high ranking official
+-----Entity name is Dallas Cowboys
+Google api returns thing,organization,sportsteam,event,thing,event,thing
+MS api returns team|professional sport team|back needy team|league favorite|preseason super bowl favorite
+back needy team appears 1 times
+league favorite appears 1 times
+professional sport team appears 1 times
+preseason super bowl favorite appears 1 times
+organization appears 1 times
+sportsteam appears 1 times
+team appears 1 times
+event appears 2 times
+72	what year have $___ win the superbowl ?	BinaryRelation|http://rdf.freebase.com/ns/sports.sports_team.championships|http://rdf.freebase.com/ns/type.object.name	m.02896	Super Bowl XXVIII|Super Bowl XXVII|Super Bowl VI|Super Bowl XXX|Super Bowl XII	event
+-----Entity name is John F. Kennedy
+Google api returns event,thing,person,thing,place,airport,thing,busstation
+MS api returns leader|president|name|celebrity|politician
+leader appears 1 times
+celebrity appears 1 times
+busstation appears 1 times
+person appears 1 times
+politician appears 1 times
+name appears 1 times
+place appears 1 times
+event appears 1 times
+airport appears 1 times
+president appears 1 times
+73	who be the president after $___ die ?	BinaryRelation|http://rdf.freebase.com/ns/government.us_president.vice_president|http://rdf.freebase.com/ns/type.object.name	m.0d3k14	Lyndon B. Johnson	leader|celebrity|busstation|person|politician|name|place|event|airport|president
+-----Entity name is United Kingdom
+Google api returns place,administrativearea,country,thing,city,thing,place,administrativearea,thing,person
+MS api returns 
+country appears 1 times
+city appears 1 times
+person appears 1 times
+place appears 2 times
+administrativearea appears 2 times
+75	what be $___ ?	BinaryRelation|http://rdf.freebase.com/ns/location.country.administrative_divisions|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/location.country.first_level_divisions|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/base.aareas.schema.administrative_area.administrative_children|http://rdf.freebase.com/ns/type.object.name	m.07ssc	Wales|England|Scotland|Northern Ireland	place|administrativearea
+-----Entity name is Benjamin Franklin
+Google api returns person,thing,person,thing,museum,thing,touristattraction,civicstructure,place,landmarksorhistoricalbuildings
+MS api returns man|person|historical figure|great thinker|statesman
+statesman appears 1 times
+great thinker appears 1 times
+museum appears 1 times
+person appears 3 times
+touristattraction appears 1 times
+historical figure appears 1 times
+place appears 1 times
+man appears 1 times
+landmarksorhistoricalbuildings appears 1 times
+civicstructure appears 1 times
+76	where do $___ die ?	BinaryRelation|http://rdf.freebase.com/ns/people.deceased_person.place_of_death|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/people.deceased_person.place_of_death|http://rdf.freebase.com/ns/user.ameroamigo.default_domain.federal_reserve_bank.federal_reserve_region	m.019fz	Philadelphia	person
+-----Entity name is Cancún
+Google api returns city,place,thing,thing,place,airport,place,thing
+MS api returns 
+city appears 1 times
+place appears 3 times
+airport appears 1 times
+78	what to do in $___ with family ?	BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name	m.01q98m	Belize Barrier Reef|Ik Kil|Isla Contoy|Xcaret Park|Chichen Itza|Xel-Ha Park|Sistema Dos Ojos|Coba|Delphinus Dreams|Cancun Underwater Museum	place
+-----Entity name is United States Air Force Academy
+Google api returns educationalorganization,thing,collegeoruniversity,organization,defenceestablishment,place,sportsteam,thing,organization,thing
+MS api returns organization|college|service academy|program
+college appears 1 times
+collegeoruniversity appears 1 times
+service academy appears 1 times
+organization appears 3 times
+sportsteam appears 1 times
+educationalorganization appears 1 times
+place appears 1 times
+program appears 1 times
+defenceestablishment appears 1 times
+80	what city and state be $___ establish ?	BinaryRelation|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/type.object.name	m.0k9wp	El Paso County|United States of America|Colorado|Colorado Springs	organization
+-----Entity name is Queen Victoria
+Google api returns person,thing,administrativearea,place,country,thing,thing
+MS api returns famous landmark|strong contender|personality|historical figure|famous person
+country appears 1 times
+famous landmark appears 1 times
+strong contender appears 1 times
+personality appears 1 times
+person appears 1 times
+historical figure appears 1 times
+place appears 1 times
+administrativearea appears 1 times
+famous person appears 1 times
+82	what country do $___ reign over ?	BinaryRelation|http://rdf.freebase.com/ns/royalty.monarch.kingdom|http://rdf.freebase.com/ns/type.object.name,BinaryRelation|http://rdf.freebase.com/ns/people.person.nationality|http://rdf.freebase.com/ns/type.object.name	m.0cw10	United Kingdom	country|famous landmark|strong contender|personality|person|historical figure|place|administrativearea|famous person
+-----Entity name is Dubai
+Google api returns place,administrativearea,city,thing,thing,place,airport,organization,thing

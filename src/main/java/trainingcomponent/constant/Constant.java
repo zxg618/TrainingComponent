@@ -4,6 +4,7 @@ public final class Constant {
 	//google related
 	public static final String KGS_API = "https://kgsearch.googleapis.com/v1/entities:search";
 	public static final String API_KEY = "AIzaSyCGXgm6ELaHoUc5h5PiBLvTeR8Y-q2z3y4";
+	public static final String API_KEY2 = "AIzaSyA-0046HmHeL-5-h_UsM9LSNemEPLxOUjU";
 	public static final String API_PARAM_QUERY = "query";
 	public static final String API_PARAM_LIMIT = "limit";
 	public static final String API_PARAM_IDENT = "indent";
@@ -23,7 +24,7 @@ public final class Constant {
 	
 	public static String QUESTION_TRAIN_FILE = "tab_delim_train.txt";
 	
-	public static int START = 2088;
+	public static int START = 0;
 	
 	//microsoft api related
 	public static String HOST = "https://concept.research.microsoft.com/";
@@ -53,4 +54,10 @@ public final class Constant {
 	public static int TOPK_VALUE = 5;
 	
 	public static String FB_TEMP_INPUT_FILE = "fb_train_2000_template.txt";
+	public static String WEBQ_TEMP_INPUT_FILE = "webq_train_2600_template.txt";
+	public static String FB_TEMP_INPUT_FILE2 = "fb_train_10k_template.txt";
+	public static String FB_TEMP_INPUT_FILE3 = "fb_train_10k-40k_template.txt";
+	public static String FB_TEMP_INPUT_FILE4 = "fb_40k-70k_template.txt";
+	
+	public static String FB_TEMP_INPUT_FILE_ALL = "fb_100k_template.txt";
 }

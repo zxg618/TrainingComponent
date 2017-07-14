@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-import trainingcomponent.database.DBQuery;
 
 public class FileReader {
 	protected String filePath = "";
@@ -115,7 +114,7 @@ public class FileReader {
 	}
 	
 	public void searchFirstIdAppearance() {
-		APIReader ar = new APIReader();
+		//APIReader ar = new APIReader();
 		
 		String filePath = OUTPUT_PATH + OUTPUT_RELATION_FILENAME;
 		
@@ -130,8 +129,9 @@ public class FileReader {
 		int i = 0;
 		int total = entitiesIds.length;
 		for (i = 0; i < total; i++) {
-			String name = entitiesIds[i].split("\t")[0];
-			ar.getCategoryFromMSApi(name);
+			//System.out.println("Reading line number " + i);
+			//String name = entitiesIds[i].split("\t")[0];
+			//ar.getCategoryFromMSApi(name);
 			String[] idsArray = entitiesIds[i].split("\t")[1].split(",");
 			String firstId = idsArray[0];
 			idMap1.put(i + 1, firstId);
@@ -152,6 +152,8 @@ public class FileReader {
 			
 			
 		}
+		
+		System.out.println("Stasrting reading file " + filePath);
 		
 		File file = new File(filePath);
 		
@@ -203,9 +205,8 @@ public class FileReader {
 		}
 	}
 	
-	public String[] getAllLinesFromFBFile() {
+	public String[] getAllLinesFromFile(String filePath) {
 		ArrayList<String> lineList = new ArrayList<String>();
-		String filePath = DATA_PATH + FB_TEMP_INPUT_FILE;
 		File file = new File(filePath);
 		
 		try {

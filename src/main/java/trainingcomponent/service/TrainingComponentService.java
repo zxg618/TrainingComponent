@@ -103,6 +103,7 @@ public class TrainingComponentService {
 				}
 				line += answers;
 				if (printFlag) {
+					//System.out.println("-------" + line);
 					//System.out.println(line);
 					if (relationMap.containsKey(line)) {
 						int count = relationMap.get(line);
@@ -134,7 +135,7 @@ public class TrainingComponentService {
 		}
 		
 		if (maxCount != 0) {
-			System.out.println(relation);	
+			System.out.println(maxCount + "++++++++" + relation);	
 		}
 		
 		
@@ -218,7 +219,9 @@ public class TrainingComponentService {
 		FileReader fr = new FileReader();
 		APIReader ar = new APIReader();
 		
-		String[] lines = fr.getAllLinesFromFBFile();
+		//String filePath = DATA_PATH + FB_TEMP_INPUT_FILE;
+		String filePath = DATA_PATH + FB_TEMP_INPUT_FILE4;
+		String[] lines = fr.getAllLinesFromFile(filePath);
 		int totalLines = lines.length;
 		int i = 0;
 		
@@ -235,5 +238,49 @@ public class TrainingComponentService {
 			
 		}
 		
+	}
+	
+	public void findQuestionEntityCategoryFromBothApis() {
+		FileReader fr = new FileReader();
+		APIReader ar = new APIReader();
+		
+		//String filePath = DATA_PATH + FB_TEMP_INPUT_FILE;
+		String filePath = DATA_PATH + WEBQ_TEMP_INPUT_FILE;
+		String[] lines = fr.getAllLinesFromFile(filePath);
+		int totalLines = lines.length;
+		int i = 0;
+		
+		for (i = 0; i < totalLines; i++) {
+			String[] subStrings = lines[i].split("\t");
+			String qEntityId = subStrings[3];
+			String entityName = DBQuery.getEntityName(PREFIX + qEntityId);
+			String categories = ar.getTypeFromApis(entityName);
+			if (categories.length() > 0) {
+				System.out.println(lines[i] + "\t" + categories);	
+			} else {
+				System.out.println(lines[i]);
+			}
+			
+		}
+		
+	}
+	
+	public void getAllTypesFromFBData() {
+		FileReader fr = new FileReader();
+		APIReader ar = new APIReader();
+		int i = 0;
+		String entityName = "";
+		String type = "";
+		
+		
+		String filePath = DATA_PATH + FB_TEMP_INPUT_FILE_ALL;
+		String[] lines = fr.getAllLinesFromFile(filePath);
+		
+		for (i = 0; i < lines.length; i++) {
+			String[] subStrings = lines[i].split("\t");
+			entityName = DBQuery.getEntityName(PREFIX + subStrings[3]);
+			type = ar.getGoogleTypeById(entityName, subStrings[3]);
+			System.out.println(lines[i] + "\t" + type);
+		}
 	}
 }
