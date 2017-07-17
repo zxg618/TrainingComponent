@@ -194,13 +194,16 @@ public class APIReader {
 			e.printStackTrace();
 		}
 		
-		System.out.println("-----Entity name is " + noun);
+		//System.out.println("-----Entity name is " + noun);
 		String[] typeStrings = typeList.toArray(new String[0]);
 		String allTypes = StringUtils.join(typeStrings, ",").toLowerCase();
-		System.out.println("Google api returns " + allTypes);
+		//System.out.println("Google api returns " + allTypes);
 		String[] typesArray = allTypes.split(",");
+		
 		String msType = this.getCategoryFromMSApi(noun).toLowerCase();
-		System.out.println("MS api returns " + msType);
+		
+		//System.out.println("MS api returns " + msType);
+		
 		String[] msTypesArray = msType.split("\\|");
 		
 		Map<String, Integer> mixTypes = new HashMap<String, Integer>();
@@ -218,7 +221,8 @@ public class APIReader {
 			}	
 		}
 		
-		if (msType.length() > 0) {
+		//remove ms type
+		if (msType.length() > 0 || false) {
 			for (i = 0; i < msTypesArray.length; i++) {
 				if (msTypesArray[i].equals("thing")) {
 					continue;
@@ -241,7 +245,7 @@ public class APIReader {
 				 typeList.add(pair.getKey());
 			 }
 			 typeList2.add(pair.getKey());
-			 System.out.println(pair.getKey() + " appears " + pair.getValue() + " times");
+			 //System.out.println(pair.getKey() + " appears " + pair.getValue() + " times");
 		}
 		
 		if (typeList.size() > 0) {

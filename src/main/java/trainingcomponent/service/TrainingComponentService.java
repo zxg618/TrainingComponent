@@ -220,7 +220,7 @@ public class TrainingComponentService {
 		APIReader ar = new APIReader();
 		
 		//String filePath = DATA_PATH + FB_TEMP_INPUT_FILE;
-		String filePath = DATA_PATH + FB_TEMP_INPUT_FILE4;
+		String filePath = DATA_PATH + WEBQ_TEMP_INPUT_FILE;
 		String[] lines = fr.getAllLinesFromFile(filePath);
 		int totalLines = lines.length;
 		int i = 0;
@@ -229,7 +229,8 @@ public class TrainingComponentService {
 			String[] subStrings = lines[i].split("\t");
 			String qEntityId = subStrings[3];
 			String entityName = DBQuery.getEntityName(PREFIX + qEntityId);
-			String categories = ar.getCategoryFromMSApi(entityName);
+			String categories = ar.getTypeFromApis(entityName);
+			//String categories = ar.getCategoryFromMSApi(entityName);
 			if (categories.length() > 0) {
 				System.out.println(lines[i] + "\t" + categories);	
 			} else {
@@ -244,8 +245,8 @@ public class TrainingComponentService {
 		FileReader fr = new FileReader();
 		APIReader ar = new APIReader();
 		
-		//String filePath = DATA_PATH + FB_TEMP_INPUT_FILE;
-		String filePath = DATA_PATH + WEBQ_TEMP_INPUT_FILE;
+		String filePath = DATA_PATH + FB_TEMP_INPUT_FILE;
+		//String filePath = DATA_PATH + WEBQ_TEMP_INPUT_FILE;
 		String[] lines = fr.getAllLinesFromFile(filePath);
 		int totalLines = lines.length;
 		int i = 0;
