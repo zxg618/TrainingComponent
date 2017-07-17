@@ -2,11 +2,15 @@ package trainingcomponent.service;
 import static trainingcomponent.constant.Constant.*;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.Set;
 
 import org.apache.commons.lang3.StringEscapeUtils;
+import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.text.similarity.LevenshteinDistance;
 
 import trainingcomponent.database.DBQuery;
 import trainingcomponent.io.APIReader;
@@ -283,5 +287,178 @@ public class TrainingComponentService {
 			type = ar.getGoogleTypeById(entityName, subStrings[3]);
 			System.out.println(lines[i] + "\t" + type);
 		}
+	}
+	
+	//final solution to get web q relations
+	
+	public void findWebqRelations() {
+		FileReader fr = new FileReader();
+		String filePath1 = INPUT_PATH + OUTPUT_ID_FILE_NAME;
+		String filePath2 = DATA_PATH + QUESTION_TRAIN_FILE;
+		//String filePath3 = DATA_PATH + WEBQ_TEMP_INPUT_FILE;
+		
+		String[] entityIdLines = fr.getAllLinesFromFile(filePath1);
+		String[] trainLines = fr.getAllLinesFromFile(filePath2);
+		//String[] webqTempateLines = fr.getAllLinesFromFile(filePath3);
+		
+		int i = 0;
+		int j = 0;
+		int k = 0;
+		int totalLines = entityIdLines.length;
+		
+		for (i = 0; i < totalLines; i++) {
+			if (i == 1498) {
+				continue;
+			}
+			
+			//System.out.println("Process line " + i + " .........");
+			String[] entityIds = this.getEntityIdsFromLine(entityIdLines[i]);
+			String[] answers = this.getAnswersFromLine(trainLines[i]);
+			String entityId = "";
+			String originalEntityName = entityIdLines[i].split("\t")[0];
+			Map<String, Integer> relMap = new HashMap<String, Integer>();
+			int maxRelTotal = 1;
+			for (j = 0; j < entityIds.length; j ++) {
+				String entityName = DBQuery.getEntityName(PREFIX + entityIds[j]);
+				String relations = this.getAllRelationsByEntityIdAndValues(PREFIX + entityIds[j], answers);
+				String[] relationArray = relations.split(",");
+				int relTotal = relationArray.length;
+				if (relTotal > maxRelTotal || this.isSimilarStrings(entityName, originalEntityName)) {
+					maxRelTotal = relTotal;
+					entityId = entityIds[j];
+				}
+				
+				int count = 0;
+				for (k = 0; k < relTotal; k++) {
+					if (relationArray[k].length() < 1) {
+						continue;
+					}
+					if (relMap.containsKey(relationArray[k])) {
+						count = relMap.get(relationArray[k]);
+						relMap.replace(relationArray[k], count + 1);
+					} else {
+						relMap.put(relationArray[k], 1);
+					}
+				}
+			}
+			
+			Iterator<Entry<String, Integer>> it = relMap.entrySet().iterator();
+			int maxCount = 0;
+			String relation = "";
+			while (it.hasNext()) {
+				Entry<String, Integer> pair = it.next();
+				//System.out.println(pair.getKey() + " appears " + pair.getValue() + " times");
+				if (pair.getValue() > maxCount) {
+					maxCount = pair.getValue();
+					relation = pair.getKey();
+				}
+			}
+			
+			if (maxCount == 1) {
+				relation = StringUtils.join(relMap.keySet().toArray(), ",");
+			}
+			
+			if (entityId.length() < 1 || relation.length() < 1) {
+				continue;
+			}
+			
+			//System.out.println(entityId + " has most relations");
+			//System.out.println("Relation appears most: " + relation);
+			
+			System.out.print(i + 1);
+			System.out.print("\t" + trainLines[i].split("\t")[0]);
+			System.out.print("\t" + DBQuery.getEntityName(PREFIX + entityId));
+			System.out.print("\t" + entityId);
+			System.out.print("\t" + relation);
+			System.out.println("\t" + trainLines[i].split("\t")[2]);
+		}
+	}
+	
+	protected String[] getEntityIdsFromLine(String line) {
+		Set<String> entityIdSet = new HashSet<String>();
+		
+		String[] subStrings = line.split("\t");
+		String[] googleIds = subStrings[1].split(",");
+		//exact match id
+		String emId = subStrings[2];
+		int i = 0;
+		
+		for (i = 0; i < googleIds.length; i++) {
+			entityIdSet.add(googleIds[i]);
+		}
+		
+		if (emId.charAt(0) == 'm') {
+			entityIdSet.add(emId);
+		}
+		
+		return entityIdSet.toArray(new String[0]);
+	}
+	
+	protected String[] getAnswersFromLine(String line) {
+		Set<String> answerSet = new HashSet<String>();
+		
+		String[] subStrings = line.split("\t");
+		String[] answers = subStrings[2].split("\\|");
+		int i = 0;
+		
+		for (i = 0; i < answers.length; i++) {
+			answerSet.add(answers[i]);
+		}
+		
+		return answerSet.toArray(new String[0]);
+	}
+	
+	protected String getAllRelationsByEntityIdAndValues(String entityId, String[] values) {
+		int i = 0;
+		String relations = "";
+		
+		for (i = 0; i < values.length; i++) {
+			String answer = values[i]; 
+			if (answer.indexOf("\'") >= 0) {
+				answer = answer.replace("\'", "\\'");
+			}
+			if (relations.length() > 0) {
+				relations += ",";
+			}
+			relations += DBQuery.findUnaryRelationbyProperty(entityId, answer);
+			int outputLength = relations.length();
+			//System.out.println("----------unary done------------");
+			String binaryOutput = DBQuery.findBinaryRelationByValue(entityId, answer);
+			if (outputLength > 0 && binaryOutput.length() > 0) {
+				relations += ",";	
+			}
+			relations += binaryOutput;
+			//System.out.println("---------binary done-------------");
+			String cvtOutput = DBQuery.findCVTRelationByValue(entityId, answer);
+			if (relations.length() > 0 && cvtOutput.length() > 0) {
+				relations += ",";
+			}
+			relations += cvtOutput;
+		}
+		
+		return relations;
+	}
+	
+	/**
+	 * Check if search string matches target string
+	 * Goal: half of search string should match
+	 * 
+	 * @param String s1 search string
+	 * @param String s2 target string
+	 * @return boolean -1 false and others true
+	 */
+	protected boolean isSimilarStrings(String s1, String s2) {
+		boolean result = false;
+		int threshold = s1.length() / 2;
+		LevenshteinDistance ld = new LevenshteinDistance(threshold);
+		int diff = ld.apply(s1, s2);
+		
+		//System.out.println(s1 + " and " + s2 + " diff is " + diff);
+		
+		if (diff >= 0) {
+			result = true;
+		}
+		
+		return result;
 	}
 }

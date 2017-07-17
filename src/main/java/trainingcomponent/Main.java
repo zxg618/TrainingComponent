@@ -15,10 +15,12 @@ public class Main {
 		//tcService.verifyFirstIdOfEachEntity();
 		
 		//tcService.findQuestionEntityCategory();
-		tcService.findQuestionEntityCategoryFromBothApis();
+		//tcService.findQuestionEntityCategoryFromBothApis();
 		
 		//this method is fot getting all types of FB file
 		//tcService.getAllTypesFromFBData();
+		
+		tcService.findWebqRelations();
 		
 //		String str = "Padm\u00e9 Amidala";
 //		System.out.println("original string is " + str);
