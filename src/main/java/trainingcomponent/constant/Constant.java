@@ -60,4 +60,13 @@ public final class Constant {
 	public static String FB_TEMP_INPUT_FILE4 = "fb_40k-70k_template.txt";
 	
 	public static String FB_TEMP_INPUT_FILE_ALL = "fb_100k_template.txt";
+	
+	public static String WEBQ_RELATION_OUT = "webq_relations_out_18July.txt";
+	
+	public static String WEKA_MODEL_PATH = INPUT_PATH + "train1.model";
+	
+	
+	
+	//fan code area
+	public static final String API_PARAM_IDS = "ids";
 }

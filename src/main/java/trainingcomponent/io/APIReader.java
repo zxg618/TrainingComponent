@@ -22,6 +22,9 @@ import com.google.api.client.http.javanet.NetHttpTransport;
 
 import com.jayway.jsonpath.JsonPath;
 
+import trainingcomponent.utility.NameSpaceConverter;
+import trainingcomponent.utility.TypeRepository;
+
 import org.apache.commons.lang3.StringUtils;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -302,5 +305,138 @@ public class APIReader {
 		}
 		
 		return entityType;
+	}
+	
+	/**
+	 * 
+	 * returns null if no entity is found
+	 * 
+	 * @param entityId
+	 * @return
+	 */
+	public GKGEntity getEntity(String entityId){
+		GKGEntity entity = null;
+		
+		try {
+		      HttpTransport httpTransport = new NetHttpTransport();
+		      HttpRequestFactory requestFactory = httpTransport.createRequestFactory();
+		      JSONParser parser = new JSONParser();
+		      GenericUrl url = new GenericUrl("https://kgsearch.googleapis.com/v1/entities:search");
+		      url.put(API_PARAM_IDS, NameSpaceConverter.noNSToGKGQueryId(entityId));
+//		      url.put(API_PARAM_QUERY, noun);
+		      url.put(API_PARAM_LIMIT, "5");
+		      url.put(API_PARAM_IDENT, "true");
+		      url.put(API_PARAM_KEY, API_KEY);
+		      HttpRequest request = requestFactory.buildGetRequest(url);
+		      HttpResponse httpResponse = request.execute();
+		      JSONObject response = (JSONObject) parser.parse(httpResponse.parseAsString());
+		      JSONArray elements = (JSONArray) response.get("itemListElement");
+
+		      //only expecting one item
+		      for (Object element : elements) {
+		    	  entity = retrieveEnity(element);
+		      }
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		return entity;
+	}
+	
+	private GKGEntity retrieveEnity(Object jsonObject) {
+		GKGEntity entity = new GKGEntity();
+		TypeRepository typeRepo = TypeRepository.getInstance();
+
+		String scoreString = JsonPath.read(jsonObject, "$.resultScore").toString();
+		double score = Double.parseDouble(scoreString);
+
+		String idString = JsonPath.read(jsonObject, "$.result.@id").toString();
+		 
+		JSONArray types = (JSONArray) JsonPath.read(jsonObject, "$.result.@type");
+
+		String name = "";
+		try {
+			name = JsonPath.read(jsonObject, "$.result.name").toString();			// /m/05890x6	has no name
+		} catch (com.jayway.jsonpath.PathNotFoundException pnfe) {
+			name = "";
+		}
+
+		String description = "";
+		try {
+			description = JsonPath.read(jsonObject, "$.result.description").toString();
+		} catch (com.jayway.jsonpath.PathNotFoundException pnfe) {
+			description = "";
+		}
+
+		//System.out.println(idString + "|" + name + "|" + types + "|" + description);
+
+		if (Double.compare(score, 0) > 0 && idString.startsWith("kg:/m")) { // only taking Freebase mid
+			entity.setEntityId(NameSpaceConverter.GKGFullIdToNoNS(idString));
+			entity.setEntityName(name);
+			entity.setDescription(description);
+			for (Object typeObject : types) {
+				String typeStr = typeObject.toString();
+				String typeCode = typeRepo.getTypeCode(typeStr);
+
+				if (!typeStr.equals("Thing") && typeCode != null) {										// Exclude root type Thing
+					TypeRecord typeRecord = new TypeRecord();
+					typeRecord.setType(typeStr);
+					typeRecord.setTypeCodeStr(typeCode);
+					entity.addType(typeRecord);
+				}
+			}
+			entity.setTypes(simplifyTypes(entity.getTypes()));
+			
+		}
+
+		return entity;
+	}
+	
+	private Set<TypeRecord> simplifyTypes(Set<TypeRecord> types){
+		Set<TypeRecord> simplefiedTypes = new HashSet<>();
+		
+		if(types.size() <= 1 ){
+			return types;
+		}
+
+		
+		for(TypeRecord type: types){
+			String typeCodeBasic = removeTrailingZeros(type.getTypeCodeStr());
+			
+			boolean isFound = false;
+			for(TypeRecord type2: types){
+				if(type2.equals(type)){
+					continue;								//no need to compare with itself
+				}
+				
+//System.out.println("=="+type2.getTypeCodeStr()+"|"+typeCodeBasic);				
+				if(type2.getTypeCodeStr().startsWith(typeCodeBasic)){
+//System.out.println("--"+type2.getTypeCodeStr()+"|"+typeCodeBasic);				
+					isFound = true;
+					break;
+				}
+			}
+			
+			if(isFound == false){
+				simplefiedTypes.add(type);	
+			}
+		}
+		
+		return simplefiedTypes;
+	}
+	
+	private String removeTrailingZeros(String numberIn){
+		String result = "";
+		
+		int i = numberIn.length() - 1;
+		for(; i >= 0; i--){
+			if(numberIn.charAt(i) != '0'){
+				break;
+			}
+		}
+		
+		result = numberIn.substring(0, i+1);
+		
+		return result;
 	}
 }

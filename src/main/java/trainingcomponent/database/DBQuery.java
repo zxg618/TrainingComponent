@@ -10,6 +10,7 @@ public class DBQuery {
 
 	//http://blog.markwatson.com/2014/07/setting-up-your-own-sparql-endpoint-for.html
 	private static final String DB_URL = "http://ec2-13-55-55-217.ap-southeast-2.compute.amazonaws.com:8890/sparql";
+	//ec2-13-55-55-217.ap-southeast-2.compute.amazonaws.com
 	private static final String NEW_LINE_CHAR = "\n";
 
 
@@ -34,7 +35,7 @@ public class DBQuery {
 		while (results.hasNext()) {
 			QuerySolution sol = results.nextSolution();
 			result = sol.get("s").toString();
-			System.out.println("findEntityByName: | " + entityName + " | "+result);
+			//System.out.println("findEntityByName: | " + entityName + " | "+result);
 		}
 		qexec.close();
 		
@@ -407,4 +408,114 @@ public class DBQuery {
 		DBQuery.findCVTRelationByValue(eid, "Jaxon Bieber");
 	}
 
+	public static String findEidByUnaryRelationProperty(String entityOneId, String property){
+		String eids = "";
+		
+		String sparqlQueryString = "PREFIX ns: <http://rdf.freebase.com/ns/>" + NEW_LINE_CHAR
+				+ "SELECT * " + NEW_LINE_CHAR
+				+ "WHERE {"  + NEW_LINE_CHAR
+				+ StringUtil.addNSBrackets(entityOneId) + " ?p '" + property + "'@en . " + NEW_LINE_CHAR
+				+ "}" + NEW_LINE_CHAR
+				+ "LIMIT 100";
+		
+		Query query = QueryFactory.create(sparqlQueryString);
+		QueryExecution qexec = QueryExecutionFactory.sparqlService(DB_URL, query);
+		ResultSet results = qexec.execSelect();
+
+		ArrayList<String> eidList = new ArrayList<String>();
+		if (results.hasNext()) {
+			QuerySolution sol = results.nextSolution();
+			String p = sol.get("p").toString();
+			String rel = "UnaryRelation" + "|" + p;
+			//String o = sol.get("o").toString();
+			String o = "";
+			if (o.length() > 0) {
+				eidList.add(rel);
+			}
+		}
+		qexec.close();
+
+		String[] eidArray = eidList.toArray(new String[0]);
+		eids += StringUtils.join(eidArray, ",");
+		
+		return eids;
+	}
+	
+	public static String findEidByBinaryRelationValue(String entityOneId, String entityTwoValue){
+		String eids = "";
+		
+		String sparqlQueryString = "PREFIX ns: <http://rdf.freebase.com/ns/>" + NEW_LINE_CHAR
+				+ "SELECT * " + NEW_LINE_CHAR
+				+ "WHERE {"  + NEW_LINE_CHAR
+				+ StringUtil.addNSBrackets(entityOneId) + " ?p ?o . " + NEW_LINE_CHAR
+				+ "?o ?p2 '" + entityTwoValue + "'@en . " + NEW_LINE_CHAR
+				+ "}" + NEW_LINE_CHAR
+				+ "LIMIT 1000";
+		
+		Query query = QueryFactory.create(sparqlQueryString);
+		QueryExecution qexec = QueryExecutionFactory.sparqlService(DB_URL, query);
+		ResultSet results = qexec.execSelect();
+		
+		ArrayList<String> eidList = new ArrayList<String>();
+		if (results.hasNext()) {
+			QuerySolution sol = results.nextSolution();
+			String p = sol.get("p").toString();
+			String o = sol.get("o").toString();
+			String p2 = sol.get("p2").toString();
+			String rel = "BinaryRelation" + "|" + p + "|" + p2; 
+			if (o.length() > 0) {
+				eidList.add(o);
+			}
+		}
+		qexec.close();
+		
+		String[] eidArray = eidList.toArray(new String[0]);
+		eids += StringUtils.join(eidArray, ",");
+		
+		return eids;
+	}
+	
+	public static String findEidByCVTRelationValue(String entityIdOne, String entityTwoValue){
+		String eids = "";
+		
+		String sparqlQueryString = "PREFIX ns: <http://rdf.freebase.com/ns/>" + NEW_LINE_CHAR
+				+ "SELECT * " + NEW_LINE_CHAR
+				+ "WHERE {"  + NEW_LINE_CHAR
+				+ StringUtil.addNSBrackets(entityIdOne) + " ?p ?o . " + NEW_LINE_CHAR
+				+ "?s ?p ?o . " + NEW_LINE_CHAR
+				+ "?o ?p2 ?s . " + NEW_LINE_CHAR
+				+ "?s ?p3 '" + entityTwoValue + "'@en ." + NEW_LINE_CHAR
+				+ "FILTER (?s != " + StringUtil.addNSBrackets(entityIdOne) + ") ." + NEW_LINE_CHAR		//Exclude EnityOne itself
+				+ "FILTER NOT EXISTS { ?o ns:type.object.name ?oo} ." + NEW_LINE_CHAR					//CVT entity has no name
+				+ "}" + NEW_LINE_CHAR
+				+ "LIMIT 1000";
+		
+		//test purpose, line 1499
+		//System.out.println(sparqlQueryString);
+		Query query = QueryFactory.create(sparqlQueryString);
+		QueryExecution qexec = QueryExecutionFactory.sparqlService(DB_URL, query);
+		ResultSet results = qexec.execSelect();
+		
+		ArrayList<String> eidList = new ArrayList<String>();
+		if (results.hasNext()) {
+			QuerySolution sol = results.nextSolution();
+													// Entity One
+			String p = sol.get("p").toString();		// CVT relation going into CVT entity
+			//String o = sol.get("o").toString();		// CVT entity
+			String p2 = sol.get("p2").toString();	// CVT relation going out of CVT entity
+			String s = sol.get("s").toString();		// Entity Two
+			String p3 = sol.get("p3").toString();	// Entity Two to EntityTwoValue
+			String rel = "CVTRelation" + "|" + p  + "|" + p2 + "|" + p3;
+			if (s.length() > 0) {
+				eidList.add(s);	
+			}
+			
+		}
+		qexec.close();
+		
+		String[] eidArray = eidList.toArray(new String[0]);
+		eids += StringUtils.join(eidArray, ",");
+		
+		return eids;
+	}
 }

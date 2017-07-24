@@ -1,0 +1,68 @@
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Training Component 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ TrainingComponent ---
+what be the name of $___ brother ?,600000000,600000000,CVTRelation|http://rdf.freebase.com/ns/people.person.sibling_s|http://rdf.freebase.com/ns/people.sibling_relationship.sibling|http://rdf.freebase.com/ns/type.object.name,Justin Bieber,Person,Jazmyn Bieber,Person
+what be the name of $___ brother ?,600000000,600000000,CVTRelation|http://rdf.freebase.com/ns/people.person.sibling_s|http://rdf.freebase.com/ns/people.sibling_relationship.sibling|http://rdf.freebase.com/ns/type.object.name,Justin Bieber,Person,Jaxon Bieber,Person
+what country be $___ in ?,700000000,702020000,BinaryRelation|http://rdf.freebase.com/ns/location.location.containedby|http://rdf.freebase.com/ns/type.object.name,Grand Bahama,Place,The Bahamas,Country
+where be $___ from ?,502000000,502000000,UnaryRelation|http://rdf.freebase.com/ns/type.object.name,Washington Redskins,Corporation,Washington Redskins,Corporation
+where be $___ from ?,502000000,509010000,UnaryRelation|http://rdf.freebase.com/ns/type.object.name,Washington Redskins,Corporation,Washington Redskins,SportsTeam
+where be $___ from ?,509010000,502000000,UnaryRelation|http://rdf.freebase.com/ns/type.object.name,Washington Redskins,SportsTeam,Washington Redskins,Corporation
+where be $___ from ?,509010000,509010000,UnaryRelation|http://rdf.freebase.com/ns/type.object.name,Washington Redskins,SportsTeam,Washington Redskins,SportsTeam
+where be $___ from ?,502000000,502000000,BinaryRelation|http://rdf.freebase.com/ns/user.szaijan.fantasy_football.player.nfl_team|http://rdf.freebase.com/ns/type.object.name,Washington Redskins,Corporation,Washington Redskins,Corporation
+where be $___ from ?,502000000,509010000,BinaryRelation|http://rdf.freebase.com/ns/user.szaijan.fantasy_football.player.nfl_team|http://rdf.freebase.com/ns/type.object.name,Washington Redskins,Corporation,Washington Redskins,SportsTeam
+where be $___ from ?,509010000,502000000,BinaryRelation|http://rdf.freebase.com/ns/user.szaijan.fantasy_football.player.nfl_team|http://rdf.freebase.com/ns/type.object.name,Washington Redskins,SportsTeam,Washington Redskins,Corporation
+where be $___ from ?,509010000,509010000,BinaryRelation|http://rdf.freebase.com/ns/user.szaijan.fantasy_football.player.nfl_team|http://rdf.freebase.com/ns/type.object.name,Washington Redskins,SportsTeam,Washington Redskins,SportsTeam
+where do $___ live ?,600000000,702020000,BinaryRelation|http://rdf.freebase.com/ns/people.person.nationality|http://rdf.freebase.com/ns/type.object.name,Saki,Person,United Kingdom,Country
+where be $___ located on a map ?,705000000,705000000,BinaryRelation|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/type.object.name,Rome,LandmarksOrHistoricalBuildings,Rome,LandmarksOrHistoricalBuildings
+where be $___ located on a map ?,705000000,702010000,BinaryRelation|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/type.object.name,Rome,LandmarksOrHistoricalBuildings,Rome,City
+where be $___ located on a map ?,702010000,705000000,BinaryRelation|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/type.object.name,Rome,City,Rome,LandmarksOrHistoricalBuildings
+where be $___ located on a map ?,702010000,702010000,BinaryRelation|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/type.object.name,Rome,City,Rome,City
+where be $___ located on a map ?,705000000,705000000,BinaryRelation|http://rdf.freebase.com/ns/user.narphorium.default_domain.base_equivalent_location.base|http://rdf.freebase.com/ns/type.object.name,Rome,LandmarksOrHistoricalBuildings,Rome,LandmarksOrHistoricalBuildings
+where be $___ located on a map ?,705000000,702010000,BinaryRelation|http://rdf.freebase.com/ns/user.narphorium.default_domain.base_equivalent_location.base|http://rdf.freebase.com/ns/type.object.name,Rome,LandmarksOrHistoricalBuildings,Rome,City
+where be $___ located on a map ?,702010000,705000000,BinaryRelation|http://rdf.freebase.com/ns/user.narphorium.default_domain.base_equivalent_location.base|http://rdf.freebase.com/ns/type.object.name,Rome,City,Rome,LandmarksOrHistoricalBuildings
+where be $___ located on a map ?,702010000,702010000,BinaryRelation|http://rdf.freebase.com/ns/user.narphorium.default_domain.base_equivalent_location.base|http://rdf.freebase.com/ns/type.object.name,Rome,City,Rome,City
+where be $___ located on a map ?,705000000,705000000,BinaryRelation|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/type.object.name,Rome,LandmarksOrHistoricalBuildings,Rome,LandmarksOrHistoricalBuildings
+where be $___ located on a map ?,705000000,702010000,BinaryRelation|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/type.object.name,Rome,LandmarksOrHistoricalBuildings,Rome,City
+where be $___ located on a map ?,702010000,705000000,BinaryRelation|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/type.object.name,Rome,City,Rome,LandmarksOrHistoricalBuildings
+where be $___ located on a map ?,702010000,702010000,BinaryRelation|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/type.object.name,Rome,City,Rome,City
+where be $___ located on a map ?,705000000,705000000,UnaryRelation|http://rdf.freebase.com/ns/type.object.name,Rome,LandmarksOrHistoricalBuildings,Rome,LandmarksOrHistoricalBuildings
+where be $___ located on a map ?,705000000,702010000,UnaryRelation|http://rdf.freebase.com/ns/type.object.name,Rome,LandmarksOrHistoricalBuildings,Rome,City
+where be $___ located on a map ?,702010000,705000000,UnaryRelation|http://rdf.freebase.com/ns/type.object.name,Rome,City,Rome,LandmarksOrHistoricalBuildings
+where be $___ located on a map ?,702010000,702010000,UnaryRelation|http://rdf.freebase.com/ns/type.object.name,Rome,City,Rome,City
+what be $___ nationality ?,600000000,702020000,BinaryRelation|http://rdf.freebase.com/ns/people.person.nationality|http://rdf.freebase.com/ns/type.object.name,Nina Dobrev,Person,Bulgaria,Country
+what country do $___ belong to ?,502000000,702020000,UnaryRelation|http://rdf.freebase.com/ns/type.object.name,Iceland,Corporation,Iceland,Country
+who do $___ gain independence from ?,702020000,702020000,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/type.object.name,Philippines,Country,United States,Country
+who do $___ gain independence from ?,702020000,702020000,CVTRelation|http://rdf.freebase.com/ns/military.military_combatant.military_conflicts|http://rdf.freebase.com/ns/military.military_combatant_group.combatants|http://rdf.freebase.com/ns/base.natlang.abbreviated_topic.complete_name,Philippines,Country,United States,Country
+what to see near $___ ?,702010000,703010000,BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Sedona Airport,Airport
+what to see near $___ ?,702010000,708000000,BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Sedona Airport,TouristAttraction
+what to see near $___ ?,702010000,703010000,BinaryRelation|http://rdf.freebase.com/ns/location.location.nearby_airports|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Sedona Airport,Airport
+what to see near $___ ?,702010000,708000000,BinaryRelation|http://rdf.freebase.com/ns/location.location.nearby_airports|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Sedona Airport,TouristAttraction
+what to see near $___ ?,702010000,708000000,BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Red Rock State Park,TouristAttraction
+what to see near $___ ?,702010000,708000000,BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Seven Canyons,TouristAttraction
+what to see near $___ ?,702010000,708000000,BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Honanki,TouristAttraction
+what to see near $___ ?,702010000,708000000,BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Cathedral Rock,TouristAttraction
+what to see near $___ ?,702010000,705000000,BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Chapel of the Holy Cross,LandmarksOrHistoricalBuildings
+what to see near $___ ?,702010000,703000000,BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Chapel of the Holy Cross,CivicStructure
+what to see near $___ ?,702010000,708000000,BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Sycamore Canyon,TouristAttraction
+what to see near $___ ?,702010000,708000000,BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Oak Creek Canyon,TouristAttraction
+what to see near $___ ?,702010000,708000000,BinaryRelation|http://rdf.freebase.com/ns/travel.travel_destination.tourist_attractions|http://rdf.freebase.com/ns/type.object.name,Sedona,City,Bell Rock,TouristAttraction
+what movie do $___ play in ?,600000000,221000000,CVTRelation|http://rdf.freebase.com/ns/award.award_nominee.award_nominations|http://rdf.freebase.com/ns/award.award_nomination.award_nominee|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for,Taylor Lautner,Person,The Twilight Saga: New Moon,Movie
+what movie do $___ play in ?,600000000,221000000,CVTRelation|http://rdf.freebase.com/ns/award.award_winner.awards_won|http://rdf.freebase.com/ns/award.award_honor.award_winner|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for,Taylor Lautner,Person,The Twilight Saga: New Moon,Movie
+what movie do $___ play in ?,600000000,221000000,CVTRelation|http://rdf.freebase.com/ns/celebrities.celebrity.celebrity_friends|http://rdf.freebase.com/ns/celebrities.friendship.friend|http://rdf.freebase.com/ns/base.popstra.celebrity.famous_for,Taylor Lautner,Person,The Twilight Saga: New Moon,Movie
+what be the major city in $___ ?,702020000,702010000,BinaryRelation|http://rdf.freebase.com/ns/book.book_subject.works|http://rdf.freebase.com/ns/type.object.name,France,Country,Paris,City
+what be the major city in $___ ?,702020000,702010000,BinaryRelation|http://rdf.freebase.com/ns/location.country.capital|http://rdf.freebase.com/ns/type.object.name,France,Country,Paris,City
+what be the major city in $___ ?,702020000,702010000,BinaryRelation|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/type.object.name,France,Country,Paris,City
+what be the major city in $___ ?,702020000,702010000,BinaryRelation|http://rdf.freebase.com/ns/location.country.second_level_divisions|http://rdf.freebase.com/ns/type.object.name,France,Country,Paris,City
+what be the major city in $___ ?,702020000,702010000,BinaryRelation|http://rdf.freebase.com/ns/media_common.netflix_genre.titles|http://rdf.freebase.com/ns/type.object.name,France,Country,Paris,City
+what be the major city in $___ ?,702020000,702010000,BinaryRelation|http://rdf.freebase.com/ns/base.locations.countries.cities_within|http://rdf.freebase.com/ns/type.object.name,France,Country,Paris,City
+what be the major city in $___ ?,702020000,702010000,BinaryRelation|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/common.topic.alias,France,Country,Paris,City
+what be the major city in $___ ?,702020000,702010000,BinaryRelation|http://rdf.freebase.com/ns/location.country.administrative_divisions|http://rdf.freebase.com/ns/type.object.name,France,Country,Paris,City
+when be the new series of the only way be $___ start ?,702000000,702010000,BinaryRelation|http://rdf.freebase.com/ns/location.location.contains|http://rdf.freebase.com/ns/type.object.name,Essex,AdministrativeArea,West Horndon,City
+what county be $___ ?,702010000,702010000,BinaryRelation|http://rdf.freebase.com/ns/common.topic.image|http://rdf.freebase.com/ns/type.object.name,Hampton,City,Hampton,City
+what county be $___ ?,702010000,702010000,UnaryRelation|http://rdf.freebase.com/ns/type.object.name,Hampton,City,Hampton,City
+what county be $___ ?,702010000,702010000,BinaryRelation|http://rdf.freebase.com/ns/location.hud_county_place.place|http://rdf.freebase.com/ns/type.object.name,Hampton,City,Hampton,City

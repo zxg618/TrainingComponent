@@ -15,6 +15,9 @@ import org.apache.commons.text.similarity.LevenshteinDistance;
 import trainingcomponent.database.DBQuery;
 import trainingcomponent.io.APIReader;
 import trainingcomponent.io.FileReader;
+import trainingcomponent.io.GKGEntity;
+import trainingcomponent.io.TypeRecord;
+import trainingcomponent.utility.WekaClassifier;
 
 public class TrainingComponentService {
 	
@@ -460,5 +463,218 @@ public class TrainingComponentService {
 		}
 		
 		return result;
+	}
+	
+	//-------------------Decision tree area--------------------------
+	public void testDecisionTree() {
+		//code example
+		//http://www.emaraic.com/blog/weka-java-example
+		//doc
+		//http://weka.sourceforge.net/doc.stable-3-8/
+	}
+	//---------------------------------------------------------------
+	
+	public void getAnswerEntityIds() {
+		String filePath = DATA_PATH + WEBQ_RELATION_OUT;
+		FileReader fr = new FileReader();
+		
+		String[] lines = fr.getAllLinesFromFile(filePath);
+		int i = 0;
+		int j = 0;
+		
+		for (i = 0; i < lines.length; i++) {
+			String qeid = PREFIX + lines[i].split("\t")[3];
+			String answers = lines[i].split("\t")[5];
+			String[] answerList = answers.split("\\|");
+			//System.out.println("Starting processing... " + qeid + "\t" + answers);
+			ArrayList<String> ansEidList = new ArrayList<String>();
+			String ansEids = "";
+			for (j = 0; j < answerList.length; j++) {
+				String tmpEid = "";
+				String answer = answerList[j].replace("\'", "\\'");
+				//String unaryEids = DBQuery.findEidByUnaryRelationProperty(qeid, answer);
+				//System.out.println("Unary eids: " + unaryEids);
+				String binaryEids = DBQuery.findEidByBinaryRelationValue(qeid, answer);
+				//System.out.println("Binary eids: " + binaryEids);
+				String cvtEids = DBQuery.findEidByCVTRelationValue(qeid, answer);
+				//System.out.println("CVT eids: " + cvtEids);
+				if (binaryEids.length() < 1 && cvtEids.length() < 1) {
+					tmpEid = DBQuery.findEntity(answer);
+					//System.out.println("Exact match got eid: " + tmpEid);
+				} else {
+					if (binaryEids.length() > 0) {
+						tmpEid = binaryEids;
+						//System.out.println("Binary id got entity name: " + DBQuery.getEntityName(binaryEids));
+					} else {
+						tmpEid = cvtEids;
+						//System.out.println("CVT id got entity name: " + DBQuery.getEntityName(cvtEids));
+					}
+				}
+				if (tmpEid.length() > 0) {
+					ansEidList.add(tmpEid.replace(PREFIX, ""));	
+				}
+			}
+			
+			if (ansEidList.size() > 0) {
+				ansEids = StringUtils.join(ansEidList.toArray(new String[0]), "|");
+			} else {
+				ansEids = "N/A";
+			}
+			
+			System.out.println(lines[i] + "\t" + ansEids);
+		}
+	}
+	
+	public void testWekaClassifier() {
+		WekaClassifier wc = new WekaClassifier(WEKA_MODEL_PATH);
+		wc.selfTest();
+	}
+	
+	public void generateTrainingFile() {
+		
+		String filePath = INPUT_PATH + "webq_answerid_out_22July.txt";
+		FileReader fr = new FileReader();
+		APIReader ar = new APIReader();
+		String[] lines = fr.getAllLinesFromFile(filePath);
+		int lineNumber = lines.length;
+		int i = 0;
+		int j = 0;
+		int k = 0;
+		
+		for (i = 0; i < lineNumber; i++) {
+			int lineIndex = Integer.parseInt(lines[i].split("\t")[0]);
+			String qeid = lines[i].split("\t")[3];
+			String templateLine = this.getTemplateLineByIndex(lineIndex);
+			if (templateLine.length() < 1) {
+				continue;
+			}
+			String template = templateLine.split("\t")[1];
+			String answers =  templateLine.split("\t")[4];
+			String[] answerList = answers.split("\\|");
+
+			for (j = 0; j < answerList.length; j++) {
+				//System.out.println(i + "\t" + lineIndex + "\t" + template + "\t" + qeid + "\t" + answerList[j]);
+				String answerEid = this.getAnswerEid(qeid, answerList[j]);
+				String[] relations = this.getRelationsByIdAndValue(qeid, answerList[j]);
+				for (k = 0; k < relations.length; k++) {
+					//System.out.println(i + "\t" + lineIndex + "\t" + template + "\t" + qeid + "\t" + answerList[j] + "\t" + answerEid + "\t" + relations[k]);
+					GKGEntity qEntity = ar.getEntity(qeid);
+					if (qEntity == null) {
+						continue;
+					}
+					Set<TypeRecord> qeTypes = qEntity.getTypes();
+					Iterator<TypeRecord> it = qeTypes.iterator();
+					while (it.hasNext()) {
+						TypeRecord tmpTr = it.next();
+						//System.out.println("Type: " + tmpTr.getType() + " has hashcode " + tmpTr.getTypeCodeStr());
+						GKGEntity aEntity = ar.getEntity(answerEid);
+						if (aEntity == null) {
+							continue;
+						}
+						Set<TypeRecord> aeTypes = aEntity.getTypes();
+						Iterator<TypeRecord> it2 = aeTypes.iterator();
+						while (it2.hasNext()) {
+							TypeRecord tmpTr2 = it2.next();
+							System.out.println(
+									template + ","
+											+ tmpTr.getTypeCodeStr() + ","
+											+ tmpTr2.getTypeCodeStr() + ","
+											+ relations[k] + ","
+											+ qEntity.getEntityName() + ","
+											+ tmpTr.getType() + ","
+											+ aEntity.getEntityName() + ","
+											+ tmpTr2.getType()
+											);
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	protected String getTemplateLineByIndex(int index) {
+		String filePath = INPUT_PATH + "webq_answerid_out__template_22July.txt";
+		FileReader fr = new FileReader();
+		String[] lines = fr.getAllLinesFromFile(filePath);
+		int lineNumber = lines.length;
+		int i = 0;
+		String templateLine = "";
+		
+		for (i = 0; i < lineNumber; i++) {
+			int lineIndex = Integer.parseInt(lines[i].split("\t")[0]);
+			if (lineIndex == index) {
+				templateLine = lines[i];
+				break;
+			}
+		}
+		
+		return templateLine;
+	}
+	
+	protected String[] getRelationsByIdAndValue(String entityId, String value) {
+		//System.out.println("Starting process: " + entityId + "\t" + DBQuery.getEntityName(PREFIX + entityId) + "\t" + value);
+		Set<String> relationList = new HashSet<String>();
+		String relations = "";
+		int i = 0;
+		
+		entityId = PREFIX + entityId;
+		value = value.replace("\'", "\\'");
+		relations = DBQuery.findUnaryRelationbyProperty(entityId, value);
+		//System.out.println("unary relation found: " + relations);
+		String[] relationArray = relations.split(",");
+		for (i = 0; i < relationArray.length; i++) {
+			if (relationArray[i].length() > 0) {
+				relationList.add(relationArray[i]);
+				//System.out.println(relationArray[i] + " added");
+			}
+		}
+		relations = DBQuery.findBinaryRelationByValue(entityId, value);
+		//System.out.println("binary relation found: " + relations);
+		relationArray = relations.split(",");
+		for (i = 0; i < relationArray.length; i++) {
+			if (relationArray[i].length() > 0) {
+				relationList.add(relationArray[i]);
+				//System.out.println(relationArray[i] + " added");
+			}
+		}
+		relations = DBQuery.findCVTRelationByValue(entityId, value);
+		//System.out.println("cvt relation found: " + relations);
+		relationArray = relations.split(",");
+		for (i = 0; i < relationArray.length; i++) {
+			if (relationArray[i].length() > 0) {
+				relationList.add(relationArray[i]);
+				//System.out.println(relationArray[i] + " added");
+			}
+		}
+		
+		if (relationList.size() < 1) {
+			//System.out.println("None relation found");
+		}
+		
+		return relationList.toArray(new String[0]);
+	}
+	
+	protected String getAnswerEid(String qeid, String ansValue) {
+		String aEid = "";
+		String answer = ansValue.replace("\'", "\\'");
+		String binaryEids = DBQuery.findEidByBinaryRelationValue(qeid, answer);
+		String cvtEids = DBQuery.findEidByCVTRelationValue(qeid, answer);
+		if (binaryEids.length() < 1 && cvtEids.length() < 1) {
+			aEid = DBQuery.findEntity(answer);
+			//System.out.println("Exact match got eid: " + tmpEid);
+		} else {
+			if (binaryEids.length() > 0) {
+				aEid = binaryEids;
+				//System.out.println("Binary id got entity name: " + DBQuery.getEntityName(binaryEids));
+			} else {
+				aEid = cvtEids;
+				//System.out.println("CVT id got entity name: " + DBQuery.getEntityName(cvtEids));
+			}
+		}
+		
+		if (aEid.length() < 1 || aEid.indexOf(",") >= 0) {
+			//System.out.println("----------------qeid format wrong------------------------");
+		}
+		return aEid.replace(PREFIX, "");
 	}
 }

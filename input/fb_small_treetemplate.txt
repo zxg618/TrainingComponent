@@ -1,0 +1,23 @@
+1	703000000	be international hotel and tower name after	600000000	symbols.namesake.named_after	Trump International Hotel &amp; Tower Panama	CivicStructure	Donald Trump	Person
+2	700000000	be locate	702020000	location.location.containedby	Adler University	Place	United States of America	Country
+3	503010000	be locate	702020000	location.location.containedby	Adler University	CollegeOrUniversity	United States of America	Country
+4	600000000	be bear	702010000	people.person.place_of_birth	John Miltern	Person	New Britain	City
+5	700000000	run through	702010000	transportation.road.major_cities	U.S. Route 2	Place	Kalispell	City
+6	600000000	a child of	600000000	people.person.children	Shireen Jinnah	Person	Mithibai Jinnah	Person
+7	600000000	the chid of	600000000	people.person.children	Justin Leiber	Person	Fritz Leiber	Person
+8	600000000	record	224000000	music.recording.artist	Buddy Guy	Person	SRV Shuffle	MusicRecording
+9	600000000	be bear	700000000	people.person.place_of_birth	Fran Drescher	Person	Kew Gardens	Place
+10	600000000	be	702020000	people.person.nationality	Irwin Pizor	Person	United States of America	Country
+11	600000000	be bear in	702010000	people.person.place_of_birth	Eric S. Rosengren	Person	Ridgewood	City
+12	702010000	be locate in	702000000	location.location.containedby	Oratino	City	Molise	AdministrativeArea
+13	600000000	be -lrb- painter -rrb- bear	702020000	people.person.place_of_birth	Robert Harris	Person	Canada	Country
+14	705000000	be	702000000	location.location.containedby	Friedrich Block	LandmarksOrHistoricalBuildings	Massachusetts	AdministrativeArea
+15	703000000	be	702000000	location.location.containedby	Friedrich Block	CivicStructure	Massachusetts	AdministrativeArea
+16	600000000	be bear in	702020000	people.person.place_of_birth	Goga Kapoor	Person	India	Country
+17	508020000	be	224000000	music.artist.track	The Cure	MusicGroup	Inbetween Days	MusicRecording
+18	600000000	be bear	702010000	people.person.place_of_birth	Andy Signore	Person	Philadelphia	City
+19	600000000	be bear	703080000	people.person.place_of_birth	Andy Signore	Person	Philadelphia	Cemetery
+20	600000000	be	223010000	music.artist.album	Shawn Mullins	Person	Honeydew	MusicAlbum
+21	600000000	be	203000000	book.author.works_written	Jules Verne	Person	The Lottery Ticket	Book
+22	600000000	a child of	600000000	people.person.children	James Van Der Beek	Person	James William Van Der Beek	Person
+23	702020000	the nationality of	600000000	people.person.nationality	United States of America	Country	Daniel Gilfether	Person

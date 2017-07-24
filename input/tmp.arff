@@ -1,0 +1,1530 @@
+@relation tmp
+
+@attribute subTypeCode numeric
+@attribute verb {influence,be,'the subject of','be bear',write,'be bear in',feature,die,'come from',direct,'be cremate',create,'be locate','pass away in','the nationality of','a second level division of','contribute to','be film at','the administrative child of','be bury','pass away','be base on','a parent of','be sign to',record,'the operator of','be ass from','the function of','provide the cinematography','the parent of','be found','be locate in','die in','be name after','be release in originally','the birthplace of',use,'the singer of','do cinematography for',participate,'belong to','participate in','be set in',produce,'a adaptation of','the artist of','be sign with','hail from',contain,'the author of',start,'a season of','the son of','take place','the executive producer of',belong,'be located inside',develop,'be found in','be antol??n from','be bear at',originate,'the child of',publish,'the birth place of',make,'sign with','nietzsche influence','adapt from','the origin of','be influence by','the founder of',design,'be base out of','be release in','be make in','the mouth of',locate,'spend he last day alive','be contain by','the cvg developer of','the name of','a example of','the topic of','a child of',edit,'be base','take place in','be film in',surround,'die at',author,'the director of','the writer of','about the subject of',sing,'the developer of','the owner of','kick the bucket','the home of',win,release,'the administrative parent of','be release','originate from',serve,'be star the three caballero located in','be give birth to','the genre of','be film','be bailey bear','the capital of','the creator of','have nationality in','the music contributor of','originate in','the namesake of','be involve in','a founder of','be locaate','stop breathe',found,'identify with','be adapt from','be adopt from','the music label of',film,compose,broadcast,'the music producer of',find,follow,'a british singer of','be decease','the location of','be plemiannikov from','father of','record for','be partially contain by','yangtze bridge span over','part of','the hud county place of','be lay to rest','breathe he last breath','be reid from','be give birth','do the art direction for',include,'get they start at','vent take place','be locate within','contribute music to','take part in','claim nationality from',represent,'battle in','fight in','the program creator of',survive,happen,'the ruler of',cover,'be birthe','be know for have produce','the daughter of','call home','the screenwriter of','a neighborhood of','be birthe in','a son of','contribute music for','the producer of','be base in',sign,'be credit as a story contributor for','work for','the government of','end in','the mother of','be give birth in','the casting director of',have,'flow out of','flow into','be locate in the u.s.','play in','be feature in','the film location of','create music for','the label of','run through','be shoot in',decease,'work on','receive credit for cinematography','be anthony bear','be tie to','be find in','originate form',touch,'end he life',affect,'spend he last day','the main subject of','be rashid al maktoum','go through',place,'occur in','be avery film in','focus on','the county seat of','do stock exchange','appear in','be write','the publisher of','inside province of','design the costume for','some example of','the record label of','be list as in the film story credit','be play','run past','a offspring of','the time zone of','fly into','be find','the videogame developer of','be produce','the music director of',attend,'be make',inspire,'the death place of','the capital city of','be locate at','be write in','be sign under','get he start in music','the father of','contribute the music to','be strait apart of','the birth of',form,'do rego spend the last day of he life at','spend he last day of life','the football team of',#NAME?,'be cremate at','sign to','a advisor of','get its start','a part of','the game developer of','be boynton from','be bubl?? from','be write about','flow through','be creek a part of','a administrative child area of','be make from','happen in',own,'another campus of','tour occur','be contain within','do the film story credit','mother of','operate in'}
+@attribute objTypeCode numeric
+@attribute predicate {influence.influence_node.influenced,location.location.contains,book.written_work.subjects,people.person.place_of_birth,book.written_work.author,people.person.nationality,film.film_location.featured_in_films,people.deceased_person.place_of_death,film.director.film,people.deceased_person.place_of_cremation,visual_art.artwork.artist,location.location.containedby,book.author.works_written,location.country.second_level_divisions,film.film_story_contributor.film_story_credits,film.film.featured_film_locations,base.aareas.schema.administrative_area.administrative_children,people.deceased_person.place_of_burial,people.person.parents,music.artist.label,music.recording.artist,aviation.airliner_accident.operator,architecture.building.building_function,film.cinematographer.film,organization.organization.place_founded,symbols.namesake.named_after,film.film.country,location.location.time_zones,music.album.artist,military.military_person.participated_in_conflicts,location.hud_county_place.county,film.producer.film,film.writer.film,film.film.directed_by,music.artist.origin,tv.tv_program.seasons,people.person.children,time.event.locations,film.film.executive_produced_by,geography.mountain.mountain_range,cvg.computer_videogame.developer,influence.influence_node.influenced_by,cvg.computer_videogame.publisher,music.artist.track,media_common.adaptation.adapted_from,organization.organization.founders,film.film_set_designer.film_sets_designed,geography.river.mouth,tv.tv_program.country_of_origin,cvg.cvg_developer.games_developed,music.artist.album,film.production_company.films,base.eventparticipants.known_participants.participated_in,film.film.edited_by,base.usnationalparks.us_national_park.state,film.film_festival_event.films,geography.island.body_of_water,film.film.story_by,film.film.written_by,film.editor.film,book.book_subject.works,sports.professional_sports_team.owner_s,music.producer.tracks_produced,sports.sports_team.location,sports.sports_championship_event.champion,business.shopping_center.owner,base.aareas.schema.administrative_area.administrative_parent,transportation.bridge_type.bridges_of_this_type,geography.river.origin,location.us_county.county_seat,aviation.airport.serves,amusement_parks.ride.area,location.location.partially_containedby,media_common.netflix_title.netflix_genres,base.aareas.schema.administrative_area.capital,tv.tv_program.program_creator,film.music_contributor.film,education.school_district.schools,symbols.name_source.namesakes,user.robert.military.military_person.participated_in_conflicts,music.composition.composer,music.recording.producer,tv.tv_director.episodes_directed,organization.organization_founder.organizations_founded,sports.sports_team.championships,book.written_work.next_in_series,music.record_label.artist,film.film.produced_by,transportation.bridge.body_of_water_spanned,location.country.first_level_divisions,location.us_county.hud_county_place,location.hud_county_place.place,film.film_art_director.films_art_directed,geography.lake.cities,film.film.subjects,location.administrative_division.second_level_division_of,cvg.cvg_publisher.games_published,film.producer.films_executive_produced,user.robert.us_congress.us_representative.state,event.disaster_survivor.survived_disasters,royalty.kingdom.rulers,location.place_with_neighborhoods.neighborhoods,tv.tv_program_creator.programs_created,government.governmental_jurisdiction.government_bodies,film.film.film_casting_director,sports.sports_team.arena_stadium,film.film_production_designer.films_production_designed,media_common.adapted_work.adaptations,geography.lake.basin_countries,geography.river.cities,film.film.music,cvg.computer_videogame.designers,base.biblioness.bibs_location.country,time.event.included_in_event,transportation.bridge.locale,meteorology.tropical_cyclone.affected_areas,education.school.school_district,transportation.road.major_cities,aviation.airline.focus_cities,film.film.production_companies,finance.stock_exchange.primary_regions,film.film_costumer_designer.costume_design_for_film,music.soundtrack.film,aviation.airline.hubs,music.group_member.artists_supported,geography.island.island_group,location.location.people_born_here,film.film.film_art_direction_by,base.animemanga.anime_studio.anime_titles,architecture.structure.architect,broadcast.content.producer,education.educational_institution.sports_teams,meteorology.cyclone_affected_area.cyclones,location.in_state.administrative_capital,spaceflight.space_mission.astronauts,education.academic.advisors,film.film_series.films_in_series,location.administrative_division.country,people.family_member.family,book.literary_series.works_in_this_series,geography.river.basin_countries,travel.travel_destination.tourist_attractions,spaceflight.astronaut.missions,meteorology.tropical_cyclone.tropical_cyclone_season,education.educational_institution.campuses}
+
+@data
+600000000,influence,600000000,influence.influence_node.influenced
+704030000,be,700000000,location.location.contains
+300000000,'the subject of',203000000,book.written_work.subjects
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,write,203000000,book.written_work.author
+600000000,be,702020000,people.person.nationality
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'be bear in',705000000,people.person.place_of_birth
+221000000,feature,702010000,film.film_location.featured_in_films
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'come from',702020000,people.person.nationality
+600000000,direct,221000000,film.director.film
+600000000,'be cremate',703080000,people.deceased_person.place_of_cremation
+600000000,'be cremate',708000000,people.deceased_person.place_of_cremation
+600000000,create,239000000,visual_art.artwork.artist
+702010000,'be locate',702020000,location.location.containedby
+600000000,'pass away in',702010000,people.deceased_person.place_of_death
+600000000,write,203000000,book.author.works_written
+702020000,'the nationality of',600000000,people.person.nationality
+702000000,'a second level division of',702020000,location.country.second_level_divisions
+600000000,'contribute to',221000000,film.film_story_contributor.film_story_credits
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,'be bear',702020000,people.person.place_of_birth
+221000000,'be film at',706080600,film.film.featured_film_locations
+221000000,'be film at',502000000,film.film.featured_film_locations
+221000000,'be film at',503010000,film.film.featured_film_locations
+702020000,'the nationality of',600000000,people.person.nationality
+702010000,'the administrative child of',700000000,base.aareas.schema.administrative_area.administrative_children
+703120300,'the nationality of',600000000,people.person.nationality
+702020000,'the nationality of',600000000,people.person.nationality
+702010000,be,702020000,location.location.containedby
+600000000,'be bury',705000000,people.deceased_person.place_of_burial
+600000000,'be bury',703080000,people.deceased_person.place_of_burial
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+702010000,'be base on',702020000,location.location.containedby
+600000000,'a parent of',600000000,people.person.parents
+508020000,'be sign to',502000000,music.artist.label
+600000000,direct,221000000,film.director.film
+600000000,record,224000000,music.recording.artist
+501000000,'the operator of',300000000,aviation.airliner_accident.operator
+502000000,'the operator of',300000000,aviation.airliner_accident.operator
+600000000,'be ass from',703120300,people.person.nationality
+600000000,'be ass from',702020000,people.person.nationality
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+700000000,'the function of',703000000,architecture.building.building_function
+600000000,'provide the cinematography',221000000,film.cinematographer.film
+600000000,'the parent of',600000000,people.person.parents
+600000000,direct,221000000,film.director.film
+600000000,create,203000000,book.written_work.author
+500000000,'be found',702010000,organization.organization.place_founded
+706060200,'be found',702010000,organization.organization.place_founded
+703000000,'be found',702010000,organization.organization.place_founded
+702020000,'the nationality of',600000000,people.person.nationality
+706100700,'be locate in',702010000,location.location.containedby
+502000000,'be locate in',702010000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'die in',700000000,people.deceased_person.place_of_death
+700000000,'be name after',600000000,symbols.namesake.named_after
+221000000,'be release in originally',702020000,film.film.country
+702010000,'be locate',700000000,location.location.containedby
+702000000,'the birthplace of',600000000,people.person.place_of_birth
+702010000,use,700000000,location.location.time_zones
+600000000,'be bear',702010000,people.person.place_of_birth
+702020000,'the nationality of',600000000,people.person.nationality
+508020000,'the singer of',223010000,music.album.artist
+600000000,'do cinematography for',221000000,film.cinematographer.film
+703120300,'the nationality of',600000000,people.person.nationality
+702020000,'the nationality of',600000000,people.person.nationality
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,'be locate',700000000,location.location.containedby
+600000000,die,708000000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,write,203000000,book.author.works_written
+700000000,be,702010000,location.location.containedby
+503010000,be,702010000,location.location.containedby
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+600000000,participate,300000000,military.military_person.participated_in_conflicts
+700000000,'belong to',702000000,location.hud_county_place.county
+600000000,'participate in',300000000,military.military_person.participated_in_conflicts
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+221000000,'be set in',702020000,film.film.country
+702010000,'be locate',702000000,location.location.containedby
+600000000,produce,221000000,film.producer.film
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,record,224000000,music.recording.artist
+238000000,'a adaptation of',600000000,film.writer.film
+705000000,'be locate',702000000,location.location.containedby
+703000000,'be locate',702000000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,direct,221000000,film.film.directed_by
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'the artist of',224000000,music.recording.artist
+600000000,'be sign with',502000000,music.artist.label
+600000000,influence,600000000,influence.influence_node.influenced
+600000000,write,203000000,book.author.works_written
+702010000,'be locate in',700000000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'hail from',702010000,music.artist.origin
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'participate in',300000000,military.military_person.participated_in_conflicts
+700000000,contain,702010000,location.location.contains
+600000000,'the author of',203000000,book.written_work.author
+600000000,'be bear',702010000,people.deceased_person.place_of_death
+600000000,start,704020000,music.artist.origin
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+508020000,create,223010000,music.album.artist
+702010000,'be locate',702000000,location.location.containedby
+702010000,'be locate in',700000000,location.location.containedby
+237000000,'a season of',238000000,tv.tv_program.seasons
+300000000,'a season of',238000000,tv.tv_program.seasons
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'the son of',600000000,people.person.children
+300000000,'take place',703120300,time.event.locations
+300000000,'take place',702010000,time.event.locations
+300000000,'take place',706000000,time.event.locations
+600000000,'the executive producer of',221000000,film.film.executive_produced_by
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,'pass away',702000000,people.deceased_person.place_of_death
+704030000,belong,704030000,geography.mountain.mountain_range
+704030000,belong,708000000,geography.mountain.mountain_range
+702010000,'be located inside',702020000,location.location.containedby
+502000000,develop,235020000,cvg.computer_videogame.developer
+502000000,'be found in',702010000,organization.organization.place_founded
+600000000,'be antol??n from',702010000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,influence,600000000,influence.influence_node.influenced_by
+600000000,'a parent of',600000000,people.person.parents
+600000000,'be bear at',702010000,people.person.place_of_birth
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+702010000,'be locate',702000000,location.location.containedby
+702020000,'the nationality of',600000000,people.person.nationality
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,originate,702010000,music.artist.origin
+600000000,'the child of',600000000,people.person.children
+508020000,record,223010000,music.album.artist
+600000000,'be bear',702010000,people.person.place_of_birth
+702000000,contain,705000000,location.location.containedby
+702000000,contain,701030100,location.location.containedby
+702000000,contain,703000000,location.location.containedby
+702010000,be,700000000,location.location.containedby
+600000000,write,203000000,book.author.works_written
+600000000,'be bear',700000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+502000000,publish,235020000,cvg.computer_videogame.publisher
+600000000,'be bear',702020000,people.person.place_of_birth
+702010000,'the birth place of',600000000,people.person.place_of_birth
+600000000,be,703120300,people.person.nationality
+600000000,be,702020000,people.person.nationality
+600000000,direct,221000000,film.film.directed_by
+700000000,'be locate in',702010000,location.location.containedby
+502000000,'be locate in',702010000,location.location.containedby
+503010000,'be locate in',702010000,location.location.containedby
+600000000,die,702010000,people.deceased_person.place_of_death
+700000000,'be locate',702020000,location.location.containedby
+502000000,'be locate',702020000,location.location.containedby
+503010000,'be locate',702020000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,be,224000000,music.artist.track
+600000000,make,224000000,music.artist.track
+600000000,'sign with',502000000,music.artist.label
+600000000,'nietzsche influence',600000000,influence.influence_node.influenced
+600000000,'be bear',702010000,people.person.place_of_birth
+221000000,be,702020000,film.film.country
+221000000,'adapt from',203000000,media_common.adaptation.adapted_from
+600000000,'the child of',600000000,people.person.children
+600000000,'be bear',702000000,people.person.place_of_birth
+600000000,'be bear',706000000,people.person.place_of_birth
+702010000,'the origin of',600000000,music.artist.origin
+600000000,'be influence by',600000000,influence.influence_node.influenced_by
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'the founder of',705000000,organization.organization.founders
+600000000,'the founder of',703150000,organization.organization.founders
+600000000,'the founder of',502000000,organization.organization.founders
+600000000,'the founder of',708000000,organization.organization.founders
+600000000,'be name after',600000000,symbols.namesake.named_after
+600000000,'the artist of',223010000,music.album.artist
+600000000,design,221000000,film.film_set_designer.film_sets_designed
+600000000,'the executive producer of',221000000,film.film.executive_produced_by
+600000000,'die in',702010000,people.deceased_person.place_of_death
+700000000,'be base out of',702010000,location.location.containedby
+503010000,'be base out of',702010000,location.location.containedby
+221000000,'be release in',702020000,film.film.country
+600000000,influence,600000000,influence.influence_node.influenced_by
+221000000,'be make in',702020000,film.film.country
+600000000,direct,221000000,film.film.directed_by
+700000000,'be locate in',702020000,location.location.containedby
+700000000,'the mouth of',704010600,geography.river.mouth
+700000000,locate,702010000,location.hud_county_place.county
+600000000,'be bear',703120300,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+238000000,'come from',702020000,tv.tv_program.country_of_origin
+433010000,'come from',702020000,tv.tv_program.country_of_origin
+508020000,'be sign with',502000000,music.artist.label
+600000000,produce,221000000,film.producer.film
+600000000,'spend he last day alive',702010000,people.deceased_person.place_of_death
+704010000,'be contain by',700000000,location.location.containedby
+600000000,direct,221000000,film.director.film
+235020000,'the cvg developer of',502000000,cvg.cvg_developer.games_developed
+600000000,'be bear',702010000,people.person.place_of_birth
+223010000,'the name of',600000000,music.artist.album
+221000000,'a example of',508030000,film.production_company.films
+221000000,'a example of',502000000,film.production_company.films
+238000000,'a example of',508030000,film.production_company.films
+238000000,'a example of',502000000,film.production_company.films
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,'participate in',300000000,base.eventparticipants.known_participants.participated_in
+600000000,'be bear',702010000,people.person.place_of_birth
+702020000,'the topic of',203000000,book.written_work.subjects
+700000000,'be locate',702020000,location.location.containedby
+600000000,'a child of',600000000,people.person.children
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,'be locate in',702020000,location.location.containedby
+600000000,edit,221000000,film.film.edited_by
+600000000,'the executive producer of',221000000,film.film.executive_produced_by
+703120300,'the nationality of',600000000,people.person.nationality
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,be,224000000,music.artist.track
+705000000,'be base',700000000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+708000000,be,702000000,base.usnationalparks.us_national_park.state
+600000000,'participate in',300000000,military.military_person.participated_in_conflicts
+600000000,be,223010000,music.artist.album
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'participate in',300000000,military.military_person.participated_in_conflicts
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,direct,221000000,film.film.directed_by
+600000000,'be bear in',702020000,people.person.place_of_birth
+600000000,die,700000000,people.deceased_person.place_of_death
+221000000,'take place in',702020000,film.film.country
+221000000,'be film in',702020000,film.film.country
+221000000,'the name of',706080600,film.film_festival_event.films
+221000000,'the name of',300000000,film.film_festival_event.films
+600000000,produce,221000000,film.producer.film
+704010000,surround,700000000,geography.island.body_of_water
+703080000,surround,700000000,geography.island.body_of_water
+508020000,'come from',702010000,music.artist.origin
+702020000,'the nationality of',600000000,people.person.nationality
+700000000,'be locate',702000000,location.location.containedby
+503010000,'be locate',702000000,location.location.containedby
+600000000,'die at',702010000,people.deceased_person.place_of_death
+702010000,'be locate in',700000000,location.location.time_zones
+702010000,'the birthplace of',600000000,people.person.place_of_birth
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,author,203000000,book.written_work.author
+600000000,'the singer of',224000000,music.recording.artist
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,705000000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'the director of',221000000,film.film.story_by
+600000000,'the writer of',221000000,film.film.written_by
+702010000,'be locate',702020000,location.location.containedby
+600000000,edit,221000000,film.editor.film
+600000000,record,223010000,music.album.artist
+702010000,be,702020000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear in',702000000,people.person.place_of_birth
+600000000,'be bear at',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+203000000,'about the subject of',221000000,book.book_subject.works
+600000000,sing,224000000,music.artist.track
+600000000,be,703120300,people.person.nationality
+600000000,be,702020000,people.person.nationality
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,write,221000000,film.writer.film
+600000000,direct,221000000,film.film.directed_by
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,'be locate',700000000,location.location.containedby
+703200000,'be locate in',702020000,location.location.containedby
+600000000,be,702020000,people.person.nationality
+600000000,die,702010000,people.deceased_person.place_of_death
+502000000,'the developer of',235020000,cvg.computer_videogame.developer
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'the owner of',502000000,sports.professional_sports_team.owner_s
+600000000,'the owner of',509010000,sports.professional_sports_team.owner_s
+600000000,'be bear',702010000,people.person.place_of_birth
+702020000,make,221000000,film.film.country
+705000000,'belong to',702000000,location.location.containedby
+703000000,'belong to',702000000,location.location.containedby
+600000000,produce,224000000,music.producer.tracks_produced
+600000000,'kick the bucket',703120300,people.deceased_person.place_of_death
+600000000,'kick the bucket',702010000,people.deceased_person.place_of_death
+600000000,influence,600000000,influence.influence_node.influenced
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,'the home of',509010000,sports.sports_team.location
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',700000000,people.person.place_of_birth
+600000000,influence,600000000,influence.influence_node.influenced_by
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'be bear at',702010000,people.person.place_of_birth
+600000000,'the child of',600000000,people.person.children
+509010000,win,300000000,sports.sports_championship_event.champion
+502000000,'the owner of',703000000,business.shopping_center.owner
+600000000,direct,221000000,film.film.directed_by
+702010000,'the birth place of',600000000,people.person.place_of_birth
+600000000,'be sign to',508030000,music.artist.label
+600000000,'be sign to',502000000,music.artist.label
+600000000,write,203000000,book.author.works_written
+600000000,'be influence by',600000000,influence.influence_node.influenced_by
+600000000,'be bear',702010000,people.person.place_of_birth
+702000000,contain,705000000,location.location.containedby
+702000000,contain,703000000,location.location.containedby
+702020000,release,221000000,film.film.country
+702020000,'the administrative parent of',700000000,base.aareas.schema.administrative_area.administrative_parent
+700000000,be,703040000,transportation.bridge_type.bridges_of_this_type
+600000000,'the executive producer of',221000000,film.film.executive_produced_by
+600000000,'be bear',702010000,people.person.place_of_birth
+702020000,'the nationality of',600000000,people.person.nationality
+702020000,'the nationality of',600000000,people.person.nationality
+221000000,'be release',702020000,film.film.country
+703120300,make,221000000,film.film.country
+702020000,make,221000000,film.film.country
+600000000,be,223010000,music.artist.album
+702010000,'be locate',702000000,location.location.containedby
+704010600,'originate from',704010600,geography.river.origin
+600000000,influence,600000000,influence.influence_node.influenced_by
+600000000,die,702010000,people.deceased_person.place_of_death
+702010000,'be locate',702000000,location.location.containedby
+702000000,be,702010000,location.us_county.county_seat
+702010000,'be locate in',702020000,location.location.containedby
+600000000,be,702020000,people.person.nationality
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+703010000,serve,706170000,aviation.airport.serves
+703010000,serve,703000000,aviation.airport.serves
+700000000,'be star the three caballero located in',700000000,amusement_parks.ride.area
+702010000,'be locate in',702020000,location.location.containedby
+702020000,be,702010000,location.location.contains
+600000000,'belong to',702020000,people.person.nationality
+704010600,be,702020000,location.location.partially_containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,make,223010000,music.album.artist
+600000000,write,221000000,film.writer.film
+600000000,'be give birth to',702010000,people.person.place_of_birth
+702020000,'the nationality of',600000000,people.person.nationality
+702020000,'the genre of',221000000,media_common.netflix_title.netflix_genres
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+702010000,'be locate in',702020000,location.location.containedby
+600000000,'the author of',203000000,book.written_work.author
+600000000,'be sign to',502000000,music.artist.label
+221000000,'be film',702020000,film.film.country
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+700000000,be,703120300,location.location.containedby
+700000000,be,702000000,location.location.containedby
+503010000,be,703120300,location.location.containedby
+503010000,be,702000000,location.location.containedby
+600000000,'be bailey bear',702010000,people.person.place_of_birth
+221000000,'come from',702020000,film.film.country
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+705000000,'the capital of',700000000,base.aareas.schema.administrative_area.capital
+702010000,'the capital of',700000000,base.aareas.schema.administrative_area.capital
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'contribute to',221000000,film.film_story_contributor.film_story_credits
+600000000,'the creator of',238000000,tv.tv_program.program_creator
+600000000,'be bear',702010000,people.person.place_of_birth
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,'the artist of',223010000,music.album.artist
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'have nationality in',702020000,people.person.nationality
+600000000,write,221000000,film.writer.film
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,write,203000000,book.written_work.author
+702010000,'be locate in',702000000,location.hud_county_place.county
+703120300,'the nationality of',600000000,people.person.nationality
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702020000,people.person.place_of_birth
+221000000,'the music contributor of',508020000,film.music_contributor.film
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'originate in',702010000,music.artist.origin
+600000000,be,224000000,music.artist.track
+705000000,'the name of',702010000,location.location.contains
+703000000,'the name of',702010000,location.location.contains
+600000000,'be bear',702000000,people.person.place_of_birth
+600000000,be,223010000,music.artist.album
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+503060000,'the name of',500000000,education.school_district.schools
+503060000,'the name of',700000000,education.school_district.schools
+502000000,'the name of',500000000,education.school_district.schools
+502000000,'the name of',700000000,education.school_district.schools
+600000000,'be bear',702010000,people.person.place_of_birth
+704030000,'the namesake of',600000000,symbols.name_source.namesakes
+502000000,'be found in',702010000,organization.organization.place_founded
+700000000,'be locate',702010000,location.location.containedby
+503010000,'be locate',702010000,location.location.containedby
+600000000,'be involve in',300000000,military.military_person.participated_in_conflicts
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,705000000,people.deceased_person.place_of_death
+702000000,contain,702010000,location.location.containedby
+600000000,'a founder of',503060000,organization.organization.founders
+600000000,produce,221000000,film.producer.film
+600000000,'die in',702010000,people.deceased_person.place_of_death
+600000000,'die in',705000000,people.deceased_person.place_of_death
+702010000,'be locaate',703120300,location.location.containedby
+702010000,'be locaate',702000000,location.location.containedby
+600000000,participate,300000000,military.military_person.participated_in_conflicts
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,703080000,people.deceased_person.place_of_death
+704010000,'the mouth of',704010600,geography.river.mouth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,direct,221000000,film.director.film
+600000000,write,203000000,book.author.works_written
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,'originate from',702010000,music.artist.origin
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,release,224000000,music.artist.track
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,be,702020000,people.person.nationality
+502000000,publish,235020000,cvg.computer_videogame.publisher
+702010000,'be locate in',700000000,location.location.containedby
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'be bear in',703080000,people.person.place_of_birth
+600000000,'belong to',702020000,people.person.nationality
+600000000,'stop breathe',702010000,people.deceased_person.place_of_death
+600000000,found,502000000,organization.organization.founders
+600000000,'the child of',600000000,people.person.children
+600000000,'identify with',702020000,people.person.nationality
+600000000,'be influence by',600000000,influence.influence_node.influenced_by
+600000000,'participate in',300000000,user.robert.military.military_person.participated_in_conflicts
+600000000,influence,600000000,influence.influence_node.influenced
+600000000,write,221000000,film.film.written_by
+600000000,'be bear in',702020000,people.person.place_of_birth
+600000000,write,224000000,music.artist.track
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be sign to',502000000,music.artist.label
+600000000,die,708000000,people.deceased_person.place_of_death
+221000000,'be adapt from',203000000,media_common.adaptation.adapted_from
+600000000,'be bear in',702020000,people.person.nationality
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,705000000,people.deceased_person.place_of_death
+221000000,be,702020000,media_common.netflix_title.netflix_genres
+221000000,'be adopt from',203000000,media_common.adaptation.adapted_from
+600000000,write,203000000,book.written_work.author
+502000000,'the music label of',508020000,music.artist.label
+702020000,film,221000000,film.film.country
+702020000,produce,221000000,film.film.country
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,700000000,people.deceased_person.place_of_death
+600000000,be,702020000,people.person.nationality
+703200000,'be locate in',702010000,location.location.containedby
+703080000,'be locate in',702010000,location.location.containedby
+600000000,compose,222000000,music.composition.composer
+600000000,die,702010000,people.deceased_person.place_of_death
+502000000,develop,235020000,cvg.cvg_developer.games_developed
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,'be bear',700000000,people.person.place_of_birth
+700000000,'be locate',702010000,location.location.containedby
+503010000,'be locate',702010000,location.location.containedby
+700000000,'be locate',702010000,location.location.containedby
+503010000,'be locate',702010000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',705000000,people.person.place_of_birth
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,die,705000000,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+508020000,'the singer of',224000000,music.recording.artist
+600000000,direct,221000000,film.film.directed_by
+503060000,be,702010000,location.location.containedby
+503060000,be,705000000,location.location.containedby
+700000000,be,702010000,location.location.containedby
+700000000,be,705000000,location.location.containedby
+702020000,release,221000000,film.film.country
+600000000,broadcast,702010000,music.artist.origin
+600000000,'the music producer of',224000000,music.recording.producer
+600000000,produce,221000000,film.producer.film
+600000000,direct,214020000,tv.tv_director.episodes_directed
+300000000,'the subject of',203000000,book.written_work.subjects
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+702020000,be,702010000,base.aareas.schema.administrative_area.administrative_children
+702010000,be,702020000,location.location.containedby
+600000000,find,502000000,organization.organization_founder.organizations_founded
+600000000,'be bear',702010000,people.person.place_of_birth
+509010000,'participate in',300000000,sports.sports_team.championships
+600000000,'die in',702010000,people.deceased_person.place_of_death
+600000000,'die in',705000000,people.deceased_person.place_of_death
+508020000,be,223010000,music.artist.album
+600000000,'be bear',702000000,people.person.place_of_birth
+203000000,follow,203000000,book.written_work.next_in_series
+600000000,'a british singer of',502000000,music.record_label.artist
+600000000,write,203000000,book.written_work.author
+600000000,'be decease',703120300,people.deceased_person.place_of_death
+600000000,'be decease',702010000,people.deceased_person.place_of_death
+300000000,'take place in',700000000,time.event.locations
+600000000,'the parent of',600000000,people.person.parents
+702020000,'the location of',702010000,location.location.containedby
+600000000,direct,221000000,film.director.film
+702020000,contain,700000000,location.location.containedby
+700000000,'be locate in',704020000,location.location.containedby
+600000000,'be plemiannikov from',702020000,people.person.nationality
+600000000,found,502000000,organization.organization.founders
+600000000,'father of',600000000,people.person.parents
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702020000,people.person.place_of_birth
+703000000,be,702020000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be influence by',600000000,influence.influence_node.influenced_by
+706080600,'be locate',702000000,location.location.containedby
+502000000,'be locate',702000000,location.location.containedby
+503010000,'be locate',702000000,location.location.containedby
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'be bear in',705000000,people.person.place_of_birth
+600000000,'be bear',702000000,people.person.place_of_birth
+508020000,'record for',502000000,music.artist.label
+600000000,'the son of',600000000,people.person.children
+600000000,write,201000000,book.written_work.author
+600000000,write,203000000,book.written_work.author
+702010000,be,702020000,location.location.containedby
+708000000,'be partially contain by',702010000,location.location.partially_containedby
+508020000,'come from',702010000,music.artist.origin
+600000000,'a child of',600000000,people.person.children
+702010000,'the birth place of',600000000,people.person.place_of_birth
+600000000,produce,221000000,film.film.produced_by
+600000000,'come from',702020000,people.person.nationality
+703040000,'yangtze bridge span over',704010600,transportation.bridge.body_of_water_spanned
+600000000,'pass away',703080000,people.deceased_person.place_of_death
+600000000,'pass away',708000000,people.deceased_person.place_of_death
+600000000,'the son of',600000000,people.person.children
+600000000,influence,600000000,influence.influence_node.influenced_by
+702010000,be,702020000,location.location.containedby
+702010000,'part of',702020000,location.country.first_level_divisions
+600000000,'be influence by',600000000,influence.influence_node.influenced_by
+705000000,'the hud county place of',700000000,location.us_county.hud_county_place
+702010000,'the hud county place of',700000000,location.us_county.hud_county_place
+700000000,'be locate',700000000,location.hud_county_place.place
+600000000,'be lay to rest',705000000,people.deceased_person.place_of_burial
+600000000,'be lay to rest',703080000,people.deceased_person.place_of_burial
+600000000,'be lay to rest',708000000,people.deceased_person.place_of_burial
+600000000,'breathe he last breath',702010000,people.deceased_person.place_of_death
+221000000,'be film',702020000,film.film.country
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+600000000,'be bury',705000000,people.deceased_person.place_of_burial
+600000000,'be bury',703080000,people.deceased_person.place_of_burial
+600000000,'the director of',221000000,film.film.directed_by
+223010000,be,508020000,music.album.artist
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'belong to',702020000,people.person.nationality
+221000000,'be adapt from',201000000,media_common.adaptation.adapted_from
+221000000,'be adapt from',203000000,media_common.adaptation.adapted_from
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',705000000,people.person.place_of_birth
+600000000,write,221000000,film.writer.film
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be reid from',702020000,people.person.nationality
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be give birth',705000000,people.person.place_of_birth
+600000000,'be give birth',702010000,people.person.place_of_birth
+508020000,create,223010000,music.album.artist
+600000000,'do the art direction for',221000000,film.film_art_director.films_art_directed
+700000000,'be name after',600000000,symbols.namesake.named_after
+600000000,found,509010000,organization.organization.founders
+700000000,be,702020000,location.location.containedby
+503010000,be,702020000,location.location.containedby
+600000000,found,706100800,organization.organization.founders
+600000000,found,502000000,organization.organization.founders
+704010200,be,702010000,geography.lake.cities
+600000000,'the child of',600000000,people.person.children
+702000000,include,702010000,location.location.containedby
+508020000,'be sign to',502000000,music.artist.label
+600000000,'be bear in',702010000,people.person.place_of_birth
+702020000,contain,702010000,location.location.contains
+508020000,'get they start at',702010000,music.artist.origin
+600000000,be,223010000,music.artist.album
+702010000,'be locate in',702020000,location.location.containedby
+600000000,produce,221000000,film.film.produced_by
+600000000,'the child of',600000000,people.person.children
+600000000,write,221000000,film.film.written_by
+600000000,record,224000000,music.recording.artist
+700000000,'be locate in',702020000,location.location.containedby
+600000000,die,702010000,people.deceased_person.place_of_death
+300000000,'vent take place',702010000,time.event.locations
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear in',702000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,'be locate in',702000000,location.location.containedby
+600000000,be,223010000,music.artist.album
+300000000,'the subject of',221000000,film.film.subjects
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'hail from',702020000,people.person.nationality
+600000000,record,223010000,music.album.artist
+600000000,'be bear',702010000,people.person.place_of_birth
+702020000,'the nationality of',600000000,people.person.nationality
+700000000,'be locate in',702000000,location.location.containedby
+503010000,'be locate in',702000000,location.location.containedby
+221000000,'be film',702020000,film.film.country
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'participate in',300000000,military.military_person.participated_in_conflicts
+700000000,'be locate',702010000,location.location.containedby
+503010000,'be locate',702010000,location.location.containedby
+702020000,locate,700000000,location.administrative_division.second_level_division_of
+502000000,publish,235020000,cvg.cvg_publisher.games_published
+702010000,'be locate within',702020000,location.location.containedby
+600000000,produce,221000000,film.producer.films_executive_produced
+508020000,'contribute music to',221000000,film.music_contributor.film
+600000000,'be bear',703120300,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+221000000,'be film',702020000,film.film.country
+600000000,'take part in',300000000,military.military_person.participated_in_conflicts
+702010000,'the origin of',600000000,music.artist.origin
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',703080000,people.person.place_of_birth
+300000000,'take place',702010000,time.event.locations
+600000000,'be bear',702010000,people.person.place_of_birth
+702020000,contain,704010600,location.location.containedby
+600000000,write,203000000,book.author.works_written
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+221000000,'come from',702020000,film.film.country
+600000000,'be bear in',702010000,people.person.place_of_birth
+502000000,publish,235020000,cvg.computer_videogame.publisher
+600000000,'claim nationality from',703120300,people.person.nationality
+600000000,'claim nationality from',702020000,people.person.nationality
+600000000,represent,702000000,user.robert.us_congress.us_representative.state
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'be bear in',702010000,people.person.place_of_birth
+700000000,'be locate in',702020000,location.location.containedby
+503010000,'be locate in',702020000,location.location.containedby
+600000000,'battle in',300000000,military.military_person.participated_in_conflicts
+600000000,write,203000000,book.author.works_written
+600000000,write,221000000,film.writer.film
+600000000,produce,221000000,film.film.produced_by
+702010000,'the birth place of',600000000,people.person.place_of_birth
+600000000,'fight in',300000000,military.military_person.participated_in_conflicts
+508020000,originate,702020000,music.artist.origin
+502000000,'the program creator of',238000000,tv.tv_program.program_creator
+600000000,'have nationality in',702020000,people.person.nationality
+508020000,'be name after',221000000,symbols.namesake.named_after
+600000000,'be bear',702010000,people.person.place_of_birth
+508020000,'be sign to',502000000,music.artist.label
+600000000,direct,221000000,film.film.directed_by
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,record,223010000,music.album.artist
+705000000,'be locate',702010000,location.location.containedby
+701030100,'be locate',702010000,location.location.containedby
+703000000,'be locate',702010000,location.location.containedby
+600000000,survive,300000000,event.disaster_survivor.survived_disasters
+221000000,'take place',702020000,film.film.country
+600000000,die,702010000,people.deceased_person.place_of_death
+502000000,make,235020000,cvg.computer_videogame.publisher
+300000000,happen,702020000,time.event.locations
+600000000,'the ruler of',702020000,royalty.kingdom.rulers
+600000000,'be bear',702020000,people.person.place_of_birth
+203000000,cover,702020000,book.written_work.subjects
+600000000,'be birthe',702010000,people.person.place_of_birth
+600000000,'be know for have produce',221000000,film.producer.film
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'the daughter of',600000000,people.person.children
+600000000,'be bear',702010000,people.person.place_of_birth
+500000000,be,702010000,location.location.containedby
+700000000,be,702010000,location.location.containedby
+600000000,die,700000000,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+702000000,'the location of',702010000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'the author of',203000000,book.written_work.author
+600000000,produce,224000000,music.producer.tracks_produced
+600000000,'participate in',300000000,military.military_person.participated_in_conflicts
+600000000,'be influence by',600000000,influence.influence_node.influenced_by
+600000000,'call home',702020000,people.person.nationality
+508020000,'be sign to',502000000,music.artist.label
+221000000,'be film in',702020000,film.film.country
+700000000,be,702000000,location.location.containedby
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'be bear in',702020000,people.person.nationality
+600000000,'die in',702010000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+700000000,'be locate in',702010000,location.location.containedby
+502000000,'be locate in',702010000,location.location.containedby
+503010000,'be locate in',702010000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'a parent of',600000000,people.person.parents
+502000000,publish,235020000,cvg.computer_videogame.publisher
+600000000,'the screenwriter of',221000000,film.film.written_by
+702010000,'be locate in',702020000,location.location.containedby
+221000000,'take place',702010000,film.film.country
+221000000,'take place',702020000,film.film.country
+300000000,'take place',704010600,time.event.locations
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,produce,221000000,film.producer.film
+600000000,direct,221000000,film.film_art_director.films_art_directed
+700000000,'a neighborhood of',700000000,location.place_with_neighborhoods.neighborhoods
+600000000,'be bear',705000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,be,703120300,people.person.nationality
+600000000,be,702020000,people.person.nationality
+600000000,record,223010000,music.album.artist
+600000000,'be bear',705000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+700000000,'be locate',700000000,location.location.containedby
+600000000,'be birthe in',702010000,people.person.place_of_birth
+600000000,'be bear',703120300,people.person.place_of_birth
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,'a son of',600000000,people.person.children
+702010000,be,700000000,location.location.containedby
+702000000,'the birthplace of',600000000,people.person.place_of_birth
+706000000,'the birthplace of',600000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'contribute music for',221000000,film.music_contributor.film
+600000000,'be bear in',703120300,people.person.place_of_birth
+600000000,'be bear in',702010000,people.person.place_of_birth
+702020000,make,221000000,film.film.country
+600000000,'the producer of',221000000,film.film.produced_by
+702010000,'be base in',702000000,location.location.containedby
+600000000,write,203000000,book.author.works_written
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,be,702020000,location.location.containedby
+508030000,sign,600000000,music.artist.label
+502000000,sign,600000000,music.artist.label
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,create,238000000,tv.tv_program_creator.programs_created
+600000000,be,702020000,people.person.nationality
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'be give birth',702020000,people.person.place_of_birth
+702010000,be,700000000,location.location.containedby
+702010000,'the birthplace of',600000000,people.person.place_of_birth
+500000000,be,700000000,location.location.containedby
+703150000,be,700000000,location.location.containedby
+708000000,be,700000000,location.location.containedby
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be credit as a story contributor for',221000000,film.film_story_contributor.film_story_credits
+600000000,'be bear in',702010000,people.person.place_of_birth
+508020000,'work for',502000000,music.artist.label
+600000000,'be birthe',702000000,people.person.place_of_birth
+221000000,'be release in',702020000,film.film.country
+600000000,'be bear',702010000,people.person.place_of_birth
+702020000,'the nationality of',600000000,people.person.nationality
+500000000,'the government of',702020000,government.governmental_jurisdiction.government_bodies
+702010000,'be locate in',702020000,location.location.containedby
+600000000,found,706080600,organization.organization.founders
+600000000,found,502000000,organization.organization.founders
+600000000,found,503010000,organization.organization.founders
+702010000,'be locate',703000000,location.location.contains
+704010600,'end in',704010200,geography.river.mouth
+704010600,'end in',708000000,geography.river.mouth
+300000000,happen,700000000,time.event.locations
+600000000,'the mother of',600000000,people.person.parents
+600000000,'be give birth in',702020000,people.person.place_of_birth
+600000000,produce,221000000,film.film.produced_by
+600000000,'participate in',300000000,military.military_person.participated_in_conflicts
+600000000,'be bear',702000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',705000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,be,702020000,people.person.nationality
+600000000,'the casting director of',221000000,film.film.film_casting_director
+600000000,'the child of',600000000,people.person.children
+600000000,influence,600000000,influence.influence_node.influenced
+702010000,'be base in',700000000,location.location.time_zones
+600000000,'be bear in',702010000,people.person.place_of_birth
+702020000,'the nationality of',600000000,people.person.nationality
+702010000,'be locate in',702000000,location.location.containedby
+702000000,have,704010200,location.location.containedby
+223010000,'belong to',508020000,music.album.artist
+702010000,'be locate in',702020000,location.location.containedby
+221000000,be,700000000,media_common.netflix_title.netflix_genres
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be bear',702000000,people.person.place_of_birth
+600000000,'the author of',203000000,book.written_work.author
+700000000,'be locate',702020000,location.location.containedby
+704010600,'flow out of',704010600,geography.river.mouth
+708000000,'flow out of',704010600,geography.river.mouth
+704010600,'flow into',704010600,geography.river.mouth
+702010000,'be locate',700000000,location.location.time_zones
+600000000,record,224000000,music.recording.artist
+600000000,'contribute music to',221000000,film.music_contributor.film
+705000000,'be locate in the u.s.',702000000,base.usnationalparks.us_national_park.state
+600000000,'be bear in',702000000,people.person.place_of_birth
+509010000,'play in',706240800,sports.sports_team.arena_stadium
+509010000,'play in',703000000,sports.sports_team.arena_stadium
+705000000,'be locate',702000000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bury',703080000,people.deceased_person.place_of_burial
+600000000,'be influence by',600000000,influence.influence_node.influenced_by
+700000000,contain,702010000,location.location.time_zones
+703010000,serve,702000000,aviation.airport.serves
+600000000,design,221000000,film.film_production_designer.films_production_designed
+702020000,'be feature in',221000000,film.film_location.featured_in_films
+221000000,'a adaptation of',221000000,media_common.adapted_work.adaptations
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702020000,people.person.place_of_birth
+702010000,'be locate in',700000000,location.location.time_zones
+702020000,'the nationality of',600000000,people.person.nationality
+704010200,'be locate',702020000,geography.lake.basin_countries
+708000000,'be locate',702020000,geography.lake.basin_countries
+508020000,'the author of',223010000,music.album.artist
+705000000,'the film location of',221000000,film.film.featured_film_locations
+708000000,'the film location of',221000000,film.film.featured_film_locations
+600000000,'create music for',221000000,film.music_contributor.film
+600000000,'be bear',703120300,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+600000000,be,702020000,people.person.nationality
+600000000,be,703120300,people.person.nationality
+600000000,be,702020000,people.person.nationality
+600000000,'be bear',702010000,people.person.place_of_birth
+221000000,'be adapt from',203000000,media_common.adaptation.adapted_from
+600000000,'the developer of',235020000,cvg.computer_videogame.developer
+502000000,'the label of',600000000,music.artist.label
+600000000,create,239000000,visual_art.artwork.artist
+600000000,'the child of',600000000,people.person.children
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+700000000,'be locate',702010000,location.location.containedby
+503010000,'be locate',702010000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,write,221000000,film.writer.film
+508020000,release,223010000,music.album.artist
+702010000,'the birth place of',600000000,people.person.place_of_birth
+600000000,'the child of',600000000,people.person.children
+704010600,originate,704010000,geography.river.mouth
+600000000,'be bear in',702020000,people.person.place_of_birth
+600000000,'be bear in',702020000,people.person.nationality
+600000000,influence,600000000,influence.influence_node.influenced
+600000000,be,223010000,music.artist.album
+704010600,'run through',702010000,geography.river.cities
+702000000,contain,705000000,location.location.containedby
+704030000,be,702020000,location.location.containedby
+221000000,'be shoot in',702020000,film.film.country
+600000000,produce,221000000,film.producer.film
+600000000,'be bear at',702010000,people.person.place_of_birth
+600000000,'be bear at',705000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,'be locate in',702020000,location.location.containedby
+600000000,record,221000000,film.film.music
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be bear',702000000,people.person.place_of_birth
+600000000,'the author of',203000000,book.written_work.author
+700000000,contain,702010000,base.aareas.schema.administrative_area.administrative_parent
+600000000,decease,702010000,people.deceased_person.place_of_death
+600000000,'the director of',221000000,film.film.directed_by
+600000000,'originate from',702010000,music.artist.origin
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,design,235020000,cvg.computer_videogame.designers
+600000000,'work on',221000000,film.music_contributor.film
+600000000,'receive credit for cinematography',221000000,film.cinematographer.film
+600000000,'be bear in',700000000,people.person.place_of_birth
+600000000,write,203000000,book.written_work.author
+600000000,'the director of',221000000,film.film.directed_by
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,direct,221000000,film.director.film
+600000000,'be anthony bear',702010000,people.person.place_of_birth
+600000000,'be bear',700000000,people.person.place_of_birth
+600000000,'be bear',702020000,people.person.place_of_birth
+702010000,'be locate',702020000,base.biblioness.bibs_location.country
+702010000,be,702020000,location.location.containedby
+600000000,be,702020000,people.person.nationality
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be bear',702020000,people.person.place_of_birth
+221000000,'be film',702020000,film.film.country
+600000000,die,702010000,people.deceased_person.place_of_death
+702010000,'the birth place of',600000000,people.person.place_of_birth
+600000000,'be sign to',502000000,music.artist.label
+600000000,'be sign to',502000000,music.artist.label
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+705000000,'belong to',702010000,location.location.containedby
+703000000,'belong to',702010000,location.location.containedby
+508030000,produce,221000000,film.production_company.films
+700000000,produce,221000000,film.production_company.films
+502000000,produce,221000000,film.production_company.films
+600000000,die,702010000,people.deceased_person.place_of_death
+300000000,'take place',300000000,time.event.included_in_event
+600000000,'be tie to',502000000,music.artist.label
+600000000,die,702020000,people.deceased_person.place_of_death
+702020000,'the nationality of',600000000,people.person.nationality
+702010000,'be find in',702000000,location.location.containedby
+508020000,'originate form',702010000,music.artist.origin
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+203000000,touch,300000000,book.written_work.subjects
+600000000,'end he life',702010000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+703040000,'be locate in',702010000,transportation.bridge.locale
+600000000,'be bear in',702020000,people.person.nationality
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,write,221000000,film.writer.film
+600000000,'be bear in',702020000,people.person.place_of_birth
+600000000,'participate in',300000000,military.military_person.participated_in_conflicts
+600000000,'be bear in',702010000,people.person.place_of_birth
+300000000,'take place',702010000,time.event.locations
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+300000000,affect,702000000,meteorology.tropical_cyclone.affected_areas
+503060000,'belong to',500000000,education.school.school_district
+503060000,'belong to',700000000,education.school.school_district
+700000000,'belong to',500000000,education.school.school_district
+700000000,'belong to',700000000,education.school.school_district
+600000000,sing,224000000,music.artist.track
+705000000,be,702010000,transportation.bridge.locale
+703040000,be,702010000,transportation.bridge.locale
+600000000,'spend he last day',702010000,people.deceased_person.place_of_death
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,'the main subject of',221000000,film.film.subjects
+600000000,'be rashid al maktoum',702020000,people.person.nationality
+600000000,'hail from',702020000,people.person.nationality
+600000000,'be give birth',702010000,people.person.place_of_birth
+600000000,'be give birth',705000000,people.person.place_of_birth
+221000000,'be release in',702020000,film.film.country
+700000000,'go through',702010000,transportation.road.major_cities
+702020000,release,221000000,film.film.country
+600000000,'contribute music to',221000000,film.music_contributor.film
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be bear',702000000,people.person.place_of_birth
+600000000,'be bear',703120300,people.person.place_of_birth
+600000000,'be bear',702000000,people.person.place_of_birth
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+702010000,'be locate in',702020000,location.location.containedby
+600000000,produce,221000000,film.producer.film
+600000000,'be bear',702010000,people.person.place_of_birth
+700000000,place,702010000,location.hud_county_place.county
+702020000,'the nationality of',600000000,people.person.nationality
+700000000,be,702020000,location.location.containedby
+503010000,be,702020000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+221000000,'be film in',300000000,film.film.subjects
+600000000,'be bear',702010000,people.person.place_of_birth
+300000000,'occur in',300000000,time.event.included_in_event
+600000000,'be bear in',702020000,people.person.nationality
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,704030000,people.deceased_person.place_of_death
+600000000,die,708000000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,represent,702000000,user.robert.us_congress.us_representative.state
+600000000,produce,221000000,film.film.executive_produced_by
+508020000,'originate from',702010000,music.artist.origin
+221000000,'be film in',702020000,film.film.country
+600000000,'be bear in',702010000,people.person.place_of_birth
+705000000,'be locate in',700000000,location.location.containedby
+703000000,'be locate in',700000000,location.location.containedby
+600000000,be,702020000,people.person.nationality
+600000000,'be bear in',703120300,people.person.place_of_birth
+600000000,'be bear in',702020000,people.person.place_of_birth
+502000000,publish,235020000,cvg.cvg_publisher.games_published
+600000000,edit,221000000,film.film.edited_by
+238000000,'come from',702020000,tv.tv_program.country_of_origin
+702010000,be,702000000,location.location.containedby
+238000000,'be avery film in',702020000,film.film.country
+600000000,'the child of',600000000,people.person.children
+221000000,'be release',702020000,film.film.country
+600000000,'participate in',300000000,military.military_person.participated_in_conflicts
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+502000000,'focus on',703010000,aviation.airline.focus_cities
+502000000,'focus on',703050000,aviation.airline.focus_cities
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,705000000,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+508020000,'originate from',702010000,music.artist.origin
+508020000,'originate from',703080000,music.artist.origin
+600000000,'be give birth',702020000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+702010000,'be locate in',700000000,location.location.containedby
+223010000,'the name of',508020000,music.artist.album
+702010000,'the county seat of',700000000,location.us_county.county_seat
+600000000,'be bear',705000000,people.person.place_of_birth
+700000000,'be locate',702010000,location.location.contains
+600000000,'be bear in',703120300,people.person.nationality
+600000000,'be bear in',702020000,people.person.nationality
+502000000,produce,221000000,film.film.production_companies
+600000000,'the author of',203000000,book.written_work.author
+600000000,edit,221000000,film.editor.film
+600000000,'the child of',600000000,people.person.children
+600000000,direct,214020000,tv.tv_director.episodes_directed
+600000000,'the producer of',221000000,film.film.executive_produced_by
+600000000,'be bear in',702020000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+502000000,'do stock exchange',702020000,finance.stock_exchange.primary_regions
+600000000,direct,221000000,film.director.film
+600000000,direct,238000000,film.director.film
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,write,203000000,book.written_work.author
+600000000,'be sign to',502000000,music.artist.label
+600000000,'be bear',702000000,people.person.place_of_birth
+702010000,'be locate in',700000000,location.hud_county_place.county
+702020000,'the nationality of',600000000,people.person.nationality
+702020000,make,221000000,film.film.country
+600000000,'the producer of',224000000,music.recording.producer
+600000000,'be bear',700000000,people.person.place_of_birth
+600000000,write,203000000,book.author.works_written
+600000000,'be bear',702000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'appear in',221000000,film.film_story_contributor.film_story_credits
+600000000,die,702010000,people.deceased_person.place_of_death
+203000000,'be write',300000000,book.written_work.subjects
+502000000,'the publisher of',235020000,cvg.computer_videogame.publisher
+502000000,produce,221000000,film.film.production_companies
+508020000,be,223010000,music.artist.album
+700000000,'the origin of',600000000,music.artist.origin
+600000000,'pass away in',705000000,people.deceased_person.place_of_death
+600000000,'pass away in',702010000,people.deceased_person.place_of_death
+702010000,'inside province of',700000000,location.location.contains
+702010000,'be find in',700000000,location.location.time_zones
+600000000,'design the costume for',221000000,film.film_costumer_designer.costume_design_for_film
+600000000,die,702010000,people.deceased_person.place_of_death
+221000000,contain,223010000,music.soundtrack.film
+502000000,release,235020000,cvg.computer_videogame.publisher
+600000000,edit,221000000,film.editor.film
+600000000,'contribute to',221000000,film.writer.film
+702010000,'be locate in',702000000,location.location.containedby
+223010000,'some example of',600000000,music.artist.album
+502000000,'the record label of',508020000,music.artist.label
+702010000,'be locate',702020000,location.location.containedby
+508020000,'originate from',702010000,music.artist.origin
+600000000,'be list as in the film story credit',221000000,film.film_story_contributor.film_story_credits
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,create,238000000,tv.tv_program_creator.programs_created
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+600000000,'be bear',702020000,people.person.place_of_birth
+300000000,'be play',706240800,time.event.locations
+300000000,'be play',703000000,time.event.locations
+300000000,'be play',708000000,time.event.locations
+600000000,write,221000000,film.writer.film
+704010600,'run past',702010000,geography.river.cities
+708000000,'run past',702010000,geography.river.cities
+702020000,'be locate in',700000000,location.location.containedby
+600000000,'die in',702010000,people.deceased_person.place_of_death
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'a offspring of',600000000,people.person.children
+703120300,film,221000000,film.film.country
+702020000,film,221000000,film.film.country
+503060000,'be locate',702020000,location.location.containedby
+700000000,'be locate',702020000,location.location.containedby
+503010000,'be locate',702020000,location.location.containedby
+700000000,'the time zone of',702010000,location.location.time_zones
+221000000,'come from',702020000,film.film.country
+501000000,'fly into',703010000,aviation.airline.hubs
+502000000,'fly into',703010000,aviation.airline.hubs
+600000000,'father of',600000000,people.person.parents
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'claim nationality from',702020000,people.person.nationality
+600000000,direct,221000000,film.director.film
+702010000,'be locate in',700000000,location.location.containedby
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,'be give birth',702010000,people.person.place_of_birth
+702020000,'the nationality of',600000000,people.person.nationality
+702010000,'be locate in',700000000,location.hud_county_place.county
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+600000000,participate,300000000,military.military_person.participated_in_conflicts
+300000000,'be involve in',300000000,time.event.included_in_event
+600000000,'the casting director of',221000000,film.film.film_casting_director
+702010000,'be find',702020000,location.location.containedby
+600000000,'originate from',702010000,music.artist.origin
+600000000,'die in',702010000,people.deceased_person.place_of_death
+600000000,direct,221000000,film.director.film
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,produce,221000000,film.film.produced_by
+502000000,'the videogame developer of',235020000,cvg.computer_videogame.developer
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,die,702010000,people.deceased_person.place_of_death
+702010000,'be locate',702020000,location.location.containedby
+702010000,be,700000000,location.hud_county_place.county
+702000000,'the administrative parent of',702000000,base.aareas.schema.administrative_area.administrative_parent
+600000000,'be bear in',702010000,people.person.place_of_birth
+702010000,'be locate',702020000,location.location.containedby
+700000000,'be locate',702020000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'die in',702010000,people.deceased_person.place_of_death
+600000000,'be bury',702010000,symbols.name_source.namesakes
+600000000,'be bear',702010000,people.person.place_of_birth
+221000000,'be produce',702020000,film.film.country
+600000000,'be involve in',300000000,military.military_person.participated_in_conflicts
+708000000,'be contain by',704020000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+221000000,'be film',702020000,film.film.country
+221000000,'be film',702020000,film.film.country
+600000000,'the music director of',221000000,film.film.music
+508020000,have,600000000,music.group_member.artists_supported
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',705000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,attend,300000000,military.military_person.participated_in_conflicts
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+600000000,'the mother of',600000000,people.person.parents
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,make,223010000,music.album.artist
+600000000,be,702020000,people.person.nationality
+702010000,'belong to',700000000,location.location.time_zones
+600000000,direct,221000000,film.film.directed_by
+700000000,locate,705000000,transportation.bridge.locale
+700000000,locate,703040000,transportation.bridge.locale
+221000000,'take place',702020000,film.film.country
+600000000,produce,221000000,film.producer.film
+600000000,produce,238000000,film.producer.film
+600000000,record,224000000,music.artist.track
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'die in',702010000,people.deceased_person.place_of_death
+600000000,'be bear',705000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be influence by',600000000,influence.influence_node.influenced_by
+221000000,'be make',702020000,film.film.country
+700000000,be,702010000,location.location.containedby
+503010000,be,702010000,location.location.containedby
+600000000,'be bear in',702020000,people.person.place_of_birth
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,inspire,700000000,symbols.namesake.named_after
+600000000,inspire,239000000,symbols.namesake.named_after
+702010000,'the death place of',600000000,people.deceased_person.place_of_death
+600000000,'come from',702020000,music.artist.origin
+700000000,'the capital city of',702010000,location.location.containedby
+702000000,'be locate at',700000000,location.us_county.hud_county_place
+600000000,die,702000000,people.deceased_person.place_of_death
+221000000,'be film',702020000,film.film.country
+600000000,'be bear',702010000,people.person.place_of_birth
+300000000,happen,702010000,time.event.locations
+221000000,'be film',702020000,film.film.country
+700000000,be,700000000,location.location.containedby
+600000000,'be bury',705000000,people.deceased_person.place_of_burial
+600000000,'be bury',703080000,people.deceased_person.place_of_burial
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,'be find',700000000,location.location.time_zones
+700000000,'be locate',700000000,location.location.containedby
+203000000,'be write in',300000000,book.written_work.subjects
+600000000,'be involve in',300000000,military.military_person.participated_in_conflicts
+502000000,'the developer of',235020000,cvg.computer_videogame.developer
+600000000,'be bear',705000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+223010000,be,600000000,music.album.artist
+705000000,be,702000000,location.location.containedby
+703000000,be,702000000,location.location.containedby
+600000000,found,500000000,organization.organization.founders
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+502000000,produce,235020000,cvg.computer_videogame.publisher
+600000000,produce,221000000,film.producer.film
+703120300,'the subject of',203000000,book.written_work.subjects
+702020000,'the subject of',203000000,book.written_work.subjects
+600000000,die,702010000,people.deceased_person.place_of_death
+705000000,be,702000000,location.location.containedby
+703000000,be,702000000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be sign under',502000000,music.artist.label
+702000000,'the topic of',203000000,book.written_work.subjects
+600000000,'be influence by',600000000,influence.influence_node.influenced_by
+600000000,'get he start in music',702010000,music.artist.origin
+600000000,'be bear',703120300,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,write,203000000,book.written_work.author
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'the father of',600000000,people.person.parents
+502000000,publish,235020000,cvg.computer_videogame.publisher
+600000000,'be bear',703000000,people.person.place_of_birth
+600000000,'be bear',708000000,people.person.place_of_birth
+508020000,make,223010000,music.album.artist
+600000000,'be bear',702010000,people.person.place_of_birth
+238000000,'come from',702020000,tv.tv_program.country_of_origin
+600000000,author,203000000,book.written_work.author
+508020000,'contribute the music to',221000000,film.music_contributor.film
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'originate from',702010000,music.artist.origin
+700000000,'be strait apart of',700000000,geography.island.island_group
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,influence,600000000,influence.influence_node.influenced
+600000000,be,702020000,people.person.nationality
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,'be locate',702020000,location.location.containedby
+702010000,'be bear',600000000,location.location.people_born_here
+705000000,'be find',700000000,location.location.containedby
+221000000,'be film',702020000,film.film.country
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+704030000,'be locate in',704020000,location.location.containedby
+600000000,be,702020000,people.person.nationality
+600000000,'be bear',703120300,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,'the birth of',600000000,people.person.place_of_birth
+702010000,'be locate',702000000,location.location.containedby
+705000000,'be locate',702000000,location.location.containedby
+703000000,'be locate',702000000,location.location.containedby
+700000000,'the origin of',704010600,geography.river.origin
+508020000,influence,508020000,influence.influence_node.influenced
+600000000,'the child of',600000000,people.person.children
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+508020000,form,702010000,music.artist.origin
+600000000,direct,221000000,film.film.film_art_direction_by
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,'be locate',702000000,location.location.containedby
+600000000,'be bear',703120300,people.person.place_of_birth
+600000000,'be bear',702000000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be bear in',702010000,people.person.place_of_birth
+702010000,'be locate in',702020000,location.location.containedby
+502000000,produce,238000000,base.animemanga.anime_studio.anime_titles
+600000000,'the author of',203000000,book.written_work.author
+502000000,make,235020000,cvg.computer_videogame.developer
+600000000,be,223010000,music.artist.album
+600000000,direct,221000000,film.film.directed_by
+600000000,'the father of',600000000,people.person.parents
+600000000,die,702010000,people.deceased_person.place_of_death
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,705000000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+600000000,'do rego spend the last day of he life at',702010000,people.deceased_person.place_of_death
+600000000,create,238000000,tv.tv_program_creator.programs_created
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,'be bear',702000000,people.person.place_of_birth
+600000000,'be influence by',600000000,influence.influence_node.influenced_by
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'spend he last day of life',702010000,people.deceased_person.place_of_death
+600000000,produce,221000000,film.film.produced_by
+600000000,release,223010000,music.album.artist
+600000000,'the creator of',703000000,architecture.structure.architect
+600000000,'the creator of',708000000,architecture.structure.architect
+502000000,publish,235020000,cvg.computer_videogame.publisher
+600000000,'be birthe',702010000,people.person.place_of_birth
+600000000,'be birthe',705000000,people.person.place_of_birth
+502000000,'the producer of',238000000,broadcast.content.producer
+502000000,'the producer of',433010000,broadcast.content.producer
+600000000,die,702020000,people.deceased_person.place_of_death
+600000000,'the writer of',221000000,film.film.written_by
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+509010000,'the football team of',700000000,education.educational_institution.sports_teams
+509010000,'the football team of',503010000,education.educational_institution.sports_teams
+702010000,'be locate in',702000000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,influence,600000000,influence.influence_node.influenced
+700000000,'run through',702010000,transportation.road.major_cities
+600000000,'be give birth',702010000,people.person.place_of_birth
+600000000,'be give birth',703080000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+702010000,'be locate',700000000,location.location.containedby
+702010000,be,702020000,location.location.containedby
+600000000,'be involve in',300000000,military.military_person.participated_in_conflicts
+600000000,edit,221000000,film.editor.film
+508020000,'originate from',702010000,music.artist.origin
+600000000,'be bear',702010000,people.person.place_of_birth
+700000000,'be locate',700000000,location.location.containedby
+600000000,write,221000000,film.writer.film
+702010000,film,221000000,film.film.country
+702020000,film,221000000,film.film.country
+300000000,affect,700000000,meteorology.cyclone_affected_area.cyclones
+600000000,influence,600000000,influence.influence_node.influenced
+600000000,edit,221000000,film.editor.film
+600000000,die,702010000,people.person.place_of_birth
+600000000,'originate from',702010000,music.artist.origin
+600000000,'be bear in',702020000,people.person.place_of_birth
+702010000,'be find',700000000,location.location.containedby
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+600000000,be,702020000,people.person.nationality
+704030000,'be locate at',704030000,location.location.containedby
+600000000,'be bear',702000000,people.person.place_of_birth
+600000000,'the executive producer of',221000000,film.film.executive_produced_by
+508020000,be,224000000,music.artist.track
+600000000,#NAME?,221000000,film.cinematographer.film
+221000000,'be film in',702020000,film.film.country
+509010000,'play in',706240800,sports.sports_team.arena_stadium
+509010000,'play in',703000000,sports.sports_team.arena_stadium
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',703050000,people.person.place_of_birth
+600000000,die,702000000,people.deceased_person.place_of_death
+600000000,influence,600000000,influence.influence_node.influenced
+600000000,die,702010000,people.deceased_person.place_of_death
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+705000000,'the capital of',700000000,base.aareas.schema.administrative_area.capital
+702010000,'the capital of',700000000,base.aareas.schema.administrative_area.capital
+702010000,be,702000000,location.location.containedby
+600000000,originate,702020000,people.person.nationality
+702000000,'the subject of',203000000,book.written_work.subjects
+704020000,'the subject of',203000000,book.written_work.subjects
+600000000,found,502000000,organization.organization.founders
+221000000,'be film',702020000,film.film.country
+600000000,write,203000000,book.author.works_written
+702010000,'be locate',702020000,location.location.containedby
+600000000,'participate in',300000000,military.military_person.participated_in_conflicts
+600000000,'be cremate at',703080000,people.deceased_person.place_of_cremation
+600000000,'be bear in',702000000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',705000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'sign to',502000000,music.artist.label
+600000000,'be bury',703200000,people.deceased_person.place_of_burial
+600000000,'be bury',705000000,people.deceased_person.place_of_burial
+600000000,'be bury',703080000,people.deceased_person.place_of_burial
+600000000,'be bury',708000000,people.deceased_person.place_of_burial
+600000000,be,702020000,people.person.nationality
+600000000,produce,221000000,film.producer.films_executive_produced
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',705000000,people.person.place_of_birth
+600000000,direct,221000000,film.film.film_art_direction_by
+600000000,'be bear',702010000,people.person.place_of_birth
+704010600,'be locate',700000000,location.location.containedby
+600000000,die,705000000,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+702020000,release,221000000,film.film.country
+600000000,'be bear',703120300,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,'be locate',700000000,location.hud_county_place.county
+221000000,'be film in',702020000,film.film.country
+600000000,influence,600000000,influence.influence_node.influenced_by
+600000000,be,702020000,people.person.nationality
+600000000,'be bear in',702000000,people.person.place_of_birth
+702010000,'the capital of',702000000,location.in_state.administrative_capital
+600000000,record,502000000,music.record_label.artist
+600000000,produce,221000000,film.producer.film
+508020000,'the artist of',223010000,music.album.artist
+600000000,'be bear in',702010000,people.person.place_of_birth
+702010000,be,702000000,location.location.containedby
+704010200,be,702020000,location.location.containedby
+600000000,have,300000000,spaceflight.space_mission.astronauts
+600000000,die,702010000,people.deceased_person.place_of_death
+502000000,be,221000000,film.production_company.films
+702000000,locate,705000000,location.location.containedby
+702000000,locate,703000000,location.location.containedby
+221000000,'be film',702020000,film.film.country
+600000000,be,702020000,people.person.nationality
+600000000,'be sign to',502000000,music.artist.label
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,direct,221000000,film.director.film
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+508030000,produce,221000000,film.film.production_companies
+404000000,produce,221000000,film.film.production_companies
+502000000,produce,221000000,film.film.production_companies
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,produce,221000000,film.producer.film
+600000000,'be bear',705000000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'a advisor of',600000000,education.academic.advisors
+600000000,'come from',702020000,people.person.nationality
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+600000000,'pass away',703080000,people.deceased_person.place_of_death
+221000000,'the name of',210020000,film.film_series.films_in_series
+702010000,be,700000000,location.location.containedby
+508020000,'get its start',700000000,music.artist.origin
+508020000,'be sign to',502000000,music.artist.label
+600000000,write,221000000,film.film.written_by
+600000000,die,702020000,people.deceased_person.place_of_death
+600000000,be,702020000,people.person.nationality
+702020000,contain,702010000,location.administrative_division.country
+703000000,be,702020000,location.location.containedby
+600000000,die,703120300,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+700000000,feature,221000000,film.film_location.featured_in_films
+700000000,'be locate',702010000,location.location.contains
+502000000,publish,235020000,cvg.computer_videogame.publisher
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+700000000,'be find',702000000,location.location.containedby
+503010000,'be find',702000000,location.location.containedby
+600000000,find,502000000,organization.organization_founder.organizations_founded
+600000000,'the mother of',600000000,people.person.parents
+600000000,'be bear in',702010000,people.person.place_of_birth
+702010000,'be locate',702020000,location.location.containedby
+600000000,influence,600000000,influence.influence_node.influenced
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'contribute to',221000000,film.music_contributor.film
+600000000,die,702010000,people.deceased_person.place_of_death
+702010000,'a part of',702000000,location.location.contains
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,die,705000000,people.deceased_person.place_of_death
+600000000,'a parent of',600000000,people.person.parents
+600000000,'pass away',702010000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'belong to',702020000,people.person.nationality
+600000000,record,224000000,music.recording.artist
+700000000,'be locate in',702000000,location.location.containedby
+600000000,'belong to',700000000,people.family_member.family
+600000000,'be bear',702020000,people.person.place_of_birth
+509010000,'play in',706240800,sports.sports_team.arena_stadium
+509010000,'play in',703000000,sports.sports_team.arena_stadium
+600000000,record,224000000,music.recording.artist
+700000000,'the subject of',203000000,book.written_work.subjects
+600000000,'be bear',702010000,people.person.place_of_birth
+508020000,be,224000000,music.artist.track
+600000000,'the child of',600000000,people.person.children
+502000000,develop,235020000,cvg.cvg_developer.games_developed
+600000000,'be bear',702010000,people.person.place_of_birth
+221000000,'be release',702020000,film.film.country
+703150000,'be locate',702010000,location.location.containedby
+708000000,'be locate',702010000,location.location.containedby
+703120300,release,221000000,film.film.country
+702020000,release,221000000,film.film.country
+700000000,'the time zone of',702010000,location.location.time_zones
+600000000,'be bear',702010000,people.person.place_of_birth
+704010600,be,702000000,location.location.containedby
+704010600,be,704020000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,direct,214020000,tv.tv_director.episodes_directed
+702010000,'the birthplace of',600000000,people.person.place_of_birth
+502000000,'the game developer of',235020000,cvg.computer_videogame.developer
+203000000,have,210010000,book.literary_series.works_in_this_series
+600000000,'be boynton from',702020000,people.person.nationality
+600000000,'be bubl?? from',702010000,music.artist.origin
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702020000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'the author of',203000000,book.written_work.author
+600000000,die,702010000,people.deceased_person.place_of_death
+704010600,be,702020000,location.location.containedby
+600000000,produce,221000000,film.film.produced_by
+203000000,'adapt from',203000000,media_common.adaptation.adapted_from
+600000000,die,702010000,people.deceased_person.place_of_death
+203000000,'be write about',704020000,book.written_work.subjects
+702010000,'a part of',702020000,location.location.contains
+600000000,originate,702010000,music.artist.origin
+600000000,'be bury',703080000,people.deceased_person.place_of_burial
+704010600,'flow through',702020000,geography.river.basin_countries
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,direct,221000000,film.director.film
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,write,203000000,book.written_work.author
+702010000,'the birthplace of',600000000,people.person.place_of_birth
+600000000,produce,221000000,film.producer.film
+238000000,'come from',702020000,tv.tv_program.country_of_origin
+600000000,'originate from',702010000,music.artist.origin
+300000000,'be creek a part of',300000000,time.event.included_in_event
+600000000,'be bear',702010000,people.person.place_of_birth
+702010000,be,703150000,travel.travel_destination.tourist_attractions
+702010000,be,708000000,travel.travel_destination.tourist_attractions
+600000000,'fight in',300000000,military.military_person.participated_in_conflicts
+600000000,have,300000000,spaceflight.astronaut.missions
+702010000,'a administrative child area of',702020000,base.aareas.schema.administrative_area.administrative_children
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,700000000,people.deceased_person.place_of_death
+600000000,'be make from',702020000,people.person.nationality
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,'be bear in',702020000,people.person.place_of_birth
+300000000,'happen in',300000000,meteorology.tropical_cyclone.tropical_cyclone_season
+600000000,'be bear in',702010000,people.person.place_of_birth
+600000000,'originate from',703120300,music.artist.origin
+600000000,'originate from',702010000,music.artist.origin
+702010000,'the birth place of',600000000,people.person.place_of_birth
+600000000,'be bear',703120300,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,die,703120300,people.deceased_person.place_of_death
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,write,203000000,book.author.works_written
+702010000,'be locate',700000000,location.hud_county_place.county
+502000000,own,700000000,business.shopping_center.owner
+702010000,be,203000000,book.book_subject.works
+702020000,'the nationality of',600000000,people.person.nationality
+221000000,'be film',702020000,film.film.country
+702010000,'be find',702020000,location.location.containedby
+300000000,'occur in',703120300,time.event.locations
+300000000,'occur in',702020000,time.event.locations
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'be bear',702010000,people.person.place_of_birth
+700000000,'another campus of',700000000,education.educational_institution.campuses
+700000000,'another campus of',503010000,education.educational_institution.campuses
+503010000,'another campus of',700000000,education.educational_institution.campuses
+503010000,'another campus of',503010000,education.educational_institution.campuses
+600000000,die,702010000,people.deceased_person.place_of_death
+600000000,'die in',702020000,people.deceased_person.place_of_death
+600000000,'the child of',600000000,people.person.children
+300000000,'tour occur',702010000,time.event.locations
+702010000,'be contain within',700000000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'father of',600000000,people.person.parents
+600000000,'do the film story credit',221000000,film.film_story_contributor.film_story_credits
+600000000,'a child of',600000000,people.person.children
+705000000,'the birth place of',600000000,people.person.place_of_birth
+702010000,'the birth place of',600000000,people.person.place_of_birth
+702020000,'the nationality of',600000000,people.person.nationality
+600000000,produce,221000000,film.film.produced_by
+600000000,produce,221000000,film.film.produced_by
+600000000,'be bear',702010000,people.person.place_of_birth
+700000000,be,702020000,location.location.containedby
+503010000,be,702020000,location.location.containedby
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',705000000,people.person.place_of_birth
+600000000,'record for',502000000,music.artist.label
+600000000,be,702020000,people.person.nationality
+600000000,'be bear',702010000,people.person.place_of_birth
+502000000,publish,235020000,cvg.computer_videogame.publisher
+600000000,produce,224000000,music.artist.track
+600000000,'the mother of',600000000,people.person.parents
+600000000,'mother of',600000000,people.person.parents
+600000000,produce,221000000,film.film.produced_by
+600000000,influence,600000000,influence.influence_node.influenced
+600000000,'be bear',702010000,people.person.place_of_birth
+600000000,'be bear',703080000,people.person.place_of_birth
+700000000,'the time zone of',704010600,location.location.time_zones
+704010600,'be locate in',702020000,location.location.containedby
+600000000,'be bear',703120300,people.person.place_of_birth
+600000000,'be bear',702000000,people.person.place_of_birth
+703010000,'operate in',702010000,aviation.airport.serves
+600000000,die,702010000,people.deceased_person.place_of_death
+509010000,'be name after',502000000,symbols.namesake.named_after

@@ -6,6 +6,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 
@@ -222,5 +223,24 @@ public class FileReader {
 		}
 		
 		return lineList.toArray(new String[0]);
+	}
+	
+	public static List<String> read(String inputFilePath) {
+		List<String> lines = new ArrayList<String>();
+
+		try (BufferedReader br = new BufferedReader(new java.io.FileReader(inputFilePath))) {
+
+			String sCurrentLine;
+
+			while ((sCurrentLine = br.readLine()) != null) {
+				lines.add(sCurrentLine);
+			}
+		}
+
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		return lines;
 	}
 }

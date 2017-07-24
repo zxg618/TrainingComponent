@@ -20,7 +20,16 @@ public class Main {
 		//this method is fot getting all types of FB file
 		//tcService.getAllTypesFromFBData();
 		
-		tcService.findWebqRelations();
+		//tcService.findWebqRelations();
+		
+		//tcService.getAnswerEntityIds();
+		
+		//tcService.testWekaClassifier();
+		
+		tcService.generateTrainingFile();
+		
+		//@TODO: decision tree
+		//tcService.testDecisionTree();
 		
 //		String str = "Padm\u00e9 Amidala";
 //		System.out.println("original string is " + str);
